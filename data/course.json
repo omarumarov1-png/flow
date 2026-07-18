@@ -1,0 +1,1368 @@
+{
+  "course": {
+    "title": "Английский для беглой речи",
+    "subtitle": "Тренажёр беглой английской речи для русскоговорящих",
+    "heroEyebrow": "ТРЕНИРОВКА БЕГЛОЙ РЕЧИ",
+    "heroLede": "Короткие, ёмкие тренировки на основе метода интенсивного повторения предложений — от первых фраз до свободной, естественной речи.",
+    "levels": [
+      {
+        "id": "a1",
+        "cefr": "A1",
+        "badge": "A1",
+        "label": "Первые шаги",
+        "lessons": [
+          {
+            "id": "a1-l1",
+            "number": 1,
+            "title": "Hello",
+            "titleNative": "Привет",
+            "description": "Greetings and introducing yourself",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Привет!",
+                "en": "Hi!"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Доброе утро.",
+                "en": "Good morning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Добрый вечер.",
+                "en": "Good evening."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как дела?",
+                "en": "How are you?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "У меня всё хорошо, спасибо.",
+                "en": "I'm fine, thank you."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Меня зовут Анна.",
+                "en": "My name is Anna."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как тебя зовут?",
+                "en": "What is your name?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Приятно познакомиться.",
+                "en": "Nice to meet you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Откуда ты?",
+                "en": "Where are you from?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я из России.",
+                "en": "I am from Russia."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я из Казахстана.",
+                "en": "I am from Kazakhstan."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сколько тебе лет?",
+                "en": "How old are you?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне двадцать пять лет.",
+                "en": "I am twenty-five years old."
+              },
+              {
+                "type": "word-bank",
+                "ru": "До свидания.",
+                "en": "Goodbye."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Увидимся завтра.",
+                "en": "See you tomorrow."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Спокойной ночи.",
+                "en": "Good night."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Извините.",
+                "en": "Excuse me."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Спасибо большое.",
+                "en": "Thank you very much."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пожалуйста.",
+                "en": "You're welcome."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не понимаю.",
+                "en": "I don't understand."
+              }
+            ]
+          },
+          {
+            "id": "a1-l2",
+            "number": 2,
+            "title": "To Be",
+            "titleNative": "Глагол to be",
+            "description": "I am, you are, he is",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я студент.",
+                "en": "I am a student."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты учитель.",
+                "en": "You are a teacher."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он врач.",
+                "en": "He is a doctor."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она инженер.",
+                "en": "She is an engineer."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы друзья.",
+                "en": "We are friends."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Они дома.",
+                "en": "They are at home."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это моя книга.",
+                "en": "This is my book."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это твой телефон.",
+                "en": "This is your phone."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я не голоден.",
+                "en": "I am not hungry."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ты не прав.",
+                "en": "You are not right."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он не здесь.",
+                "en": "He is not here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы не готовы.",
+                "en": "We are not ready."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты студент?",
+                "en": "Are you a student?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она дома?",
+                "en": "Is she at home?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Они счастливы?",
+                "en": "Are they happy?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я устал.",
+                "en": "I am tired."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Погода хорошая.",
+                "en": "The weather is nice."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сегодня холодно.",
+                "en": "It is cold today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это интересно.",
+                "en": "This is interesting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это трудно.",
+                "en": "This is difficult."
+              }
+            ]
+          },
+          {
+            "id": "a1-l3",
+            "number": 3,
+            "title": "Family",
+            "titleNative": "Семья",
+            "description": "Talking about your family",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Это моя семья.",
+                "en": "This is my family."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня есть брат.",
+                "en": "I have a brother."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня есть сестра.",
+                "en": "I have a sister."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой отец работает в банке.",
+                "en": "My father works at a bank."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Моя мать учитель.",
+                "en": "My mother is a teacher."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У них двое детей.",
+                "en": "They have two children."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой сын ходит в школу.",
+                "en": "My son goes to school."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Моя дочь любит читать.",
+                "en": "My daughter loves reading."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это мой муж.",
+                "en": "This is my husband."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это моя жена.",
+                "en": "This is my wife."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня нет братьев.",
+                "en": "I don't have any brothers."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мои родители живут в Алматы.",
+                "en": "My parents live in Almaty."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Моя бабушка очень добрая.",
+                "en": "My grandmother is very kind."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой дедушка старый, но сильный.",
+                "en": "My grandfather is old but strong."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У тебя большая семья?",
+                "en": "Do you have a big family?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сколько у тебя детей?",
+                "en": "How many children do you have?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой дядя живёт за границей.",
+                "en": "My uncle lives abroad."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Моя тётя приезжает завтра.",
+                "en": "My aunt is coming tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы часто встречаемся с родственниками.",
+                "en": "We often meet with relatives."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вся семья собралась за столом.",
+                "en": "The whole family gathered at the table."
+              }
+            ]
+          },
+          {
+            "id": "a1-l4",
+            "number": 4,
+            "title": "Numbers",
+            "titleNative": "Числа",
+            "description": "Counting and basic numbers",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Один, два, три.",
+                "en": "One, two, three."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня один брат.",
+                "en": "I have one brother."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У неё два кота.",
+                "en": "She has two cats."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В комнате три окна.",
+                "en": "There are three windows in the room."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужно пять минут.",
+                "en": "I need five minutes."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У нас десять студентов.",
+                "en": "We have ten students."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это стоит двадцать долларов.",
+                "en": "This costs twenty dollars."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ему тридцать лет.",
+                "en": "He is thirty years old."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В классе двадцать пять учеников.",
+                "en": "There are twenty-five students in the class."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я живу на пятом этаже.",
+                "en": "I live on the fifth floor."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Встреча начинается в семь часов.",
+                "en": "The meeting starts at seven o'clock."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня сто рублей.",
+                "en": "I have one hundred rubles."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Книга стоит тысячу тенге.",
+                "en": "The book costs one thousand tenge."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это первый урок.",
+                "en": "This is the first lesson."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она пришла второй.",
+                "en": "She came second."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сегодня десятое число.",
+                "en": "Today is the tenth."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня два номера телефона.",
+                "en": "I have two phone numbers."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дай мне, пожалуйста, три яблока.",
+                "en": "Give me three apples, please."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Здесь всего четыре стула.",
+                "en": "There are only four chairs here."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужно ещё немного времени.",
+                "en": "I need a bit more time."
+              }
+            ]
+          },
+          {
+            "id": "a1-l5",
+            "number": 5,
+            "title": "Daily Routine",
+            "titleNative": "Распорядок дня",
+            "description": "Everyday actions in simple present",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я встаю в семь утра.",
+                "en": "I get up at seven in the morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я чищу зубы.",
+                "en": "I brush my teeth."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я завтракаю дома.",
+                "en": "I have breakfast at home."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я иду на работу пешком.",
+                "en": "I walk to work."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она едет на работу на автобусе.",
+                "en": "She goes to work by bus."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он работает с девяти до пяти.",
+                "en": "He works from nine to five."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы обедаем в полдень.",
+                "en": "We have lunch at noon."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я возвращаюсь домой вечером.",
+                "en": "I come home in the evening."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она готовит ужин каждый день.",
+                "en": "She cooks dinner every day."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы ужинаем вместе.",
+                "en": "We have dinner together."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я смотрю телевизор перед сном.",
+                "en": "I watch TV before bed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он читает книгу каждый вечер.",
+                "en": "He reads a book every evening."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я ложусь спать в одиннадцать.",
+                "en": "I go to bed at eleven."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она принимает душ утром.",
+                "en": "She takes a shower in the morning."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы гуляем в парке по выходным.",
+                "en": "We walk in the park on weekends."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я проверяю почту каждое утро.",
+                "en": "I check my email every morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он занимается спортом три раза в неделю.",
+                "en": "He exercises three times a week."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дети играют после школы.",
+                "en": "The children play after school."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я убираю квартиру по субботам.",
+                "en": "I clean the apartment on Saturdays."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы ходим в магазин по средам.",
+                "en": "We go to the shop on Wednesdays."
+              }
+            ]
+          },
+          {
+            "id": "a1-l6",
+            "number": 6,
+            "title": "Food & Drink",
+            "titleNative": "Еда и напитки",
+            "description": "Ordering food and talking about meals",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я хочу пить.",
+                "en": "I am thirsty."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я хочу есть.",
+                "en": "I am hungry."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Можно мне кофе, пожалуйста?",
+                "en": "Can I have a coffee, please?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я люблю чай с сахаром.",
+                "en": "I like tea with sugar."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нравится этот суп.",
+                "en": "I like this soup."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он не ест мясо.",
+                "en": "He doesn't eat meat."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она пьёт воду каждый день.",
+                "en": "She drinks water every day."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дайте мне, пожалуйста, меню.",
+                "en": "Give me the menu, please."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что вы порекомендуете?",
+                "en": "What do you recommend?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Счёт, пожалуйста.",
+                "en": "The bill, please."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это очень вкусно.",
+                "en": "This is very tasty."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Слишком солёно для меня.",
+                "en": "It's too salty for me."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я готовлю завтрак каждое утро.",
+                "en": "I cook breakfast every morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В холодильнике есть молоко.",
+                "en": "There is milk in the fridge."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Хлеб свежий.",
+                "en": "The bread is fresh."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Фрукты очень полезны.",
+                "en": "Fruits are very healthy."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он заказал пиццу на ужин.",
+                "en": "He ordered pizza for dinner."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы редко едим фастфуд.",
+                "en": "We rarely eat fast food."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты хочешь ещё немного риса?",
+                "en": "Do you want some more rice?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не могу есть острое.",
+                "en": "I can't eat spicy food."
+              }
+            ]
+          },
+          {
+            "id": "a1-l7",
+            "number": 7,
+            "title": "Colors & Objects",
+            "titleNative": "Цвета и предметы",
+            "description": "Describing everyday things",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Моя машина красная.",
+                "en": "My car is red."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Небо голубое.",
+                "en": "The sky is blue."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня чёрная сумка.",
+                "en": "I have a black bag."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это белый дом.",
+                "en": "This is a white house."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Её платье зелёное.",
+                "en": "Her dress is green."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Стол коричневый.",
+                "en": "The table is brown."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это жёлтый карандаш.",
+                "en": "This is a yellow pencil."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится этот цвет.",
+                "en": "I like this color."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Где мои ключи?",
+                "en": "Where are my keys?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мой телефон на столе.",
+                "en": "My phone is on the table."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это твоя сумка?",
+                "en": "Is this your bag?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Стул стоит у окна.",
+                "en": "The chair is by the window."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Книга лежит на полке.",
+                "en": "The book is on the shelf."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня новый ноутбук.",
+                "en": "I have a new laptop."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эта ручка не пишет.",
+                "en": "This pen doesn't write."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мои очки сломаны.",
+                "en": "My glasses are broken."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Часы висят на стене.",
+                "en": "The clock is on the wall."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Зонт стоит у двери.",
+                "en": "The umbrella is by the door."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это красивая картина.",
+                "en": "This is a beautiful painting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужна новая сумка.",
+                "en": "I need a new bag."
+              }
+            ]
+          },
+          {
+            "id": "a1-l8",
+            "number": 8,
+            "title": "Weather & Time",
+            "titleNative": "Погода и время",
+            "description": "Talking about the weather and telling time",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Сегодня солнечно.",
+                "en": "It is sunny today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "На улице идёт дождь.",
+                "en": "It is raining outside."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Зимой очень холодно.",
+                "en": "It is very cold in winter."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Летом жарко.",
+                "en": "It is hot in summer."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Дует сильный ветер.",
+                "en": "There is a strong wind."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Небо ясное сегодня.",
+                "en": "The sky is clear today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Который час?",
+                "en": "What time is it?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сейчас три часа.",
+                "en": "It is three o'clock now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Уже поздно.",
+                "en": "It is already late."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ещё рано.",
+                "en": "It is still early."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Встреча в полдень.",
+                "en": "The meeting is at noon."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы приедем через час.",
+                "en": "We will arrive in an hour."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Магазин открывается в девять.",
+                "en": "The shop opens at nine."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он всегда опаздывает.",
+                "en": "He is always late."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я приду вовремя.",
+                "en": "I will come on time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Весна — моё любимое время года.",
+                "en": "Spring is my favorite season."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Осенью листья падают.",
+                "en": "In autumn the leaves fall."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Завтра будет снег.",
+                "en": "Tomorrow it will snow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возьми зонт, может пойти дождь.",
+                "en": "Take an umbrella, it might rain."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Сегодня прекрасный день.",
+                "en": "Today is a beautiful day."
+              }
+            ]
+          },
+          {
+            "id": "a1-l9",
+            "number": 9,
+            "title": "Simple Questions",
+            "titleNative": "Простые вопросы",
+            "description": "Asking basic questions",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Что это?",
+                "en": "What is this?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Кто это?",
+                "en": "Who is this?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Где ты живёшь?",
+                "en": "Where do you live?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Почему ты грустишь?",
+                "en": "Why are you sad?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Когда начинается урок?",
+                "en": "When does the class start?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как ты сюда добрался?",
+                "en": "How did you get here?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сколько это стоит?",
+                "en": "How much does this cost?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Куда ты идёшь?",
+                "en": "Where are you going?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Чей это телефон?",
+                "en": "Whose phone is this?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Какой сегодня день?",
+                "en": "What day is it today?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты говоришь по-английски?",
+                "en": "Do you speak English?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можешь мне помочь?",
+                "en": "Can you help me?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты знаешь его?",
+                "en": "Do you know him?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Есть у тебя время?",
+                "en": "Do you have time?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тебе нравится эта музыка?",
+                "en": "Do you like this music?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты хочешь пойти с нами?",
+                "en": "Do you want to come with us?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это далеко отсюда?",
+                "en": "Is it far from here?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У тебя есть ручка?",
+                "en": "Do you have a pen?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно войти?",
+                "en": "May I come in?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ты уверен?",
+                "en": "Are you sure?"
+              }
+            ]
+          },
+          {
+            "id": "a1-l10",
+            "number": 10,
+            "title": "Likes & Dislikes",
+            "titleNative": "Нравится и не нравится",
+            "description": "Expressing preferences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится читать.",
+                "en": "I like reading."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я люблю музыку.",
+                "en": "I love music."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне не нравится этот фильм.",
+                "en": "I don't like this movie."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он ненавидит ждать.",
+                "en": "He hates waiting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она предпочитает чай кофе.",
+                "en": "She prefers tea to coffee."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы любим путешествовать.",
+                "en": "We love traveling."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне нравится этот город.",
+                "en": "I like this city."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты любишь спорт?",
+                "en": "Do you like sports?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне больше нравится лето.",
+                "en": "I like summer better."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он не любит рано вставать.",
+                "en": "He doesn't like getting up early."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится готовить.",
+                "en": "I like cooking."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она обожает животных.",
+                "en": "She adores animals."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы не любим шум.",
+                "en": "We don't like noise."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне нравится эта песня.",
+                "en": "I like this song."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ему нравится его работа.",
+                "en": "He likes his job."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится гулять по вечерам.",
+                "en": "I like walking in the evenings."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она любит новые впечатления.",
+                "en": "She loves new experiences."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне не нравится этот вкус.",
+                "en": "I don't like this taste."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы предпочитаем тишину.",
+                "en": "We prefer silence."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тебе нравится эта идея?",
+                "en": "Do you like this idea?"
+              }
+            ]
+          },
+          {
+            "id": "a1-l11",
+            "number": 11,
+            "title": "Places in Town",
+            "titleNative": "Места в городе",
+            "description": "Talking about locations",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Магазин рядом с моим домом.",
+                "en": "The shop is near my house."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Больница находится в центре города.",
+                "en": "The hospital is in the city center."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Школа далеко отсюда.",
+                "en": "The school is far from here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Банк открыт до шести.",
+                "en": "The bank is open until six."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ресторан за углом.",
+                "en": "The restaurant is around the corner."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Библиотека закрыта по воскресеньям.",
+                "en": "The library is closed on Sundays."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Парк очень красивый весной.",
+                "en": "The park is very beautiful in spring."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Аэропорт находится далеко от центра.",
+                "en": "The airport is far from the center."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Вокзал рядом с гостиницей.",
+                "en": "The train station is near the hotel."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Кафе на первом этаже.",
+                "en": "The cafe is on the first floor."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Университет находится на этой улице.",
+                "en": "The university is on this street."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Аптека работает круглосуточно.",
+                "en": "The pharmacy is open twenty-four hours."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как добраться до музея?",
+                "en": "How do I get to the museum?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Театр напротив парка.",
+                "en": "The theater is across from the park."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Церковь очень старая.",
+                "en": "The church is very old."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Рынок открывается рано утром.",
+                "en": "The market opens early in the morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой офис на десятом этаже.",
+                "en": "My office is on the tenth floor."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Спортзал находится рядом с домом.",
+                "en": "The gym is near my house."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Кинотеатр в новом торговом центре.",
+                "en": "The cinema is in the new shopping mall."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Отель прямо на берегу моря.",
+                "en": "The hotel is right on the seashore."
+              }
+            ]
+          },
+          {
+            "id": "a1-l12",
+            "number": 12,
+            "title": "Review & Small Talk",
+            "titleNative": "Повторение и разговор",
+            "description": "Mixed review of A1 patterns",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Приятно было познакомиться.",
+                "en": "It was nice meeting you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как прошёл твой день?",
+                "en": "How was your day?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня был отличный день.",
+                "en": "I had a great day."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что нового?",
+                "en": "What's new?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ничего особенного.",
+                "en": "Nothing much."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давай встретимся завтра.",
+                "en": "Let's meet tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне пора идти.",
+                "en": "I have to go now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Позвони мне позже.",
+                "en": "Call me later."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хорошего дня!",
+                "en": "Have a nice day!"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Удачи тебе!",
+                "en": "Good luck!"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Береги себя.",
+                "en": "Take care."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Передавай привет своей семье.",
+                "en": "Say hi to your family."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я по тебе скучал.",
+                "en": "I missed you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Давно не виделись.",
+                "en": "Long time no see."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ты хорошо выглядишь.",
+                "en": "You look great."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что ты делаешь на выходных?",
+                "en": "What are you doing this weekend?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ничего не планировал пока.",
+                "en": "I haven't planned anything yet."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Хочешь чашку кофе?",
+                "en": "Would you like a cup of coffee?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "С удовольствием.",
+                "en": "I would love to."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Спасибо, что пришёл.",
+                "en": "Thank you for coming."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a2",
+        "cefr": "A2",
+        "badge": "A2",
+        "label": "Уверенный старт",
+        "lessons": []
+      },
+      {
+        "id": "b1",
+        "cefr": "B1",
+        "badge": "B1",
+        "label": "Разговорная беглость",
+        "lessons": []
+      },
+      {
+        "id": "b1plus",
+        "cefr": "B1+",
+        "badge": "B1+",
+        "label": "Свободнее и увереннее",
+        "lessons": []
+      },
+      {
+        "id": "b2",
+        "cefr": "B2",
+        "badge": "B2",
+        "label": "Свободное общение",
+        "lessons": []
+      },
+      {
+        "id": "b2plus",
+        "cefr": "B2+",
+        "badge": "B2+",
+        "label": "Гибкость и нюансы",
+        "lessons": []
+      },
+      {
+        "id": "c1",
+        "cefr": "C1",
+        "badge": "C1",
+        "label": "Профессиональный уровень",
+        "lessons": []
+      }
+    ]
+  }
+}
