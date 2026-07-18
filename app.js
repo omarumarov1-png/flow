@@ -71,6 +71,7 @@
     if (soundMuted) return;
     try {
       const ctx = beep._ctx || (beep._ctx = new (window.AudioContext || window.webkitAudioContext)());
+      if (ctx.state === "suspended") ctx.resume();
       const osc = ctx.createOscillator();
       const gain = ctx.createGain();
       osc.frequency.value = freq;
@@ -84,6 +85,16 @@
   }
   function playCorrectSound() { beep(880, 0.15); }
   function playIncorrectSound() { beep(220, 0.25); }
+  // Mobile browsers suspend AudioContext until a genuine user gesture
+  // unlocks it; warm it up on the very first tap anywhere on the page so
+  // the first real beep (an answer tap) isn't the one that gets dropped.
+  function warmAudio() {
+    try {
+      const ctx = beep._ctx || (beep._ctx = new (window.AudioContext || window.webkitAudioContext)());
+      if (ctx.state === "suspended") ctx.resume();
+    } catch (e) { /* audio unavailable */ }
+  }
+  document.addEventListener("pointerdown", warmAudio, { once: true, passive: true });
 
   // Browser-native text-to-speech (Web Speech Synthesis API) — free, no API
   // key, no per-sentence audio files, works for the entire sentence bank
