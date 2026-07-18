@@ -1326,7 +1326,1316 @@
         "cefr": "A2",
         "badge": "A2",
         "label": "Уверенный старт",
-        "lessons": []
+        "lessons": [
+          {
+            "id": "a2-l1",
+            "number": 13,
+            "title": "Past Simple",
+            "titleNative": "Прошедшее время",
+            "description": "Talking about yesterday and last week",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Вчера я работал допоздна.",
+                "en": "Yesterday I worked late."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она позвонила мне утром.",
+                "en": "She called me in the morning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы посмотрели хороший фильм.",
+                "en": "We watched a good movie."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он купил новую машину.",
+                "en": "He bought a new car."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не спал всю ночь.",
+                "en": "I didn't sleep all night."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты видел эту статью?",
+                "en": "Did you see this article?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Они уехали в субботу.",
+                "en": "They left on Saturday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы встретились в кафе.",
+                "en": "We met at a cafe."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я забыл его номер телефона.",
+                "en": "I forgot his phone number."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она написала мне письмо.",
+                "en": "She wrote me a letter."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы опоздали на поезд.",
+                "en": "We missed the train."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он сломал ногу в прошлом месяце.",
+                "en": "He broke his leg last month."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я потерял ключи вчера.",
+                "en": "I lost my keys yesterday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она была очень занята на прошлой неделе.",
+                "en": "She was very busy last week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы жили в Москве три года.",
+                "en": "We lived in Moscow for three years."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он не сказал мне правду.",
+                "en": "He didn't tell me the truth."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я закончил университет в 2018 году.",
+                "en": "I graduated from university in 2018."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Они построили этот дом давно.",
+                "en": "They built this house a long time ago."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты когда-нибудь был в Лондоне?",
+                "en": "Have you ever been to London?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я никогда не пробовал суши.",
+                "en": "I have never tried sushi."
+              }
+            ]
+          },
+          {
+            "id": "a2-l2",
+            "number": 14,
+            "title": "Future Plans",
+            "titleNative": "Планы на будущее",
+            "description": "Will and going to",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я позвоню тебе завтра.",
+                "en": "I will call you tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы собираемся переехать в другой город.",
+                "en": "We are going to move to another city."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она поступит в университет в этом году.",
+                "en": "She is going to enter university this year."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Думаю, завтра будет дождь.",
+                "en": "I think it will rain tomorrow."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы поженимся в июне.",
+                "en": "We are getting married in June."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я обещаю, что помогу тебе.",
+                "en": "I promise I will help you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что ты будешь делать на выходных?",
+                "en": "What are you going to do this weekend?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я собираюсь начать новую работу.",
+                "en": "I am going to start a new job."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Они переедут в новую квартиру в июле.",
+                "en": "They will move into a new apartment in July."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы не будем опаздывать в следующий раз.",
+                "en": "We won't be late next time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я думаю, он согласится.",
+                "en": "I think he will agree."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Через год я буду говорить свободно.",
+                "en": "In a year I will speak fluently."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она собирается изучать медицину.",
+                "en": "She is going to study medicine."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы встретимся в семь вечера.",
+                "en": "We will meet at seven in the evening."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не уверен, что успею.",
+                "en": "I'm not sure I will make it in time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Скоро всё изменится.",
+                "en": "Everything will change soon."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компания планирует открыть новый офис.",
+                "en": "The company is planning to open a new office."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я больше не буду опаздывать.",
+                "en": "I won't be late anymore."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы обязательно вернёмся сюда.",
+                "en": "We will definitely come back here."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она точно поможет тебе с этим.",
+                "en": "She will definitely help you with this."
+              }
+            ]
+          },
+          {
+            "id": "a2-l3",
+            "number": 15,
+            "title": "Can, Must, Should",
+            "titleNative": "Модальные глаголы",
+            "description": "Ability, obligation, and advice",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я могу говорить по-английски.",
+                "en": "I can speak English."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты должен сдать отчёт сегодня.",
+                "en": "You must submit the report today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тебе следует больше отдыхать.",
+                "en": "You should rest more."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы не можем опаздывать на встречу.",
+                "en": "We can't be late for the meeting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она умеет играть на пианино.",
+                "en": "She can play the piano."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вам нужно записаться заранее.",
+                "en": "You need to book in advance."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне пришлось работать в субботу.",
+                "en": "I had to work on Saturday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты не обязан отвечать сейчас.",
+                "en": "You don't have to answer now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы должны быть осторожны.",
+                "en": "We must be careful."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тебе не стоит так волноваться.",
+                "en": "You shouldn't worry so much."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я не могу найти свой паспорт.",
+                "en": "I can't find my passport."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно мне задать вопрос?",
+                "en": "May I ask a question?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ему пришлось отменить поездку.",
+                "en": "He had to cancel his trip."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты можешь мне доверять.",
+                "en": "You can trust me."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Нам нужно поговорить об этом.",
+                "en": "We need to talk about this."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тебе лучше проверить ещё раз.",
+                "en": "You'd better check again."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я должен был предупредить тебя раньше.",
+                "en": "I should have warned you earlier."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она могла бы стать отличным врачом.",
+                "en": "She could become a great doctor."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Разрешите мне объяснить ситуацию.",
+                "en": "Allow me to explain the situation."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вы обязаны соблюдать правила.",
+                "en": "You are required to follow the rules."
+              }
+            ]
+          },
+          {
+            "id": "a2-l4",
+            "number": 16,
+            "title": "Comparisons",
+            "titleNative": "Сравнения",
+            "description": "Comparative and superlative forms",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Этот дом больше того.",
+                "en": "This house is bigger than that one."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она умнее своего брата.",
+                "en": "She is smarter than her brother."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сегодня холоднее, чем вчера.",
+                "en": "It's colder today than yesterday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это самый вкусный торт, который я пробовал.",
+                "en": "This is the tastiest cake I've ever tried."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он самый высокий в классе.",
+                "en": "He is the tallest in the class."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта задача сложнее, чем кажется.",
+                "en": "This task is more difficult than it seems."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой брат моложе меня на два года.",
+                "en": "My brother is two years younger than me."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это лучшее решение из возможных.",
+                "en": "This is the best solution possible."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Автобус медленнее поезда.",
+                "en": "The bus is slower than the train."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она работает усерднее всех.",
+                "en": "She works harder than everyone."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это самый дорогой ресторан в городе.",
+                "en": "This is the most expensive restaurant in the city."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Моя новая квартира удобнее старой.",
+                "en": "My new apartment is more comfortable than the old one."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он говорит по-английски лучше меня.",
+                "en": "He speaks English better than me."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это был худший день в моей жизни.",
+                "en": "It was the worst day of my life."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Чем больше я практикуюсь, тем увереннее себя чувствую.",
+                "en": "The more I practice, the more confident I feel."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта модель менее популярна, чем предыдущая.",
+                "en": "This model is less popular than the previous one."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У неё самый красивый почерк, который я видел.",
+                "en": "She has the most beautiful handwriting I've seen."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Погода становится теплее с каждым днём.",
+                "en": "The weather is getting warmer every day."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он самый опытный сотрудник в компании.",
+                "en": "He is the most experienced employee in the company."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это гораздо проще, чем я думал.",
+                "en": "This is much easier than I thought."
+              }
+            ]
+          },
+          {
+            "id": "a2-l5",
+            "number": 17,
+            "title": "Travel",
+            "titleNative": "Путешествия",
+            "description": "Getting around and asking for directions",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как добраться до аэропорта?",
+                "en": "How do I get to the airport?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Где ближайшая станция метро?",
+                "en": "Where is the nearest metro station?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужно забронировать номер в отеле.",
+                "en": "I need to book a hotel room."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Наш рейс задерживается на два часа.",
+                "en": "Our flight is delayed by two hours."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Где здесь можно обменять валюту?",
+                "en": "Where can I exchange currency here?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня есть только ручная кладь.",
+                "en": "I only have carry-on luggage."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Поверните налево на следующем перекрёстке.",
+                "en": "Turn left at the next intersection."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Идите прямо, потом направо.",
+                "en": "Go straight, then turn right."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сколько стоит билет в одну сторону?",
+                "en": "How much is a one-way ticket?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы потерялись в незнакомом городе.",
+                "en": "We got lost in an unfamiliar city."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Виза оформляется около недели.",
+                "en": "The visa takes about a week to process."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой багаж не прибыл вместе со мной.",
+                "en": "My luggage didn't arrive with me."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы забронировали столик на восемь вечера.",
+                "en": "We booked a table for eight in the evening."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Такси будет ждать нас у входа.",
+                "en": "The taxi will be waiting for us at the entrance."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Экскурсия начинается в десять утра.",
+                "en": "The tour starts at ten in the morning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не забудь взять с собой зарядное устройство.",
+                "en": "Don't forget to take your charger with you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы решили путешествовать налегке.",
+                "en": "We decided to travel light."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Гид отлично знал историю города.",
+                "en": "The guide knew the city's history very well."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Отсюда открывается прекрасный вид на море.",
+                "en": "There is a beautiful view of the sea from here."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы едва успели на пересадку.",
+                "en": "We barely made our connecting flight."
+              }
+            ]
+          },
+          {
+            "id": "a2-l6",
+            "number": 18,
+            "title": "Health",
+            "titleNative": "Здоровье",
+            "description": "Talking about how you feel",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "У меня болит голова.",
+                "en": "I have a headache."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне нужно записаться к врачу.",
+                "en": "I need to make a doctor's appointment."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У неё высокая температура.",
+                "en": "She has a high fever."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я плохо себя чувствую сегодня.",
+                "en": "I don't feel well today."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он сломал руку во время футбола.",
+                "en": "He broke his arm playing football."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Врач прописал мне лекарство.",
+                "en": "The doctor prescribed me medicine."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня аллергия на орехи.",
+                "en": "I am allergic to nuts."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тебе нужно больше пить воды.",
+                "en": "You need to drink more water."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я стараюсь регулярно заниматься спортом.",
+                "en": "I try to exercise regularly."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У него болит горло и кашель.",
+                "en": "He has a sore throat and a cough."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужно провериться у стоматолога.",
+                "en": "I need to get checked by a dentist."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она быстро выздоравливает после операции.",
+                "en": "She is recovering quickly after the surgery."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я принимаю витамины каждое утро.",
+                "en": "I take vitamins every morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Врач посоветовал мне больше спать.",
+                "en": "The doctor advised me to sleep more."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У меня растяжение лодыжки.",
+                "en": "I have a sprained ankle."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она чувствует себя намного лучше сейчас.",
+                "en": "She feels much better now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я стараюсь избегать стресса.",
+                "en": "I try to avoid stress."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У них закончилось лекарство в аптеке.",
+                "en": "The pharmacy ran out of the medicine."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне нужен отдых после этой недели.",
+                "en": "I need some rest after this week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Здоровое питание очень важно.",
+                "en": "Healthy eating is very important."
+              }
+            ]
+          },
+          {
+            "id": "a2-l7",
+            "number": 19,
+            "title": "Shopping",
+            "titleNative": "Покупки",
+            "description": "Buying things and comparing prices",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Сколько это стоит?",
+                "en": "How much does this cost?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "У вас есть это в другом размере?",
+                "en": "Do you have this in another size?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Можно примерить эту куртку?",
+                "en": "Can I try on this jacket?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это слишком дорого для меня.",
+                "en": "This is too expensive for me."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У вас сейчас есть скидки?",
+                "en": "Do you have any discounts right now?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я хочу вернуть этот товар.",
+                "en": "I want to return this item."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У вас принимают карты?",
+                "en": "Do you accept cards?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужен чек, пожалуйста.",
+                "en": "I need a receipt, please."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Этот цвет мне не подходит.",
+                "en": "This color doesn't suit me."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Магазин закрывается через час.",
+                "en": "The store closes in an hour."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я обычно покупаю продукты онлайн.",
+                "en": "I usually buy groceries online."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Эта пара обуви очень удобная.",
+                "en": "This pair of shoes is very comfortable."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Могу я расплатиться наличными?",
+                "en": "Can I pay in cash?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "У них отличный выбор одежды.",
+                "en": "They have a great selection of clothes."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я жду распродажу, чтобы купить пальто.",
+                "en": "I'm waiting for a sale to buy a coat."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта сумка стоит своих денег.",
+                "en": "This bag is worth the money."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Доставка займёт три дня.",
+                "en": "Delivery will take three days."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я забыл список покупок дома.",
+                "en": "I forgot the shopping list at home."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У кассы образовалась очередь.",
+                "en": "A line formed at the checkout."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Могу я обменять это на другой размер?",
+                "en": "Can I exchange this for a different size?"
+              }
+            ]
+          },
+          {
+            "id": "a2-l8",
+            "number": 20,
+            "title": "Work",
+            "titleNative": "Работа",
+            "description": "Jobs and the workplace",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Кем ты работаешь?",
+                "en": "What do you do for a living?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я работаю бухгалтером в крупной компании.",
+                "en": "I work as an accountant at a large company."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня встреча в десять утра.",
+                "en": "I have a meeting at ten in the morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мой начальник очень требовательный.",
+                "en": "My boss is very demanding."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы работаем удалённо два дня в неделю.",
+                "en": "We work remotely two days a week."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она получила повышение в прошлом месяце.",
+                "en": "She got a promotion last month."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне нужно закончить проект к пятнице.",
+                "en": "I need to finish the project by Friday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я подал заявление на новую должность.",
+                "en": "I applied for a new position."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Собеседование прошло довольно хорошо.",
+                "en": "The interview went pretty well."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У нас гибкий график работы.",
+                "en": "We have a flexible work schedule."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Коллеги очень помогают друг другу.",
+                "en": "Colleagues help each other a lot."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я беру отпуск на следующей неделе.",
+                "en": "I'm taking a vacation next week."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Зарплату повысили в этом году.",
+                "en": "The salary was raised this year."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он уволился из этой компании.",
+                "en": "He quit this company."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У нас важная презентация завтра.",
+                "en": "We have an important presentation tomorrow."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Работа отнимает много времени.",
+                "en": "Work takes up a lot of time."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я ищу работу поближе к дому.",
+                "en": "I'm looking for a job closer to home."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Совещание затянулось на два часа.",
+                "en": "The meeting dragged on for two hours."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне нравится моя команда.",
+                "en": "I like my team."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Крайний срок перенесли на понедельник.",
+                "en": "The deadline was moved to Monday."
+              }
+            ]
+          },
+          {
+            "id": "a2-l9",
+            "number": 21,
+            "title": "Hobbies",
+            "titleNative": "Хобби",
+            "description": "Free time and interests",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Чем ты любишь заниматься в свободное время?",
+                "en": "What do you like to do in your free time?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я увлекаюсь фотографией.",
+                "en": "I'm into photography."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "По выходным я хожу в спортзал.",
+                "en": "On weekends I go to the gym."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она играет в теннис каждую неделю.",
+                "en": "She plays tennis every week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы любим ходить в походы летом.",
+                "en": "We love going hiking in summer."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я коллекционирую старые монеты.",
+                "en": "I collect old coins."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он учится играть на гитаре.",
+                "en": "He is learning to play the guitar."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится готовить новые блюда.",
+                "en": "I enjoy cooking new dishes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она рисует акварелью по вечерам.",
+                "en": "She paints with watercolors in the evenings."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы часто ходим на рыбалку с отцом.",
+                "en": "We often go fishing with dad."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я стараюсь читать хотя бы одну книгу в месяц.",
+                "en": "I try to read at least one book a month."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он занимается садоводством по выходным.",
+                "en": "He does gardening on weekends."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится смотреть документальные фильмы.",
+                "en": "I like watching documentaries."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она берёт уроки танцев по вторникам.",
+                "en": "She takes dance lessons on Tuesdays."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы любим играть в настольные игры вечером.",
+                "en": "We love playing board games in the evening."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я недавно начал заниматься йогой.",
+                "en": "I recently started practicing yoga."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он увлекается программированием на досуге.",
+                "en": "He's into coding in his spare time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится вязать зимними вечерами.",
+                "en": "I like knitting on winter evenings."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы вместе занимаемся плаванием.",
+                "en": "We swim together."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она пишет короткие рассказы для себя.",
+                "en": "She writes short stories for herself."
+              }
+            ]
+          },
+          {
+            "id": "a2-l10",
+            "number": 22,
+            "title": "Describing People",
+            "titleNative": "Описание людей",
+            "description": "Appearance and personality",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Он высокий и худощавый.",
+                "en": "He is tall and slim."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У неё длинные тёмные волосы.",
+                "en": "She has long dark hair."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мой друг очень дружелюбный человек.",
+                "en": "My friend is a very friendly person."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она всегда честна со мной.",
+                "en": "She is always honest with me."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он немного застенчивый в начале.",
+                "en": "He is a bit shy at first."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У него добрые глаза.",
+                "en": "He has kind eyes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она очень терпеливая с детьми.",
+                "en": "She is very patient with children."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мой брат довольно упрямый.",
+                "en": "My brother is quite stubborn."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она носит очки и улыбается очень часто.",
+                "en": "She wears glasses and smiles very often."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он выглядит моложе своего возраста.",
+                "en": "He looks younger than his age."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она очень ответственная на работе.",
+                "en": "She is very responsible at work."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У него громкий, уверенный голос.",
+                "en": "He has a loud, confident voice."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она немного похожа на свою мать.",
+                "en": "She looks a bit like her mother."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он всегда готов помочь другим.",
+                "en": "He is always ready to help others."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У неё отличное чувство юмора.",
+                "en": "She has a great sense of humor."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он среднего роста и крепкого телосложения.",
+                "en": "He is of average height and sturdy build."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она очень организованный человек.",
+                "en": "She is a very organized person."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он бывает вспыльчивым иногда.",
+                "en": "He can be hot-tempered sometimes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У неё мягкий и спокойный характер.",
+                "en": "She has a gentle and calm character."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он выглядит уставшим сегодня.",
+                "en": "He looks tired today."
+              }
+            ]
+          },
+          {
+            "id": "a2-l11",
+            "number": 23,
+            "title": "Phone Calls",
+            "titleNative": "Телефонные звонки",
+            "description": "Making and answering calls",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Алло, кто говорит?",
+                "en": "Hello, who's calling?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно попросить Анну к телефону?",
+                "en": "Can I speak to Anna, please?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Извините, я вас плохо слышу.",
+                "en": "Sorry, I can't hear you well."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не могли бы вы говорить медленнее?",
+                "en": "Could you speak more slowly?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я перезвоню тебе через час.",
+                "en": "I'll call you back in an hour."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Линия занята, попробуйте позже.",
+                "en": "The line is busy, try again later."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Оставьте сообщение после сигнала.",
+                "en": "Leave a message after the beep."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Извините, я неправильно набрал номер.",
+                "en": "Sorry, I dialed the wrong number."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня разрядился телефон.",
+                "en": "My phone battery died."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он не отвечает на звонки весь день.",
+                "en": "He hasn't answered calls all day."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давай продолжим разговор по видеосвязи.",
+                "en": "Let's continue the conversation on video call."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Связь очень плохая сегодня.",
+                "en": "The connection is very bad today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я отправлю тебе сообщение с деталями.",
+                "en": "I'll send you a message with the details."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она пропустила три звонка утром.",
+                "en": "She missed three calls in the morning."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Подожди секунду, мне звонят по другой линии.",
+                "en": "Hold on a second, I have another call."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Спасибо, что перезвонили так быстро.",
+                "en": "Thanks for calling back so quickly."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я забыл зарядить телефон вчера.",
+                "en": "I forgot to charge my phone yesterday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы договорились созвониться завтра утром.",
+                "en": "We agreed to call each other tomorrow morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он говорит очень тихо по телефону.",
+                "en": "He speaks very quietly on the phone."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Повторите, пожалуйста, ваш номер телефона.",
+                "en": "Please repeat your phone number."
+              }
+            ]
+          },
+          {
+            "id": "a2-l12",
+            "number": 24,
+            "title": "Opinions",
+            "titleNative": "Мнения",
+            "description": "Agreeing, disagreeing, giving opinions",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я думаю, это отличная идея.",
+                "en": "I think this is a great idea."
+              },
+              {
+                "type": "word-bank",
+                "ru": "На мой взгляд, он прав.",
+                "en": "In my opinion, he is right."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я не согласен с этим утверждением.",
+                "en": "I disagree with this statement."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Полностью с тобой согласен.",
+                "en": "I completely agree with you."
+              },
+              {
+                "type": "type-answer",
+                "ru": "По-моему, это не самый лучший вариант.",
+                "en": "I don't think this is the best option."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне кажется, тут есть другая точка зрения.",
+                "en": "I think there's another point of view here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Честно говоря, я в этом не уверен.",
+                "en": "Honestly, I'm not sure about this."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я считаю, что нужно попробовать ещё раз.",
+                "en": "I believe we should try again."
+              },
+              {
+                "type": "word-bank",
+                "ru": "С одной стороны, это удобно, с другой — дорого.",
+                "en": "On the one hand it's convenient, on the other it's expensive."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я вижу это немного иначе.",
+                "en": "I see it a bit differently."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты, наверное, прав насчёт этого.",
+                "en": "You're probably right about this."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне трудно с этим согласиться.",
+                "en": "It's hard for me to agree with this."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я думаю, стоит рассмотреть другие варианты.",
+                "en": "I think we should consider other options."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В целом, я поддерживаю это решение.",
+                "en": "Overall, I support this decision."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне всё равно, какой вариант мы выберем.",
+                "en": "I don't mind which option we choose."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я изменил своё мнение после разговора с ней.",
+                "en": "I changed my mind after talking to her."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это спорный вопрос, у всех разные мнения.",
+                "en": "It's a controversial issue, everyone has different opinions."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы хотел услышать твоё мнение об этом.",
+                "en": "I would like to hear your opinion on this."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы должны уважать мнения друг друга.",
+                "en": "We should respect each other's opinions."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В конце концов, решение осталось за ней.",
+                "en": "In the end, the decision was hers."
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "b1",
