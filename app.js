@@ -128,16 +128,29 @@
     refreshVoices();
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
+  const SPEECH_RATE = 0.85;
   function speak(text) {
     if (soundMuted || !("speechSynthesis" in window)) return;
     try {
       window.speechSynthesis.cancel();
       const u = new SpeechSynthesisUtterance(text);
       u.lang = "en-US";
-      u.rate = 0.92;
+      u.rate = SPEECH_RATE;
       if (_preferredVoice) u.voice = _preferredVoice;
       window.speechSynthesis.speak(u);
     } catch (e) { /* TTS unavailable */ }
+  }
+  // Keep the auto-advance timer from cutting off the spoken answer — estimate
+  // how long the TTS will take (~2.3 words/sec at rate 1.0, scaled by our
+  // slower rate) and never advance sooner than that, plus a trailing pause.
+  function speechDurationMs(text) {
+    if (!text) return 0;
+    const words = text.trim().split(/\s+/).filter(Boolean).length;
+    return (words / (2.3 * SPEECH_RATE)) * 1000 + 1000;
+  }
+  function answerAdvanceDelay(correct, text) {
+    const base = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
+    return Math.max(base, speechDurationMs(text));
   }
 
   // ---------- persistence ----------
@@ -378,7 +391,7 @@
         btn.classList.add(correct ? "correct" : "incorrect");
         if (!correct) document.querySelector(`#options .option[data-i="${answerIndex}"]`).classList.add("correct");
         afterAnswer(correct, ex);
-        const delay = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
+        const delay = answerAdvanceDelay(correct, ex.en);
         screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.en));
         wireFeedbackReplay(ex.en);
         scheduleAdvance(delay);
@@ -411,7 +424,7 @@
       targetEl.querySelectorAll(".bank-tile").forEach(b => b.disabled = true);
       const correct = placed.length === tgtTokens.length && placed.every((w, i) => w === tgtTokens[i]);
       afterAnswer(correct, ex);
-      const delay = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
+      const delay = answerAdvanceDelay(correct, ex.en);
       screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, tgtTokens.join(" ")));
       wireFeedbackReplay(ex.en);
       scheduleAdvance(delay);
@@ -476,7 +489,7 @@
       submitBtn.disabled = true;
       input.classList.add(correct ? "correct" : "incorrect");
       afterAnswer(correct, ex);
-      const delay = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
+      const delay = answerAdvanceDelay(correct, ex.en);
       screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.en));
       wireFeedbackReplay(ex.en);
       scheduleAdvance(delay);
