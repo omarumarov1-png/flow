@@ -2642,7 +2642,662 @@
         "cefr": "B1",
         "badge": "B1",
         "label": "Разговорная беглость",
-        "lessons": []
+        "lessons": [
+          {
+            "id": "b1-l1",
+            "number": 25,
+            "title": "Present Perfect",
+            "titleNative": "Настоящее совершенное",
+            "description": "Experiences and recent events",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я уже закончил эту работу.",
+                "en": "I have already finished this work."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она никогда не была в Японии.",
+                "en": "She has never been to Japan."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы только что вернулись домой.",
+                "en": "We have just come home."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты когда-нибудь пробовал устрицы?",
+                "en": "Have you ever tried oysters?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я потерял свой кошелёк где-то в городе.",
+                "en": "I have lost my wallet somewhere in the city."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Они уже приняли решение.",
+                "en": "They have already made a decision."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она прожила здесь всю свою жизнь.",
+                "en": "She has lived here her whole life."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы ещё не получили ответ.",
+                "en": "We haven't received a response yet."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я недавно начал изучать испанский.",
+                "en": "I have recently started learning Spanish."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он много раз читал эту книгу.",
+                "en": "He has read this book many times."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Цены выросли за последний год.",
+                "en": "Prices have risen over the past year."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она всегда хотела стать врачом.",
+                "en": "She has always wanted to become a doctor."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы не разговаривали уже несколько месяцев.",
+                "en": "We haven't talked in several months."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компания недавно наняла новых сотрудников.",
+                "en": "The company has recently hired new employees."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я так и не получил ответа от него.",
+                "en": "I still haven't gotten an answer from him."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она значительно улучшила свой английский.",
+                "en": "She has greatly improved her English."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Они переехали в новый дом на прошлой неделе.",
+                "en": "They moved into a new house last week."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мир сильно изменился за последние годы.",
+                "en": "The world has changed a lot in recent years."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я никогда раньше не видел такого заката.",
+                "en": "I have never seen such a sunset before."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы завершили проект раньше срока.",
+                "en": "We have completed the project ahead of schedule."
+              }
+            ]
+          },
+          {
+            "id": "b1-l2",
+            "number": 26,
+            "title": "First Conditional",
+            "titleNative": "Первое условное",
+            "description": "Real future possibilities",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если завтра будет солнечно, мы пойдём на пляж.",
+                "en": "If it's sunny tomorrow, we will go to the beach."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если ты поторопишься, мы успеем на автобус.",
+                "en": "If you hurry, we will catch the bus."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если я закончу работу вовремя, я позвоню тебе.",
+                "en": "If I finish work on time, I'll call you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если он не извинится, я не буду с ним разговаривать.",
+                "en": "If he doesn't apologize, I won't talk to him."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если цены вырастут, мы пересмотрим бюджет.",
+                "en": "If prices go up, we will revise the budget."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если ты не поспишь, ты будешь уставшим завтра.",
+                "en": "If you don't sleep, you will be tired tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если она согласится, мы начнём проект в понедельник.",
+                "en": "If she agrees, we will start the project on Monday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если пойдёт дождь, мероприятие отменят.",
+                "en": "If it rains, the event will be cancelled."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если ты попросишь вежливо, он поможет тебе.",
+                "en": "If you ask politely, he will help you."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы опоздаем, если не выйдем сейчас.",
+                "en": "We will be late if we don't leave now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если я найду время, я обязательно приду.",
+                "en": "If I find the time, I will definitely come."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если компания не изменится, она потеряет клиентов.",
+                "en": "If the company doesn't change, it will lose customers."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если ты будешь усердно заниматься, ты сдашь экзамен.",
+                "en": "If you study hard, you will pass the exam."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы не сможем закончить, если не получим помощь.",
+                "en": "We won't be able to finish if we don't get help."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если ты не против, я приду немного раньше.",
+                "en": "If you don't mind, I'll come a bit earlier."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если возникнут проблемы, дай мне знать.",
+                "en": "If any problems come up, let me know."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она расстроится, если ты забудешь про её день рождения.",
+                "en": "She will be upset if you forget her birthday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если мы объединим усилия, у нас получится.",
+                "en": "If we join forces, we will succeed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если билеты закончатся, мы пойдём в другой раз.",
+                "en": "If the tickets run out, we will go another time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Что ты будешь делать, если он откажется?",
+                "en": "What will you do if he refuses?"
+              }
+            ]
+          },
+          {
+            "id": "b1-l3",
+            "number": 27,
+            "title": "Second Conditional",
+            "titleNative": "Второе условное",
+            "description": "Hypothetical and unreal situations",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы у меня было больше денег, я бы путешествовал чаще.",
+                "en": "If I had more money, I would travel more often."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я был на твоём месте, я бы согласился.",
+                "en": "If I were in your place, I would agree."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что бы ты сделал, если бы выиграл в лотерею?",
+                "en": "What would you do if you won the lottery?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы она знала правду, она бы очень расстроилась.",
+                "en": "If she knew the truth, she would be very upset."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я бы помог тебе, если бы у меня было время.",
+                "en": "I would help you if I had the time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы мы жили ближе, мы бы виделись чаще.",
+                "en": "If we lived closer, we would see each other more often."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы у него была возможность, он бы уехал за границу.",
+                "en": "If he had the chance, he would move abroad."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы не стал так поступать на твоём месте.",
+                "en": "I wouldn't act like that in your place."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я говорил свободно по-английски, я бы сменил работу.",
+                "en": "If I spoke English fluently, I would change jobs."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Что бы вы изменили, если бы могли начать сначала?",
+                "en": "What would you change if you could start over?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы город был безопаснее, больше людей гуляло бы ночью.",
+                "en": "If the city were safer, more people would walk at night."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она бы простила его, если бы он действительно раскаялся.",
+                "en": "She would forgive him if he truly regretted it."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы у нас было больше времени, мы бы всё успели.",
+                "en": "If we had more time, we would manage everything."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я бы не переживал так сильно на твоём месте.",
+                "en": "I wouldn't worry so much in your place."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы правила были проще, людям было бы легче.",
+                "en": "If the rules were simpler, it would be easier for people."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я мог выбрать любую профессию, я бы стал врачом.",
+                "en": "If I could choose any profession, I would become a doctor."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы она попросила, я бы точно согласился.",
+                "en": "If she asked, I would definitely agree."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что случилось бы, если бы никто не пришёл?",
+                "en": "What would happen if nobody came?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы мир был справедливее, жить было бы легче.",
+                "en": "If the world were fairer, life would be easier."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я бы купил этот дом, если бы у меня хватило денег.",
+                "en": "I would buy this house if I had enough money."
+              }
+            ]
+          },
+          {
+            "id": "b1-l4",
+            "number": 28,
+            "title": "Passive Voice",
+            "titleNative": "Страдательный залог",
+            "description": "When the action matters more than who did it",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Этот дом был построен сто лет назад.",
+                "en": "This house was built a hundred years ago."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Отчёт будет отправлен завтра утром.",
+                "en": "The report will be sent tomorrow morning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Английский язык изучают во многих странах.",
+                "en": "English is studied in many countries."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Проблема была решена быстро.",
+                "en": "The problem was solved quickly."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Новые правила были введены в прошлом месяце.",
+                "en": "New rules were introduced last month."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта картина была нарисована известным художником.",
+                "en": "This painting was painted by a famous artist."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Заявки принимаются до пятницы.",
+                "en": "Applications are accepted until Friday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Проект был завершён вовремя.",
+                "en": "The project was completed on time."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ошибка была замечена только на следующий день.",
+                "en": "The mistake was noticed only the next day."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Все документы должны быть подписаны сегодня.",
+                "en": "All documents must be signed today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Товары доставляются в течение трёх дней.",
+                "en": "Goods are delivered within three days."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Здание было отремонтировано в прошлом году.",
+                "en": "The building was renovated last year."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Решение было принято советом директоров.",
+                "en": "The decision was made by the board of directors."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Информация будет обновлена в ближайшее время.",
+                "en": "The information will be updated soon."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эта книга была переведена на двадцать языков.",
+                "en": "This book has been translated into twenty languages."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кандидаты будут уведомлены по электронной почте.",
+                "en": "Candidates will be notified by email."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Все данные хранятся в безопасности.",
+                "en": "All data is kept secure."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мост был закрыт на ремонт.",
+                "en": "The bridge was closed for repairs."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Результаты были объявлены вчера вечером.",
+                "en": "The results were announced last night."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это решение было тщательно продумано.",
+                "en": "This decision was carefully thought through."
+              }
+            ]
+          },
+          {
+            "id": "b1-l5",
+            "number": 29,
+            "title": "Reported Speech",
+            "titleNative": "Косвенная речь",
+            "description": "Reporting what someone said",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Он сказал, что придёт позже.",
+                "en": "He said he would come later."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она сказала, что очень устала.",
+                "en": "She said she was very tired."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Они сказали, что не согласны с этим планом.",
+                "en": "They said they didn't agree with this plan."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Врач сказал, что мне нужно больше отдыхать.",
+                "en": "The doctor said I needed to rest more."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он спросил меня, где я живу.",
+                "en": "He asked me where I lived."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она сказала, что перезвонит завтра.",
+                "en": "She said she would call back tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Учитель сказал, что экзамен будет трудным.",
+                "en": "The teacher said the exam would be difficult."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он объяснил, почему опоздал.",
+                "en": "He explained why he was late."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она призналась, что была неправа.",
+                "en": "She admitted that she was wrong."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Они обещали, что закончат к пятнице.",
+                "en": "They promised they would finish by Friday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он спросил, могу ли я ему помочь.",
+                "en": "He asked if I could help him."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она сказала, что уже видела этот фильм.",
+                "en": "She said she had already seen this movie."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Менеджер сообщил, что встреча перенесена.",
+                "en": "The manager announced that the meeting had been rescheduled."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он предупредил, что дорога будет закрыта.",
+                "en": "He warned that the road would be closed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она пожаловалась, что здесь очень шумно.",
+                "en": "She complained that it was very noisy here."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он сказал, что не помнит этот разговор.",
+                "en": "He said he didn't remember this conversation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Они заявили, что не изменят своего решения.",
+                "en": "They stated that they would not change their decision."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она спросила, когда начнётся урок.",
+                "en": "She asked when the lesson would start."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он сказал, что подумает об этом.",
+                "en": "He said he would think about it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она сообщила, что переезжает в другой город.",
+                "en": "She informed us that she was moving to another city."
+              }
+            ]
+          },
+          {
+            "id": "b1-l6",
+            "number": 30,
+            "title": "Making Suggestions",
+            "titleNative": "Предложения и советы",
+            "description": "Proposing ideas and giving advice",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Может, сходим в кино в эти выходные?",
+                "en": "Why don't we go to the movies this weekend?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Предлагаю начать с самого важного.",
+                "en": "I suggest we start with the most important thing."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как насчёт того, чтобы перенести встречу?",
+                "en": "How about rescheduling the meeting?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Тебе стоит попробовать этот новый ресторан.",
+                "en": "You should try this new restaurant."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Может быть, нам стоит спросить кого-то ещё?",
+                "en": "Maybe we should ask someone else?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что если мы попробуем другой подход?",
+                "en": "What if we tried a different approach?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я бы порекомендовал сначала всё перепроверить.",
+                "en": "I would recommend double-checking everything first."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Почему бы тебе не отдохнуть немного?",
+                "en": "Why don't you take a little rest?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Давай подождём и посмотрим, что будет.",
+                "en": "Let's wait and see what happens."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тебе лучше поговорить с ним напрямую.",
+                "en": "You'd better talk to him directly."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Может, стоит обратиться за помощью к специалисту?",
+                "en": "Maybe we should get help from a specialist?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я предлагаю разделить работу на несколько этапов.",
+                "en": "I suggest dividing the work into several stages."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как насчёт того, чтобы всё обсудить сегодня вечером?",
+                "en": "How about discussing everything tonight?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Тебе не мешало бы отдохнуть от работы.",
+                "en": "It wouldn't hurt you to take a break from work."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Что скажешь, если мы начнём заново?",
+                "en": "What do you say if we start over?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я думаю, нам стоит рассмотреть все варианты.",
+                "en": "I think we should consider all the options."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Может, попробуем что-то новое на этот раз?",
+                "en": "Maybe we should try something new this time?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Советую тебе не торопиться с решением.",
+                "en": "I advise you not to rush the decision."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Давайте установим чёткий срок для этого.",
+                "en": "Let's set a clear deadline for this."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тебе стоило бы извиниться перед ней.",
+                "en": "You should apologize to her."
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "b1plus",
