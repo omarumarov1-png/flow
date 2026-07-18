@@ -137,37 +137,58 @@ button.stat:hover { color: var(--flow); }
 .level-progress-info .label { font-size: 0.82rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 2px; }
 .level-progress-info .count { font-family: var(--font-display); font-size: 1rem; font-weight: 600; margin-top: 4px; }
 
-/* ---------- levels & lessons ---------- */
-.level-block { margin-bottom: 26px; }
-.level-header { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+/* ---------- level roadmap ---------- */
+.roadmap-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.roadmap-arrow {
+  width: 34px; height: 34px; border-radius: 50%; border: 1.5px solid var(--border); background: var(--card);
+  color: var(--ink); font-size: 1.1rem; line-height: 1; cursor: pointer; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+}
+.roadmap-arrow:hover:not(:disabled) { border-color: var(--flow); color: var(--flow); }
+.roadmap-arrow:disabled { opacity: 0.25; cursor: default; }
+.roadmap-level-info { flex: 1; text-align: center; }
+.roadmap-level-info h2 { font-family: var(--font-display); font-size: 1.1rem; margin: 4px 0 2px; color: var(--ink); }
 .level-badge {
   font-family: var(--font-mono); font-size: 0.75rem; font-weight: 700; color: var(--flow);
   background: var(--flow-wash); border: 1px solid var(--flow); border-radius: 6px; padding: 3px 8px;
 }
-.level-header h2 { font-family: var(--font-display); font-size: 1.1rem; margin: 0; flex: 1; color: var(--ink); }
-.level-count { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ink-soft); }
-.level-locked-note { font-size: 0.8rem; color: var(--ink-soft); background: var(--card); border: 1px dashed var(--border); border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; }
+.level-count { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-soft); }
+.level-locked-note { font-size: 0.8rem; color: var(--ink-soft); background: var(--card); border: 1px dashed var(--border); border-radius: 10px; padding: 14px 16px; margin-top: 10px; }
 
-.lesson-card {
-  display: flex; align-items: center; gap: 14px; background: var(--card); border: 1px solid var(--border);
-  border-radius: 12px; padding: 14px 16px; margin-bottom: 10px; cursor: pointer; transition: border-color 0.15s ease, transform 0.1s ease;
+/* Lessons run bottom (lesson 1) to top (last lesson) — column-reverse means
+   the first child in the DOM (lesson 1) ends up visually lowest, so the
+   list can just be built in normal reading order. */
+.roadmap {
+  display: flex; flex-direction: column-reverse; align-items: center; position: relative;
+  padding: 24px 10px 10px; margin-top: 4px; max-height: 60vh; overflow-y: auto;
 }
-.lesson-card:hover:not(.locked) { border-color: var(--flow); }
-.lesson-card:active:not(.locked) { transform: scale(0.99); }
-.lesson-card.locked { opacity: 0.5; cursor: default; }
-.lesson-card.done { border-color: var(--flow); background: var(--flow-wash); }
-.lesson-num {
-  width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--flow); color: var(--flow);
-  display: flex; align-items: center; justify-content: center; font-family: var(--font-mono); font-weight: 700; font-size: 0.85rem; flex-shrink: 0;
+.roadmap::before {
+  content: ""; position: absolute; left: 50%; top: 24px; bottom: 10px; width: 4px;
+  background: var(--dim); transform: translateX(-50%); z-index: 0; border-radius: 2px;
 }
-.lesson-card.locked .lesson-num { border-color: var(--border); color: var(--ink-soft); }
-.lesson-card.done .lesson-num { background: var(--flow); color: #fff; }
-.lesson-info { flex: 1; min-width: 0; }
-.lesson-title { font-family: var(--font-display); font-weight: 700; font-size: 0.95rem; color: var(--ink); }
-.lesson-title-native { font-weight: 400; color: var(--ink-soft); font-size: 0.85rem; margin-left: 6px; }
-.lesson-desc { font-size: 0.8rem; color: var(--ink-soft); margin-top: 2px; }
-.lesson-action { font-family: var(--font-mono); font-size: 0.78rem; font-weight: 700; color: var(--flow); flex-shrink: 0; }
-.lesson-card.locked .lesson-action { color: var(--ink-soft); }
+.roadmap-row { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 22px; }
+.roadmap-row.left { align-items: flex-start; padding-left: 12%; }
+.roadmap-row.right { align-items: flex-end; padding-right: 12%; }
+.roadmap-node {
+  width: 58px; height: 58px; border-radius: 50%; border: 3px solid var(--dim); background: var(--card);
+  color: var(--ink-soft); font-family: var(--font-mono); font-weight: 700; font-size: 1.1rem;
+  display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0;
+  box-shadow: 0 3px 0 var(--border); transition: transform 0.1s ease;
+}
+.roadmap-node:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 1px 0 var(--border); }
+.roadmap-node.unlocked { border-color: var(--flow); color: var(--flow); background: var(--flow-wash); }
+.roadmap-node.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--flow-wash); }
+.roadmap-node.done { border-color: var(--flow); background: var(--flow); color: #fff; box-shadow: 0 3px 0 var(--btn-shadow); }
+.roadmap-node.locked { cursor: default; opacity: 0.6; }
+.roadmap-node:disabled { cursor: default; }
+.roadmap-next-node {
+  width: 64px; height: 64px; border-radius: 50%; border: 3px solid var(--amber); background: var(--amber-wash);
+  font-size: 1.5rem; display: flex; align-items: center; justify-content: center; cursor: pointer;
+  box-shadow: 0 3px 0 #8a5e1f;
+}
+.roadmap-label { text-align: center; margin-top: 8px; max-width: 130px; }
+.roadmap-label-en { display: block; font-family: var(--font-display); font-weight: 700; font-size: 0.82rem; color: var(--ink); }
+.roadmap-label-native { display: block; font-size: 0.72rem; color: var(--ink-soft); margin-top: 1px; }
 
 /* ---------- lesson session ---------- */
 .lesson-bar { display: flex; align-items: center; gap: 12px; padding: 14px 20px; }

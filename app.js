@@ -30,6 +30,7 @@
   let flatLessons = [];
   let progress = null;
   let session = null;
+  let currentLevelId = null;
   let advanceTimer = null;
   let soundMuted = false;
   let placementQuestions = [];
@@ -541,70 +542,123 @@
     return html;
   }
 
+  // The level whose roadmap should show by default: the one containing the
+  // first unlocked-but-not-yet-completed lesson (i.e. "where the user is"),
+  // falling back to the first built level.
+  function pickDefaultLevel() {
+    for (const level of course.levels) {
+      const levelLessons = flatLessons.filter(l => l.levelId === level.id);
+      if (!levelLessons.length) continue;
+      const hasCurrent = levelLessons.some(l => !progress.completedLessons.includes(l.id) && isLessonUnlocked(flatLessons.indexOf(l)));
+      if (hasCurrent) return level.id;
+    }
+    const firstBuilt = course.levels.find(lv => flatLessons.some(l => l.levelId === lv.id));
+    return firstBuilt ? firstBuilt.id : course.levels[0].id;
+  }
+
   function renderHome() {
+    if (!currentLevelId || !course.levels.some(l => l.id === currentLevelId)) {
+      currentLevelId = pickDefaultLevel();
+    }
+    renderLevelRoadmap();
+  }
+
+  // Each level gets its own roadmap: lessons as round nodes running bottom
+  // (lesson 1) to top (last lesson), like climbing toward the level's peak.
+  // Completing the level unlocks a "next level" node above the last lesson.
+  function renderLevelRoadmap() {
     const totalLessons = flatLessons.length;
     const doneLessons = flatLessons.filter(l => progress.completedLessons.includes(l.id)).length;
-    const pct = totalLessons ? Math.round((doneLessons / totalLessons) * 100) : 0;
+    const overallPct = totalLessons ? Math.round((doneLessons / totalLessons) * 100) : 0;
 
-    let html = `
-      <div class="hero">
-        <div class="eyebrow">${course.heroEyebrow || ""}</div>
-        <h1>${course.title}</h1>
-        <p>${course.heroLede || ""}</p>
-      </div>
+    const level = course.levels.find(l => l.id === currentLevelId);
+    const builtLevels = course.levels.filter(lv => flatLessons.some(l => l.levelId === lv.id));
+    const builtIdx = builtLevels.findIndex(lv => lv.id === currentLevelId);
+    const prevLevel = builtIdx > 0 ? builtLevels[builtIdx - 1] : null;
+    const nextLevel = builtIdx >= 0 && builtIdx < builtLevels.length - 1 ? builtLevels[builtIdx + 1] : null;
+
+    const levelLessons = flatLessons.filter(l => l.levelId === level.id);
+    const levelDone = levelLessons.filter(l => progress.completedLessons.includes(l.id)).length;
+    const levelComplete = levelLessons.length > 0 && levelDone === levelLessons.length;
+
+    let nodesHtml = "";
+    levelLessons.forEach((lesson, i) => {
+      const flatIndex = flatLessons.indexOf(lesson);
+      const unlocked = isLessonUnlocked(flatIndex);
+      const done = progress.completedLessons.includes(lesson.id);
+      const isCurrent = unlocked && !done;
+      const offset = ["center", "left", "right"][i % 3];
+      nodesHtml += `
+        <div class="roadmap-row ${offset}">
+          <button class="roadmap-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
+            ${done ? "✓" : unlocked ? lesson.number : "🔒"}
+          </button>
+          <div class="roadmap-label"><span class="roadmap-label-en">${lesson.title}</span><span class="roadmap-label-native">${lesson.titleNative || ""}</span></div>
+        </div>
+      `;
+    });
+    if (levelComplete && nextLevel) {
+      nodesHtml += `
+        <div class="roadmap-row center">
+          <button class="roadmap-next-node" id="nextLevelBtn" aria-label="Следующий уровень">🏁</button>
+          <div class="roadmap-label"><span class="roadmap-label-en">Уровень пройден!</span><span class="roadmap-label-native">Следующий: ${nextLevel.badge}</span></div>
+        </div>
+      `;
+    }
+
+    screenEl.innerHTML = `
       <div class="level-progress-card">
-        <div class="waveform">${waveformBars(pct)}</div>
+        <div class="waveform">${waveformBars(overallPct)}</div>
         <div class="level-progress-info">
-          <div class="pct">${pct}%</div>
+          <div class="pct">${overallPct}%</div>
           <div class="label">Общий прогресс</div>
           <div class="count">${doneLessons} / ${totalLessons} уроков</div>
         </div>
       </div>
+      <div class="roadmap-header">
+        <button class="roadmap-arrow" id="prevLevelBtn" ${prevLevel ? "" : "disabled"} aria-label="Предыдущий уровень">‹</button>
+        <div class="roadmap-level-info">
+          <span class="level-badge">${level.badge}</span>
+          <h2>${level.label}</h2>
+          <span class="level-count">${levelLessons.length ? `${levelDone}/${levelLessons.length}` : "скоро"}</span>
+        </div>
+        <button class="roadmap-arrow" id="nextLevelNavBtn" ${nextLevel ? "" : "disabled"} aria-label="Следующий уровень">›</button>
+      </div>
+      ${!levelLessons.length
+        ? `<div class="level-locked-note">Уроки уровня ${level.badge} уже готовятся и скоро появятся здесь.</div>`
+        : `<div class="roadmap" id="roadmapEl">${nodesHtml}</div>`
+      }
     `;
 
-    course.levels.forEach((level, levelIdx) => {
-      const levelLessons = flatLessons.filter(l => l.levelId === level.id);
-      if (!levelLessons.length) return; // level not built yet
-      const levelDone = levelLessons.filter(l => progress.completedLessons.includes(l.id)).length;
-      html += `
-        <div class="level-block">
-          <div class="level-header">
-            <span class="level-badge">${level.badge}</span>
-            <h2>${level.label}</h2>
-            <span class="level-count">${levelDone}/${levelLessons.length}</span>
-          </div>
-          ${levelLessons.map(lesson => {
-            const flatIndex = flatLessons.indexOf(lesson);
-            const unlocked = isLessonUnlocked(flatIndex);
-            const done = progress.completedLessons.includes(lesson.id);
-            return `
-              <div class="lesson-card ${unlocked ? "" : "locked"} ${done ? "done" : ""}" data-lesson="${lesson.id}">
-                <div class="lesson-num">${done ? "✓" : lesson.number}</div>
-                <div class="lesson-info">
-                  <div><span class="lesson-title">${lesson.title}</span><span class="lesson-title-native">${lesson.titleNative || ""}</span></div>
-                  <div class="lesson-desc">${lesson.description || ""}</div>
-                </div>
-                <div class="lesson-action">${unlocked ? (done ? "Повторить" : "Начать") : "🔒"}</div>
-              </div>
-            `;
-          }).join("")}
-        </div>
-      `;
+    document.getElementById("prevLevelBtn").addEventListener("click", () => {
+      if (!prevLevel) return;
+      currentLevelId = prevLevel.id;
+      renderLevelRoadmap();
     });
-
-    const builtLevelIds = new Set(flatLessons.map(l => l.levelId));
-    const unbuiltLevels = course.levels.filter(lv => !builtLevelIds.has(lv.id));
-    if (unbuiltLevels.length) {
-      html += `<div class="level-locked-note">Уровни ${unbuiltLevels.map(l => l.badge).join(", ")} уже готовятся и скоро появятся здесь.</div>`;
+    document.getElementById("nextLevelNavBtn").addEventListener("click", () => {
+      if (!nextLevel) return;
+      currentLevelId = nextLevel.id;
+      renderLevelRoadmap();
+    });
+    const nextLevelBtn = document.getElementById("nextLevelBtn");
+    if (nextLevelBtn) {
+      nextLevelBtn.addEventListener("click", () => {
+        if (!nextLevel) return;
+        currentLevelId = nextLevel.id;
+        renderLevelRoadmap();
+      });
     }
-
-    screenEl.innerHTML = html;
-    screenEl.querySelectorAll(".lesson-card:not(.locked)").forEach(card => {
-      card.addEventListener("click", () => {
-        const lesson = flatLessons.find(l => l.id === card.dataset.lesson);
+    screenEl.querySelectorAll(".roadmap-node:not(.locked)").forEach(node => {
+      node.addEventListener("click", () => {
+        const lesson = flatLessons.find(l => l.id === node.dataset.lesson);
         if (lesson) startLesson(lesson);
       });
     });
+
+    const target = screenEl.querySelector(".roadmap-node.current") || screenEl.querySelector(".roadmap-node.unlocked");
+    if (target) {
+      requestAnimationFrame(() => target.scrollIntoView({ block: "center", behavior: "auto" }));
+    }
   }
 
   // ---------- placement test ----------
