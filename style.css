@@ -280,6 +280,16 @@ button.stat:hover { color: var(--flow); }
 .hoard-word { font-family: var(--font-body); font-size: 0.95rem; background: var(--flow-wash); border: 1px solid var(--flow); border-radius: 6px; padding: 5px 12px; color: var(--ink); }
 .hoard-empty { color: var(--ink-soft); font-size: 0.9rem; }
 
+/* ---------- initial loading state ----------
+   Shown by default while auth.js is still resolving whether there's a
+   persisted session — avoids a flash of the sign-in gate for users who
+   are actually already logged in. Swapped for the real state (app, gate,
+   or pending screen) the instant Firebase reports a definitive answer. */
+.app-loading { position: fixed; inset: 0; z-index: 60; background: var(--bg); display: flex; align-items: center; justify-content: center; }
+.app-loading.hidden { display: none; }
+.app-loading-mark { width: 34px; height: 34px; border-radius: 8px; background: linear-gradient(135deg, var(--flow), var(--amber)); animation: appLoadingPulse 1.1s ease-in-out infinite; }
+@keyframes appLoadingPulse { 0%, 100% { opacity: 0.35; transform: scale(0.9); } 50% { opacity: 1; transform: scale(1); } }
+
 /* ---------- auth gate (shared pattern) ---------- */
 .auth-gate { position: fixed; inset: 0; z-index: 50; background: var(--bg); display: flex; align-items: center; justify-content: center; padding: 20px; }
 .auth-gate.hidden { display: none; }

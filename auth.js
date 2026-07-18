@@ -27,6 +27,14 @@
   const pendingEl = document.getElementById("pendingGate");
   const pendingEmailEl = document.getElementById("pendingEmail");
   const pendingSignOutBtn = document.getElementById("pendingSignOutBtn");
+  const loadingEl = document.getElementById("appLoading");
+
+  // Shown by default (see index.html) until we know for sure whether there's
+  // a persisted session — prevents a flash of the sign-in gate for users
+  // who are actually already logged in.
+  function hideLoading() {
+    if (loadingEl) loadingEl.classList.add("hidden");
+  }
 
   function showPending(user) {
     if (!pendingEl) return;
@@ -49,6 +57,7 @@
   }
 
   function localOnlyMode() {
+    hideLoading();
     revealApp();
     if (accountBtn) accountBtn.classList.add("hidden");
     startApp();
@@ -226,6 +235,7 @@
         } catch (e) { /* offline — profile touch skipped, fall back to isOwner only */ }
 
         if (!approved) {
+          hideLoading();
           gateEl.classList.add("hidden");
           appRootEl.classList.add("hidden");
           showPending(user);
@@ -233,6 +243,7 @@
         }
         hidePending();
 
+        hideLoading();
         revealApp();
         if (accountBtn) {
           accountBtn.classList.remove("hidden");
@@ -242,6 +253,7 @@
       } else {
         window.__appStarted = false;
         hidePending();
+        hideLoading();
         gateEl.classList.remove("hidden");
         appRootEl.classList.add("hidden");
         if (accountBtn) accountBtn.classList.add("hidden");
