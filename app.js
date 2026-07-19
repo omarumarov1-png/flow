@@ -607,21 +607,45 @@
     while (doneCount < points.length && points[doneCount].done) doneCount++;
     const walkedPts = points.slice(0, Math.min(doneCount + 1, points.length));
     const aheadPts = points.slice(Math.max(doneCount, 0));
+    const NS = "http://www.w3.org/2000/svg";
     let svg = roadmapEl.querySelector(".roadmap-path-svg");
     if (!svg) {
-      svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+      svg = document.createElementNS(NS, "svg");
       svg.setAttribute("class", "roadmap-path-svg");
       roadmapEl.insertBefore(svg, roadmapEl.firstChild);
     }
     const maxY = Math.max(...points.map(p => p.y)) + 60;
     svg.setAttribute("width", roadmapEl.clientWidth);
     svg.setAttribute("height", maxY);
-    let inner = `<defs><linearGradient id="roadmapGrad" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0%" stop-color="var(--flow)"/><stop offset="100%" stop-color="var(--amber)"/>
-    </linearGradient></defs>`;
-    if (aheadPts.length >= 2) inner += `<path d="${segmentPath(aheadPts)}" fill="none" stroke="var(--dim)" stroke-width="7" stroke-linecap="round"/>`;
-    if (walkedPts.length >= 2) inner += `<path d="${segmentPath(walkedPts)}" fill="none" stroke="url(#roadmapGrad)" stroke-width="7" stroke-linecap="round"/>`;
-    svg.innerHTML = inner;
+    // Built via createElementNS/appendChild rather than svg.innerHTML — Safari
+    // has long had inconsistent behavior parsing dynamically-assigned SVG
+    // markup through innerHTML (elements after the first can silently fail
+    // to pick up the SVG namespace), which was causing every road segment
+    // past the first to simply not render on iOS.
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+    const defs = document.createElementNS(NS, "defs");
+    const grad = document.createElementNS(NS, "linearGradient");
+    grad.setAttribute("id", "roadmapGrad");
+    grad.setAttribute("x1", "0"); grad.setAttribute("y1", "1");
+    grad.setAttribute("x2", "0"); grad.setAttribute("y2", "0");
+    const stop1 = document.createElementNS(NS, "stop");
+    stop1.setAttribute("offset", "0%"); stop1.setAttribute("stop-color", "var(--flow)");
+    const stop2 = document.createElementNS(NS, "stop");
+    stop2.setAttribute("offset", "100%"); stop2.setAttribute("stop-color", "var(--amber)");
+    grad.appendChild(stop1); grad.appendChild(stop2);
+    defs.appendChild(grad);
+    svg.appendChild(defs);
+    function makePath(d, stroke, width) {
+      const path = document.createElementNS(NS, "path");
+      path.setAttribute("d", d);
+      path.setAttribute("fill", "none");
+      path.setAttribute("stroke", stroke);
+      path.setAttribute("stroke-width", width);
+      path.setAttribute("stroke-linecap", "round");
+      return path;
+    }
+    if (aheadPts.length >= 2) svg.appendChild(makePath(segmentPath(aheadPts), "var(--dim)", "7"));
+    if (walkedPts.length >= 2) svg.appendChild(makePath(segmentPath(walkedPts), "url(#roadmapGrad)", "7"));
   }
   function scrollRoadmapToFirstLesson() {
     const roadmapEl = document.getElementById("roadmapEl");
