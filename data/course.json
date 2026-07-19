@@ -2685,8 +2685,87 @@
             ]
           },
           {
-            "id": "a1-l13-p1",
+            "id": "a1-reading-8",
             "number": 32,
+            "title": "Can You Help Me?",
+            "titleNative": "Можешь мне помочь?",
+            "description": "Короткий диалог о просьбе помощи — тренируем can/can't.",
+            "readingPassage": {
+              "context": "Короткий диалог о просьбе помощи — тренируем can/can't.",
+              "paragraphs": [
+                {
+                  "en": "Excuse me, can you help me?",
+                  "ru": "Извините, вы можете мне помочь?"
+                },
+                {
+                  "en": "I am looking for the train station.",
+                  "ru": "Я ищу вокзал."
+                },
+                {
+                  "en": "I can't find it on the map.",
+                  "ru": "Я не могу найти его на карте."
+                },
+                {
+                  "en": "Go straight, then turn left.",
+                  "ru": "Идите прямо, потом поверните налево."
+                },
+                {
+                  "en": "Can you show me the way?",
+                  "ru": "Вы можете показать мне дорогу?"
+                },
+                {
+                  "en": "Of course, I can walk with you.",
+                  "ru": "Конечно, я могу пройти с вами."
+                },
+                {
+                  "en": "Thank you very much!",
+                  "ru": "Большое спасибо!"
+                },
+                {
+                  "en": "You're welcome, have a good trip!",
+                  "ru": "Пожалуйста, хорошей поездки!"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что ищет человек?",
+                "options": [
+                  "Вокзал",
+                  "Магазин",
+                  "Парк",
+                  "Аптеку"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Куда нужно повернуть?",
+                "options": [
+                  "Направо",
+                  "Налево",
+                  "Прямо только",
+                  "Назад"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что делает второй человек в конце?",
+                "options": [
+                  "Уходит",
+                  "Идёт вместе с ним",
+                  "Звонит другу",
+                  "Едет на такси"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "a1-l13-p1",
+            "number": 33,
             "title": "Plurals & This/That/These/Those (Part 1)",
             "titleNative": "Множественное число и this/that/these/those · Часть 1",
             "description": "Regular and irregular plurals, demonstratives",
@@ -2775,7 +2854,7 @@
           },
           {
             "id": "a1-l13-p2",
-            "number": 33,
+            "number": 34,
             "title": "Plurals & This/That/These/Those (Part 2)",
             "titleNative": "Множественное число и this/that/these/those · Часть 2",
             "description": "Regular and irregular plurals, demonstratives",
@@ -2864,7 +2943,7 @@
           },
           {
             "id": "a1-l14-p1",
-            "number": 34,
+            "number": 35,
             "title": "Can & Can't — Ability (Part 1)",
             "titleNative": "Can и can't — умение · Часть 1",
             "description": "Talking about what you can and can't do",
@@ -2952,8 +3031,87 @@
             ]
           },
           {
+            "id": "a1-reading-9",
+            "number": 36,
+            "title": "A Busy Morning",
+            "titleNative": "Занятое утро",
+            "description": "Утро в семье — тренируем present continuous.",
+            "readingPassage": {
+              "context": "Утро в семье — тренируем present continuous.",
+              "paragraphs": [
+                {
+                  "en": "It's seven o'clock in the morning.",
+                  "ru": "Сейчас семь часов утра."
+                },
+                {
+                  "en": "I am making breakfast.",
+                  "ru": "Я готовлю завтрак."
+                },
+                {
+                  "en": "My brother is taking a shower.",
+                  "ru": "Мой брат принимает душ."
+                },
+                {
+                  "en": "My mother is reading the news.",
+                  "ru": "Моя мама читает новости."
+                },
+                {
+                  "en": "The dog is sleeping on the sofa.",
+                  "ru": "Собака спит на диване."
+                },
+                {
+                  "en": "We are getting ready for school.",
+                  "ru": "Мы готовимся к школе."
+                },
+                {
+                  "en": "It is raining outside.",
+                  "ru": "На улице идёт дождь."
+                },
+                {
+                  "en": "Let's hurry, we are late!",
+                  "ru": "Давайте поторопимся, мы опаздываем!"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Который час в начале рассказа?",
+                "options": [
+                  "Семь утра",
+                  "Восемь утра",
+                  "Полдень",
+                  "Полночь"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что делает мама?",
+                "options": [
+                  "Готовит завтрак",
+                  "Читает новости",
+                  "Спит",
+                  "Принимает душ"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая погода на улице?",
+                "options": [
+                  "Солнечно",
+                  "Идёт дождь",
+                  "Снег",
+                  "Ветрено"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a1-l14-p2",
-            "number": 35,
+            "number": 37,
             "title": "Can & Can't — Ability (Part 2)",
             "titleNative": "Can и can't — умение · Часть 2",
             "description": "Talking about what you can and can't do",
@@ -3042,7 +3200,7 @@
           },
           {
             "id": "a1-l15-p1",
-            "number": 36,
+            "number": 38,
             "title": "Present Continuous (Part 1)",
             "titleNative": "Present Continuous · Часть 1",
             "description": "Actions happening right now",
@@ -3131,7 +3289,7 @@
           },
           {
             "id": "a1-l15-p2",
-            "number": 37,
+            "number": 39,
             "title": "Present Continuous (Part 2)",
             "titleNative": "Present Continuous · Часть 2",
             "description": "Actions happening right now",
@@ -3219,8 +3377,87 @@
             ]
           },
           {
+            "id": "a1-reading-10",
+            "number": 40,
+            "title": "Grandpa's Old House",
+            "titleNative": "Старый дом дедушки",
+            "description": "Описание дома — тренируем прилагательные и антонимы.",
+            "readingPassage": {
+              "context": "Описание дома — тренируем прилагательные и антонимы.",
+              "paragraphs": [
+                {
+                  "en": "This is my grandfather's house.",
+                  "ru": "Это дом моего дедушки."
+                },
+                {
+                  "en": "The house is old, but very clean.",
+                  "ru": "Дом старый, но очень чистый."
+                },
+                {
+                  "en": "The garden is small, but beautiful.",
+                  "ru": "Сад маленький, но красивый."
+                },
+                {
+                  "en": "That tree over there is very tall.",
+                  "ru": "То дерево там очень высокое."
+                },
+                {
+                  "en": "The kitchen is warm and cozy.",
+                  "ru": "Кухня тёплая и уютная."
+                },
+                {
+                  "en": "Grandpa's chair is heavy and made of wood.",
+                  "ru": "Кресло дедушки тяжёлое и деревянное."
+                },
+                {
+                  "en": "I love this quiet place.",
+                  "ru": "Я люблю это тихое место."
+                },
+                {
+                  "en": "It is always peaceful here.",
+                  "ru": "Здесь всегда спокойно."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какой дом дедушки?",
+                "options": [
+                  "Новый и грязный",
+                  "Старый и чистый",
+                  "Большой и шумный",
+                  "Маленький и тёмный"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какое дерево в саду?",
+                "options": [
+                  "Низкое",
+                  "Высокое",
+                  "Сухое",
+                  "Молодое"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая атмосфера в доме?",
+                "options": [
+                  "Шумная",
+                  "Спокойная",
+                  "Грустная",
+                  "Странная"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a1-l16-p1",
-            "number": 38,
+            "number": 41,
             "title": "Imperatives & Directions (Part 1)",
             "titleNative": "Повелительное наклонение · Часть 1",
             "description": "Giving instructions and directions",
@@ -3309,7 +3546,7 @@
           },
           {
             "id": "a1-l16-p2",
-            "number": 39,
+            "number": 42,
             "title": "Imperatives & Directions (Part 2)",
             "titleNative": "Повелительное наклонение · Часть 2",
             "description": "Giving instructions and directions",
@@ -3398,7 +3635,7 @@
           },
           {
             "id": "a1-l17-p1",
-            "number": 40,
+            "number": 43,
             "title": "Telling the Time (Part 1)",
             "titleNative": "Который час · Часть 1",
             "description": "The clock, schedules, and daily timing",
@@ -3486,8 +3723,87 @@
             ]
           },
           {
+            "id": "a1-reading-11",
+            "number": 44,
+            "title": "What Time Is It?",
+            "titleNative": "Который час?",
+            "description": "Утренние сборы — тренируем время и повелительное наклонение.",
+            "readingPassage": {
+              "context": "Утренние сборы — тренируем время и повелительное наклонение.",
+              "paragraphs": [
+                {
+                  "en": "Look at the clock, please.",
+                  "ru": "Посмотри на часы, пожалуйста."
+                },
+                {
+                  "en": "It is half past eight.",
+                  "ru": "Сейчас половина девятого."
+                },
+                {
+                  "en": "The bus arrives at nine o'clock.",
+                  "ru": "Автобус приезжает в девять часов."
+                },
+                {
+                  "en": "Don't be late for school!",
+                  "ru": "Не опаздывай в школу!"
+                },
+                {
+                  "en": "Take your bag and go now.",
+                  "ru": "Возьми сумку и иди сейчас."
+                },
+                {
+                  "en": "Wait for me at the door.",
+                  "ru": "Подожди меня у двери."
+                },
+                {
+                  "en": "We have ten minutes left.",
+                  "ru": "У нас осталось десять минут."
+                },
+                {
+                  "en": "Let's hurry, the bus is coming!",
+                  "ru": "Поторопимся, автобус едет!"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Во сколько приезжает автобус?",
+                "options": [
+                  "В восемь",
+                  "В девять",
+                  "В десять",
+                  "В семь"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорят не делать?",
+                "options": [
+                  "Не есть",
+                  "Не опаздывать",
+                  "Не спать",
+                  "Не читать"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько минут осталось?",
+                "options": [
+                  "Пять",
+                  "Десять",
+                  "Двадцать",
+                  "Пятнадцать"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a1-l17-p2",
-            "number": 41,
+            "number": 45,
             "title": "Telling the Time (Part 2)",
             "titleNative": "Который час · Часть 2",
             "description": "The clock, schedules, and daily timing",
@@ -3576,7 +3892,7 @@
           },
           {
             "id": "a1-l18-p1",
-            "number": 42,
+            "number": 46,
             "title": "Adjectives & Opposites (Part 1)",
             "titleNative": "Прилагательные и антонимы · Часть 1",
             "description": "Describing things with common opposite pairs",
@@ -3665,7 +3981,7 @@
           },
           {
             "id": "a1-l18-p2",
-            "number": 43,
+            "number": 47,
             "title": "Adjectives & Opposites (Part 2)",
             "titleNative": "Прилагательные и антонимы · Часть 2",
             "description": "Describing things with common opposite pairs",
@@ -3762,7 +4078,7 @@
         "lessons": [
           {
             "id": "a2-l1-p1",
-            "number": 44,
+            "number": 48,
             "title": "Past Simple (Part 1)",
             "titleNative": "Прошедшее время · Часть 1",
             "description": "Talking about yesterday and last week",
@@ -3851,7 +4167,7 @@
           },
           {
             "id": "a2-l1-p2",
-            "number": 45,
+            "number": 49,
             "title": "Past Simple (Part 2)",
             "titleNative": "Прошедшее время · Часть 2",
             "description": "Talking about yesterday and last week",
@@ -3940,7 +4256,7 @@
           },
           {
             "id": "a2-l2-p1",
-            "number": 46,
+            "number": 50,
             "title": "Future Plans (Part 1)",
             "titleNative": "Планы на будущее · Часть 1",
             "description": "Will and going to",
@@ -4029,7 +4345,7 @@
           },
           {
             "id": "a2-reading-1",
-            "number": 47,
+            "number": 51,
             "title": "A Trip to the Mountains",
             "titleNative": "Поездка в горы",
             "description": "Рассказ в прошедшем времени — тренируем Past Simple.",
@@ -4104,7 +4420,7 @@
           },
           {
             "id": "a2-l2-p2",
-            "number": 48,
+            "number": 52,
             "title": "Future Plans (Part 2)",
             "titleNative": "Планы на будущее · Часть 2",
             "description": "Will and going to",
@@ -4193,7 +4509,7 @@
           },
           {
             "id": "a2-l3-p1",
-            "number": 49,
+            "number": 53,
             "title": "Can, Must, Should (Part 1)",
             "titleNative": "Модальные глаголы · Часть 1",
             "description": "Ability, obligation, and advice",
@@ -4282,7 +4598,7 @@
           },
           {
             "id": "a2-l3-p2",
-            "number": 50,
+            "number": 54,
             "title": "Can, Must, Should (Part 2)",
             "titleNative": "Модальные глаголы · Часть 2",
             "description": "Ability, obligation, and advice",
@@ -4371,7 +4687,7 @@
           },
           {
             "id": "a2-reading-2",
-            "number": 51,
+            "number": 55,
             "title": "Plans for Next Summer",
             "titleNative": "Планы на следующее лето",
             "description": "Рассказ о будущих планах — тренируем will / going to.",
@@ -4446,7 +4762,7 @@
           },
           {
             "id": "a2-l4-p1",
-            "number": 52,
+            "number": 56,
             "title": "Comparisons (Part 1)",
             "titleNative": "Сравнения · Часть 1",
             "description": "Comparative and superlative forms",
@@ -4535,7 +4851,7 @@
           },
           {
             "id": "a2-l4-p2",
-            "number": 53,
+            "number": 57,
             "title": "Comparisons (Part 2)",
             "titleNative": "Сравнения · Часть 2",
             "description": "Comparative and superlative forms",
@@ -4624,7 +4940,7 @@
           },
           {
             "id": "a2-l5-p1",
-            "number": 54,
+            "number": 58,
             "title": "Travel (Part 1)",
             "titleNative": "Путешествия · Часть 1",
             "description": "Getting around and asking for directions",
@@ -4713,7 +5029,7 @@
           },
           {
             "id": "a2-reading-3",
-            "number": 55,
+            "number": 59,
             "title": "Feeling Sick",
             "titleNative": "Плохое самочувствие",
             "description": "Рассказ о здоровье — тренируем модальные глаголы must / should.",
@@ -4788,7 +5104,7 @@
           },
           {
             "id": "a2-l5-p2",
-            "number": 56,
+            "number": 60,
             "title": "Travel (Part 2)",
             "titleNative": "Путешествия · Часть 2",
             "description": "Getting around and asking for directions",
@@ -4877,7 +5193,7 @@
           },
           {
             "id": "a2-l6-p1",
-            "number": 57,
+            "number": 61,
             "title": "Health (Part 1)",
             "titleNative": "Здоровье · Часть 1",
             "description": "Talking about how you feel",
@@ -4966,7 +5282,7 @@
           },
           {
             "id": "a2-l6-p2",
-            "number": 58,
+            "number": 62,
             "title": "Health (Part 2)",
             "titleNative": "Здоровье · Часть 2",
             "description": "Talking about how you feel",
@@ -5055,7 +5371,7 @@
           },
           {
             "id": "a2-reading-4",
-            "number": 59,
+            "number": 63,
             "title": "A New Coat",
             "titleNative": "Новое пальто",
             "description": "Рассказ о покупках — тренируем сравнительные конструкции.",
@@ -5130,7 +5446,7 @@
           },
           {
             "id": "a2-l7-p1",
-            "number": 60,
+            "number": 64,
             "title": "Shopping (Part 1)",
             "titleNative": "Покупки · Часть 1",
             "description": "Buying things and comparing prices",
@@ -5219,7 +5535,7 @@
           },
           {
             "id": "a2-l7-p2",
-            "number": 61,
+            "number": 65,
             "title": "Shopping (Part 2)",
             "titleNative": "Покупки · Часть 2",
             "description": "Buying things and comparing prices",
@@ -5308,7 +5624,7 @@
           },
           {
             "id": "a2-l8-p1",
-            "number": 62,
+            "number": 66,
             "title": "Work (Part 1)",
             "titleNative": "Работа · Часть 1",
             "description": "Jobs and the workplace",
@@ -5397,7 +5713,7 @@
           },
           {
             "id": "a2-reading-5",
-            "number": 63,
+            "number": 67,
             "title": "My First Week at Work",
             "titleNative": "Моя первая неделя на работе",
             "description": "Рассказ о работе — тренируем лексику по теме занятости.",
@@ -5472,7 +5788,7 @@
           },
           {
             "id": "a2-l8-p2",
-            "number": 64,
+            "number": 68,
             "title": "Work (Part 2)",
             "titleNative": "Работа · Часть 2",
             "description": "Jobs and the workplace",
@@ -5561,7 +5877,7 @@
           },
           {
             "id": "a2-l9-p1",
-            "number": 65,
+            "number": 69,
             "title": "Hobbies (Part 1)",
             "titleNative": "Хобби · Часть 1",
             "description": "Free time and interests",
@@ -5650,7 +5966,7 @@
           },
           {
             "id": "a2-l9-p2",
-            "number": 66,
+            "number": 70,
             "title": "Hobbies (Part 2)",
             "titleNative": "Хобби · Часть 2",
             "description": "Free time and interests",
@@ -5739,7 +6055,7 @@
           },
           {
             "id": "a2-reading-6",
-            "number": 67,
+            "number": 71,
             "title": "Weekend Hobbies",
             "titleNative": "Хобби на выходных",
             "description": "Рассказ о хобби и увлечениях — тренируем описание частоты действий.",
@@ -5814,7 +6130,7 @@
           },
           {
             "id": "a2-l10-p1",
-            "number": 68,
+            "number": 72,
             "title": "Describing People (Part 1)",
             "titleNative": "Описание людей · Часть 1",
             "description": "Appearance and personality",
@@ -5903,7 +6219,7 @@
           },
           {
             "id": "a2-l10-p2",
-            "number": 69,
+            "number": 73,
             "title": "Describing People (Part 2)",
             "titleNative": "Описание людей · Часть 2",
             "description": "Appearance and personality",
@@ -5992,7 +6308,7 @@
           },
           {
             "id": "a2-l11-p1",
-            "number": 70,
+            "number": 74,
             "title": "Phone Calls (Part 1)",
             "titleNative": "Телефонные звонки · Часть 1",
             "description": "Making and answering calls",
@@ -6081,7 +6397,7 @@
           },
           {
             "id": "a2-reading-7",
-            "number": 71,
+            "number": 75,
             "title": "A Call with an Old Friend",
             "titleNative": "Звонок старому другу",
             "description": "Итоговый рассказ уровня A2 — телефонный разговор и обмен мнениями.",
@@ -6156,7 +6472,7 @@
           },
           {
             "id": "a2-l11-p2",
-            "number": 72,
+            "number": 76,
             "title": "Phone Calls (Part 2)",
             "titleNative": "Телефонные звонки · Часть 2",
             "description": "Making and answering calls",
@@ -6245,7 +6561,7 @@
           },
           {
             "id": "a2-l12-p1",
-            "number": 73,
+            "number": 77,
             "title": "Opinions (Part 1)",
             "titleNative": "Мнения · Часть 1",
             "description": "Agreeing, disagreeing, giving opinions",
@@ -6334,7 +6650,7 @@
           },
           {
             "id": "a2-l12-p2",
-            "number": 74,
+            "number": 78,
             "title": "Opinions (Part 2)",
             "titleNative": "Мнения · Часть 2",
             "description": "Agreeing, disagreeing, giving opinions",
@@ -6422,8 +6738,87 @@
             ]
           },
           {
+            "id": "a2-reading-8",
+            "number": 79,
+            "title": "The Accident I Saw",
+            "titleNative": "Авария, которую я видел",
+            "description": "Рассказ о происшествии — тренируем past continuous.",
+            "readingPassage": {
+              "context": "Рассказ о происшествии — тренируем past continuous.",
+              "paragraphs": [
+                {
+                  "en": "Yesterday I was walking home from work.",
+                  "ru": "Вчера я шёл домой с работы."
+                },
+                {
+                  "en": "The sun was shining and I was listening to music.",
+                  "ru": "Светило солнце, и я слушал музыку."
+                },
+                {
+                  "en": "Suddenly, I saw two cars crash.",
+                  "ru": "Внезапно я увидел, как столкнулись две машины."
+                },
+                {
+                  "en": "One driver was talking on the phone.",
+                  "ru": "Один водитель разговаривал по телефону."
+                },
+                {
+                  "en": "He wasn't watching the road.",
+                  "ru": "Он не смотрел на дорогу."
+                },
+                {
+                  "en": "People were running to help.",
+                  "ru": "Люди бежали, чтобы помочь."
+                },
+                {
+                  "en": "Luckily, nobody was hurt badly.",
+                  "ru": "К счастью, никто не пострадал серьёзно."
+                },
+                {
+                  "en": "I was still thinking about it that evening.",
+                  "ru": "Я всё ещё думал об этом вечером."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что делал водитель, когда произошла авария?",
+                "options": [
+                  "Спал",
+                  "Разговаривал по телефону",
+                  "Ел",
+                  "Читал книгу"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая была погода вначале?",
+                "options": [
+                  "Солнечно",
+                  "Дождь",
+                  "Снег",
+                  "Туман"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Пострадали ли люди серьёзно?",
+                "options": [
+                  "Да, многие",
+                  "Нет, никто серьёзно",
+                  "Только водитель",
+                  "Неизвестно"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l13-p1",
-            "number": 75,
+            "number": 80,
             "title": "Past Continuous (Part 1)",
             "titleNative": "Past Continuous · Часть 1",
             "description": "Actions in progress at a moment in the past",
@@ -6512,7 +6907,7 @@
           },
           {
             "id": "a2-l13-p2",
-            "number": 76,
+            "number": 81,
             "title": "Past Continuous (Part 2)",
             "titleNative": "Past Continuous · Часть 2",
             "description": "Actions in progress at a moment in the past",
@@ -6601,7 +6996,7 @@
           },
           {
             "id": "a2-l14-p1",
-            "number": 77,
+            "number": 82,
             "title": "Used to — Past Habits (Part 1)",
             "titleNative": "Used to — прошлые привычки · Часть 1",
             "description": "Talking about things that were true in the past but aren't now",
@@ -6689,8 +7084,87 @@
             ]
           },
           {
+            "id": "a2-reading-9",
+            "number": 83,
+            "title": "Life Before Smartphones",
+            "titleNative": "Жизнь до смартфонов",
+            "description": "Воспоминания бабушки — тренируем used to.",
+            "readingPassage": {
+              "context": "Воспоминания бабушки — тренируем used to.",
+              "paragraphs": [
+                {
+                  "en": "My grandmother used to live without a smartphone.",
+                  "ru": "Моя бабушка раньше жила без смартфона."
+                },
+                {
+                  "en": "She used to write letters to her friends.",
+                  "ru": "Она писала письма друзьям."
+                },
+                {
+                  "en": "People didn't use to call each other so often.",
+                  "ru": "Люди раньше не звонили друг другу так часто."
+                },
+                {
+                  "en": "There used to be public phones on every street.",
+                  "ru": "Раньше на каждой улице были телефоны-автоматы."
+                },
+                {
+                  "en": "My grandmother used to read a real newspaper every morning.",
+                  "ru": "Моя бабушка каждое утро читала настоящую газету."
+                },
+                {
+                  "en": "She says life used to be slower and calmer.",
+                  "ru": "Она говорит, что жизнь раньше была медленнее и спокойнее."
+                },
+                {
+                  "en": "Now she says everything felt more personal back then.",
+                  "ru": "Теперь она говорит, что раньше всё казалось более личным."
+                },
+                {
+                  "en": "I think both times had something good.",
+                  "ru": "Я думаю, в обоих временах было что-то хорошее."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что делала бабушка вместо звонков?",
+                "options": [
+                  "Писала письма",
+                  "Смотрела телевизор",
+                  "Ничего не делала",
+                  "Играла в игры"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что раньше было на каждой улице?",
+                "options": [
+                  "Телефоны-автоматы",
+                  "Магазины",
+                  "Библиотеки",
+                  "Кафе"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Какой была жизнь раньше, по словам бабушки?",
+                "options": [
+                  "Быстрой и шумной",
+                  "Медленной и спокойной",
+                  "Скучной",
+                  "Опасной"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l14-p2",
-            "number": 78,
+            "number": 84,
             "title": "Used to — Past Habits (Part 2)",
             "titleNative": "Used to — прошлые привычки · Часть 2",
             "description": "Talking about things that were true in the past but aren't now",
@@ -6779,7 +7253,7 @@
           },
           {
             "id": "a2-l15-p1",
-            "number": 79,
+            "number": 85,
             "title": "Articles: a/an/the vs No Article (Part 1)",
             "titleNative": "Артикли a/an/the и их отсутствие · Часть 1",
             "description": "Choosing between a/an, the, and no article",
@@ -6868,7 +7342,7 @@
           },
           {
             "id": "a2-l15-p2",
-            "number": 80,
+            "number": 86,
             "title": "Articles: a/an/the vs No Article (Part 2)",
             "titleNative": "Артикли a/an/the и их отсутствие · Часть 2",
             "description": "Choosing between a/an, the, and no article",
@@ -6956,8 +7430,87 @@
             ]
           },
           {
+            "id": "a2-reading-10",
+            "number": 87,
+            "title": "Planning a Surprise Party",
+            "titleNative": "Планируем вечеринку-сюрприз",
+            "description": "Разговор друзей — тренируем предложения и приглашения.",
+            "readingPassage": {
+              "context": "Разговор друзей — тренируем предложения и приглашения.",
+              "paragraphs": [
+                {
+                  "en": "Let's plan a surprise party for Aigerim!",
+                  "ru": "Давай организуем сюрприз-вечеринку для Айгерим!"
+                },
+                {
+                  "en": "Why don't we invite all her old friends?",
+                  "ru": "Почему бы нам не пригласить всех её старых друзей?"
+                },
+                {
+                  "en": "How about booking a table at her favorite restaurant?",
+                  "ru": "Как насчёт того, чтобы забронировать столик в её любимом ресторане?"
+                },
+                {
+                  "en": "Would you like to bring the cake?",
+                  "ru": "Хочешь принести торт?"
+                },
+                {
+                  "en": "Shall we buy some balloons and flowers too?",
+                  "ru": "Может, купим ещё воздушные шары и цветы?"
+                },
+                {
+                  "en": "Let's not tell her anything before Saturday.",
+                  "ru": "Давай ничего не будем ей говорить до субботы."
+                },
+                {
+                  "en": "Why don't you call the restaurant today?",
+                  "ru": "Почему бы тебе не позвонить в ресторан сегодня?"
+                },
+                {
+                  "en": "I think she will be really surprised!",
+                  "ru": "Я думаю, она будет по-настоящему удивлена!"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Для кого планируют вечеринку?",
+                "options": [
+                  "Для Айгерим",
+                  "Для Марата",
+                  "Для мамы",
+                  "Для соседа"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Где будет вечеринка?",
+                "options": [
+                  "Дома",
+                  "В её любимом ресторане",
+                  "В парке",
+                  "В офисе"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Когда нужно позвонить в ресторан?",
+                "options": [
+                  "Завтра",
+                  "Сегодня",
+                  "В субботу",
+                  "В воскресенье"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l16-p1",
-            "number": 81,
+            "number": 88,
             "title": "Question Tags (Part 1)",
             "titleNative": "Разделительные вопросы · Часть 1",
             "description": "Short confirming questions added to statements",
@@ -7046,7 +7599,7 @@
           },
           {
             "id": "a2-l16-p2",
-            "number": 82,
+            "number": 89,
             "title": "Question Tags (Part 2)",
             "titleNative": "Разделительные вопросы · Часть 2",
             "description": "Short confirming questions added to statements",
@@ -7135,7 +7688,7 @@
           },
           {
             "id": "a2-l17-p1",
-            "number": 83,
+            "number": 90,
             "title": "Suggestions & Invitations (Part 1)",
             "titleNative": "Предложения и приглашения · Часть 1",
             "description": "Let's, why don't we, how about, would you like to",
@@ -7223,8 +7776,87 @@
             ]
           },
           {
+            "id": "a2-reading-11",
+            "number": 91,
+            "title": "A Weekend Schedule",
+            "titleNative": "Расписание на выходные",
+            "description": "Обычные выходные — тренируем предлоги времени.",
+            "readingPassage": {
+              "context": "Обычные выходные — тренируем предлоги времени.",
+              "paragraphs": [
+                {
+                  "en": "On Saturdays, I usually wake up at nine.",
+                  "ru": "По субботам я обычно просыпаюсь в девять."
+                },
+                {
+                  "en": "In the morning, I go for a run in the park.",
+                  "ru": "Утром я бегаю в парке."
+                },
+                {
+                  "en": "At noon, I meet my friends for lunch.",
+                  "ru": "В полдень я встречаюсь с друзьями на обед."
+                },
+                {
+                  "en": "In summer, we often go to the lake.",
+                  "ru": "Летом мы часто ездим на озеро."
+                },
+                {
+                  "en": "On Sundays, my family has dinner together.",
+                  "ru": "По воскресеньям моя семья ужинает вместе."
+                },
+                {
+                  "en": "We usually eat at seven in the evening.",
+                  "ru": "Обычно мы едим в семь вечера."
+                },
+                {
+                  "en": "In December, we celebrate the New Year.",
+                  "ru": "В декабре мы празднуем Новый год."
+                },
+                {
+                  "en": "At midnight, we say \"Happy New Year!\"",
+                  "ru": "В полночь мы говорим «С Новым годом!»"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Во сколько человек просыпается по субботам?",
+                "options": [
+                  "В восемь",
+                  "В девять",
+                  "В десять",
+                  "В семь"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Куда семья ездит летом?",
+                "options": [
+                  "В горы",
+                  "На озеро",
+                  "За границу",
+                  "В деревню"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что происходит в полночь в декабре?",
+                "options": [
+                  "Ужин",
+                  "Поздравление с Новым годом",
+                  "Сон",
+                  "Работа"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l17-p2",
-            "number": 84,
+            "number": 92,
             "title": "Suggestions & Invitations (Part 2)",
             "titleNative": "Предложения и приглашения · Часть 2",
             "description": "Let's, why don't we, how about, would you like to",
@@ -7313,7 +7945,7 @@
           },
           {
             "id": "a2-l18-p1",
-            "number": 85,
+            "number": 93,
             "title": "Prepositions of Time: in/on/at (Part 1)",
             "titleNative": "Предлоги времени: in/on/at · Часть 1",
             "description": "Choosing the right preposition for dates, days, and times",
@@ -7402,7 +8034,7 @@
           },
           {
             "id": "a2-l18-p2",
-            "number": 86,
+            "number": 94,
             "title": "Prepositions of Time: in/on/at (Part 2)",
             "titleNative": "Предлоги времени: in/on/at · Часть 2",
             "description": "Choosing the right preposition for dates, days, and times",
@@ -7499,7 +8131,7 @@
         "lessons": [
           {
             "id": "b1-l1-p1",
-            "number": 87,
+            "number": 95,
             "title": "Present Perfect (Part 1)",
             "titleNative": "Настоящее совершенное · Часть 1",
             "description": "Experiences and recent events",
@@ -7588,7 +8220,7 @@
           },
           {
             "id": "b1-l1-p2",
-            "number": 88,
+            "number": 96,
             "title": "Present Perfect (Part 2)",
             "titleNative": "Настоящее совершенное · Часть 2",
             "description": "Experiences and recent events",
@@ -7677,7 +8309,7 @@
           },
           {
             "id": "b1-l2-p1",
-            "number": 89,
+            "number": 97,
             "title": "First Conditional (Part 1)",
             "titleNative": "Первое условное · Часть 1",
             "description": "Real future possibilities",
@@ -7766,7 +8398,7 @@
           },
           {
             "id": "b1-reading-1",
-            "number": 90,
+            "number": 98,
             "title": "A Well-Traveled Life",
             "titleNative": "Жизнь, полная путешествий",
             "description": "Рассказ о жизненном опыте — тренируем Present Perfect.",
@@ -7841,7 +8473,7 @@
           },
           {
             "id": "b1-l2-p2",
-            "number": 91,
+            "number": 99,
             "title": "First Conditional (Part 2)",
             "titleNative": "Первое условное · Часть 2",
             "description": "Real future possibilities",
@@ -7930,7 +8562,7 @@
           },
           {
             "id": "b1-l3-p1",
-            "number": 92,
+            "number": 100,
             "title": "Second Conditional (Part 1)",
             "titleNative": "Второе условное · Часть 1",
             "description": "Hypothetical and unreal situations",
@@ -8019,7 +8651,7 @@
           },
           {
             "id": "b1-l3-p2",
-            "number": 93,
+            "number": 101,
             "title": "Second Conditional (Part 2)",
             "titleNative": "Второе условное · Часть 2",
             "description": "Hypothetical and unreal situations",
@@ -8108,7 +8740,7 @@
           },
           {
             "id": "b1-reading-2",
-            "number": 94,
+            "number": 102,
             "title": "What Would You Do?",
             "titleNative": "Что бы ты сделал?",
             "description": "Рассказ о гипотетической ситуации — тренируем First и Second Conditional.",
@@ -8183,7 +8815,7 @@
           },
           {
             "id": "b1-l4-p1",
-            "number": 95,
+            "number": 103,
             "title": "Passive Voice (Part 1)",
             "titleNative": "Страдательный залог · Часть 1",
             "description": "When the action matters more than who did it",
@@ -8272,7 +8904,7 @@
           },
           {
             "id": "b1-l4-p2",
-            "number": 96,
+            "number": 104,
             "title": "Passive Voice (Part 2)",
             "titleNative": "Страдательный залог · Часть 2",
             "description": "When the action matters more than who did it",
@@ -8361,7 +8993,7 @@
           },
           {
             "id": "b1-l5-p1",
-            "number": 97,
+            "number": 105,
             "title": "Reported Speech (Part 1)",
             "titleNative": "Косвенная речь · Часть 1",
             "description": "Reporting what someone said",
@@ -8450,7 +9082,7 @@
           },
           {
             "id": "b1-reading-3",
-            "number": 98,
+            "number": 106,
             "title": "The Meeting That Almost Didn't Happen",
             "titleNative": "Встреча, которая чуть не сорвалась",
             "description": "Итоговый рассказ уровня B1 — сочетание пассивного залога и косвенной речи.",
@@ -8525,7 +9157,7 @@
           },
           {
             "id": "b1-l5-p2",
-            "number": 99,
+            "number": 107,
             "title": "Reported Speech (Part 2)",
             "titleNative": "Косвенная речь · Часть 2",
             "description": "Reporting what someone said",
@@ -8614,7 +9246,7 @@
           },
           {
             "id": "b1-l6-p1",
-            "number": 100,
+            "number": 108,
             "title": "Making Suggestions (Part 1)",
             "titleNative": "Предложения и советы · Часть 1",
             "description": "Proposing ideas and giving advice",
@@ -8703,7 +9335,7 @@
           },
           {
             "id": "b1-l6-p2",
-            "number": 101,
+            "number": 109,
             "title": "Making Suggestions (Part 2)",
             "titleNative": "Предложения и советы · Часть 2",
             "description": "Proposing ideas and giving advice",
@@ -8791,8 +9423,87 @@
             ]
           },
           {
+            "id": "b1-reading-4",
+            "number": 110,
+            "title": "Still Waiting",
+            "titleNative": "Всё ещё жду",
+            "description": "Ожидание работы — тренируем present perfect continuous.",
+            "readingPassage": {
+              "context": "Ожидание работы — тренируем present perfect continuous.",
+              "paragraphs": [
+                {
+                  "en": "I have been waiting for this job offer for two months.",
+                  "ru": "Я жду это предложение о работе уже два месяца."
+                },
+                {
+                  "en": "I have been checking my email every single day.",
+                  "ru": "Я проверяю почту буквально каждый день."
+                },
+                {
+                  "en": "My friends have been telling me to be patient.",
+                  "ru": "Друзья говорят мне быть терпеливым."
+                },
+                {
+                  "en": "I haven't been sleeping very well because of the stress.",
+                  "ru": "Я плохо сплю из-за стресса."
+                },
+                {
+                  "en": "Yesterday, I finally received a call from the company.",
+                  "ru": "Вчера мне наконец позвонили из компании."
+                },
+                {
+                  "en": "They have been reviewing my application carefully.",
+                  "ru": "Они внимательно рассматривали моё резюме."
+                },
+                {
+                  "en": "Now I have been preparing for the final interview.",
+                  "ru": "Теперь я готовлюсь к финальному собеседованию."
+                },
+                {
+                  "en": "I have been feeling much more hopeful since that call.",
+                  "ru": "С того звонка я чувствую себя намного увереннее."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько времени человек ждёт предложение?",
+                "options": [
+                  "Неделю",
+                  "Два месяца",
+                  "Год",
+                  "День"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорили друзья?",
+                "options": [
+                  "Забыть об этом",
+                  "Быть терпеливым",
+                  "Искать другую работу",
+                  "Ничего не говорили"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что человек делает теперь?",
+                "options": [
+                  "Ищет новую работу",
+                  "Готовится к собеседованию",
+                  "Уезжает",
+                  "Спит"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1-l7-p1",
-            "number": 102,
+            "number": 111,
             "title": "Present Perfect Continuous (Part 1)",
             "titleNative": "Present Perfect Continuous · Часть 1",
             "description": "Ongoing actions and how long they've been happening",
@@ -8881,7 +9592,7 @@
           },
           {
             "id": "b1-l7-p2",
-            "number": 103,
+            "number": 112,
             "title": "Present Perfect Continuous (Part 2)",
             "titleNative": "Present Perfect Continuous · Часть 2",
             "description": "Ongoing actions and how long they've been happening",
@@ -8970,7 +9681,7 @@
           },
           {
             "id": "b1-l8-p1",
-            "number": 104,
+            "number": 113,
             "title": "Relative Clauses (Part 1)",
             "titleNative": "Относительные придаточные · Часть 1",
             "description": "Who, which, that, where, whose — adding detail to nouns",
@@ -9058,8 +9769,87 @@
             ]
           },
           {
+            "id": "b1-reading-5",
+            "number": 114,
+            "title": "The House That Changed Everything",
+            "titleNative": "Дом, который всё изменил",
+            "description": "Воспоминания о родном доме — тренируем относительные придаточные.",
+            "readingPassage": {
+              "context": "Воспоминания о родном доме — тренируем относительные придаточные.",
+              "paragraphs": [
+                {
+                  "en": "This is the house where I spent my childhood.",
+                  "ru": "Это дом, где я провёл детство."
+                },
+                {
+                  "en": "The street where it stands has changed a lot.",
+                  "ru": "Улица, где он стоит, сильно изменилась."
+                },
+                {
+                  "en": "My neighbor, who still lives there, remembers everything.",
+                  "ru": "Мой сосед, который до сих пор там живёт, помнит всё."
+                },
+                {
+                  "en": "The tree that we planted together is now enormous.",
+                  "ru": "Дерево, которое мы посадили вместе, теперь огромное."
+                },
+                {
+                  "en": "I remember the day when we first moved in.",
+                  "ru": "Я помню день, когда мы туда переехали."
+                },
+                {
+                  "en": "The room where I used to sleep is now an office.",
+                  "ru": "Комната, где я раньше спал, теперь офис."
+                },
+                {
+                  "en": "The family who bought the house seems very kind.",
+                  "ru": "Семья, которая купила дом, кажется очень доброй."
+                },
+                {
+                  "en": "It's strange to visit a place that holds so many memories.",
+                  "ru": "Странно посещать место, которое хранит столько воспоминаний."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Кто до сих пор живёт на той улице?",
+                "options": [
+                  "Друг",
+                  "Сосед",
+                  "Брат",
+                  "Никто"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что стало с комнатой, где спал герой?",
+                "options": [
+                  "Кухня",
+                  "Офис",
+                  "Гараж",
+                  "Спальня для гостей"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая семья купила дом?",
+                "options": [
+                  "Странная",
+                  "Добрая",
+                  "Богатая",
+                  "Незнакомая"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1-l8-p2",
-            "number": 105,
+            "number": 115,
             "title": "Relative Clauses (Part 2)",
             "titleNative": "Относительные придаточные · Часть 2",
             "description": "Who, which, that, where, whose — adding detail to nouns",
@@ -9148,7 +9938,7 @@
           },
           {
             "id": "b1-l9-p1",
-            "number": 106,
+            "number": 116,
             "title": "Zero Conditional (Part 1)",
             "titleNative": "Нулевой тип условных предложений · Часть 1",
             "description": "General truths and automatic results",
@@ -9237,7 +10027,7 @@
           },
           {
             "id": "b1-l9-p2",
-            "number": 107,
+            "number": 117,
             "title": "Zero Conditional (Part 2)",
             "titleNative": "Нулевой тип условных предложений · Часть 2",
             "description": "General truths and automatic results",
@@ -9325,8 +10115,87 @@
             ]
           },
           {
+            "id": "b1-reading-6",
+            "number": 118,
+            "title": "Simple Truths About Life",
+            "titleNative": "Простые истины о жизни",
+            "description": "Житейская мудрость бабушки — тренируем нулевой тип условных предложений.",
+            "readingPassage": {
+              "context": "Житейская мудрость бабушки — тренируем нулевой тип условных предложений.",
+              "paragraphs": [
+                {
+                  "en": "If you exercise regularly, your body gets stronger.",
+                  "ru": "Если ты регулярно занимаешься спортом, твоё тело становится сильнее."
+                },
+                {
+                  "en": "If people don't sleep enough, they get tired and irritable.",
+                  "ru": "Если люди мало спят, они устают и раздражаются."
+                },
+                {
+                  "en": "If you water a plant, it grows.",
+                  "ru": "Если поливать растение, оно растёт."
+                },
+                {
+                  "en": "My grandmother always says that if you're honest, people trust you.",
+                  "ru": "Моя бабушка всегда говорит, что если ты честен, люди тебе доверяют."
+                },
+                {
+                  "en": "If it rains a lot, the rivers rise.",
+                  "ru": "Если идёт сильный дождь, реки поднимаются."
+                },
+                {
+                  "en": "If you don't practice a language, you forget it.",
+                  "ru": "Если не практиковать язык, его забываешь."
+                },
+                {
+                  "en": "She believes that if you help others, you feel happier yourself.",
+                  "ru": "Она верит, что если помогать другим, сам чувствуешь себя счастливее."
+                },
+                {
+                  "en": "These simple truths never really change.",
+                  "ru": "Эти простые истины никогда по-настоящему не меняются."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что происходит, если поливать растение?",
+                "options": [
+                  "Оно умирает",
+                  "Оно растёт",
+                  "Ничего",
+                  "Оно вянет"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит бабушка о честности?",
+                "options": [
+                  "Люди не доверяют",
+                  "Люди доверяют",
+                  "Это неважно",
+                  "Это опасно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что происходит, если не практиковать язык?",
+                "options": [
+                  "Его забываешь",
+                  "Он улучшается",
+                  "Ничего",
+                  "Становится легче"
+                ],
+                "answerIndex": 0
+              }
+            ]
+          },
+          {
             "id": "b1-l10-p1",
-            "number": 108,
+            "number": 119,
             "title": "Gerunds vs Infinitives (Part 1)",
             "titleNative": "Герундий и инфинитив · Часть 1",
             "description": "Verb + -ing vs verb + to — which pattern to use",
@@ -9415,7 +10284,7 @@
           },
           {
             "id": "b1-l10-p2",
-            "number": 109,
+            "number": 120,
             "title": "Gerunds vs Infinitives (Part 2)",
             "titleNative": "Герундий и инфинитив · Часть 2",
             "description": "Verb + -ing vs verb + to — which pattern to use",
@@ -9512,7 +10381,7 @@
         "lessons": [
           {
             "id": "b1plus-l1-p1",
-            "number": 110,
+            "number": 121,
             "title": "Phrasal Verbs (Part 1)",
             "titleNative": "Фразовые глаголы · Часть 1",
             "description": "Everyday two-word verbs native speakers actually use",
@@ -9601,7 +10470,7 @@
           },
           {
             "id": "b1plus-l1-p2",
-            "number": 111,
+            "number": 122,
             "title": "Phrasal Verbs (Part 2)",
             "titleNative": "Фразовые глаголы · Часть 2",
             "description": "Everyday two-word verbs native speakers actually use",
@@ -9690,7 +10559,7 @@
           },
           {
             "id": "b1plus-l2-p1",
-            "number": 112,
+            "number": 123,
             "title": "Sharing Opinions (Part 1)",
             "titleNative": "Выражение мнения · Часть 1",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
@@ -9779,7 +10648,7 @@
           },
           {
             "id": "b1plus-reading-1",
-            "number": 113,
+            "number": 124,
             "title": "Giving Up on the Old Plan",
             "titleNative": "Отказ от старого плана",
             "description": "Рассказ с фразовыми глаголами — тренируем их в естественном контексте.",
@@ -9854,7 +10723,7 @@
           },
           {
             "id": "b1plus-l2-p2",
-            "number": 114,
+            "number": 125,
             "title": "Sharing Opinions (Part 2)",
             "titleNative": "Выражение мнения · Часть 2",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
@@ -9943,7 +10812,7 @@
           },
           {
             "id": "b1plus-l3-p1",
-            "number": 115,
+            "number": 126,
             "title": "Third Conditional (Part 1)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 1",
             "description": "Regrets and hypothetical past outcomes",
@@ -10032,7 +10901,7 @@
           },
           {
             "id": "b1plus-l3-p2",
-            "number": 116,
+            "number": 127,
             "title": "Third Conditional (Part 2)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 2",
             "description": "Regrets and hypothetical past outcomes",
@@ -10121,7 +10990,7 @@
           },
           {
             "id": "b1plus-reading-2",
-            "number": 117,
+            "number": 128,
             "title": "Two Views on Remote Work",
             "titleNative": "Два взгляда на удалённую работу",
             "description": "Рассказ-дискуссия — тренируем выражение и защиту мнения.",
@@ -10196,7 +11065,7 @@
           },
           {
             "id": "b1plus-l4-p1",
-            "number": 118,
+            "number": 129,
             "title": "Reported Questions (Part 1)",
             "titleNative": "Косвенные вопросы · Часть 1",
             "description": "Asking and reporting questions politely and indirectly",
@@ -10285,7 +11154,7 @@
           },
           {
             "id": "b1plus-l4-p2",
-            "number": 119,
+            "number": 130,
             "title": "Reported Questions (Part 2)",
             "titleNative": "Косвенные вопросы · Часть 2",
             "description": "Asking and reporting questions politely and indirectly",
@@ -10374,7 +11243,7 @@
           },
           {
             "id": "b1plus-l5-p1",
-            "number": 120,
+            "number": 131,
             "title": "Modals of Deduction (Part 1)",
             "titleNative": "Модальные глаголы предположения · Часть 1",
             "description": "Guessing what must, might, or can't be true",
@@ -10463,7 +11332,7 @@
           },
           {
             "id": "b1plus-reading-3",
-            "number": 121,
+            "number": 132,
             "title": "If Only I Had Known",
             "titleNative": "Если бы я только знал",
             "description": "Итоговый рассказ уровня B1+ — Third Conditional и предположения о прошлом.",
@@ -10538,7 +11407,7 @@
           },
           {
             "id": "b1plus-l5-p2",
-            "number": 122,
+            "number": 133,
             "title": "Modals of Deduction (Part 2)",
             "titleNative": "Модальные глаголы предположения · Часть 2",
             "description": "Guessing what must, might, or can't be true",
@@ -10627,7 +11496,7 @@
           },
           {
             "id": "b1plus-l6-p1",
-            "number": 123,
+            "number": 134,
             "title": "Comparisons & Contrasts (Part 1)",
             "titleNative": "Сравнения и противопоставления · Часть 1",
             "description": "Weighing options and highlighting differences",
@@ -10716,7 +11585,7 @@
           },
           {
             "id": "b1plus-l6-p2",
-            "number": 124,
+            "number": 135,
             "title": "Comparisons & Contrasts (Part 2)",
             "titleNative": "Сравнения и противопоставления · Часть 2",
             "description": "Weighing options and highlighting differences",
@@ -10804,8 +11673,87 @@
             ]
           },
           {
+            "id": "b1plus-reading-4",
+            "number": 136,
+            "title": "Too Late",
+            "titleNative": "Слишком поздно",
+            "description": "Опоздание на рейс — тренируем past perfect.",
+            "readingPassage": {
+              "context": "Опоздание на рейс — тренируем past perfect.",
+              "paragraphs": [
+                {
+                  "en": "When I arrived at the airport, the plane had already left.",
+                  "ru": "Когда я приехал в аэропорт, самолёт уже улетел."
+                },
+                {
+                  "en": "I had never missed a flight before that day.",
+                  "ru": "Я никогда раньше не опаздывал на рейс до того дня."
+                },
+                {
+                  "en": "I had checked the time three times that morning.",
+                  "ru": "Я трижды проверял время в то утро."
+                },
+                {
+                  "en": "Unfortunately, I hadn't accounted for the traffic.",
+                  "ru": "К сожалению, я не учёл пробки."
+                },
+                {
+                  "en": "By the time I got to the gate, it had already closed.",
+                  "ru": "К тому времени, как я добрался до выхода, он уже был закрыт."
+                },
+                {
+                  "en": "I had forgotten how unpredictable this city could be.",
+                  "ru": "Я забыл, насколько непредсказуем этот город."
+                },
+                {
+                  "en": "The staff told me they had rebooked me for the next day.",
+                  "ru": "Сотрудники сказали, что перебронировали меня на следующий день."
+                },
+                {
+                  "en": "I had learned an important lesson about planning ahead.",
+                  "ru": "Я усвоил важный урок о том, что нужно планировать заранее."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что случилось, когда герой приехал в аэропорт?",
+                "options": [
+                  "Самолёт ещё не улетел",
+                  "Самолёт уже улетел",
+                  "Рейс отменили",
+                  "Он был рано"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что герой не учёл?",
+                "options": [
+                  "Погоду",
+                  "Пробки",
+                  "Билет",
+                  "Паспорт"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "На когда его перебронировали?",
+                "options": [
+                  "На тот же день",
+                  "На следующий день",
+                  "Через неделю",
+                  "Никогда"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1plus-l7-p1",
-            "number": 125,
+            "number": 137,
             "title": "Past Perfect (Part 1)",
             "titleNative": "Past Perfect · Часть 1",
             "description": "An action that happened before another past action",
@@ -10894,7 +11842,7 @@
           },
           {
             "id": "b1plus-l7-p2",
-            "number": 126,
+            "number": 138,
             "title": "Past Perfect (Part 2)",
             "titleNative": "Past Perfect · Часть 2",
             "description": "An action that happened before another past action",
@@ -10983,7 +11931,7 @@
           },
           {
             "id": "b1plus-l8-p1",
-            "number": 127,
+            "number": 139,
             "title": "Causative: Have/Get Something Done (Part 1)",
             "titleNative": "Каузативная конструкция have/get something done · Часть 1",
             "description": "Talking about services someone else performs for you",
@@ -11071,8 +12019,87 @@
             ]
           },
           {
+            "id": "b1plus-reading-5",
+            "number": 140,
+            "title": "A Day at the Spa",
+            "titleNative": "День в спа-салоне",
+            "description": "День услуг — тренируем каузативную конструкцию have/get something done.",
+            "readingPassage": {
+              "context": "День услуг — тренируем каузативную конструкцию have/get something done.",
+              "paragraphs": [
+                {
+                  "en": "Last weekend, I had my hair cut at a new salon.",
+                  "ru": "В прошлые выходные я подстригся в новом салоне."
+                },
+                {
+                  "en": "I also had my nails done while I was there.",
+                  "ru": "Пока я был там, я также сделал маникюр."
+                },
+                {
+                  "en": "My friend had her makeup done for a special event.",
+                  "ru": "Моя подруга сделала макияж для особого события."
+                },
+                {
+                  "en": "We had our photos taken afterward.",
+                  "ru": "После этого мы сделали фотографии."
+                },
+                {
+                  "en": "Later, I got my car washed on the way home.",
+                  "ru": "Позже по дороге домой я помыл машину."
+                },
+                {
+                  "en": "I need to get my phone screen repaired soon.",
+                  "ru": "Мне скоро нужно починить экран телефона."
+                },
+                {
+                  "en": "It felt good to have everything taken care of in one day.",
+                  "ru": "Было приятно, что всё было сделано за один день."
+                },
+                {
+                  "en": "I'm definitely going back to that salon next month.",
+                  "ru": "Я точно вернусь в тот салон в следующем месяце."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что сделал герой в новом салоне?",
+                "options": [
+                  "Подстригся",
+                  "Купил одежду",
+                  "Позавтракал",
+                  "Ничего"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сделала подруга?",
+                "options": [
+                  "Постриглась",
+                  "Сделала макияж",
+                  "Купила туфли",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что нужно починить герою?",
+                "options": [
+                  "Машину",
+                  "Экран телефона",
+                  "Часы",
+                  "Ноутбук"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1plus-l8-p2",
-            "number": 128,
+            "number": 141,
             "title": "Causative: Have/Get Something Done (Part 2)",
             "titleNative": "Каузативная конструкция have/get something done · Часть 2",
             "description": "Talking about services someone else performs for you",
@@ -11161,7 +12188,7 @@
           },
           {
             "id": "b1plus-l9-p1",
-            "number": 129,
+            "number": 142,
             "title": "Used to vs Would (Part 1)",
             "titleNative": "Used to и would для прошлых привычек · Часть 1",
             "description": "Two ways to describe repeated past actions and states",
@@ -11250,7 +12277,7 @@
           },
           {
             "id": "b1plus-l9-p2",
-            "number": 130,
+            "number": 143,
             "title": "Used to vs Would (Part 2)",
             "titleNative": "Used to и would для прошлых привычек · Часть 2",
             "description": "Two ways to describe repeated past actions and states",
@@ -11347,7 +12374,7 @@
         "lessons": [
           {
             "id": "b2-l1-p1",
-            "number": 131,
+            "number": 144,
             "title": "Wishes & Regrets (Part 1)",
             "titleNative": "Желания и сожаления · Часть 1",
             "description": "Wish, if only, and things you'd change",
@@ -11436,7 +12463,7 @@
           },
           {
             "id": "b2-l1-p2",
-            "number": 132,
+            "number": 145,
             "title": "Wishes & Regrets (Part 2)",
             "titleNative": "Желания и сожаления · Часть 2",
             "description": "Wish, if only, and things you'd change",
@@ -11525,7 +12552,7 @@
           },
           {
             "id": "b2-l2-p1",
-            "number": 133,
+            "number": 146,
             "title": "Mixed Conditionals (Part 1)",
             "titleNative": "Смешанные условные предложения · Часть 1",
             "description": "Past causes with present results, and the reverse",
@@ -11614,7 +12641,7 @@
           },
           {
             "id": "b2-reading-1",
-            "number": 134,
+            "number": 147,
             "title": "A Career I Never Chased",
             "titleNative": "Карьера, за которой я не гнался",
             "description": "Рассказ о сожалениях и смешанных условных предложениях.",
@@ -11689,7 +12716,7 @@
           },
           {
             "id": "b2-l2-p2",
-            "number": 135,
+            "number": 148,
             "title": "Mixed Conditionals (Part 2)",
             "titleNative": "Смешанные условные предложения · Часть 2",
             "description": "Past causes with present results, and the reverse",
@@ -11778,7 +12805,7 @@
           },
           {
             "id": "b2-l3-p1",
-            "number": 136,
+            "number": 149,
             "title": "Advanced Passive (Part 1)",
             "titleNative": "Продвинутый страдательный залог · Часть 1",
             "description": "Passive with modals and perfect forms",
@@ -11867,7 +12894,7 @@
           },
           {
             "id": "b2-l3-p2",
-            "number": 137,
+            "number": 150,
             "title": "Advanced Passive (Part 2)",
             "titleNative": "Продвинутый страдательный залог · Часть 2",
             "description": "Passive with modals and perfect forms",
@@ -11956,7 +12983,7 @@
           },
           {
             "id": "b2-reading-2",
-            "number": 138,
+            "number": 151,
             "title": "The Algorithm Knows Best?",
             "titleNative": "Алгоритм знает лучше?",
             "description": "Рассказ на тему общества и технологий — тренируем продвинутый пассив и слова-связки.",
@@ -12031,7 +13058,7 @@
           },
           {
             "id": "b2-l4-p1",
-            "number": 139,
+            "number": 152,
             "title": "Emphasis & Inversion (Part 1)",
             "titleNative": "Эмфаза и инверсия · Часть 1",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -12120,7 +13147,7 @@
           },
           {
             "id": "b2-l4-p2",
-            "number": 140,
+            "number": 153,
             "title": "Emphasis & Inversion (Part 2)",
             "titleNative": "Эмфаза и инверсия · Часть 2",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -12209,7 +13236,7 @@
           },
           {
             "id": "b2-l5-p1",
-            "number": 141,
+            "number": 154,
             "title": "Society & Technology (Part 1)",
             "titleNative": "Общество и технологии · Часть 1",
             "description": "Discussing abstract, current issues with nuance",
@@ -12298,7 +13325,7 @@
           },
           {
             "id": "b2-reading-3",
-            "number": 142,
+            "number": 155,
             "title": "Never Had I Expected This",
             "titleNative": "Никогда я такого не ожидал",
             "description": "Итоговый рассказ уровня B2 — инверсия и эмфатические конструкции.",
@@ -12373,7 +13400,7 @@
           },
           {
             "id": "b2-l5-p2",
-            "number": 143,
+            "number": 156,
             "title": "Society & Technology (Part 2)",
             "titleNative": "Общество и технологии · Часть 2",
             "description": "Discussing abstract, current issues with nuance",
@@ -12462,7 +13489,7 @@
           },
           {
             "id": "b2-l6-p1",
-            "number": 144,
+            "number": 157,
             "title": "Advanced Linking Words (Part 1)",
             "titleNative": "Продвинутые слова-связки · Часть 1",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
@@ -12551,7 +13578,7 @@
           },
           {
             "id": "b2-l6-p2",
-            "number": 145,
+            "number": 158,
             "title": "Advanced Linking Words (Part 2)",
             "titleNative": "Продвинутые слова-связки · Часть 2",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
@@ -12639,8 +13666,87 @@
             ]
           },
           {
+            "id": "b2-reading-4",
+            "number": 159,
+            "title": "Five Years From Now",
+            "titleNative": "Через пять лет",
+            "description": "Взгляд в будущее — тренируем future perfect и future continuous.",
+            "readingPassage": {
+              "context": "Взгляд в будущее — тренируем future perfect и future continuous.",
+              "paragraphs": [
+                {
+                  "en": "By the time I turn thirty, I will have finished my degree.",
+                  "ru": "К тому времени, как мне исполнится тридцать, я закончу учёбу."
+                },
+                {
+                  "en": "This time next year, I will be working in a new city.",
+                  "ru": "В это время в следующем году я буду работать в новом городе."
+                },
+                {
+                  "en": "By then, I will have saved enough money for my own apartment.",
+                  "ru": "К тому времени я накоплю достаточно денег на свою квартиру."
+                },
+                {
+                  "en": "My parents will still be living in our old house.",
+                  "ru": "Мои родители всё ещё будут жить в нашем старом доме."
+                },
+                {
+                  "en": "In five years, I will have traveled to at least ten countries.",
+                  "ru": "Через пять лет я побываю как минимум в десяти странах."
+                },
+                {
+                  "en": "I will probably be learning a third language by then.",
+                  "ru": "К тому времени я, вероятно, буду изучать третий язык."
+                },
+                {
+                  "en": "My career will have taken a completely different direction.",
+                  "ru": "Моя карьера примет совершенно другое направление."
+                },
+                {
+                  "en": "It's exciting to imagine how much will have changed.",
+                  "ru": "Волнительно представлять, как много изменится."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что герой закончит к тридцати годам?",
+                "options": [
+                  "Школу",
+                  "Учёбу в университете",
+                  "Работу",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Где будут жить родители через год?",
+                "options": [
+                  "В новом доме",
+                  "В старом доме",
+                  "За границей",
+                  "Неизвестно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько стран герой посетит через пять лет?",
+                "options": [
+                  "Пять",
+                  "Десять",
+                  "Двадцать",
+                  "Ни одной"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2-l7-p1",
-            "number": 146,
+            "number": 160,
             "title": "Future Perfect & Future Continuous (Part 1)",
             "titleNative": "Future Perfect и Future Continuous · Часть 1",
             "description": "Actions completed by a future point, or in progress at one",
@@ -12729,7 +13835,7 @@
           },
           {
             "id": "b2-l7-p2",
-            "number": 147,
+            "number": 161,
             "title": "Future Perfect & Future Continuous (Part 2)",
             "titleNative": "Future Perfect и Future Continuous · Часть 2",
             "description": "Actions completed by a future point, or in progress at one",
@@ -12818,7 +13924,7 @@
           },
           {
             "id": "b2-l8-p1",
-            "number": 148,
+            "number": 162,
             "title": "Cleft Sentences (Part 1)",
             "titleNative": "Расщеплённые предложения · Часть 1",
             "description": "What.../It... structures that add emphasis",
@@ -12906,8 +14012,87 @@
             ]
           },
           {
+            "id": "b2-reading-5",
+            "number": 163,
+            "title": "What Really Matters",
+            "titleNative": "Что действительно важно",
+            "description": "Воспоминания о бабушкиной кухне — тренируем расщеплённые предложения.",
+            "readingPassage": {
+              "context": "Воспоминания о бабушкиной кухне — тренируем расщеплённые предложения.",
+              "paragraphs": [
+                {
+                  "en": "What I remember most about my childhood is the smell of my grandmother's kitchen.",
+                  "ru": "Больше всего из детства я помню запах кухни моей бабушки."
+                },
+                {
+                  "en": "It was her, not my parents, who taught me how to cook.",
+                  "ru": "Именно она, а не родители, научила меня готовить."
+                },
+                {
+                  "en": "What she gave me wasn't just recipes, but patience.",
+                  "ru": "То, что она мне дала, было не просто рецептами, а терпением."
+                },
+                {
+                  "en": "It was in that small kitchen that I learned to slow down.",
+                  "ru": "Именно на той маленькой кухне я научился не спешить."
+                },
+                {
+                  "en": "What surprises me now is how much I think about those days.",
+                  "ru": "Меня сейчас удивляет, как часто я думаю о тех днях."
+                },
+                {
+                  "en": "It was food that connected our whole family.",
+                  "ru": "Именно еда объединяла всю нашу семью."
+                },
+                {
+                  "en": "What I try to do now is pass that feeling on to my own children.",
+                  "ru": "То, что я стараюсь делать сейчас, — это передать это чувство своим детям."
+                },
+                {
+                  "en": "All that really matters, in the end, is the people we shared meals with.",
+                  "ru": "В конце концов, важны только люди, с которыми мы делили эти трапезы."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Кто научил героя готовить?",
+                "options": [
+                  "Родители",
+                  "Бабушка",
+                  "Учитель",
+                  "Друг"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что герой пытается делать сейчас?",
+                "options": [
+                  "Забыть детство",
+                  "Передать чувство своим детям",
+                  "Открыть ресторан",
+                  "Уехать"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению героя, действительно важно?",
+                "options": [
+                  "Деньги",
+                  "Люди, с которыми делишь трапезы",
+                  "Рецепты",
+                  "Кухня"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2-l8-p2",
-            "number": 149,
+            "number": 164,
             "title": "Cleft Sentences (Part 2)",
             "titleNative": "Расщеплённые предложения · Часть 2",
             "description": "What.../It... structures that add emphasis",
@@ -13004,7 +14189,7 @@
         "lessons": [
           {
             "id": "b2plus-l1-p1",
-            "number": 150,
+            "number": 165,
             "title": "Hedging & Softening (Part 1)",
             "titleNative": "Смягчение высказываний · Часть 1",
             "description": "Sounding diplomatic instead of blunt",
@@ -13093,7 +14278,7 @@
           },
           {
             "id": "b2plus-l1-p2",
-            "number": 151,
+            "number": 166,
             "title": "Hedging & Softening (Part 2)",
             "titleNative": "Смягчение высказываний · Часть 2",
             "description": "Sounding diplomatic instead of blunt",
@@ -13182,7 +14367,7 @@
           },
           {
             "id": "b2plus-l2-p1",
-            "number": 152,
+            "number": 167,
             "title": "Idiomatic Collocations (Part 1)",
             "titleNative": "Идиоматические сочетания · Часть 1",
             "description": "Word pairings that make you sound like a native speaker",
@@ -13271,7 +14456,7 @@
           },
           {
             "id": "b2plus-reading-1",
-            "number": 153,
+            "number": 168,
             "title": "Learning to Say No",
             "titleNative": "Учимся говорить нет",
             "description": "Рассказ с элементами смягчённой речи и фразовых глаголов.",
@@ -13346,7 +14531,7 @@
           },
           {
             "id": "b2plus-l2-p2",
-            "number": 154,
+            "number": 169,
             "title": "Idiomatic Collocations (Part 2)",
             "titleNative": "Идиоматические сочетания · Часть 2",
             "description": "Word pairings that make you sound like a native speaker",
@@ -13435,7 +14620,7 @@
           },
           {
             "id": "b2plus-l3-p1",
-            "number": 155,
+            "number": 170,
             "title": "Narrative Tense Mixing (Part 1)",
             "titleNative": "Смешение времён в повествовании · Часть 1",
             "description": "Weaving past, past perfect, and past continuous naturally",
@@ -13524,7 +14709,7 @@
           },
           {
             "id": "b2plus-l3-p2",
-            "number": 156,
+            "number": 171,
             "title": "Narrative Tense Mixing (Part 2)",
             "titleNative": "Смешение времён в повествовании · Часть 2",
             "description": "Weaving past, past perfect, and past continuous naturally",
@@ -13613,7 +14798,7 @@
           },
           {
             "id": "b2plus-reading-2",
-            "number": 157,
+            "number": 172,
             "title": "A Diplomatic Disagreement",
             "titleNative": "Дипломатичное несогласие",
             "description": "Диалог-рассказ с выражением мнения и уступительными конструкциями.",
@@ -13688,7 +14873,7 @@
           },
           {
             "id": "b2plus-l4-p1",
-            "number": 158,
+            "number": 173,
             "title": "Formal Register (Part 1)",
             "titleNative": "Официальный регистр речи · Часть 1",
             "description": "Sounding polished in emails, meetings, and presentations",
@@ -13777,7 +14962,7 @@
           },
           {
             "id": "b2plus-l4-p2",
-            "number": 159,
+            "number": 174,
             "title": "Formal Register (Part 2)",
             "titleNative": "Официальный регистр речи · Часть 2",
             "description": "Sounding polished in emails, meetings, and presentations",
@@ -13866,7 +15051,7 @@
           },
           {
             "id": "b2plus-l5-p1",
-            "number": 160,
+            "number": 175,
             "title": "Attitude & Emotion (Part 1)",
             "titleNative": "Отношение и эмоции · Часть 1",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
@@ -13955,7 +15140,7 @@
           },
           {
             "id": "b2plus-reading-3",
-            "number": 161,
+            "number": 176,
             "title": "The Weight of Small Talk",
             "titleNative": "Вес светской беседы",
             "description": "Итоговый рассказ уровня B2+ — эмоции и отношение, идиоматические сочетания.",
@@ -14030,7 +15215,7 @@
           },
           {
             "id": "b2plus-l5-p2",
-            "number": 162,
+            "number": 177,
             "title": "Attitude & Emotion (Part 2)",
             "titleNative": "Отношение и эмоции · Часть 2",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
@@ -14119,7 +15304,7 @@
           },
           {
             "id": "b2plus-l6-p1",
-            "number": 163,
+            "number": 178,
             "title": "Nuanced Modality (Part 1)",
             "titleNative": "Тонкие оттенки модальности · Часть 1",
             "description": "Precise shades of possibility, obligation, and permission",
@@ -14208,7 +15393,7 @@
           },
           {
             "id": "b2plus-l6-p2",
-            "number": 164,
+            "number": 179,
             "title": "Nuanced Modality (Part 2)",
             "titleNative": "Тонкие оттенки модальности · Часть 2",
             "description": "Precise shades of possibility, obligation, and permission",
@@ -14296,8 +15481,87 @@
             ]
           },
           {
+            "id": "b2plus-reading-4",
+            "number": 180,
+            "title": "A Difficult Recommendation",
+            "titleNative": "Трудная рекомендация",
+            "description": "Совет врача — тренируем сослагательное наклонение.",
+            "readingPassage": {
+              "context": "Совет врача — тренируем сослагательное наклонение.",
+              "paragraphs": [
+                {
+                  "en": "The doctor insisted that I rest for at least a week.",
+                  "ru": "Врач настоял, чтобы я отдохнул хотя бы неделю."
+                },
+                {
+                  "en": "She recommended that I avoid stress completely.",
+                  "ru": "Она порекомендовала, чтобы я полностью избегал стресса."
+                },
+                {
+                  "en": "If I were more disciplined, I would have listened sooner.",
+                  "ru": "Если бы я был более дисциплинированным, я бы прислушался раньше."
+                },
+                {
+                  "en": "It's essential that I take this seriously now.",
+                  "ru": "Сейчас важно, чтобы я отнёсся к этому серьёзно."
+                },
+                {
+                  "en": "My boss suggested that I work from home this week.",
+                  "ru": "Мой начальник предложил, чтобы я поработал из дома на этой неделе."
+                },
+                {
+                  "en": "I wish I had taken better care of myself earlier.",
+                  "ru": "Жаль, что я не заботился о себе лучше раньше."
+                },
+                {
+                  "en": "If I were honest, I've been ignoring these signs for months.",
+                  "ru": "Если честно, я игнорировал эти признаки уже несколько месяцев."
+                },
+                {
+                  "en": "It's important that everyone learn from my mistake.",
+                  "ru": "Важно, чтобы каждый извлёк урок из моей ошибки."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что порекомендовал врач?",
+                "options": [
+                  "Больше работать",
+                  "Отдохнуть неделю",
+                  "Путешествовать",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что предложил начальник?",
+                "options": [
+                  "Уволиться",
+                  "Работать из дома",
+                  "Взять отпуск",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "О чём сожалеет герой?",
+                "options": [
+                  "О работе",
+                  "Что не заботился о себе раньше",
+                  "О деньгах",
+                  "О друзьях"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2plus-l7-p1",
-            "number": 165,
+            "number": 181,
             "title": "Subjunctive Mood (Part 1)",
             "titleNative": "Сослагательное наклонение · Часть 1",
             "description": "Formal recommendations, demands, and unreal present situations",
@@ -14386,7 +15650,7 @@
           },
           {
             "id": "b2plus-l7-p2",
-            "number": 166,
+            "number": 182,
             "title": "Subjunctive Mood (Part 2)",
             "titleNative": "Сослагательное наклонение · Часть 2",
             "description": "Formal recommendations, demands, and unreal present situations",
@@ -14475,7 +15739,7 @@
           },
           {
             "id": "b2plus-l8-p1",
-            "number": 167,
+            "number": 183,
             "title": "Ellipsis & Substitution (Part 1)",
             "titleNative": "Эллипсис и замещение · Часть 1",
             "description": "Avoiding repetition with omitted words and so/not/one",
@@ -14563,8 +15827,87 @@
             ]
           },
           {
+            "id": "b2plus-reading-5",
+            "number": 184,
+            "title": "Two Very Different Brothers",
+            "titleNative": "Два очень разных брата",
+            "description": "Сравнение братьев — тренируем эллипсис и замещение.",
+            "readingPassage": {
+              "context": "Сравнение братьев — тренируем эллипсис и замещение.",
+              "paragraphs": [
+                {
+                  "en": "My brother loves spicy food, but I don't.",
+                  "ru": "Мой брат любит острую еду, а я нет."
+                },
+                {
+                  "en": "He's always been more adventurous than I have.",
+                  "ru": "Он всегда был более смелым, чем я."
+                },
+                {
+                  "en": "He wants to travel the world, and so do I, actually.",
+                  "ru": "Он хочет путешествовать по миру, и я тоже, кстати."
+                },
+                {
+                  "en": "He prefers mountains, while I prefer the sea.",
+                  "ru": "Он предпочитает горы, а я — море."
+                },
+                {
+                  "en": "Did he ever visit Japan? — Yes, he did, twice.",
+                  "ru": "Он когда-нибудь был в Японии? — Да, дважды."
+                },
+                {
+                  "en": "I haven't been there yet, but I'd like to.",
+                  "ru": "Я там ещё не был, но хотел бы."
+                },
+                {
+                  "en": "He has a big house and I have a small one.",
+                  "ru": "У него большой дом, а у меня — маленький."
+                },
+                {
+                  "en": "We're very different, but we get along, and we always will.",
+                  "ru": "Мы очень разные, но ладим, и так будет всегда."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какую еду любит брат?",
+                "options": [
+                  "Острую",
+                  "Сладкую",
+                  "Простую",
+                  "Никакую"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Был ли брат в Японии?",
+                "options": [
+                  "Нет, никогда",
+                  "Да, дважды",
+                  "Один раз",
+                  "Неизвестно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какой дом у героя?",
+                "options": [
+                  "Большой",
+                  "Маленький",
+                  "Такой же, как у брата",
+                  "Нет дома"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2plus-l8-p2",
-            "number": 168,
+            "number": 185,
             "title": "Ellipsis & Substitution (Part 2)",
             "titleNative": "Эллипсис и замещение · Часть 2",
             "description": "Avoiding repetition with omitted words and so/not/one",
@@ -14661,7 +16004,7 @@
         "lessons": [
           {
             "id": "c1-l1-p1",
-            "number": 169,
+            "number": 186,
             "title": "Academic & Analytical Language (Part 1)",
             "titleNative": "Академический и аналитический язык · Часть 1",
             "description": "Sounding precise and objective in analysis and writing",
@@ -14750,7 +16093,7 @@
           },
           {
             "id": "c1-l1-p2",
-            "number": 170,
+            "number": 187,
             "title": "Academic & Analytical Language (Part 2)",
             "titleNative": "Академический и аналитический язык · Часть 2",
             "description": "Sounding precise and objective in analysis and writing",
@@ -14839,7 +16182,7 @@
           },
           {
             "id": "c1-l2-p1",
-            "number": 171,
+            "number": 188,
             "title": "Rhetorical Devices & Persuasion (Part 1)",
             "titleNative": "Риторические приёмы и убеждение · Часть 1",
             "description": "Rhetorical questions, contrast, and persuasive structure",
@@ -14928,7 +16271,7 @@
           },
           {
             "id": "c1-reading-1",
-            "number": 172,
+            "number": 189,
             "title": "The Illusion of Certainty",
             "titleNative": "Иллюзия определённости",
             "description": "Аналитический текст — тренируем академическую лексику и хеджирование.",
@@ -14999,7 +16342,7 @@
           },
           {
             "id": "c1-l2-p2",
-            "number": 173,
+            "number": 190,
             "title": "Rhetorical Devices & Persuasion (Part 2)",
             "titleNative": "Риторические приёмы и убеждение · Часть 2",
             "description": "Rhetorical questions, contrast, and persuasive structure",
@@ -15088,7 +16431,7 @@
           },
           {
             "id": "c1-l3-p1",
-            "number": 174,
+            "number": 191,
             "title": "Subtle Contrast & Concession (Part 1)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 1",
             "description": "Although, whereas, despite — precise shades of contrast",
@@ -15177,7 +16520,7 @@
           },
           {
             "id": "c1-l3-p2",
-            "number": 175,
+            "number": 192,
             "title": "Subtle Contrast & Concession (Part 2)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 2",
             "description": "Although, whereas, despite — precise shades of contrast",
@@ -15266,7 +16609,7 @@
           },
           {
             "id": "c1-reading-2",
-            "number": 176,
+            "number": 193,
             "title": "Negotiating Without Losing Ground",
             "titleNative": "Переговоры без потери позиций",
             "description": "Текст о переговорах — тренируем дипломатичную лексику.",
@@ -15337,7 +16680,7 @@
           },
           {
             "id": "c1-l4-p1",
-            "number": 177,
+            "number": 194,
             "title": "Professional Negotiation Language (Part 1)",
             "titleNative": "Дипломатичный язык переговоров · Часть 1",
             "description": "Diplomatic phrasing for business and negotiation",
@@ -15426,7 +16769,7 @@
           },
           {
             "id": "c1-l4-p2",
-            "number": 178,
+            "number": 195,
             "title": "Professional Negotiation Language (Part 2)",
             "titleNative": "Дипломатичный язык переговоров · Часть 2",
             "description": "Diplomatic phrasing for business and negotiation",
@@ -15515,7 +16858,7 @@
           },
           {
             "id": "c1-l5-p1",
-            "number": 179,
+            "number": 196,
             "title": "Abstract & Philosophical Discussion (Part 1)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 1",
             "description": "Discussing ideas, values, and abstract concepts",
@@ -15604,7 +16947,7 @@
           },
           {
             "id": "c1-reading-3",
-            "number": 180,
+            "number": 197,
             "title": "What We Owe the Past",
             "titleNative": "Что мы должны прошлому",
             "description": "Итоговый философский текст уровня C1 — абстрактная лексика и продвинутые связки.",
@@ -15675,7 +17018,7 @@
           },
           {
             "id": "c1-l5-p2",
-            "number": 181,
+            "number": 198,
             "title": "Abstract & Philosophical Discussion (Part 2)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 2",
             "description": "Discussing ideas, values, and abstract concepts",
@@ -15764,7 +17107,7 @@
           },
           {
             "id": "c1-l6-p1",
-            "number": 182,
+            "number": 199,
             "title": "Advanced Discourse Markers (Part 1)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 1",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
@@ -15853,7 +17196,7 @@
           },
           {
             "id": "c1-l6-p2",
-            "number": 183,
+            "number": 200,
             "title": "Advanced Discourse Markers (Part 2)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 2",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
@@ -15941,8 +17284,87 @@
             ]
           },
           {
+            "id": "c1-reading-4",
+            "number": 201,
+            "title": "The Report",
+            "titleNative": "Отчёт",
+            "description": "Обсуждение политики — тренируем номинализацию и официальный стиль.",
+            "readingPassage": {
+              "context": "Обсуждение политики — тренируем номинализацию и официальный стиль.",
+              "paragraphs": [
+                {
+                  "en": "The introduction of the new policy caused immediate debate.",
+                  "ru": "Введение новой политики вызвало немедленные споры."
+                },
+                {
+                  "en": "Critics focused on the reduction of public services.",
+                  "ru": "Критики сосредоточились на сокращении государственных услуг."
+                },
+                {
+                  "en": "Supporters pointed to the improvement of long-term efficiency.",
+                  "ru": "Сторонники указывали на улучшение долгосрочной эффективности."
+                },
+                {
+                  "en": "The government's evaluation of the results is due next month.",
+                  "ru": "Оценка правительством результатов ожидается в следующем месяце."
+                },
+                {
+                  "en": "Implementation has proven more difficult than expected.",
+                  "ru": "Внедрение оказалось сложнее, чем ожидалось."
+                },
+                {
+                  "en": "The delay in decision-making frustrated many observers.",
+                  "ru": "Задержка в принятии решений разочаровала многих наблюдателей."
+                },
+                {
+                  "en": "Whatever the outcome, the discussion has reshaped public opinion.",
+                  "ru": "Каким бы ни был результат, обсуждение изменило общественное мнение."
+                },
+                {
+                  "en": "The final assessment will determine the policy's future.",
+                  "ru": "Итоговая оценка определит будущее этой политики."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "На чём сосредоточились критики?",
+                "options": [
+                  "На увеличении бюджета",
+                  "На сокращении услуг",
+                  "На новых законах",
+                  "Ни на чём"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "На что указывали сторонники?",
+                "options": [
+                  "На улучшение эффективности",
+                  "На снижение цен",
+                  "На безопасность",
+                  "Ни на что"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Когда ожидается оценка правительства?",
+                "options": [
+                  "На следующей неделе",
+                  "В следующем месяце",
+                  "Через год",
+                  "Никогда"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "c1-l7-p1",
-            "number": 184,
+            "number": 202,
             "title": "Nominalization & Formal Style (Part 1)",
             "titleNative": "Номинализация и официальный стиль · Часть 1",
             "description": "Turning verbs and adjectives into nouns for formal register",
@@ -16031,7 +17453,7 @@
           },
           {
             "id": "c1-l7-p2",
-            "number": 185,
+            "number": 203,
             "title": "Nominalization & Formal Style (Part 2)",
             "titleNative": "Номинализация и официальный стиль · Часть 2",
             "description": "Turning verbs and adjectives into nouns for formal register",
@@ -16120,7 +17542,7 @@
           },
           {
             "id": "c1-l8-p1",
-            "number": 186,
+            "number": 204,
             "title": "Advanced Hypotheticals in Discourse (Part 1)",
             "titleNative": "Продвинутые гипотетические конструкции · Часть 1",
             "description": "Were it not for, had it not been for, but for — argument and analysis",
@@ -16208,8 +17630,87 @@
             ]
           },
           {
+            "id": "c1-reading-5",
+            "number": 205,
+            "title": "What Could Have Been",
+            "titleNative": "Что могло бы быть",
+            "description": "Размышления о карьере — тренируем продвинутые гипотетические конструкции.",
+            "readingPassage": {
+              "context": "Размышления о карьере — тренируем продвинутые гипотетические конструкции.",
+              "paragraphs": [
+                {
+                  "en": "Were it not for a single decision, my entire career would look different today.",
+                  "ru": "Если бы не одно решение, вся моя карьера сегодня выглядела бы иначе."
+                },
+                {
+                  "en": "Had I not taken that job offer, I would never have moved abroad.",
+                  "ru": "Если бы я не принял то предложение о работе, я бы никогда не переехал за границу."
+                },
+                {
+                  "en": "But for a chance conversation at a conference, I wouldn't have met my business partner.",
+                  "ru": "Если бы не случайный разговор на конференции, я бы не встретил своего делового партнёра."
+                },
+                {
+                  "en": "Suppose I had stayed in my hometown — what kind of life would I have now?",
+                  "ru": "Предположим, я бы остался в родном городе — какой бы у меня была жизнь сейчас?"
+                },
+                {
+                  "en": "Assuming things had gone differently, I might be doing something completely unrelated.",
+                  "ru": "Если бы всё сложилось иначе, я мог бы заниматься чем-то совершенно другим."
+                },
+                {
+                  "en": "Had circumstances been less favorable, I doubt I would have taken the risk at all.",
+                  "ru": "Если бы обстоятельства были менее благоприятными, я сомневаюсь, что вообще пошёл бы на этот риск."
+                },
+                {
+                  "en": "Given everything that happened since, I don't regret the uncertainty.",
+                  "ru": "Учитывая всё, что произошло с тех пор, я не жалею о той неопределённости."
+                },
+                {
+                  "en": "Sometimes the best decisions are the ones that felt the most uncertain at the time.",
+                  "ru": "Иногда лучшие решения — это те, что в момент принятия казались самыми неопределёнными."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что изменило карьеру героя?",
+                "options": [
+                  "Одно решение",
+                  "Много решений",
+                  "Ничего",
+                  "Судьба"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Где герой встретил делового партнёра?",
+                "options": [
+                  "На работе",
+                  "На конференции",
+                  "В университете",
+                  "В отпуске"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Жалеет ли герой о неопределённости?",
+                "options": [
+                  "Да",
+                  "Нет",
+                  "Иногда",
+                  "Не сказано"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "c1-l8-p2",
-            "number": 187,
+            "number": 206,
             "title": "Advanced Hypotheticals in Discourse (Part 2)",
             "titleNative": "Продвинутые гипотетические конструкции · Часть 2",
             "description": "Were it not for, had it not been for, but for — argument and analysis",
