@@ -3966,7 +3966,662 @@
         "cefr": "B2",
         "badge": "B2",
         "label": "Свободное общение",
-        "lessons": []
+        "lessons": [
+          {
+            "id": "b2-l1",
+            "number": 37,
+            "title": "Wishes & Regrets",
+            "titleNative": "Желания и сожаления",
+            "description": "Wish, if only, and things you'd change",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Жаль, что я не выучил испанский в школе.",
+                "en": "I wish I had learned Spanish at school."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как бы мне хотелось иметь больше свободного времени.",
+                "en": "I wish I had more free time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы только я не сказал этого на встрече.",
+                "en": "If only I hadn't said that at the meeting."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Жаль, что ты не можешь приехать на свадьбу.",
+                "en": "I wish you could come to the wedding."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне бы хотелось, чтобы люди были честнее друг с другом.",
+                "en": "I wish people were more honest with each other."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы только у нас было больше времени на подготовку.",
+                "en": "If only we had had more time to prepare."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Жаль, что я согласился на этот проект.",
+                "en": "I wish I hadn't agreed to this project."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Хотелось бы, чтобы погода была получше на выходных.",
+                "en": "I wish the weather were better this weekend."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы только он послушал наш совет тогда.",
+                "en": "If only he had listened to our advice back then."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Жаль, что я не могу вернуться и всё исправить.",
+                "en": "I wish I could go back and fix everything."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Хотелось бы, чтобы этот разговор состоялся раньше.",
+                "en": "I wish this conversation had happened sooner."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы только жизнь была немного проще.",
+                "en": "If only life were a little simpler."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Жаль, что мы не остались подольше в том городе.",
+                "en": "I wish we had stayed longer in that city."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотелось бы, чтобы у меня было больше терпения.",
+                "en": "I wish I had more patience."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы только я знал об этом заранее.",
+                "en": "If only I had known about this beforehand."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Жаль, что она не рассказала нам раньше.",
+                "en": "I wish she had told us sooner."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотелось бы мне уметь так же хорошо готовить, как ты.",
+                "en": "I wish I could cook as well as you."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы только это решение было в моих руках.",
+                "en": "If only this decision were in my hands."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Жаль, что я не сохранил эти фотографии.",
+                "en": "I wish I had saved those photos."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Хотелось бы, чтобы всё было по-другому.",
+                "en": "I wish things were different."
+              }
+            ]
+          },
+          {
+            "id": "b2-l2",
+            "number": 38,
+            "title": "Mixed Conditionals",
+            "titleNative": "Смешанные условные предложения",
+            "description": "Past causes with present results, and the reverse",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я закончил университет, у меня была бы сейчас другая работа.",
+                "en": "If I had finished university, I would have a different job now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы она не была такой упрямой, мы бы уже договорились.",
+                "en": "If she weren't so stubborn, we would have reached an agreement by now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я откладывал деньги раньше, сейчас у меня были бы сбережения.",
+                "en": "If I had saved money earlier, I would have savings now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы он не боялся риска, он был бы сейчас гораздо успешнее.",
+                "en": "If he weren't afraid of risk, he would be much more successful now."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы мы переехали тогда, наша жизнь была бы совсем другой.",
+                "en": "If we had moved back then, our life would be completely different."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы ты не был таким занятым, ты бы понимал ситуацию лучше.",
+                "en": "If you weren't so busy, you would understand the situation better."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я изучал программирование раньше, сейчас мне было бы легче найти работу.",
+                "en": "If I had studied programming earlier, it would be easier for me to find a job now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы она не переехала за границу, она была бы сейчас здесь с нами.",
+                "en": "If she hadn't moved abroad, she would be here with us now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы у него не было такого сильного характера, он бы сейчас сдался.",
+                "en": "If he didn't have such a strong character, he would have given up by now."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы мы не потратили все деньги, у нас была бы сейчас финансовая подушка.",
+                "en": "If we hadn't spent all the money, we would have a financial cushion now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я не был так занят работой, я бы больше времени проводил с семьёй.",
+                "en": "If I weren't so busy with work, I would spend more time with my family."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы они не поссорились тогда, они были бы сейчас лучшими друзьями.",
+                "en": "If they hadn't argued back then, they would be best friends now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я не боялся перемен, моя карьера сейчас выглядела бы иначе.",
+                "en": "If I weren't afraid of change, my career would look different now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы она училась усерднее, у неё сейчас было бы больше возможностей.",
+                "en": "If she had studied harder, she would have more opportunities now."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы ты не был таким недоверчивым, наши отношения были бы сейчас крепче.",
+                "en": "If you weren't so distrustful, our relationship would be stronger now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы мы не приняли то решение, компания была бы сейчас в лучшем положении.",
+                "en": "If we hadn't made that decision, the company would be in a better position now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я не был левшой, мне было бы сейчас проще пользоваться этими инструментами.",
+                "en": "If I weren't left-handed, it would be easier for me to use these tools now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы она не потеряла тот контракт, у неё сейчас был бы свой бизнес.",
+                "en": "If she hadn't lost that contract, she would have her own business now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я не пропустил тот экзамен, моя жизнь пошла бы совсем по-другому.",
+                "en": "If I hadn't missed that exam, my life would have turned out very differently."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы мы не были так осторожны тогда, сейчас всё могло бы обернуться хуже.",
+                "en": "If we hadn't been so careful back then, things could be much worse now."
+              }
+            ]
+          },
+          {
+            "id": "b2-l3",
+            "number": 39,
+            "title": "Advanced Passive",
+            "titleNative": "Продвинутый страдательный залог",
+            "description": "Passive with modals and perfect forms",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Этот отчёт должен был быть отправлен ещё вчера.",
+                "en": "This report should have been sent yesterday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Все документы должны быть подписаны до конца недели.",
+                "en": "All documents must be signed by the end of the week."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Проблема могла быть решена гораздо раньше.",
+                "en": "The problem could have been solved much earlier."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Новые правила будут введены со следующего месяца.",
+                "en": "New rules will be introduced starting next month."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эта ошибка должна была быть замечена сразу.",
+                "en": "This mistake should have been noticed immediately."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Заявки можно подавать онлайн уже сейчас.",
+                "en": "Applications can be submitted online right now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Здание, возможно, будет снесено в следующем году.",
+                "en": "The building might be demolished next year."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эти данные не должны были быть переданы третьим лицам.",
+                "en": "This data shouldn't have been shared with third parties."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Решение будет принято советом директоров на этой неделе.",
+                "en": "The decision will be made by the board of directors this week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Проект мог бы быть завершён вовремя, если бы не задержки.",
+                "en": "The project could have been completed on time if it weren't for the delays."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Все вопросы должны быть заданы до начала презентации.",
+                "en": "All questions must be asked before the presentation begins."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Эта традиция сохраняется уже на протяжении веков.",
+                "en": "This tradition has been preserved for centuries."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Договор, скорее всего, будет пересмотрен в ближайшее время.",
+                "en": "The contract will most likely be revised soon."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Такие ошибки не должны допускаться в будущем.",
+                "en": "Such mistakes shouldn't be allowed in the future."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эта картина была недавно продана на аукционе за огромную сумму.",
+                "en": "This painting was recently sold at auction for a huge sum."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Результаты исследования будут опубликованы в следующем месяце.",
+                "en": "The results of the study will be published next month."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Все жалобы должны рассматриваться в течение пяти рабочих дней.",
+                "en": "All complaints must be reviewed within five business days."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Этот метод давно используется в медицине.",
+                "en": "This method has long been used in medicine."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возможно, эта информация уже была раскрыта журналистам.",
+                "en": "This information may have already been disclosed to journalists."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Проект должен быть представлен руководству до пятницы.",
+                "en": "The project must be presented to management by Friday."
+              }
+            ]
+          },
+          {
+            "id": "b2-l4",
+            "number": 40,
+            "title": "Emphasis & Inversion",
+            "titleNative": "Эмфаза и инверсия",
+            "description": "Fronting negatives and emphatic structures for natural flair",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Никогда прежде я не видел такого прекрасного заката.",
+                "en": "Never before have I seen such a beautiful sunset."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Едва я вошёл в комнату, как зазвонил телефон.",
+                "en": "No sooner had I entered the room than the phone rang."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ни разу он не опоздал за все эти годы.",
+                "en": "Not once has he been late in all these years."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Только позже я понял, насколько это было важно.",
+                "en": "Only later did I realize how important it was."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Лишь немногие знают правду об этом деле.",
+                "en": "Little do people know the truth about this case."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мало кто ожидал такого поворота событий.",
+                "en": "Little did anyone expect such a turn of events."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не только она выиграла конкурс, но и получила стипендию.",
+                "en": "Not only did she win the competition, but she also got a scholarship."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Едва мы сели за стол, как погас свет.",
+                "en": "Hardly had we sat down at the table when the lights went out."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Только тогда я осознал, как сильно ошибался.",
+                "en": "Only then did I realize how wrong I had been."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Никогда ещё компания не сталкивалась с таким кризисом.",
+                "en": "Never has the company faced such a crisis before."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ни при каких обстоятельствах он не изменит своего решения.",
+                "en": "Under no circumstances will he change his decision."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Едва закончилось собрание, как начались обсуждения.",
+                "en": "Barely had the meeting ended when the discussions began."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Только после этого разговора я почувствовал облегчение.",
+                "en": "Only after that conversation did I feel relieved."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не только цены выросли, но и качество ухудшилось.",
+                "en": "Not only have prices gone up, but the quality has also worsened."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Редко можно встретить такого преданного своему делу человека.",
+                "en": "Rarely do you meet someone so dedicated to their work."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Никогда прежде я не чувствовал себя настолько уверенно.",
+                "en": "Never before have I felt so confident."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Едва он открыл рот, как все замолчали.",
+                "en": "No sooner had he opened his mouth than everyone fell silent."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Только сейчас я начинаю понимать, чего мне это стоило.",
+                "en": "Only now am I beginning to understand what it cost me."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ни секунды не колеблясь, она приняла решение.",
+                "en": "Without a moment's hesitation, she made her decision."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Так редко выпадает шанс начать всё заново.",
+                "en": "So rarely does one get the chance to start over."
+              }
+            ]
+          },
+          {
+            "id": "b2-l5",
+            "number": 41,
+            "title": "Society & Technology",
+            "titleNative": "Общество и технологии",
+            "description": "Discussing abstract, current issues with nuance",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Технологии меняют то, как мы общаемся друг с другом.",
+                "en": "Technology is changing the way we communicate with each other."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Искусственный интеллект вызывает как восхищение, так и опасения.",
+                "en": "Artificial intelligence provokes both admiration and concern."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Социальные сети сильно повлияли на восприятие реальности молодёжью.",
+                "en": "Social media has heavily influenced how young people perceive reality."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Растущее неравенство остаётся одной из главных проблем общества.",
+                "en": "Growing inequality remains one of society's main problems."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Многие эксперты предупреждают о последствиях изменения климата.",
+                "en": "Many experts warn about the consequences of climate change."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Автоматизация угрожает вытеснить целые профессии в будущем.",
+                "en": "Automation threatens to replace entire professions in the future."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Доступ к информации стал проще, но её достоверность вызывает сомнения.",
+                "en": "Access to information has become easier, but its reliability is questionable."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Урбанизация меняет структуру традиционных обществ.",
+                "en": "Urbanization is changing the structure of traditional societies."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Приватность в цифровую эпоху становится всё более редким явлением.",
+                "en": "Privacy in the digital age is becoming an increasingly rare thing."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Общество постепенно привыкает к удалённой работе как к норме.",
+                "en": "Society is gradually getting used to remote work as the norm."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дезинформация распространяется быстрее, чем когда-либо прежде.",
+                "en": "Misinformation spreads faster than ever before."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Многие компании стремятся сократить своё воздействие на окружающую среду.",
+                "en": "Many companies are trying to reduce their impact on the environment."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Разрыв между поколениями в отношении технологий продолжает расти.",
+                "en": "The generational gap in attitudes toward technology continues to grow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Образование должно адаптироваться к быстро меняющемуся миру.",
+                "en": "Education needs to adapt to a rapidly changing world."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Виртуальная реальность открывает новые возможности для обучения.",
+                "en": "Virtual reality opens up new possibilities for learning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Экономический рост не всегда означает улучшение качества жизни.",
+                "en": "Economic growth doesn't always mean an improvement in quality of life."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Кибербезопасность стала одним из главных приоритетов для бизнеса.",
+                "en": "Cybersecurity has become one of the top priorities for businesses."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Общественное мнение всё сильнее формируется под влиянием алгоритмов.",
+                "en": "Public opinion is increasingly shaped by algorithms."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Устойчивое развитие требует пересмотра привычных моделей потребления.",
+                "en": "Sustainable development requires rethinking familiar consumption patterns."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Технологический прогресс ставит перед обществом новые этические вопросы.",
+                "en": "Technological progress raises new ethical questions for society."
+              }
+            ]
+          },
+          {
+            "id": "b2-l6",
+            "number": 42,
+            "title": "Advanced Linking Words",
+            "titleNative": "Продвинутые слова-связки",
+            "description": "Nuanced conjunctions and discourse markers for fluent argument",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Несмотря на все трудности, проект был завершён вовремя.",
+                "en": "Despite all the difficulties, the project was completed on time."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Учитывая обстоятельства, решение кажется разумным.",
+                "en": "Given the circumstances, the decision seems reasonable."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тем не менее, я считаю, что стоит попробовать ещё раз.",
+                "en": "Nevertheless, I think it's worth trying again."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В то время как одни поддерживают эту идею, другие категорически против.",
+                "en": "Whereas some support this idea, others are strongly against it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Более того, эта стратегия оказалась гораздо эффективнее, чем ожидалось.",
+                "en": "Moreover, this strategy turned out to be far more effective than expected."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Несмотря на то, что он был против, решение всё же приняли.",
+                "en": "Even though he was against it, the decision was made anyway."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ввиду сложившейся ситуации, встречу пришлось перенести.",
+                "en": "In view of the current situation, the meeting had to be postponed."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Иными словами, нам нужно полностью пересмотреть наш подход.",
+                "en": "In other words, we need to completely rethink our approach."
+              },
+              {
+                "type": "word-bank",
+                "ru": "С другой стороны, у этого решения есть и свои преимущества.",
+                "en": "On the other hand, this decision does have its advantages."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Следовательно, мы должны действовать быстрее, чем планировали.",
+                "en": "Consequently, we need to act faster than planned."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Принимая во внимание все факторы, выбор кажется очевидным.",
+                "en": "Taking all factors into account, the choice seems obvious."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Вопреки ожиданиям, результаты оказались весьма впечатляющими.",
+                "en": "Contrary to expectations, the results turned out to be quite impressive."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тем самым мы избежали множества потенциальных проблем.",
+                "en": "In doing so, we avoided a lot of potential problems."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Несмотря на первоначальный скептицизм, идея быстро набрала популярность.",
+                "en": "Despite initial skepticism, the idea quickly gained popularity."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Более того, никто не ожидал такого быстрого прогресса.",
+                "en": "Furthermore, nobody expected such rapid progress."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В связи с этим, нам придётся изменить весь график.",
+                "en": "In light of this, we'll have to change the entire schedule."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотя это и звучит просто, на деле всё гораздо сложнее.",
+                "en": "Although it sounds simple, in reality it's much more complicated."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Таким образом, мы приходим к вполне логичному выводу.",
+                "en": "Thus, we arrive at a fairly logical conclusion."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Несмотря на разногласия, команда сумела найти компромисс.",
+                "en": "Despite the disagreements, the team managed to find a compromise."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В конечном счёте, именно эти детали определили успех проекта.",
+                "en": "Ultimately, it was these details that determined the project's success."
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "b2plus",
