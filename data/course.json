@@ -12,10 +12,10 @@
         "label": "Первые шаги",
         "lessons": [
           {
-            "id": "a1-l1",
+            "id": "a1-l1-p1",
             "number": 1,
-            "title": "Hello",
-            "titleNative": "Привет",
+            "title": "Hello (Part 1)",
+            "titleNative": "Привет · Часть 1",
             "description": "Greetings and introducing yourself",
             "exercises": [
               {
@@ -67,7 +67,16 @@
                 "type": "type-answer",
                 "ru": "Я из России.",
                 "en": "I am from Russia."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l1-p2",
+            "number": 2,
+            "title": "Hello (Part 2)",
+            "titleNative": "Привет · Часть 2",
+            "description": "Greetings and introducing yourself",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я из Казахстана.",
@@ -121,10 +130,10 @@
             ]
           },
           {
-            "id": "a1-l2",
-            "number": 2,
-            "title": "To Be",
-            "titleNative": "Глагол to be",
+            "id": "a1-l2-p1",
+            "number": 3,
+            "title": "To Be (Part 1)",
+            "titleNative": "Глагол to be · Часть 1",
             "description": "I am, you are, he is",
             "exercises": [
               {
@@ -176,7 +185,16 @@
                 "type": "type-answer",
                 "ru": "Ты не прав.",
                 "en": "You are not right."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l2-p2",
+            "number": 4,
+            "title": "To Be (Part 2)",
+            "titleNative": "Глагол to be · Часть 2",
+            "description": "I am, you are, he is",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Он не здесь.",
@@ -230,10 +248,10 @@
             ]
           },
           {
-            "id": "a1-l3",
-            "number": 3,
-            "title": "Family",
-            "titleNative": "Семья",
+            "id": "a1-l3-p1",
+            "number": 5,
+            "title": "Family (Part 1)",
+            "titleNative": "Семья · Часть 1",
             "description": "Talking about your family",
             "exercises": [
               {
@@ -285,7 +303,16 @@
                 "type": "type-answer",
                 "ru": "Это моя жена.",
                 "en": "This is my wife."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l3-p2",
+            "number": 6,
+            "title": "Family (Part 2)",
+            "titleNative": "Семья · Часть 2",
+            "description": "Talking about your family",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "У меня нет братьев.",
@@ -339,10 +366,10 @@
             ]
           },
           {
-            "id": "a1-l4",
-            "number": 4,
-            "title": "Numbers",
-            "titleNative": "Числа",
+            "id": "a1-l4-p1",
+            "number": 7,
+            "title": "Numbers (Part 1)",
+            "titleNative": "Числа · Часть 1",
             "description": "Counting and basic numbers",
             "exercises": [
               {
@@ -394,7 +421,16 @@
                 "type": "type-answer",
                 "ru": "Я живу на пятом этаже.",
                 "en": "I live on the fifth floor."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l4-p2",
+            "number": 8,
+            "title": "Numbers (Part 2)",
+            "titleNative": "Числа · Часть 2",
+            "description": "Counting and basic numbers",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Встреча начинается в семь часов.",
@@ -448,10 +484,10 @@
             ]
           },
           {
-            "id": "a1-l5",
-            "number": 5,
-            "title": "Daily Routine",
-            "titleNative": "Распорядок дня",
+            "id": "a1-l5-p1",
+            "number": 9,
+            "title": "Daily Routine (Part 1)",
+            "titleNative": "Распорядок дня · Часть 1",
             "description": "Everyday actions in simple present",
             "exercises": [
               {
@@ -503,7 +539,16 @@
                 "type": "type-answer",
                 "ru": "Мы ужинаем вместе.",
                 "en": "We have dinner together."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l5-p2",
+            "number": 10,
+            "title": "Daily Routine (Part 2)",
+            "titleNative": "Распорядок дня · Часть 2",
+            "description": "Everyday actions in simple present",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я смотрю телевизор перед сном.",
@@ -557,10 +602,10 @@
             ]
           },
           {
-            "id": "a1-l6",
-            "number": 6,
-            "title": "Food & Drink",
-            "titleNative": "Еда и напитки",
+            "id": "a1-l6-p1",
+            "number": 11,
+            "title": "Food & Drink (Part 1)",
+            "titleNative": "Еда и напитки · Часть 1",
             "description": "Ordering food and talking about meals",
             "exercises": [
               {
@@ -612,7 +657,16 @@
                 "type": "type-answer",
                 "ru": "Счёт, пожалуйста.",
                 "en": "The bill, please."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l6-p2",
+            "number": 12,
+            "title": "Food & Drink (Part 2)",
+            "titleNative": "Еда и напитки · Часть 2",
+            "description": "Ordering food and talking about meals",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Это очень вкусно.",
@@ -666,10 +720,10 @@
             ]
           },
           {
-            "id": "a1-l7",
-            "number": 7,
-            "title": "Colors & Objects",
-            "titleNative": "Цвета и предметы",
+            "id": "a1-l7-p1",
+            "number": 13,
+            "title": "Colors & Objects (Part 1)",
+            "titleNative": "Цвета и предметы · Часть 1",
             "description": "Describing everyday things",
             "exercises": [
               {
@@ -721,7 +775,16 @@
                 "type": "type-answer",
                 "ru": "Мой телефон на столе.",
                 "en": "My phone is on the table."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l7-p2",
+            "number": 14,
+            "title": "Colors & Objects (Part 2)",
+            "titleNative": "Цвета и предметы · Часть 2",
+            "description": "Describing everyday things",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Это твоя сумка?",
@@ -775,10 +838,10 @@
             ]
           },
           {
-            "id": "a1-l8",
-            "number": 8,
-            "title": "Weather & Time",
-            "titleNative": "Погода и время",
+            "id": "a1-l8-p1",
+            "number": 15,
+            "title": "Weather & Time (Part 1)",
+            "titleNative": "Погода и время · Часть 1",
             "description": "Talking about the weather and telling time",
             "exercises": [
               {
@@ -830,7 +893,16 @@
                 "type": "type-answer",
                 "ru": "Ещё рано.",
                 "en": "It is still early."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l8-p2",
+            "number": 16,
+            "title": "Weather & Time (Part 2)",
+            "titleNative": "Погода и время · Часть 2",
+            "description": "Talking about the weather and telling time",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Встреча в полдень.",
@@ -884,10 +956,10 @@
             ]
           },
           {
-            "id": "a1-l9",
-            "number": 9,
-            "title": "Simple Questions",
-            "titleNative": "Простые вопросы",
+            "id": "a1-l9-p1",
+            "number": 17,
+            "title": "Simple Questions (Part 1)",
+            "titleNative": "Простые вопросы · Часть 1",
             "description": "Asking basic questions",
             "exercises": [
               {
@@ -939,7 +1011,16 @@
                 "type": "type-answer",
                 "ru": "Какой сегодня день?",
                 "en": "What day is it today?"
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l9-p2",
+            "number": 18,
+            "title": "Simple Questions (Part 2)",
+            "titleNative": "Простые вопросы · Часть 2",
+            "description": "Asking basic questions",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Ты говоришь по-английски?",
@@ -993,10 +1074,10 @@
             ]
           },
           {
-            "id": "a1-l10",
-            "number": 10,
-            "title": "Likes & Dislikes",
-            "titleNative": "Нравится и не нравится",
+            "id": "a1-l10-p1",
+            "number": 19,
+            "title": "Likes & Dislikes (Part 1)",
+            "titleNative": "Нравится и не нравится · Часть 1",
             "description": "Expressing preferences",
             "exercises": [
               {
@@ -1048,7 +1129,16 @@
                 "type": "type-answer",
                 "ru": "Он не любит рано вставать.",
                 "en": "He doesn't like getting up early."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l10-p2",
+            "number": 20,
+            "title": "Likes & Dislikes (Part 2)",
+            "titleNative": "Нравится и не нравится · Часть 2",
+            "description": "Expressing preferences",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Мне нравится готовить.",
@@ -1102,10 +1192,10 @@
             ]
           },
           {
-            "id": "a1-l11",
-            "number": 11,
-            "title": "Places in Town",
-            "titleNative": "Места в городе",
+            "id": "a1-l11-p1",
+            "number": 21,
+            "title": "Places in Town (Part 1)",
+            "titleNative": "Места в городе · Часть 1",
             "description": "Talking about locations",
             "exercises": [
               {
@@ -1157,7 +1247,16 @@
                 "type": "type-answer",
                 "ru": "Кафе на первом этаже.",
                 "en": "The cafe is on the first floor."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l11-p2",
+            "number": 22,
+            "title": "Places in Town (Part 2)",
+            "titleNative": "Места в городе · Часть 2",
+            "description": "Talking about locations",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Университет находится на этой улице.",
@@ -1211,10 +1310,10 @@
             ]
           },
           {
-            "id": "a1-l12",
-            "number": 12,
-            "title": "Review & Small Talk",
-            "titleNative": "Повторение и разговор",
+            "id": "a1-l12-p1",
+            "number": 23,
+            "title": "Review & Small Talk (Part 1)",
+            "titleNative": "Повторение и разговор · Часть 1",
             "description": "Mixed review of A1 patterns",
             "exercises": [
               {
@@ -1266,7 +1365,16 @@
                 "type": "type-answer",
                 "ru": "Удачи тебе!",
                 "en": "Good luck!"
-              },
+              }
+            ]
+          },
+          {
+            "id": "a1-l12-p2",
+            "number": 24,
+            "title": "Review & Small Talk (Part 2)",
+            "titleNative": "Повторение и разговор · Часть 2",
+            "description": "Mixed review of A1 patterns",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Береги себя.",
@@ -1328,10 +1436,10 @@
         "label": "Уверенный старт",
         "lessons": [
           {
-            "id": "a2-l1",
-            "number": 13,
-            "title": "Past Simple",
-            "titleNative": "Прошедшее время",
+            "id": "a2-l1-p1",
+            "number": 25,
+            "title": "Past Simple (Part 1)",
+            "titleNative": "Прошедшее время · Часть 1",
             "description": "Talking about yesterday and last week",
             "exercises": [
               {
@@ -1383,7 +1491,16 @@
                 "type": "type-answer",
                 "ru": "Она написала мне письмо.",
                 "en": "She wrote me a letter."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l1-p2",
+            "number": 26,
+            "title": "Past Simple (Part 2)",
+            "titleNative": "Прошедшее время · Часть 2",
+            "description": "Talking about yesterday and last week",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Мы опоздали на поезд.",
@@ -1437,10 +1554,10 @@
             ]
           },
           {
-            "id": "a2-l2",
-            "number": 14,
-            "title": "Future Plans",
-            "titleNative": "Планы на будущее",
+            "id": "a2-l2-p1",
+            "number": 27,
+            "title": "Future Plans (Part 1)",
+            "titleNative": "Планы на будущее · Часть 1",
             "description": "Will and going to",
             "exercises": [
               {
@@ -1492,7 +1609,16 @@
                 "type": "type-answer",
                 "ru": "Мы не будем опаздывать в следующий раз.",
                 "en": "We won't be late next time."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l2-p2",
+            "number": 28,
+            "title": "Future Plans (Part 2)",
+            "titleNative": "Планы на будущее · Часть 2",
+            "description": "Will and going to",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я думаю, он согласится.",
@@ -1546,10 +1672,10 @@
             ]
           },
           {
-            "id": "a2-l3",
-            "number": 15,
-            "title": "Can, Must, Should",
-            "titleNative": "Модальные глаголы",
+            "id": "a2-l3-p1",
+            "number": 29,
+            "title": "Can, Must, Should (Part 1)",
+            "titleNative": "Модальные глаголы · Часть 1",
             "description": "Ability, obligation, and advice",
             "exercises": [
               {
@@ -1601,7 +1727,16 @@
                 "type": "type-answer",
                 "ru": "Тебе не стоит так волноваться.",
                 "en": "You shouldn't worry so much."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l3-p2",
+            "number": 30,
+            "title": "Can, Must, Should (Part 2)",
+            "titleNative": "Модальные глаголы · Часть 2",
+            "description": "Ability, obligation, and advice",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я не могу найти свой паспорт.",
@@ -1655,10 +1790,10 @@
             ]
           },
           {
-            "id": "a2-l4",
-            "number": 16,
-            "title": "Comparisons",
-            "titleNative": "Сравнения",
+            "id": "a2-l4-p1",
+            "number": 31,
+            "title": "Comparisons (Part 1)",
+            "titleNative": "Сравнения · Часть 1",
             "description": "Comparative and superlative forms",
             "exercises": [
               {
@@ -1710,7 +1845,16 @@
                 "type": "type-answer",
                 "ru": "Она работает усерднее всех.",
                 "en": "She works harder than everyone."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l4-p2",
+            "number": 32,
+            "title": "Comparisons (Part 2)",
+            "titleNative": "Сравнения · Часть 2",
+            "description": "Comparative and superlative forms",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Это самый дорогой ресторан в городе.",
@@ -1764,10 +1908,10 @@
             ]
           },
           {
-            "id": "a2-l5",
-            "number": 17,
-            "title": "Travel",
-            "titleNative": "Путешествия",
+            "id": "a2-l5-p1",
+            "number": 33,
+            "title": "Travel (Part 1)",
+            "titleNative": "Путешествия · Часть 1",
             "description": "Getting around and asking for directions",
             "exercises": [
               {
@@ -1819,7 +1963,16 @@
                 "type": "type-answer",
                 "ru": "Мы потерялись в незнакомом городе.",
                 "en": "We got lost in an unfamiliar city."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l5-p2",
+            "number": 34,
+            "title": "Travel (Part 2)",
+            "titleNative": "Путешествия · Часть 2",
+            "description": "Getting around and asking for directions",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Виза оформляется около недели.",
@@ -1873,10 +2026,10 @@
             ]
           },
           {
-            "id": "a2-l6",
-            "number": 18,
-            "title": "Health",
-            "titleNative": "Здоровье",
+            "id": "a2-l6-p1",
+            "number": 35,
+            "title": "Health (Part 1)",
+            "titleNative": "Здоровье · Часть 1",
             "description": "Talking about how you feel",
             "exercises": [
               {
@@ -1928,7 +2081,16 @@
                 "type": "type-answer",
                 "ru": "У него болит горло и кашель.",
                 "en": "He has a sore throat and a cough."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l6-p2",
+            "number": 36,
+            "title": "Health (Part 2)",
+            "titleNative": "Здоровье · Часть 2",
+            "description": "Talking about how you feel",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Мне нужно провериться у стоматолога.",
@@ -1982,10 +2144,10 @@
             ]
           },
           {
-            "id": "a2-l7",
-            "number": 19,
-            "title": "Shopping",
-            "titleNative": "Покупки",
+            "id": "a2-l7-p1",
+            "number": 37,
+            "title": "Shopping (Part 1)",
+            "titleNative": "Покупки · Часть 1",
             "description": "Buying things and comparing prices",
             "exercises": [
               {
@@ -2037,7 +2199,16 @@
                 "type": "type-answer",
                 "ru": "Магазин закрывается через час.",
                 "en": "The store closes in an hour."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l7-p2",
+            "number": 38,
+            "title": "Shopping (Part 2)",
+            "titleNative": "Покупки · Часть 2",
+            "description": "Buying things and comparing prices",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я обычно покупаю продукты онлайн.",
@@ -2091,10 +2262,10 @@
             ]
           },
           {
-            "id": "a2-l8",
-            "number": 20,
-            "title": "Work",
-            "titleNative": "Работа",
+            "id": "a2-l8-p1",
+            "number": 39,
+            "title": "Work (Part 1)",
+            "titleNative": "Работа · Часть 1",
             "description": "Jobs and the workplace",
             "exercises": [
               {
@@ -2146,7 +2317,16 @@
                 "type": "type-answer",
                 "ru": "У нас гибкий график работы.",
                 "en": "We have a flexible work schedule."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l8-p2",
+            "number": 40,
+            "title": "Work (Part 2)",
+            "titleNative": "Работа · Часть 2",
+            "description": "Jobs and the workplace",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Коллеги очень помогают друг другу.",
@@ -2200,10 +2380,10 @@
             ]
           },
           {
-            "id": "a2-l9",
-            "number": 21,
-            "title": "Hobbies",
-            "titleNative": "Хобби",
+            "id": "a2-l9-p1",
+            "number": 41,
+            "title": "Hobbies (Part 1)",
+            "titleNative": "Хобби · Часть 1",
             "description": "Free time and interests",
             "exercises": [
               {
@@ -2255,7 +2435,16 @@
                 "type": "type-answer",
                 "ru": "Мы часто ходим на рыбалку с отцом.",
                 "en": "We often go fishing with dad."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l9-p2",
+            "number": 42,
+            "title": "Hobbies (Part 2)",
+            "titleNative": "Хобби · Часть 2",
+            "description": "Free time and interests",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я стараюсь читать хотя бы одну книгу в месяц.",
@@ -2309,10 +2498,10 @@
             ]
           },
           {
-            "id": "a2-l10",
-            "number": 22,
-            "title": "Describing People",
-            "titleNative": "Описание людей",
+            "id": "a2-l10-p1",
+            "number": 43,
+            "title": "Describing People (Part 1)",
+            "titleNative": "Описание людей · Часть 1",
             "description": "Appearance and personality",
             "exercises": [
               {
@@ -2364,7 +2553,16 @@
                 "type": "type-answer",
                 "ru": "Он выглядит моложе своего возраста.",
                 "en": "He looks younger than his age."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l10-p2",
+            "number": 44,
+            "title": "Describing People (Part 2)",
+            "titleNative": "Описание людей · Часть 2",
+            "description": "Appearance and personality",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Она очень ответственная на работе.",
@@ -2418,10 +2616,10 @@
             ]
           },
           {
-            "id": "a2-l11",
-            "number": 23,
-            "title": "Phone Calls",
-            "titleNative": "Телефонные звонки",
+            "id": "a2-l11-p1",
+            "number": 45,
+            "title": "Phone Calls (Part 1)",
+            "titleNative": "Телефонные звонки · Часть 1",
             "description": "Making and answering calls",
             "exercises": [
               {
@@ -2473,7 +2671,16 @@
                 "type": "type-answer",
                 "ru": "Он не отвечает на звонки весь день.",
                 "en": "He hasn't answered calls all day."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l11-p2",
+            "number": 46,
+            "title": "Phone Calls (Part 2)",
+            "titleNative": "Телефонные звонки · Часть 2",
+            "description": "Making and answering calls",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Давай продолжим разговор по видеосвязи.",
@@ -2527,10 +2734,10 @@
             ]
           },
           {
-            "id": "a2-l12",
-            "number": 24,
-            "title": "Opinions",
-            "titleNative": "Мнения",
+            "id": "a2-l12-p1",
+            "number": 47,
+            "title": "Opinions (Part 1)",
+            "titleNative": "Мнения · Часть 1",
             "description": "Agreeing, disagreeing, giving opinions",
             "exercises": [
               {
@@ -2582,7 +2789,16 @@
                 "type": "type-answer",
                 "ru": "Я вижу это немного иначе.",
                 "en": "I see it a bit differently."
-              },
+              }
+            ]
+          },
+          {
+            "id": "a2-l12-p2",
+            "number": 48,
+            "title": "Opinions (Part 2)",
+            "titleNative": "Мнения · Часть 2",
+            "description": "Agreeing, disagreeing, giving opinions",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Ты, наверное, прав насчёт этого.",
@@ -2644,10 +2860,10 @@
         "label": "Разговорная беглость",
         "lessons": [
           {
-            "id": "b1-l1",
-            "number": 25,
-            "title": "Present Perfect",
-            "titleNative": "Настоящее совершенное",
+            "id": "b1-l1-p1",
+            "number": 49,
+            "title": "Present Perfect (Part 1)",
+            "titleNative": "Настоящее совершенное · Часть 1",
             "description": "Experiences and recent events",
             "exercises": [
               {
@@ -2699,7 +2915,16 @@
                 "type": "type-answer",
                 "ru": "Он много раз читал эту книгу.",
                 "en": "He has read this book many times."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1-l1-p2",
+            "number": 50,
+            "title": "Present Perfect (Part 2)",
+            "titleNative": "Настоящее совершенное · Часть 2",
+            "description": "Experiences and recent events",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Цены выросли за последний год.",
@@ -2753,10 +2978,10 @@
             ]
           },
           {
-            "id": "b1-l2",
-            "number": 26,
-            "title": "First Conditional",
-            "titleNative": "Первое условное",
+            "id": "b1-l2-p1",
+            "number": 51,
+            "title": "First Conditional (Part 1)",
+            "titleNative": "Первое условное · Часть 1",
             "description": "Real future possibilities",
             "exercises": [
               {
@@ -2808,7 +3033,16 @@
                 "type": "type-answer",
                 "ru": "Мы опоздаем, если не выйдем сейчас.",
                 "en": "We will be late if we don't leave now."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1-l2-p2",
+            "number": 52,
+            "title": "First Conditional (Part 2)",
+            "titleNative": "Первое условное · Часть 2",
+            "description": "Real future possibilities",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Если я найду время, я обязательно приду.",
@@ -2862,10 +3096,10 @@
             ]
           },
           {
-            "id": "b1-l3",
-            "number": 27,
-            "title": "Second Conditional",
-            "titleNative": "Второе условное",
+            "id": "b1-l3-p1",
+            "number": 53,
+            "title": "Second Conditional (Part 1)",
+            "titleNative": "Второе условное · Часть 1",
             "description": "Hypothetical and unreal situations",
             "exercises": [
               {
@@ -2917,7 +3151,16 @@
                 "type": "type-answer",
                 "ru": "Что бы вы изменили, если бы могли начать сначала?",
                 "en": "What would you change if you could start over?"
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1-l3-p2",
+            "number": 54,
+            "title": "Second Conditional (Part 2)",
+            "titleNative": "Второе условное · Часть 2",
+            "description": "Hypothetical and unreal situations",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Если бы город был безопаснее, больше людей гуляло бы ночью.",
@@ -2971,10 +3214,10 @@
             ]
           },
           {
-            "id": "b1-l4",
-            "number": 28,
-            "title": "Passive Voice",
-            "titleNative": "Страдательный залог",
+            "id": "b1-l4-p1",
+            "number": 55,
+            "title": "Passive Voice (Part 1)",
+            "titleNative": "Страдательный залог · Часть 1",
             "description": "When the action matters more than who did it",
             "exercises": [
               {
@@ -3026,7 +3269,16 @@
                 "type": "type-answer",
                 "ru": "Все документы должны быть подписаны сегодня.",
                 "en": "All documents must be signed today."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1-l4-p2",
+            "number": 56,
+            "title": "Passive Voice (Part 2)",
+            "titleNative": "Страдательный залог · Часть 2",
+            "description": "When the action matters more than who did it",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Товары доставляются в течение трёх дней.",
@@ -3080,10 +3332,10 @@
             ]
           },
           {
-            "id": "b1-l5",
-            "number": 29,
-            "title": "Reported Speech",
-            "titleNative": "Косвенная речь",
+            "id": "b1-l5-p1",
+            "number": 57,
+            "title": "Reported Speech (Part 1)",
+            "titleNative": "Косвенная речь · Часть 1",
             "description": "Reporting what someone said",
             "exercises": [
               {
@@ -3135,7 +3387,16 @@
                 "type": "type-answer",
                 "ru": "Они обещали, что закончат к пятнице.",
                 "en": "They promised they would finish by Friday."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1-l5-p2",
+            "number": 58,
+            "title": "Reported Speech (Part 2)",
+            "titleNative": "Косвенная речь · Часть 2",
+            "description": "Reporting what someone said",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Он спросил, могу ли я ему помочь.",
@@ -3189,10 +3450,10 @@
             ]
           },
           {
-            "id": "b1-l6",
-            "number": 30,
-            "title": "Making Suggestions",
-            "titleNative": "Предложения и советы",
+            "id": "b1-l6-p1",
+            "number": 59,
+            "title": "Making Suggestions (Part 1)",
+            "titleNative": "Предложения и советы · Часть 1",
             "description": "Proposing ideas and giving advice",
             "exercises": [
               {
@@ -3244,7 +3505,16 @@
                 "type": "type-answer",
                 "ru": "Тебе лучше поговорить с ним напрямую.",
                 "en": "You'd better talk to him directly."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1-l6-p2",
+            "number": 60,
+            "title": "Making Suggestions (Part 2)",
+            "titleNative": "Предложения и советы · Часть 2",
+            "description": "Proposing ideas and giving advice",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Может, стоит обратиться за помощью к специалисту?",
@@ -3306,10 +3576,10 @@
         "label": "Свободнее и увереннее",
         "lessons": [
           {
-            "id": "b1plus-l1",
-            "number": 31,
-            "title": "Phrasal Verbs",
-            "titleNative": "Фразовые глаголы",
+            "id": "b1plus-l1-p1",
+            "number": 61,
+            "title": "Phrasal Verbs (Part 1)",
+            "titleNative": "Фразовые глаголы · Часть 1",
             "description": "Everyday two-word verbs native speakers actually use",
             "exercises": [
               {
@@ -3361,7 +3631,16 @@
                 "type": "type-answer",
                 "ru": "Давай встретимся у входа в десять.",
                 "en": "Let's meet up at the entrance at ten."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l1-p2",
+            "number": 62,
+            "title": "Phrasal Verbs (Part 2)",
+            "titleNative": "Фразовые глаголы · Часть 2",
+            "description": "Everyday two-word verbs native speakers actually use",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Она отлично справляется с трудными клиентами.",
@@ -3415,10 +3694,10 @@
             ]
           },
           {
-            "id": "b1plus-l2",
-            "number": 32,
-            "title": "Sharing Opinions",
-            "titleNative": "Выражение мнения",
+            "id": "b1plus-l2-p1",
+            "number": 63,
+            "title": "Sharing Opinions (Part 1)",
+            "titleNative": "Выражение мнения · Часть 1",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
             "exercises": [
               {
@@ -3470,7 +3749,16 @@
                 "type": "type-answer",
                 "ru": "По-моему, эта книга сильно переоценена.",
                 "en": "In my view, this book is seriously overrated."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l2-p2",
+            "number": 64,
+            "title": "Sharing Opinions (Part 2)",
+            "titleNative": "Выражение мнения · Часть 2",
+            "description": "Agreeing, disagreeing, and softening a strong opinion",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Я полностью поддерживаю эту точку зрения.",
@@ -3524,10 +3812,10 @@
             ]
           },
           {
-            "id": "b1plus-l3",
-            "number": 33,
-            "title": "Third Conditional",
-            "titleNative": "Третье условное (нереальное прошлое)",
+            "id": "b1plus-l3-p1",
+            "number": 65,
+            "title": "Third Conditional (Part 1)",
+            "titleNative": "Третье условное (нереальное прошлое) · Часть 1",
             "description": "Regrets and hypothetical past outcomes",
             "exercises": [
               {
@@ -3579,7 +3867,16 @@
                 "type": "type-answer",
                 "ru": "Я бы принял другое решение на твоём месте.",
                 "en": "I would have made a different decision in your place."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l3-p2",
+            "number": 66,
+            "title": "Third Conditional (Part 2)",
+            "titleNative": "Третье условное (нереальное прошлое) · Часть 2",
+            "description": "Regrets and hypothetical past outcomes",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Если бы я был на твоём месте, я бы не рискнул.",
@@ -3633,10 +3930,10 @@
             ]
           },
           {
-            "id": "b1plus-l4",
-            "number": 34,
-            "title": "Reported Questions",
-            "titleNative": "Косвенные вопросы",
+            "id": "b1plus-l4-p1",
+            "number": 67,
+            "title": "Reported Questions (Part 1)",
+            "titleNative": "Косвенные вопросы · Часть 1",
             "description": "Asking and reporting questions politely and indirectly",
             "exercises": [
               {
@@ -3688,7 +3985,16 @@
                 "type": "type-answer",
                 "ru": "Менеджер спросил, почему отчёт ещё не готов.",
                 "en": "The manager asked why the report wasn't ready yet."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l4-p2",
+            "number": 68,
+            "title": "Reported Questions (Part 2)",
+            "titleNative": "Косвенные вопросы · Часть 2",
+            "description": "Asking and reporting questions politely and indirectly",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Мне интересно, что она думает об этом плане.",
@@ -3742,10 +4048,10 @@
             ]
           },
           {
-            "id": "b1plus-l5",
-            "number": 35,
-            "title": "Modals of Deduction",
-            "titleNative": "Модальные глаголы предположения",
+            "id": "b1plus-l5-p1",
+            "number": 69,
+            "title": "Modals of Deduction (Part 1)",
+            "titleNative": "Модальные глаголы предположения · Часть 1",
             "description": "Guessing what must, might, or can't be true",
             "exercises": [
               {
@@ -3797,7 +4103,16 @@
                 "type": "type-answer",
                 "ru": "Судя по акценту, он, должно быть, из Шотландии.",
                 "en": "Judging by the accent, he must be from Scotland."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l5-p2",
+            "number": 70,
+            "title": "Modals of Deduction (Part 2)",
+            "titleNative": "Модальные глаголы предположения · Часть 2",
+            "description": "Guessing what must, might, or can't be true",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Не может быть, чтобы они забыли про наш день рождения.",
@@ -3851,10 +4166,10 @@
             ]
           },
           {
-            "id": "b1plus-l6",
-            "number": 36,
-            "title": "Comparisons & Contrasts",
-            "titleNative": "Сравнения и противопоставления",
+            "id": "b1plus-l6-p1",
+            "number": 71,
+            "title": "Comparisons & Contrasts (Part 1)",
+            "titleNative": "Сравнения и противопоставления · Часть 1",
             "description": "Weighing options and highlighting differences",
             "exercises": [
               {
@@ -3906,7 +4221,16 @@
                 "type": "type-answer",
                 "ru": "По сравнению с прошлым годом, продажи выросли вдвое.",
                 "en": "Compared to last year, sales have doubled."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l6-p2",
+            "number": 72,
+            "title": "Comparisons & Contrasts (Part 2)",
+            "titleNative": "Сравнения и противопоставления · Часть 2",
+            "description": "Weighing options and highlighting differences",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Он куда более уверен в себе, чем раньше.",
@@ -3968,10 +4292,10 @@
         "label": "Свободное общение",
         "lessons": [
           {
-            "id": "b2-l1",
-            "number": 37,
-            "title": "Wishes & Regrets",
-            "titleNative": "Желания и сожаления",
+            "id": "b2-l1-p1",
+            "number": 73,
+            "title": "Wishes & Regrets (Part 1)",
+            "titleNative": "Желания и сожаления · Часть 1",
             "description": "Wish, if only, and things you'd change",
             "exercises": [
               {
@@ -4023,7 +4347,16 @@
                 "type": "type-answer",
                 "ru": "Жаль, что я не могу вернуться и всё исправить.",
                 "en": "I wish I could go back and fix everything."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b2-l1-p2",
+            "number": 74,
+            "title": "Wishes & Regrets (Part 2)",
+            "titleNative": "Желания и сожаления · Часть 2",
+            "description": "Wish, if only, and things you'd change",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Хотелось бы, чтобы этот разговор состоялся раньше.",
@@ -4077,10 +4410,10 @@
             ]
           },
           {
-            "id": "b2-l2",
-            "number": 38,
-            "title": "Mixed Conditionals",
-            "titleNative": "Смешанные условные предложения",
+            "id": "b2-l2-p1",
+            "number": 75,
+            "title": "Mixed Conditionals (Part 1)",
+            "titleNative": "Смешанные условные предложения · Часть 1",
             "description": "Past causes with present results, and the reverse",
             "exercises": [
               {
@@ -4132,7 +4465,16 @@
                 "type": "type-answer",
                 "ru": "Если бы мы не потратили все деньги, у нас была бы сейчас финансовая подушка.",
                 "en": "If we hadn't spent all the money, we would have a financial cushion now."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b2-l2-p2",
+            "number": 76,
+            "title": "Mixed Conditionals (Part 2)",
+            "titleNative": "Смешанные условные предложения · Часть 2",
+            "description": "Past causes with present results, and the reverse",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Если бы я не был так занят работой, я бы больше времени проводил с семьёй.",
@@ -4186,10 +4528,10 @@
             ]
           },
           {
-            "id": "b2-l3",
-            "number": 39,
-            "title": "Advanced Passive",
-            "titleNative": "Продвинутый страдательный залог",
+            "id": "b2-l3-p1",
+            "number": 77,
+            "title": "Advanced Passive (Part 1)",
+            "titleNative": "Продвинутый страдательный залог · Часть 1",
             "description": "Passive with modals and perfect forms",
             "exercises": [
               {
@@ -4241,7 +4583,16 @@
                 "type": "type-answer",
                 "ru": "Проект мог бы быть завершён вовремя, если бы не задержки.",
                 "en": "The project could have been completed on time if it weren't for the delays."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b2-l3-p2",
+            "number": 78,
+            "title": "Advanced Passive (Part 2)",
+            "titleNative": "Продвинутый страдательный залог · Часть 2",
+            "description": "Passive with modals and perfect forms",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Все вопросы должны быть заданы до начала презентации.",
@@ -4295,10 +4646,10 @@
             ]
           },
           {
-            "id": "b2-l4",
-            "number": 40,
-            "title": "Emphasis & Inversion",
-            "titleNative": "Эмфаза и инверсия",
+            "id": "b2-l4-p1",
+            "number": 79,
+            "title": "Emphasis & Inversion (Part 1)",
+            "titleNative": "Эмфаза и инверсия · Часть 1",
             "description": "Fronting negatives and emphatic structures for natural flair",
             "exercises": [
               {
@@ -4350,7 +4701,16 @@
                 "type": "type-answer",
                 "ru": "Никогда ещё компания не сталкивалась с таким кризисом.",
                 "en": "Never has the company faced such a crisis before."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b2-l4-p2",
+            "number": 80,
+            "title": "Emphasis & Inversion (Part 2)",
+            "titleNative": "Эмфаза и инверсия · Часть 2",
+            "description": "Fronting negatives and emphatic structures for natural flair",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Ни при каких обстоятельствах он не изменит своего решения.",
@@ -4404,10 +4764,10 @@
             ]
           },
           {
-            "id": "b2-l5",
-            "number": 41,
-            "title": "Society & Technology",
-            "titleNative": "Общество и технологии",
+            "id": "b2-l5-p1",
+            "number": 81,
+            "title": "Society & Technology (Part 1)",
+            "titleNative": "Общество и технологии · Часть 1",
             "description": "Discussing abstract, current issues with nuance",
             "exercises": [
               {
@@ -4459,7 +4819,16 @@
                 "type": "type-answer",
                 "ru": "Общество постепенно привыкает к удалённой работе как к норме.",
                 "en": "Society is gradually getting used to remote work as the norm."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b2-l5-p2",
+            "number": 82,
+            "title": "Society & Technology (Part 2)",
+            "titleNative": "Общество и технологии · Часть 2",
+            "description": "Discussing abstract, current issues with nuance",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Дезинформация распространяется быстрее, чем когда-либо прежде.",
@@ -4513,10 +4882,10 @@
             ]
           },
           {
-            "id": "b2-l6",
-            "number": 42,
-            "title": "Advanced Linking Words",
-            "titleNative": "Продвинутые слова-связки",
+            "id": "b2-l6-p1",
+            "number": 83,
+            "title": "Advanced Linking Words (Part 1)",
+            "titleNative": "Продвинутые слова-связки · Часть 1",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
             "exercises": [
               {
@@ -4568,7 +4937,16 @@
                 "type": "type-answer",
                 "ru": "Следовательно, мы должны действовать быстрее, чем планировали.",
                 "en": "Consequently, we need to act faster than planned."
-              },
+              }
+            ]
+          },
+          {
+            "id": "b2-l6-p2",
+            "number": 84,
+            "title": "Advanced Linking Words (Part 2)",
+            "titleNative": "Продвинутые слова-связки · Часть 2",
+            "description": "Nuanced conjunctions and discourse markers for fluent argument",
+            "exercises": [
               {
                 "type": "multiple-choice",
                 "ru": "Принимая во внимание все факторы, выбор кажется очевидным.",
