@@ -6743,14 +6743,1432 @@
         "cefr": "B2+",
         "badge": "B2+",
         "label": "Гибкость и нюансы",
-        "lessons": []
+        "lessons": [
+          {
+            "id": "b2plus-l1-p1",
+            "number": 108,
+            "title": "Hedging & Softening (Part 1)",
+            "titleNative": "Смягчение высказываний · Часть 1",
+            "description": "Sounding diplomatic instead of blunt",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мне кажется, это, возможно, не самая удачная идея.",
+                "en": "I feel like this might not be the best idea."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не хочу показаться грубым, но, по-моему, ты не прав.",
+                "en": "I don't want to sound rude, but I think you're mistaken."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Возможно, стоит немного пересмотреть этот подход.",
+                "en": "It might be worth reconsidering this approach a little."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не то чтобы я был против, просто есть некоторые сомнения.",
+                "en": "It's not that I'm against it, I just have a few doubts."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мягко говоря, результат не совсем оправдал ожидания.",
+                "en": "To put it mildly, the result didn't quite meet expectations."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Возможно, я ошибаюсь, но мне кажется, здесь есть проблема.",
+                "en": "I could be wrong, but I feel there's a problem here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если честно, я не совсем уверен, что это сработает.",
+                "en": "To be honest, I'm not entirely sure this will work."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не хочу давить, но нам действительно нужно решение сегодня.",
+                "en": "I don't want to push, but we really do need a decision today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Кажется, есть небольшое недопонимание между нами.",
+                "en": "There seems to be a slight misunderstanding between us."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Возможно, стоит взглянуть на это немного иначе.",
+                "en": "It might be worth looking at this a bit differently."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l1-p2",
+            "number": 109,
+            "title": "Hedging & Softening (Part 2)",
+            "titleNative": "Смягчение высказываний · Часть 2",
+            "description": "Sounding diplomatic instead of blunt",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Не хочу критиковать, но, кажется, здесь есть пробел.",
+                "en": "I don't mean to criticize, but there seems to be a gap here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Скорее всего, это просто небольшое недоразумение.",
+                "en": "It's probably just a small misunderstanding."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не уверен, но, возможно, стоит спросить кого-то ещё.",
+                "en": "I'm not sure, but it might be worth asking someone else."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В каком-то смысле, ты, наверное, прав.",
+                "en": "In a way, you're probably right."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если позволите, я бы предложил немного другой вариант.",
+                "en": "If I may, I'd suggest a slightly different option."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не хочу вмешиваться, но, кажется, это стоит обсудить.",
+                "en": "I don't want to interfere, but this seems worth discussing."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возможно, дело не совсем в том, о чём мы думаем.",
+                "en": "It might not quite be about what we think it is."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "По правде говоря, я не совсем понимаю, к чему ты клонишь.",
+                "en": "To tell the truth, I don't quite understand what you're getting at."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не то чтобы это было плохо, просто есть варианты получше.",
+                "en": "It's not that it's bad, there are just better options."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне кажется, тут стоит проявить немного больше осторожности.",
+                "en": "I feel we should be a bit more careful here."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l2-p1",
+            "number": 110,
+            "title": "Idiomatic Collocations (Part 1)",
+            "titleNative": "Идиоматические сочетания · Часть 1",
+            "description": "Word pairings that make you sound like a native speaker",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Он принял окончательное решение только после долгих раздумий.",
+                "en": "He made up his mind only after a lot of thought."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы должны учитывать все возможные последствия.",
+                "en": "We need to take into account all the possible consequences."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она полностью посвятила себя этому проекту.",
+                "en": "She devoted herself entirely to this project."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компания несёт полную ответственность за эту ошибку.",
+                "en": "The company bears full responsibility for this mistake."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Нам нужно найти общий язык с новым руководством.",
+                "en": "We need to find common ground with the new management."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он всегда держит своё слово, что бы ни случилось.",
+                "en": "He always keeps his word, no matter what happens."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы приняли это близко к сердцу.",
+                "en": "We took it to heart."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она умеет держать себя в руках даже в стрессовых ситуациях.",
+                "en": "She knows how to keep her composure even in stressful situations."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это решение открывает нам новые возможности.",
+                "en": "This decision opens up new opportunities for us."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он взял на себя инициативу и возглавил команду.",
+                "en": "He took the initiative and led the team."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l2-p2",
+            "number": 111,
+            "title": "Idiomatic Collocations (Part 2)",
+            "titleNative": "Идиоматические сочетания · Часть 2",
+            "description": "Word pairings that make you sound like a native speaker",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мы столкнулись с серьёзными препятствиями на этом пути.",
+                "en": "We ran into serious obstacles along the way."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она заслуживает признания за проделанную работу.",
+                "en": "She deserves recognition for the work she's done."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Нам нужно извлечь урок из этой ситуации.",
+                "en": "We need to learn a lesson from this situation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он придаёт большое значение честности в отношениях.",
+                "en": "He places great importance on honesty in relationships."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Компания приняла меры для решения этой проблемы.",
+                "en": "The company took measures to address this problem."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы должны сохранять спокойствие в этой ситуации.",
+                "en": "We need to keep calm in this situation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она внесла значительный вклад в успех команды.",
+                "en": "She made a significant contribution to the team's success."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он поставил под сомнение целесообразность этого плана.",
+                "en": "He questioned the wisdom of this plan."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы должны идти в ногу со временем.",
+                "en": "We need to keep up with the times."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она приняла вызов и не отступила.",
+                "en": "She took up the challenge and didn't back down."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l3-p1",
+            "number": 112,
+            "title": "Narrative Tense Mixing (Part 1)",
+            "titleNative": "Смешение времён в повествовании · Часть 1",
+            "description": "Weaving past, past perfect, and past continuous naturally",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Когда я пришёл домой, свет уже не горел, и все спали.",
+                "en": "When I got home, the lights were already off and everyone was asleep."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она готовила ужин, когда вдруг зазвонил телефон.",
+                "en": "She was cooking dinner when the phone suddenly rang."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "К тому времени, как мы приехали, концерт уже закончился.",
+                "en": "By the time we arrived, the concert had already ended."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пока он читал книгу, дети играли во дворе.",
+                "en": "While he was reading a book, the kids were playing outside."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я понял, что уже опоздал, когда посмотрел на часы.",
+                "en": "I realized I was already late when I looked at my watch."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы гуляли по парку, когда начался сильный дождь.",
+                "en": "We were walking through the park when it started raining heavily."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она уже уехала, когда я наконец решил ей позвонить.",
+                "en": "She had already left by the time I finally decided to call her."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Пока родители обсуждали планы, дети смотрели телевизор.",
+                "en": "While the parents were discussing plans, the kids were watching TV."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я вспомнил, что забыл ключи, только когда дошёл до двери.",
+                "en": "I remembered I had forgotten my keys only when I reached the door."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Они уже начали ужинать, когда я наконец добрался до дома.",
+                "en": "They had already started dinner by the time I finally got home."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l3-p2",
+            "number": 113,
+            "title": "Narrative Tense Mixing (Part 2)",
+            "titleNative": "Смешение времён в повествовании · Часть 2",
+            "description": "Weaving past, past perfect, and past continuous naturally",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Пока мы ждали автобус, начался снег.",
+                "en": "While we were waiting for the bus, it started snowing."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она рассказывала историю, а все внимательно слушали.",
+                "en": "She was telling a story while everyone listened attentively."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "К моменту, когда врач приехал, ему уже стало лучше.",
+                "en": "By the time the doctor arrived, he was already feeling better."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пока я разговаривал по телефону, кто-то постучал в дверь.",
+                "en": "While I was talking on the phone, someone knocked on the door."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы уже поужинали, когда они наконец пришли.",
+                "en": "We had already had dinner by the time they finally arrived."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Пока дети спали, родители тихо обсуждали планы на будущее.",
+                "en": "While the kids were sleeping, the parents were quietly discussing plans for the future."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она уже забыла об этом разговоре, когда я снова его упомянул.",
+                "en": "She had already forgotten about that conversation when I brought it up again."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Пока мы искали место для парковки, начался дождь.",
+                "en": "While we were looking for a parking spot, it started raining."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я как раз собирался уходить, когда пришло твоё сообщение.",
+                "en": "I was just about to leave when your message arrived."
+              },
+              {
+                "type": "type-answer",
+                "ru": "К тому моменту, как подали десерт, все уже наелись.",
+                "en": "By the time dessert was served, everyone was already full."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l4-p1",
+            "number": 114,
+            "title": "Formal Register (Part 1)",
+            "titleNative": "Официальный регистр речи · Часть 1",
+            "description": "Sounding polished in emails, meetings, and presentations",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Позвольте мне выразить искреннюю благодарность за приглашение.",
+                "en": "Allow me to express my sincere gratitude for the invitation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы хотели бы обратить ваше внимание на данный вопрос.",
+                "en": "We would like to draw your attention to this matter."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В связи с вышеизложенным, предлагаем перенести встречу.",
+                "en": "In light of the above, we propose rescheduling the meeting."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Просим вас предоставить дополнительную информацию по этому поводу.",
+                "en": "We kindly ask you to provide further information on this matter."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы будем признательны за скорейший ответ.",
+                "en": "We would appreciate a prompt response."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Данное решение было принято после тщательного анализа ситуации.",
+                "en": "This decision was made after a thorough analysis of the situation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотелось бы подчеркнуть важность своевременного выполнения задач.",
+                "en": "We would like to emphasize the importance of completing tasks on time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы готовы обсудить все детали в удобное для вас время.",
+                "en": "We are ready to discuss all the details at your convenience."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Прошу прощения за возможные неудобства, вызванные задержкой.",
+                "en": "I apologize for any inconvenience caused by the delay."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Данный вопрос требует незамедлительного рассмотрения.",
+                "en": "This matter requires immediate consideration."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l4-p2",
+            "number": 115,
+            "title": "Formal Register (Part 2)",
+            "titleNative": "Официальный регистр речи · Часть 2",
+            "description": "Sounding polished in emails, meetings, and presentations",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мы высоко ценим ваш вклад в развитие нашего сотрудничества.",
+                "en": "We greatly value your contribution to the development of our cooperation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Прошу учесть все замечания, изложенные в отчёте.",
+                "en": "Please take into account all the comments outlined in the report."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы рассчитываем на дальнейшее плодотворное сотрудничество.",
+                "en": "We look forward to further fruitful cooperation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В соответствии с достигнутыми договорённостями, работа начнётся в понедельник.",
+                "en": "In accordance with the agreements reached, the work will begin on Monday."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Позвольте выразить надежду на положительное решение вопроса.",
+                "en": "Allow me to express hope for a positive resolution of the matter."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы вынуждены отложить принятие окончательного решения.",
+                "en": "We are compelled to postpone making a final decision."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Данная инициатива заслуживает особого внимания со стороны руководства.",
+                "en": "This initiative deserves special attention from management."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Просим извинить за задержку с ответом на ваше письмо.",
+                "en": "Please accept our apologies for the delay in responding to your letter."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы уверены, что данное предложение отвечает интересам обеих сторон.",
+                "en": "We are confident that this proposal serves the interests of both parties."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Благодарим за понимание и терпение в данной ситуации.",
+                "en": "Thank you for your understanding and patience in this situation."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l5-p1",
+            "number": 116,
+            "title": "Attitude & Emotion (Part 1)",
+            "titleNative": "Отношение и эмоции · Часть 1",
+            "description": "Expressing frustration, relief, admiration, and doubt with nuance",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Меня немного раздражает, когда люди опаздывают без причины.",
+                "en": "It bothers me a little when people are late without a reason."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я испытал огромное облегчение, когда узнал результаты.",
+                "en": "I felt a huge sense of relief when I learned the results."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не могу не восхищаться её решимостью в трудные времена.",
+                "en": "I can't help but admire her determination in difficult times."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Меня всё это начинает по-настоящему беспокоить.",
+                "en": "All of this is starting to genuinely worry me."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Честно говоря, я в некотором замешательстве от этой новости.",
+                "en": "To be honest, I'm somewhat confused by this news."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я был приятно удивлён тем, как всё прошло.",
+                "en": "I was pleasantly surprised by how everything went."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Признаюсь, эта ситуация вызывает у меня смешанные чувства.",
+                "en": "I admit this situation gives me mixed feelings."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Меня искренне трогает то, как она заботится о своей семье.",
+                "en": "I'm genuinely touched by how she takes care of her family."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я не могу скрыть своего разочарования этим результатом.",
+                "en": "I can't hide my disappointment with this result."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне немного не по себе от того, как быстро всё меняется.",
+                "en": "I feel a bit uneasy about how quickly everything is changing."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l5-p2",
+            "number": 117,
+            "title": "Attitude & Emotion (Part 2)",
+            "titleNative": "Отношение и эмоции · Часть 2",
+            "description": "Expressing frustration, relief, admiration, and doubt with nuance",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я испытываю глубокое уважение к людям, которые не сдаются.",
+                "en": "I have deep respect for people who don't give up."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Признаться, эта новость застала меня врасплох.",
+                "en": "I must admit, this news caught me off guard."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Меня переполняет гордость за то, чего мы достигли вместе.",
+                "en": "I'm overwhelmed with pride for what we've achieved together."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я с трудом сдерживаю раздражение, когда меня перебивают.",
+                "en": "I can barely contain my irritation when I'm interrupted."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У меня появилось смутное ощущение, что что-то не так.",
+                "en": "I got a vague feeling that something was wrong."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я испытываю искреннюю благодарность за вашу поддержку.",
+                "en": "I feel genuine gratitude for your support."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Меня немного смущает такое количество внимания.",
+                "en": "I'm a bit embarrassed by all this attention."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не скрою, эта ситуация вызывает у меня тревогу.",
+                "en": "I won't hide that this situation makes me anxious."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я искренне восхищён тем, как ты со всем справилась.",
+                "en": "I'm genuinely impressed by how you handled everything."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Меня не покидает ощущение, что мы что-то упускаем.",
+                "en": "I can't shake the feeling that we're missing something."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l6-p1",
+            "number": 118,
+            "title": "Nuanced Modality (Part 1)",
+            "titleNative": "Тонкие оттенки модальности · Часть 1",
+            "description": "Precise shades of possibility, obligation, and permission",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "В принципе, мы могли бы рассмотреть и другие варианты.",
+                "en": "In principle, we could consider other options as well."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Теоретически, это возможно, но на практике всё сложнее.",
+                "en": "Theoretically, it's possible, but in practice it's more complicated."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "При определённых условиях это могло бы сработать.",
+                "en": "Under certain conditions, this could work."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Строго говоря, у нас нет обязательства это делать.",
+                "en": "Strictly speaking, we have no obligation to do this."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Формально это разрешено, но не всегда приветствуется.",
+                "en": "Formally, this is allowed, but it's not always welcomed."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В идеале, нам стоило бы закончить это раньше.",
+                "en": "Ideally, we should have finished this sooner."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По сути, у нас нет другого выбора, кроме как согласиться.",
+                "en": "Essentially, we have no choice but to agree."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В крайнем случае, мы всегда можем перенести срок.",
+                "en": "As a last resort, we can always postpone the deadline."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Разумеется, окончательное решение остаётся за тобой.",
+                "en": "Naturally, the final decision remains yours."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вероятно, стоило бы обсудить это с командой заранее.",
+                "en": "It would probably be worth discussing this with the team in advance."
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l6-p2",
+            "number": 119,
+            "title": "Nuanced Modality (Part 2)",
+            "titleNative": "Тонкие оттенки модальности · Часть 2",
+            "description": "Precise shades of possibility, obligation, and permission",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "По идее, всё должно быть готово к пятнице.",
+                "en": "In theory, everything should be ready by Friday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В общем-то, у нас есть все необходимые ресурсы.",
+                "en": "Generally speaking, we have all the necessary resources."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "На самом деле, нам не обязательно решать это прямо сейчас.",
+                "en": "Actually, we don't necessarily have to decide this right now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По всей видимости, план придётся немного скорректировать.",
+                "en": "It seems likely the plan will have to be adjusted slightly."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В сущности, это всего лишь вопрос времени.",
+                "en": "In essence, it's just a matter of time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как правило, такие вопросы решаются на уровне руководства.",
+                "en": "As a rule, such matters are decided at the management level."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пожалуй, стоит обдумать это ещё раз, прежде чем решать.",
+                "en": "Perhaps it's worth thinking this over again before deciding."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В крайнем случае, мы можем обратиться за помощью извне.",
+                "en": "As a last resort, we can seek outside help."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Скорее всего, нам придётся пересмотреть весь бюджет.",
+                "en": "We'll most likely have to revise the entire budget."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В целом, ситуация выглядит гораздо лучше, чем раньше.",
+                "en": "Overall, the situation looks much better than before."
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "c1",
         "cefr": "C1",
         "badge": "C1",
         "label": "Профессиональный уровень",
-        "lessons": []
+        "lessons": [
+          {
+            "id": "c1-l1-p1",
+            "number": 120,
+            "title": "Academic & Analytical Language (Part 1)",
+            "titleNative": "Академический и аналитический язык · Часть 1",
+            "description": "Sounding precise and objective in analysis and writing",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Данные свидетельствуют о заметной корреляции между этими двумя факторами.",
+                "en": "The data suggest a notable correlation between these two factors."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Следует отметить, что данный вывод основан на ограниченной выборке.",
+                "en": "It should be noted that this conclusion is based on a limited sample."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Растущая урбанизация во многом обусловлена экономическими причинами.",
+                "en": "Growing urbanization is largely driven by economic factors."
+              },
+              {
+                "type": "word-bank",
+                "ru": "На первый взгляд аргумент кажется убедительным, однако при ближайшем рассмотрении возникают вопросы.",
+                "en": "At first glance the argument seems convincing, but on closer inspection questions arise."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Нельзя недооценивать влияние данного явления на общество в целом.",
+                "en": "The influence of this phenomenon on society as a whole cannot be underestimated."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Представленные данные указывают на устойчивую тенденцию к снижению.",
+                "en": "The data presented point to a steady downward trend."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Этот подход, хотя и распространён, не лишён существенных недостатков.",
+                "en": "This approach, while widespread, is not without significant drawbacks."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Согласно последним исследованиям, ситуация значительно сложнее, чем считалось ранее.",
+                "en": "According to recent research, the situation is considerably more complex than previously thought."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Данное утверждение требует дополнительного эмпирического подтверждения.",
+                "en": "This claim requires further empirical confirmation."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В целом можно утверждать, что результаты подтверждают исходную гипотезу.",
+                "en": "Overall, it can be argued that the results support the original hypothesis."
+              }
+            ]
+          },
+          {
+            "id": "c1-l1-p2",
+            "number": 121,
+            "title": "Academic & Analytical Language (Part 2)",
+            "titleNative": "Академический и аналитический язык · Часть 2",
+            "description": "Sounding precise and objective in analysis and writing",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Стоит подчеркнуть, что причинно-следственная связь здесь не очевидна.",
+                "en": "It is worth emphasizing that the causal relationship here is not obvious."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Многие эксперты сходятся во мнении, хотя единого консенсуса пока нет.",
+                "en": "Many experts converge on this view, though there is no unified consensus yet."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Приведённые примеры иллюстрируют более широкую закономерность.",
+                "en": "The examples given illustrate a broader pattern."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Данный феномен заслуживает более пристального внимания со стороны исследователей.",
+                "en": "This phenomenon deserves closer attention from researchers."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ограничения данного исследования следует учитывать при интерпретации результатов.",
+                "en": "The limitations of this study should be taken into account when interpreting the results."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Полученные результаты частично противоречат предыдущим исследованиям.",
+                "en": "The findings partly contradict previous research."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Гипотеза была впоследствии опровергнута дальнейшими экспериментами.",
+                "en": "The hypothesis was subsequently disproved by further experiments."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Учитывая имеющиеся данные, разумно предположить обратное.",
+                "en": "Given the available data, it is reasonable to assume the opposite."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Этот вопрос выходит за рамки данной статьи и заслуживает отдельного рассмотрения.",
+                "en": "This question falls outside the scope of this article and deserves separate consideration."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Совокупность факторов указывает на многогранную природу проблемы.",
+                "en": "The combination of factors points to the multifaceted nature of the problem."
+              }
+            ]
+          },
+          {
+            "id": "c1-l2-p1",
+            "number": 122,
+            "title": "Rhetorical Devices & Persuasion (Part 1)",
+            "titleNative": "Риторические приёмы и убеждение · Часть 1",
+            "description": "Rhetorical questions, contrast, and persuasive structure",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Разве не очевидно, что перемены давно назрели?",
+                "en": "Isn't it obvious that change has been overdue for a long time?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как можно ожидать доверия, не проявляя элементарной прозрачности?",
+                "en": "How can one expect trust without showing basic transparency?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не просто возможно, а совершенно необходимо действовать сейчас.",
+                "en": "It is not merely possible, but absolutely necessary to act now."
+              },
+              {
+                "type": "word-bank",
+                "ru": "С одной стороны, риски велики; с другой — бездействие обойдётся ещё дороже.",
+                "en": "On the one hand, the risks are great; on the other, inaction would cost even more."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Именно эта деталь, казалось бы, незначительная, меняет всё.",
+                "en": "It is precisely this detail, seemingly minor, that changes everything."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кто, если не мы, должен взять на себя эту ответственность?",
+                "en": "Who, if not us, should take on this responsibility?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не только эксперты, но и обычные граждане замечают эту проблему.",
+                "en": "Not only experts, but ordinary citizens too are noticing this problem."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "История, как известно, повторяется — и не всегда в нашу пользу.",
+                "en": "History, as we know, repeats itself — and not always in our favor."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Чем дольше мы медлим, тем труднее будет найти решение.",
+                "en": "The longer we delay, the harder it will be to find a solution."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это не просто вопрос политики — это вопрос принципа.",
+                "en": "This is not simply a matter of policy — it is a matter of principle."
+              }
+            ]
+          },
+          {
+            "id": "c1-l2-p2",
+            "number": 123,
+            "title": "Rhetorical Devices & Persuasion (Part 2)",
+            "titleNative": "Риторические приёмы и убеждение · Часть 2",
+            "description": "Rhetorical questions, contrast, and persuasive structure",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Позвольте спросить: кому это действительно выгодно?",
+                "en": "Allow me to ask: who actually benefits from this?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Успех, каким бы он ни казался значительным, редко приходит без жертв.",
+                "en": "Success, however significant it may seem, rarely comes without sacrifice."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Никто не станет отрицать, что времена изменились.",
+                "en": "No one would deny that times have changed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Именно молчание, а не слова, порой говорит громче всего.",
+                "en": "It is silence, not words, that sometimes speaks the loudest."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы стоим перед выбором, от которого зависит будущее целого поколения.",
+                "en": "We stand before a choice on which the future of an entire generation depends."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если не сейчас, то когда? Если не мы, то кто?",
+                "en": "If not now, then when? If not us, then who?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Подобные аргументы звучат убедительно лишь на первый взгляд.",
+                "en": "Such arguments sound convincing only at first glance."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Реальность, увы, куда сложнее, чем нам хотелось бы верить.",
+                "en": "Reality, alas, is far more complex than we would like to believe."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Стоит задаться вопросом, чего мы на самом деле добиваемся.",
+                "en": "It is worth asking what we are actually trying to achieve."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Пусть цифры говорят сами за себя.",
+                "en": "Let the numbers speak for themselves."
+              }
+            ]
+          },
+          {
+            "id": "c1-l3-p1",
+            "number": 124,
+            "title": "Subtle Contrast & Concession (Part 1)",
+            "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 1",
+            "description": "Although, whereas, despite — precise shades of contrast",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Несмотря на очевидные преимущества, у этого решения есть и скрытые издержки.",
+                "en": "Despite the obvious advantages, this solution also has hidden costs."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотя план в целом разумен, отдельные детали вызывают сомнения.",
+                "en": "Although the plan is reasonable overall, certain details raise doubts."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В то время как одни считают это прогрессом, другие видят в этом угрозу.",
+                "en": "Whereas some see this as progress, others view it as a threat."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как бы странно это ни звучало, именно неудача привела к успеху.",
+                "en": "Strange as it may sound, it was failure that led to success."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Даже если предположить худшее, ситуация всё же поправима.",
+                "en": "Even assuming the worst, the situation is still recoverable."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "При всей своей сложности, проблема имеет довольно простое решение.",
+                "en": "For all its complexity, the problem has a fairly simple solution."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Несмотря на то что данные неполны, общая картина довольно ясна.",
+                "en": "Even though the data is incomplete, the overall picture is fairly clear."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вопреки распространённому мнению, это далеко не новое явление.",
+                "en": "Contrary to popular belief, this is far from a new phenomenon."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотя и с оговорками, большинство экспертов поддерживают эту идею.",
+                "en": "Although with reservations, most experts support this idea."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тогда как первый вариант проще, второй значительно надёжнее.",
+                "en": "Whereas the first option is simpler, the second is significantly more reliable."
+              }
+            ]
+          },
+          {
+            "id": "c1-l3-p2",
+            "number": 125,
+            "title": "Subtle Contrast & Concession (Part 2)",
+            "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 2",
+            "description": "Although, whereas, despite — precise shades of contrast",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "При том что риски реальны, потенциальная выгода их оправдывает.",
+                "en": "Given that the risks are real, the potential benefit justifies them."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как ни парадоксально, ограничения порой стимулируют творчество.",
+                "en": "Paradoxically, constraints sometimes stimulate creativity."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Несмотря на первоначальный скептицизм, проект в итоге оказался успешным.",
+                "en": "Despite initial skepticism, the project ultimately turned out to be successful."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пусть даже результаты скромны, направление выбрано верно.",
+                "en": "Even if the results are modest, the direction chosen is right."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Хотя обе стороны правы по-своему, компромисс найти непросто.",
+                "en": "Although both sides are right in their own way, finding a compromise isn't easy."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Каким бы удобным ни казался этот путь, он не лишён рисков.",
+                "en": "However convenient this path may seem, it is not without risks."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В отличие от предыдущей версии, эта модель работает значительно быстрее.",
+                "en": "Unlike the previous version, this model works significantly faster."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Хотя цель оправдывает средства не всегда, в данном случае это применимо.",
+                "en": "Although the end doesn't always justify the means, it applies in this case."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Несмотря на разногласия, команда сумела прийти к единому решению.",
+                "en": "Despite the disagreements, the team managed to reach a unified decision."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Как бы то ни было, решение должно быть принято до конца недели.",
+                "en": "Be that as it may, the decision must be made by the end of the week."
+              }
+            ]
+          },
+          {
+            "id": "c1-l4-p1",
+            "number": 126,
+            "title": "Professional Negotiation Language (Part 1)",
+            "titleNative": "Дипломатичный язык переговоров · Часть 1",
+            "description": "Diplomatic phrasing for business and negotiation",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мы были бы признательны за возможность пересмотреть условия соглашения.",
+                "en": "We would appreciate the opportunity to revisit the terms of the agreement."
+              },
+              {
+                "type": "word-bank",
+                "ru": "При всём уважении, мы вынуждены не согласиться с данным пунктом.",
+                "en": "With all due respect, we must disagree with this point."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Позвольте предложить альтернативный вариант решения данного вопроса.",
+                "en": "Allow me to propose an alternative solution to this matter."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы готовы пойти на уступки при условии взаимной гибкости.",
+                "en": "We are willing to make concessions provided there is mutual flexibility."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Хотелось бы прояснить некоторые моменты, прежде чем двигаться дальше.",
+                "en": "We would like to clarify a few points before moving forward."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Данное предложение представляется нам разумным компромиссом.",
+                "en": "This proposal seems to us to be a reasonable compromise."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы бы предпочли отложить окончательное решение до следующей встречи.",
+                "en": "We would prefer to postpone the final decision until the next meeting."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Позвольте выразить некоторую обеспокоенность по поводу сроков.",
+                "en": "Allow me to express some concern regarding the timeline."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы высоко ценим вашу готовность к диалогу по этому вопросу.",
+                "en": "We greatly appreciate your willingness to engage in dialogue on this matter."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Было бы разумно рассмотреть все варианты, прежде чем принимать решение.",
+                "en": "It would be wise to consider all options before making a decision."
+              }
+            ]
+          },
+          {
+            "id": "c1-l4-p2",
+            "number": 127,
+            "title": "Professional Negotiation Language (Part 2)",
+            "titleNative": "Дипломатичный язык переговоров · Часть 2",
+            "description": "Diplomatic phrasing for business and negotiation",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мы понимаем вашу позицию, однако у нас есть определённые оговорки.",
+                "en": "We understand your position, however we have certain reservations."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не могли бы вы уточнить, что именно подразумевается под этим условием?",
+                "en": "Could you clarify exactly what is meant by this condition?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "С нашей стороны нет возражений против предложенных изменений.",
+                "en": "There are no objections on our part to the proposed changes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы бы хотели заручиться дополнительными гарантиями с вашей стороны.",
+                "en": "We would like to secure additional guarantees on your part."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Данный вопрос требует более детального обсуждения на следующем этапе.",
+                "en": "This matter requires more detailed discussion at the next stage."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы открыты к дальнейшим переговорам при разумных условиях.",
+                "en": "We are open to further negotiations under reasonable conditions."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Позвольте заметить, что подобный подход уже доказал свою эффективность.",
+                "en": "Allow me to note that this approach has already proven effective."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы настоятельно рекомендуем пересмотреть данный пункт соглашения.",
+                "en": "We strongly recommend revisiting this clause of the agreement."
+              },
+              {
+                "type": "word-bank",
+                "ru": "При всей симпатии к вашей позиции, мы не можем принять эти условия.",
+                "en": "For all our sympathy toward your position, we cannot accept these terms."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Надеемся на дальнейшее плодотворное сотрудничество между нашими сторонами.",
+                "en": "We look forward to further fruitful cooperation between our parties."
+              }
+            ]
+          },
+          {
+            "id": "c1-l5-p1",
+            "number": 128,
+            "title": "Abstract & Philosophical Discussion (Part 1)",
+            "titleNative": "Абстрактная и философская дискуссия · Часть 1",
+            "description": "Discussing ideas, values, and abstract concepts",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Свобода, по сути, немыслима без определённой доли ответственности.",
+                "en": "Freedom, in essence, is inconceivable without a certain degree of responsibility."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Понятие справедливости различается в зависимости от культурного контекста.",
+                "en": "The concept of justice varies depending on cultural context."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Истина, возможно, не абсолютна, а скорее зависит от точки зрения.",
+                "en": "Truth is perhaps not absolute, but rather dependent on perspective."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Смысл существования — вопрос, на который каждый отвечает по-своему.",
+                "en": "The meaning of existence is a question each person answers differently."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Прогресс не всегда равнозначен подлинному улучшению качества жизни.",
+                "en": "Progress is not always equivalent to a genuine improvement in quality of life."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Человеческая природа, судя по всему, сочетает в себе как альтруизм, так и эгоизм.",
+                "en": "Human nature, it seems, combines both altruism and self-interest."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Границы между добром и злом порой куда более размыты, чем кажется.",
+                "en": "The boundaries between good and evil are sometimes far blurrier than they seem."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Идентичность формируется на пересечении личного опыта и общества.",
+                "en": "Identity is formed at the intersection of personal experience and society."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Знание само по себе не гарантирует мудрости.",
+                "en": "Knowledge in itself does not guarantee wisdom."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вопрос свободы воли остаётся предметом споров на протяжении веков.",
+                "en": "The question of free will has remained a subject of debate for centuries."
+              }
+            ]
+          },
+          {
+            "id": "c1-l5-p2",
+            "number": 129,
+            "title": "Abstract & Philosophical Discussion (Part 2)",
+            "titleNative": "Абстрактная и философская дискуссия · Часть 2",
+            "description": "Discussing ideas, values, and abstract concepts",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ценности, которые мы считаем универсальными, часто оказываются культурно обусловленными.",
+                "en": "The values we consider universal often turn out to be culturally conditioned."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Счастье, вероятно, не столько цель, сколько побочный продукт осмысленной жизни.",
+                "en": "Happiness is probably not so much a goal as a byproduct of a meaningful life."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Реальность, которую мы воспринимаем, во многом формируется нашим сознанием.",
+                "en": "The reality we perceive is largely shaped by our consciousness."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Время, как утверждают некоторые философы, — не более чем человеческая конструкция.",
+                "en": "Time, as some philosophers argue, is nothing more than a human construct."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мораль без контекста рискует превратиться в пустую догму.",
+                "en": "Morality without context risks turning into empty dogma."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Индивидуальность и принадлежность к обществу нередко вступают в противоречие.",
+                "en": "Individuality and belonging to society often come into conflict."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Понимание себя, возможно, начинается с признания собственных противоречий.",
+                "en": "Understanding oneself perhaps begins with acknowledging one's own contradictions."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Технологии меняют не только образ жизни, но и саму суть человеческих отношений.",
+                "en": "Technology changes not only our way of life, but the very nature of human relationships."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Смысл, судя по всему, не столько находят, сколько создают.",
+                "en": "Meaning, it seems, is not so much found as it is created."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Наши убеждения формируются задолго до того, как мы начинаем подвергать их сомнению.",
+                "en": "Our beliefs are formed long before we begin to question them."
+              }
+            ]
+          },
+          {
+            "id": "c1-l6-p1",
+            "number": 130,
+            "title": "Advanced Discourse Markers (Part 1)",
+            "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 1",
+            "description": "That said, on the flip side, needless to say — fluent connective tissue",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Тем не менее, это ни в коей мере не умаляет значимости проделанной работы.",
+                "en": "That said, this in no way diminishes the significance of the work done."
+              },
+              {
+                "type": "word-bank",
+                "ru": "С другой стороны, у этого подхода есть и свои очевидные недостатки.",
+                "en": "On the flip side, this approach also has its obvious drawbacks."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Само собой разумеется, что решение должно приниматься коллективно.",
+                "en": "Needless to say, the decision must be made collectively."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Более того, подобная практика встречается далеко не впервые.",
+                "en": "Moreover, such a practice is far from unprecedented."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Так или иначе, вопрос требует немедленного внимания.",
+                "en": "One way or another, the matter requires immediate attention."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Иными словами, проблема гораздо глубже, чем кажется на первый взгляд.",
+                "en": "In other words, the problem is much deeper than it appears at first glance."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В конечном счёте, именно результат определяет ценность усилий.",
+                "en": "Ultimately, it is the outcome that determines the value of the effort."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что примечательно, никто из участников не выразил открытого несогласия.",
+                "en": "What's notable is that none of the participants voiced open disagreement."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как следствие, доверие к институту оказалось серьёзно подорвано.",
+                "en": "As a consequence, trust in the institution was seriously undermined."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вместе с тем, нельзя игнорировать и положительные стороны предложения.",
+                "en": "At the same time, one cannot ignore the positive aspects of the proposal."
+              }
+            ]
+          },
+          {
+            "id": "c1-l6-p2",
+            "number": 131,
+            "title": "Advanced Discourse Markers (Part 2)",
+            "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 2",
+            "description": "That said, on the flip side, needless to say — fluent connective tissue",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "По сути, речь идёт о фундаментальном пересмотре всей системы.",
+                "en": "Essentially, this is about a fundamental overhaul of the entire system."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В любом случае, окончательное решение остаётся за руководством.",
+                "en": "In any case, the final decision rests with management."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что касается сроков, здесь пока сохраняется определённая неопределённость.",
+                "en": "As for the timeline, there remains a certain degree of uncertainty here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Проще говоря, никто не готов брать на себя такую ответственность.",
+                "en": "Simply put, no one is willing to take on that kind of responsibility."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Между тем, ситуация на местах продолжает меняться довольно быстро.",
+                "en": "Meanwhile, the situation on the ground continues to change fairly quickly."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Помимо этого, стоит учитывать и долгосрочные последствия решения.",
+                "en": "Besides this, the long-term consequences of the decision should also be considered."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В сущности, оба подхода преследуют одну и ту же цель.",
+                "en": "In essence, both approaches pursue the same goal."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как бы там ни было, время для промедления уже прошло.",
+                "en": "However that may be, the time for delay has already passed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Соответственно, следующим шагом должен стать пересмотр стратегии.",
+                "en": "Accordingly, the next step should be a revision of the strategy."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В заключение стоит отметить, что вопрос остаётся открытым.",
+                "en": "In conclusion, it is worth noting that the question remains open."
+              }
+            ]
+          }
+        ]
       }
     ]
   }
