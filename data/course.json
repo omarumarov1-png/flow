@@ -12521,6 +12521,846 @@
             "ru": "Думаю, нужно больше деталей о бюджете."
           }
         ]
+      },
+      "b1-l1": {
+        "title": "Present Perfect",
+        "pattern": "have/has + past participle",
+        "explanation": "Present Perfect connects the past to now — it's used for experiences without a specific time (\"I have visited Paris\"), and for actions that started in the past and continue (\"I have lived here for five years\"). Russian doesn't have this exact concept, which is why it's one of the hardest tenses for Russian speakers to feel intuitively.",
+        "fact": "The confusion between Present Perfect and Past Simple is so common among learners that it has a name in language teaching: \"the Present Perfect problem.\" The key test: if you can name a specific finished time (\"yesterday\", \"in 2020\"), use Past Simple; if the time is open or unspecified, use Present Perfect.",
+        "dialogue": [
+          {
+            "sp": "Nina",
+            "en": "Have you ever been to Japan?",
+            "ru": "Ты когда-нибудь была в Японии?"
+          },
+          {
+            "sp": "Marat",
+            "en": "Yes, I have been there twice. I've always loved the culture.",
+            "ru": "Да, я был там дважды. Мне всегда нравилась эта культура."
+          },
+          {
+            "sp": "Nina",
+            "en": "I haven't traveled much this year.",
+            "ru": "Я в этом году почти не путешествовала."
+          },
+          {
+            "sp": "Marat",
+            "en": "Neither have I, but I've saved some money for next year.",
+            "ru": "Я тоже, но я скопил немного денег на следующий год."
+          }
+        ]
+      },
+      "b1-l2": {
+        "title": "First Conditional",
+        "pattern": "If + present simple, ... will + verb",
+        "explanation": "First Conditional talks about real, likely future situations: \"If it rains, I will stay home.\" The \"if\" clause uses present tense even though it refers to the future — a common trap, since learners often want to say \"If it will rain.\"",
+        "fact": "English never uses \"will\" after \"if\" in a real conditional clause, but it DOES allow it in polite requests (\"If you will just wait a moment\") — a rare exception that confuses even advanced learners, because it looks identical to the \"forbidden\" pattern but serves a completely different function.",
+        "dialogue": [
+          {
+            "sp": "Aigerim",
+            "en": "If it rains tomorrow, will you still come?",
+            "ru": "Если завтра пойдёт дождь, ты всё равно придёшь?"
+          },
+          {
+            "sp": "Bek",
+            "en": "If it rains, I'll bring an umbrella and come anyway.",
+            "ru": "Если пойдёт дождь, я возьму зонт и всё равно приду."
+          },
+          {
+            "sp": "Aigerim",
+            "en": "Good. If we finish early, we'll go for coffee after.",
+            "ru": "Хорошо. Если мы закончим рано, после пойдём выпить кофе."
+          },
+          {
+            "sp": "Bek",
+            "en": "Sounds perfect.",
+            "ru": "Звучит отлично."
+          }
+        ]
+      },
+      "b1-l3": {
+        "title": "Second Conditional",
+        "pattern": "If + past simple, ... would + verb",
+        "explanation": "Second Conditional describes hypothetical or unlikely situations in the present or future: \"If I won the lottery, I would travel the world.\" Using past tense here doesn't mean the past — it signals distance from reality, a pattern English uses in several places to mark something as imaginary rather than real.",
+        "fact": "In formal or very careful English, \"were\" replaces \"was\" for all subjects in this structure (\"If I were you...\") — a fossil of an older grammatical mood called the subjunctive, which mostly disappeared from English but survives in this one common phrase.",
+        "dialogue": [
+          {
+            "sp": "Sanzhar",
+            "en": "What would you do if you had a million dollars?",
+            "ru": "Что бы ты сделал, если бы у тебя был миллион долларов?"
+          },
+          {
+            "sp": "Dana",
+            "en": "If I had that much money, I would buy a house by the sea.",
+            "ru": "Если бы у меня было столько денег, я бы купила дом у моря."
+          },
+          {
+            "sp": "Sanzhar",
+            "en": "If I were you, I'd invest some of it too.",
+            "ru": "На твоём месте я бы часть этого ещё и вложил."
+          },
+          {
+            "sp": "Dana",
+            "en": "That's smart advice, actually.",
+            "ru": "Вообще-то, это разумный совет."
+          }
+        ]
+      },
+      "b1-l4": {
+        "title": "Passive Voice",
+        "pattern": "be + past participle (the doer becomes optional)",
+        "explanation": "Passive voice shifts focus from who did something to what happened: \"The window was broken\" instead of \"Someone broke the window.\" It's especially common when the doer is unknown, obvious, or unimportant — news headlines and formal writing use it constantly for exactly this reason.",
+        "fact": "Overusing passive voice is considered weak, evasive writing in English style guides — \"mistakes were made\" is a famous example of a politician using passive voice specifically to avoid naming who is responsible, a trick native speakers instantly recognize.",
+        "dialogue": [
+          {
+            "sp": "Zarina",
+            "en": "This building was designed by a famous architect.",
+            "ru": "Это здание было спроектировано известным архитектором."
+          },
+          {
+            "sp": "Ruslan",
+            "en": "Really? When was it built?",
+            "ru": "Правда? Когда его построили?"
+          },
+          {
+            "sp": "Zarina",
+            "en": "It was built in the 1950s, I think.",
+            "ru": "Думаю, оно было построено в 1950-х годах."
+          },
+          {
+            "sp": "Ruslan",
+            "en": "It's been renovated recently, hasn't it?",
+            "ru": "Его же недавно отремонтировали, да?"
+          }
+        ]
+      },
+      "b1-l5": {
+        "title": "Reported Speech",
+        "pattern": "\"I am tired\" -> He said (that) he was tired",
+        "explanation": "When reporting what someone said, verb tenses usually shift one step back into the past: \"I am\" becomes \"he was\", \"I will\" becomes \"he would\". This tense-shifting (called \"backshifting\") is one of the more mechanical rules in English grammar, but it trips up learners because Russian reported speech doesn't require this shift.",
+        "fact": "If the reported statement is still true or is a general fact, backshifting is often optional: \"She said the Earth is round\" sounds just as natural as \"She said the Earth was round\" — native speakers use both, choosing based on how strongly they want to affirm the fact is still true right now.",
+        "dialogue": [
+          {
+            "sp": "Lena",
+            "en": "What did Timur say about the meeting?",
+            "ru": "Что Тимур сказал о встрече?"
+          },
+          {
+            "sp": "Yerbol",
+            "en": "He said he would be a bit late.",
+            "ru": "Он сказал, что немного опоздает."
+          },
+          {
+            "sp": "Lena",
+            "en": "Did he say why?",
+            "ru": "Он сказал почему?"
+          },
+          {
+            "sp": "Yerbol",
+            "en": "He said his car had broken down.",
+            "ru": "Он сказал, что у него сломалась машина."
+          }
+        ]
+      },
+      "b1-l6": {
+        "title": "Making Suggestions",
+        "pattern": "Let's... / How about...? / Why don't we...?",
+        "explanation": "English has many casual patterns for suggesting something, each with a slightly different tone: \"Let's go\" (direct, includes the speaker), \"How about going?\" (softer, invites a reaction), \"Why don't we go?\" (friendly, sounds like a genuine question but is really a suggestion).",
+        "fact": "\"Why don't we...\" is grammatically a question but functions as a suggestion, not a real request for information — answering it literally (\"Because we don't have time\") would sound oddly blunt to a native speaker, who expects either agreement or a polite alternative.",
+        "dialogue": [
+          {
+            "sp": "Aliya",
+            "en": "Let's try that new restaurant tonight.",
+            "ru": "Давай попробуем сегодня новый ресторан."
+          },
+          {
+            "sp": "Damir",
+            "en": "How about going tomorrow instead? I'm tired today.",
+            "ru": "А может, лучше завтра? Я сегодня устал."
+          },
+          {
+            "sp": "Aliya",
+            "en": "Sure. Why don't we invite Sabina too?",
+            "ru": "Конечно. А может, пригласим ещё и Сабину?"
+          },
+          {
+            "sp": "Damir",
+            "en": "Good idea, I'll message her now.",
+            "ru": "Хорошая идея, я сейчас ей напишу."
+          }
+        ]
+      },
+      "b1plus-l1": {
+        "title": "Phrasal Verbs",
+        "pattern": "verb + particle (give up, look forward to, run into)",
+        "explanation": "Phrasal verbs combine a simple verb with one or two small words (up, out, into) to create a meaning that's often completely different from the individual words — \"give up\" means \"to quit\", not anything about giving. There's no shortcut here: each one has to be learned as its own vocabulary item.",
+        "fact": "Phrasal verbs are far more common in spoken and informal English than their single-word equivalents (\"give up\" vs. \"abandon\", \"find out\" vs. \"discover\") — using the formal Latin-based version in casual conversation can sound stiff or overly academic to native speakers.",
+        "dialogue": [
+          {
+            "sp": "Erlan",
+            "en": "I've decided to give up sugar this month.",
+            "ru": "Я решил в этом месяце отказаться от сахара."
+          },
+          {
+            "sp": "Bota",
+            "en": "Really? I'm looking forward to seeing how that goes.",
+            "ru": "Правда? С интересом посмотрю, что из этого выйдет."
+          },
+          {
+            "sp": "Erlan",
+            "en": "I ran into my old teacher yesterday, actually.",
+            "ru": "Кстати, я вчера случайно встретил своего старого учителя."
+          },
+          {
+            "sp": "Bota",
+            "en": "No way! What did she say?",
+            "ru": "Да ну! И что она сказала?"
+          }
+        ]
+      },
+      "b1plus-l2": {
+        "title": "Sharing Opinions",
+        "pattern": "I'd say... / As far as I'm concerned... / If you ask me...",
+        "explanation": "Beyond simple \"I think\", English has richer ways to introduce an opinion that signal how confident or personal it is: \"I'd say\" (slightly cautious), \"as far as I'm concerned\" (this is my view, others may differ), \"if you ask me\" (casual, a bit blunt).",
+        "fact": "\"If you ask me\" is often used even when nobody actually asked — it's a conversational device that pre-emptively softens an opinion the speaker knows might be unwelcome or unsolicited, a small piece of social diplomacy built into the grammar.",
+        "dialogue": [
+          {
+            "sp": "Nurlan",
+            "en": "What do you think of the new policy?",
+            "ru": "Что ты думаешь о новой политике?"
+          },
+          {
+            "sp": "Kate",
+            "en": "I'd say it's a step in the right direction.",
+            "ru": "Я бы сказала, что это шаг в правильном направлении."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "As far as I'm concerned, it doesn't go far enough.",
+            "ru": "На мой взгляд, это недостаточно решительно."
+          },
+          {
+            "sp": "Kate",
+            "en": "If you ask me, we'll see real change in a year or two.",
+            "ru": "Если честно, реальные изменения мы увидим года через два."
+          }
+        ]
+      },
+      "b1plus-l3": {
+        "title": "Third Conditional",
+        "pattern": "If + past perfect, ... would have + past participle",
+        "explanation": "Third Conditional talks about an imagined different past — something that didn't actually happen: \"If I had studied harder, I would have passed.\" It's always about regret or hypothetical alternate history, never about the real present or future.",
+        "fact": "In fast, casual speech, native speakers often contract \"would have\" to \"would've\", which sounds almost identical to \"would of\" — this is why so many native English speakers mistakenly write \"would of\" instead of \"would have\", a mistake learners rarely make since they learn the grammar explicitly.",
+        "dialogue": [
+          {
+            "sp": "Oksana",
+            "en": "If I had left earlier, I wouldn't have missed the train.",
+            "ru": "Если бы я вышла раньше, я бы не опоздала на поезд."
+          },
+          {
+            "sp": "Timur",
+            "en": "If you had called me, I would have given you a ride.",
+            "ru": "Если бы ты мне позвонила, я бы тебя подвёз."
+          },
+          {
+            "sp": "Oksana",
+            "en": "I know. I should have thought of that.",
+            "ru": "Знаю. Надо было об этом подумать."
+          },
+          {
+            "sp": "Timur",
+            "en": "Don't worry, it's happened to all of us.",
+            "ru": "Не переживай, с каждым такое бывало."
+          }
+        ]
+      },
+      "b1plus-l4": {
+        "title": "Reported Questions",
+        "pattern": "\"Where do you live?\" -> He asked where I lived",
+        "explanation": "Reported questions lose the question word order and question mark: \"Where do you live?\" becomes \"He asked where I lived,\" not \"He asked where did I live.\" This reversal back to normal statement word order is one of the most consistently broken rules among intermediate learners.",
+        "fact": "For yes/no questions with no question word, reported speech inserts \"if\" or \"whether\": \"Are you coming?\" becomes \"She asked if I was coming\" — English needs this connector because, unlike the original question, the reported version has no rising intonation or word-order clue to signal it's a question at all.",
+        "dialogue": [
+          {
+            "sp": "Aida",
+            "en": "The officer asked where I was going.",
+            "ru": "Полицейский спросил, куда я направляюсь."
+          },
+          {
+            "sp": "Yerlan",
+            "en": "What did you say?",
+            "ru": "Что ты ответил?"
+          },
+          {
+            "sp": "Aida",
+            "en": "I told him I was going home. He also asked if I had my documents.",
+            "ru": "Я сказал, что домой. Он ещё спросил, есть ли у меня документы."
+          },
+          {
+            "sp": "Yerlan",
+            "en": "That sounds routine, at least.",
+            "ru": "Ну, это, по крайней мере, звучит как обычная проверка."
+          }
+        ]
+      },
+      "b1plus-l5": {
+        "title": "Modals of Deduction",
+        "pattern": "must be (certain) / might be (possible) / can't be (impossible)",
+        "explanation": "These modals express how confident you are about a guess, not permission or ability: \"He must be tired\" (I'm almost sure), \"He might be tired\" (maybe), \"He can't be tired, he just woke up\" (I'm sure he's not). The same modal words used elsewhere for permission take on entirely new meanings here.",
+        "fact": "For guesses about the past, these modals combine with \"have\" + past participle: \"She must have forgotten\" — this construction is a favorite trap in English proficiency exams precisely because it looks like Third Conditional grammar but expresses a completely different idea (certainty about the past, not regret).",
+        "dialogue": [
+          {
+            "sp": "Meruert",
+            "en": "The lights are off. They must be asleep already.",
+            "ru": "Свет выключен. Они, должно быть, уже спят."
+          },
+          {
+            "sp": "Askar",
+            "en": "Or they might just be out for the evening.",
+            "ru": "Или они, возможно, просто вышли куда-то на вечер."
+          },
+          {
+            "sp": "Meruert",
+            "en": "True, but their car is here, so they can't have gone far.",
+            "ru": "Верно, но их машина тут, так что далеко они уйти не могли."
+          },
+          {
+            "sp": "Askar",
+            "en": "Good point. Let's just knock and see.",
+            "ru": "Хорошая мысль. Давай просто постучим и узнаем."
+          }
+        ]
+      },
+      "b1plus-l6": {
+        "title": "Comparisons & Contrasts",
+        "pattern": "while / whereas / unlike / in contrast to",
+        "explanation": "These linking words build sentences that compare two things directly within one sentence: \"While I love coffee, my sister prefers tea.\" \"Whereas\" is more formal than \"while\" for this purpose, and both differ from \"but\" by more explicitly signaling that a structured comparison is coming.",
+        "fact": "\"Whereas\" started as a legal term meaning roughly \"given that\" (still seen in old legal documents: \"Whereas the parties agree...\") before it drifted into general use as a simple contrast word — a common path for formal vocabulary, which often starts in law or bureaucracy before spreading.",
+        "dialogue": [
+          {
+            "sp": "Sabina",
+            "en": "While I enjoy the city, my husband prefers the countryside.",
+            "ru": "Мне нравится город, тогда как мой муж предпочитает сельскую местность."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "Unlike most people I know, I actually like both equally.",
+            "ru": "В отличие от большинства знакомых, мне нравится и то, и другое одинаково."
+          },
+          {
+            "sp": "Sabina",
+            "en": "In contrast to last year, we're spending more time outside the city now.",
+            "ru": "В отличие от прошлого года, сейчас мы проводим больше времени за городом."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "That sounds like a good balance.",
+            "ru": "Звучит как хороший баланс."
+          }
+        ]
+      },
+      "b2-l1": {
+        "title": "Wishes & Regrets",
+        "pattern": "I wish + past simple/past perfect / If only...",
+        "explanation": "\"I wish\" expresses a desire for something to be different — for the present, it pairs with past simple (\"I wish I had more time\"), and for the past, with past perfect (\"I wish I had studied more\"). \"If only\" works the same way but adds more emotional emphasis.",
+        "fact": "\"I wish\" is one of the few remaining places in English where the old subjunctive mood survives clearly — \"I wish I were taller\" (not \"was\") is still considered the more correct form in careful writing, even though \"was\" is extremely common in casual speech.",
+        "dialogue": [
+          {
+            "sp": "Zhanna",
+            "en": "I wish I had more free time these days.",
+            "ru": "Хотела бы я иметь сейчас больше свободного времени."
+          },
+          {
+            "sp": "Bek",
+            "en": "If only we hadn't taken on so many projects at once.",
+            "ru": "Если бы мы только не взялись за столько проектов одновременно."
+          },
+          {
+            "sp": "Zhanna",
+            "en": "I wish I had said no to the last one.",
+            "ru": "Жаль, что я не отказалась от последнего."
+          },
+          {
+            "sp": "Bek",
+            "en": "Well, we'll know better next time.",
+            "ru": "Ну, в следующий раз будем умнее."
+          }
+        ]
+      },
+      "b2-l2": {
+        "title": "Mixed Conditionals",
+        "pattern": "past unreal cause -> present unreal result (or reverse)",
+        "explanation": "Mixed conditionals combine two different time frames in one sentence: \"If I had taken that job, I would be rich now\" (past condition, present result). This is more advanced than the standard conditionals because the \"if\" clause and the main clause don't have to match in time.",
+        "fact": "Mixed conditionals are entirely rule-based, not memorized as fixed phrases — fluent speakers construct them on the fly by mixing and matching the \"if\" half of Third Conditional with the result half of Second Conditional (or vice versa), which is why they feel intuitive once the underlying logic clicks.",
+        "dialogue": [
+          {
+            "sp": "Dias",
+            "en": "If I had learned to code earlier, I would have a different career now.",
+            "ru": "Если бы я раньше научился программировать, у меня была бы сейчас другая карьера."
+          },
+          {
+            "sp": "Elena",
+            "en": "If you weren't so busy now, you could start learning today.",
+            "ru": "Если бы ты сейчас не был так занят, ты мог бы начать учиться уже сегодня."
+          },
+          {
+            "sp": "Dias",
+            "en": "True. If I hadn't procrastinated so much, I'd be further along already.",
+            "ru": "Верно. Если бы я так не откладывал, я бы уже сильно продвинулся."
+          },
+          {
+            "sp": "Elena",
+            "en": "It's never too late to start.",
+            "ru": "Начать никогда не поздно."
+          }
+        ]
+      },
+      "b2-l3": {
+        "title": "Advanced Passive",
+        "pattern": "It is believed that... / He is said to have...",
+        "explanation": "Advanced passive constructions distance a claim from its source: \"It is believed that prices will rise\" avoids saying exactly who believes it. \"He is said to have left the country\" reports a rumor without confirming it — extremely common in news and formal reporting.",
+        "fact": "This construction lets English report gossip or unverified claims while sounding neutral and objective — \"is rumored to\", \"is thought to\", \"is alleged to\" all follow the identical pattern, and journalists rely on this structure heavily to report claims they can't personally verify.",
+        "dialogue": [
+          {
+            "sp": "Aliya",
+            "en": "It is believed that the company will announce layoffs soon.",
+            "ru": "Считается, что компания скоро объявит о сокращениях."
+          },
+          {
+            "sp": "Damir",
+            "en": "The manager is said to have already resigned.",
+            "ru": "Говорят, что менеджер уже подал в отставку."
+          },
+          {
+            "sp": "Aliya",
+            "en": "It's thought that a new director will be appointed next month.",
+            "ru": "Предполагается, что новый директор будет назначен в следующем месяце."
+          },
+          {
+            "sp": "Damir",
+            "en": "We'll find out soon enough, I suppose.",
+            "ru": "Что ж, полагаю, скоро всё узнаем."
+          }
+        ]
+      },
+      "b2-l4": {
+        "title": "Emphasis & Inversion",
+        "pattern": "Never have I... / Not only did she..., but also...",
+        "explanation": "Inversion moves the auxiliary verb before the subject for dramatic emphasis, mostly with negative or restrictive words at the start of a sentence: \"Never have I seen such a mess.\" This is a formal, literary pattern — normal speech would just say \"I have never seen such a mess.\"",
+        "fact": "Inversion for emphasis is grammatically identical in structure to forming a question (\"Have I ever...\" vs \"Never have I...\") — this is deliberate: English borrows the question-word-order pattern specifically because it already signals \"something unusual is happening here\" to a native speaker's ear.",
+        "dialogue": [
+          {
+            "sp": "Sanzhar",
+            "en": "Never have I seen such dedication to a project.",
+            "ru": "Никогда я не видел такой преданности проекту."
+          },
+          {
+            "sp": "Dana",
+            "en": "Not only did she finish early, but she also helped the others.",
+            "ru": "Она не только закончила раньше, но и помогла остальным."
+          },
+          {
+            "sp": "Sanzhar",
+            "en": "Rarely do we get such reliable team members.",
+            "ru": "Редко нам попадаются такие надёжные члены команды."
+          },
+          {
+            "sp": "Dana",
+            "en": "We should definitely recognize her effort.",
+            "ru": "Нам определённо стоит отметить её усилия."
+          }
+        ]
+      },
+      "b2-l5": {
+        "title": "Society & Technology",
+        "pattern": "advanced abstract vocabulary for discussing trends",
+        "explanation": "Discussing society and technology at an advanced level relies on abstract nouns (\"innovation\", \"inequality\", \"automation\") and hedged claims (\"tends to\", \"is likely to\", \"arguably\") rather than simple present-tense facts. This vocabulary shift — from concrete to abstract — marks the transition from intermediate to advanced English.",
+        "fact": "Many of these abstract nouns are formed by adding Latin/French suffixes (-tion, -ity, -ism) to simpler root words — \"equal\" becomes \"equality\", \"innovate\" becomes \"innovation\" — recognizing this pattern lets learners guess the meaning of hundreds of advanced words they've never seen before.",
+        "dialogue": [
+          {
+            "sp": "Zarina",
+            "en": "Automation is arguably reshaping entire industries.",
+            "ru": "Автоматизация, можно сказать, полностью меняет целые отрасли."
+          },
+          {
+            "sp": "Ruslan",
+            "en": "It tends to create new jobs while eliminating old ones.",
+            "ru": "Она, как правило, создаёт новые рабочие места, устраняя старые."
+          },
+          {
+            "sp": "Zarina",
+            "en": "The bigger question is inequality — who actually benefits.",
+            "ru": "Более важный вопрос — неравенство: кто на самом деле выигрывает."
+          },
+          {
+            "sp": "Ruslan",
+            "en": "That's exactly what policymakers are struggling with.",
+            "ru": "Именно с этим сейчас и борются политики."
+          }
+        ]
+      },
+      "b2-l6": {
+        "title": "Advanced Linking Words",
+        "pattern": "nonetheless / furthermore / consequently / notwithstanding",
+        "explanation": "Advanced linking words replace simpler connectors (\"but\", \"also\", \"so\") in formal writing and speech: \"nonetheless\" instead of \"but still\", \"consequently\" instead of \"so\". They're interchangeable in meaning but signal a more formal, academic register.",
+        "fact": "\"Notwithstanding\" can grammatically appear both before AND after the phrase it modifies (\"notwithstanding the risks\" or \"the risks notwithstanding\") — one of the only English connectors with this flexible word order, a leftover from its legal-document origins.",
+        "dialogue": [
+          {
+            "sp": "Bota",
+            "en": "The results were disappointing; nonetheless, we learned a lot.",
+            "ru": "Результаты разочаровали; тем не менее, мы многому научились."
+          },
+          {
+            "sp": "Erlan",
+            "en": "Furthermore, we now have data to guide the next attempt.",
+            "ru": "Более того, теперь у нас есть данные для следующей попытки."
+          },
+          {
+            "sp": "Bota",
+            "en": "Consequently, I think we should revise the whole approach.",
+            "ru": "Следовательно, думаю, нам стоит пересмотреть весь подход."
+          },
+          {
+            "sp": "Erlan",
+            "en": "Agreed. The risks notwithstanding, it's worth trying again.",
+            "ru": "Согласен. Несмотря на риски, стоит попробовать снова."
+          }
+        ]
+      },
+      "b2plus-l1": {
+        "title": "Hedging & Softening",
+        "pattern": "I feel like... / It might be worth... / I don't want to sound...",
+        "explanation": "Hedging softens a statement to sound less blunt or more diplomatic — crucial for disagreeing politely or giving criticism in English-speaking professional culture. Direct opinions that sound normal in Russian can come across as unnecessarily harsh in English without this softening layer.",
+        "fact": "English speakers hedge so habitually that entire conversations can consist mostly of softened statements — overusing direct language (\"You're wrong\", \"That's a bad idea\") without any hedging is one of the most common ways non-native speakers unintentionally sound rude in English, even with perfect grammar.",
+        "dialogue": [
+          {
+            "sp": "Kate",
+            "en": "I feel like this plan might have a few issues.",
+            "ru": "Мне кажется, у этого плана могут быть кое-какие проблемы."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "I don't want to sound negative, but I share that concern.",
+            "ru": "Не хочу показаться пессимистом, но я разделяю это беспокойство."
+          },
+          {
+            "sp": "Kate",
+            "en": "It might be worth revisiting the budget section.",
+            "ru": "Возможно, стоит ещё раз пересмотреть раздел бюджета."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "That sounds reasonable to me.",
+            "ru": "Мне это кажется разумным."
+          }
+        ]
+      },
+      "b2plus-l2": {
+        "title": "Idiomatic Collocations",
+        "pattern": "words that pair naturally (make a decision, take a risk)",
+        "explanation": "Collocations are word pairings that native speakers use automatically but which don't follow a predictable logical rule: you \"make\" a decision but \"take\" a risk, never the reverse. These pairings have to be learned individually, since translating word-for-word from Russian often produces the wrong pairing.",
+        "fact": "Native speakers can spot a non-native collocation error almost instantly, even when the sentence is otherwise grammatically perfect — \"do a decision\" instead of \"make a decision\" immediately signals non-native speech, which is why collocation mastery is often considered the real marker of fluency.",
+        "dialogue": [
+          {
+            "sp": "Yerlan",
+            "en": "We need to make a decision by Friday.",
+            "ru": "Нам нужно принять решение к пятнице."
+          },
+          {
+            "sp": "Aida",
+            "en": "I'm willing to take a risk on this one.",
+            "ru": "Я готова пойти на риск в этом деле."
+          },
+          {
+            "sp": "Yerlan",
+            "en": "Let's pay attention to the smaller details too.",
+            "ru": "Давай обратим внимание и на мелкие детали тоже."
+          },
+          {
+            "sp": "Aida",
+            "en": "Agreed. It's worth taking the time to do it right.",
+            "ru": "Согласна. Стоит потратить время, чтобы сделать это правильно."
+          }
+        ]
+      },
+      "b2plus-l3": {
+        "title": "Narrative Tense Mixing",
+        "pattern": "past simple + past continuous + past perfect together",
+        "explanation": "Real storytelling in English weaves together multiple past tenses in the same narrative: past simple for the main events, past continuous for background action, past perfect for things that happened earlier still. Mastering this mix is what makes a story sound naturally sequenced instead of a flat list of facts.",
+        "fact": "This layered tense system lets English tell a story with implicit timing that some languages need explicit words for — \"I walked in; she had already left\" instantly communicates the order of events through verb form alone, with no need for a word like \"before\" or \"earlier.\"",
+        "dialogue": [
+          {
+            "sp": "Meruert",
+            "en": "I was walking home when it started raining.",
+            "ru": "Я шла домой, когда начался дождь."
+          },
+          {
+            "sp": "Askar",
+            "en": "Had you already left the office by then?",
+            "ru": "Ты к тому моменту уже ушла из офиса?"
+          },
+          {
+            "sp": "Meruert",
+            "en": "Yes, I had left about ten minutes earlier.",
+            "ru": "Да, я ушла минут за десять до этого."
+          },
+          {
+            "sp": "Askar",
+            "en": "That's unlucky timing.",
+            "ru": "Неудачное совпадение по времени."
+          }
+        ]
+      },
+      "b2plus-l4": {
+        "title": "Formal Register",
+        "pattern": "I would be grateful if... / Please find attached... / We regret to inform you...",
+        "explanation": "Formal register replaces everyday phrasing with more elaborate, indirect constructions — used in professional emails, official letters, and business correspondence. \"Could you send it?\" becomes \"I would be grateful if you could send it,\" adding distance and courtesy through extra words.",
+        "fact": "Formal register in English favors longer, more Latin-derived words and more indirect requests, while casual register favors short Germanic-root words and directness — this split traces back to the historical layering of French/Latin vocabulary (formal, prestigious) over the original Old English vocabulary (everyday, direct) after the Norman Conquest.",
+        "dialogue": [
+          {
+            "sp": "Client",
+            "en": "I would be grateful if you could confirm the details by Friday.",
+            "ru": "Буду признателен, если вы подтвердите детали к пятнице."
+          },
+          {
+            "sp": "Assistant",
+            "en": "Certainly. Please find the revised document attached.",
+            "ru": "Конечно. Пересмотренный документ прикреплён к письму."
+          },
+          {
+            "sp": "Client",
+            "en": "We regret to inform you that the meeting has been postponed.",
+            "ru": "С сожалением сообщаем, что встреча была перенесена."
+          },
+          {
+            "sp": "Assistant",
+            "en": "Understood. Thank you for letting us know.",
+            "ru": "Понятно. Спасибо, что сообщили."
+          }
+        ]
+      },
+      "b2plus-l5": {
+        "title": "Attitude & Emotion",
+        "pattern": "I can't help but... / It strikes me as... / I'm inclined to think...",
+        "explanation": "These phrases express nuanced emotional reactions and attitudes rather than plain statements of fact: \"I can't help but feel...\" signals an involuntary reaction, \"it strikes me as...\" introduces a subjective impression, softer than a flat claim.",
+        "fact": "\"Can't help but\" is a double-negative-feeling structure that's grammatically positive — literally \"cannot avoid [doing]\" — and it's one of many English idioms where the literal words don't fully predict the actual meaning, making it a common source of confusion even for advanced learners.",
+        "dialogue": [
+          {
+            "sp": "Zhanna",
+            "en": "I can't help but worry about the deadline.",
+            "ru": "Не могу не волноваться из-за сроков."
+          },
+          {
+            "sp": "Bek",
+            "en": "It strikes me as manageable, honestly.",
+            "ru": "Мне это кажется вполне выполнимым, если честно."
+          },
+          {
+            "sp": "Zhanna",
+            "en": "I'm inclined to think we need more people on the team.",
+            "ru": "Я склоняюсь к мысли, что нам нужно больше людей в команде."
+          },
+          {
+            "sp": "Bek",
+            "en": "That might be worth proposing to management.",
+            "ru": "Возможно, стоит предложить это руководству."
+          }
+        ]
+      },
+      "b2plus-l6": {
+        "title": "Nuanced Modality",
+        "pattern": "should have / needn't have / could have (unfulfilled possibilities)",
+        "explanation": "These modal combinations describe things that didn't happen, each with a distinct emotional flavor: \"should have\" (regret, it was the right thing to do), \"needn't have\" (it happened but was unnecessary), \"could have\" (it was possible but didn't occur). Choosing the wrong one changes the whole meaning of a sentence.",
+        "fact": "\"Needn't have done\" is genuinely rare and often replaced by \"didn't need to\" in casual speech, but the two aren't quite identical: \"needn't have brought an umbrella\" implies you DID bring one unnecessarily, while \"didn't need to bring an umbrella\" is neutral about whether you actually brought one.",
+        "dialogue": [
+          {
+            "sp": "Sabina",
+            "en": "You should have told me you were running late.",
+            "ru": "Тебе стоило сказать мне, что ты опаздываешь."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "I know, I'm sorry. I needn't have rushed at the end, either.",
+            "ru": "Знаю, извини. И в конце мне не нужно было так спешить."
+          },
+          {
+            "sp": "Sabina",
+            "en": "You could have just called instead of texting.",
+            "ru": "Ты мог просто позвонить, а не писать сообщение."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "You're right. I'll do that next time.",
+            "ru": "Ты права. В следующий раз так и сделаю."
+          }
+        ]
+      },
+      "c1-l1": {
+        "title": "Academic & Analytical Language",
+        "pattern": "the data suggest(s) / it should be noted that / this raises the question of",
+        "explanation": "Academic English favors cautious, evidence-based phrasing over direct claims — \"the data suggest\" instead of \"this proves\", \"it should be noted\" instead of bluntly stating a caveat. This careful hedging is a hallmark of scholarly writing, distinguishing it from confident everyday assertions.",
+        "fact": "\"Data\" is technically the plural of \"datum\" in strict academic style (\"the data suggest\", not \"suggests\"), though in modern everyday English, \"data\" is almost universally treated as singular — this split between formal academic convention and common usage is a genuinely live disagreement even among native speakers.",
+        "dialogue": [
+          {
+            "sp": "Professor",
+            "en": "The data suggest a clear correlation, though causation remains unproven.",
+            "ru": "Данные указывают на явную корреляцию, хотя причинность остаётся недоказанной."
+          },
+          {
+            "sp": "Student",
+            "en": "It should be noted that our sample size was quite small.",
+            "ru": "Стоит отметить, что наш объём выборки был довольно небольшим."
+          },
+          {
+            "sp": "Professor",
+            "en": "Exactly. This raises the question of whether a larger study is needed.",
+            "ru": "Именно. Это поднимает вопрос о необходимости более масштабного исследования."
+          },
+          {
+            "sp": "Student",
+            "en": "I'll include that limitation in the conclusion.",
+            "ru": "Я укажу это ограничение в заключении."
+          }
+        ]
+      },
+      "c1-l2": {
+        "title": "Rhetorical Devices & Persuasion",
+        "pattern": "rhetorical questions / tricolon / deliberate repetition",
+        "explanation": "Persuasive English often uses structural devices rather than just strong vocabulary: rhetorical questions (asked to make a point, not to get an answer), tricolon (grouping ideas in threes for rhythm — \"government of the people, by the people, for the people\"), and deliberate repetition for emphasis.",
+        "fact": "The rule of three (tricolon) is so deeply embedded in English rhetoric that speakers instinctively expect a third item once two have been given — ending a list at two items can feel unfinished to an English-speaking audience, even when there's nothing more to say.",
+        "dialogue": [
+          {
+            "sp": "Speaker",
+            "en": "Isn't it time we asked ourselves what really matters here?",
+            "ru": "Не пора ли нам спросить себя, что здесь действительно важно?"
+          },
+          {
+            "sp": "Listener",
+            "en": "That's a fair question, honestly.",
+            "ru": "Честно говоря, это справедливый вопрос."
+          },
+          {
+            "sp": "Speaker",
+            "en": "We need courage, clarity, and commitment — nothing less.",
+            "ru": "Нам нужны смелость, ясность и решимость — не меньше."
+          },
+          {
+            "sp": "Listener",
+            "en": "Put that way, it's hard to disagree.",
+            "ru": "В такой формулировке трудно не согласиться."
+          }
+        ]
+      },
+      "c1-l3": {
+        "title": "Subtle Contrast & Concession",
+        "pattern": "granted, ... / that said, ... / while it's true that...",
+        "explanation": "Advanced concession structures acknowledge an opposing point before pivoting back to your own argument — \"Granted, the cost is high, but the long-term savings justify it.\" This move (conceding, then countering) is a persuasive technique that shows you've considered the other side.",
+        "fact": "Skilled arguers deliberately concede minor, less important points to sound more credible before defending the point they actually care about — audiences trust speakers more when they openly acknowledge some validity in the opposing view, a well-documented effect in rhetoric and negotiation research alike.",
+        "dialogue": [
+          {
+            "sp": "Colleague A",
+            "en": "Granted, the new system has a learning curve.",
+            "ru": "Согласен, у новой системы есть период освоения."
+          },
+          {
+            "sp": "Colleague B",
+            "en": "That said, the long-term efficiency gains seem worth it.",
+            "ru": "Тем не менее, долгосрочный выигрыш в эффективности, похоже, того стоит."
+          },
+          {
+            "sp": "Colleague A",
+            "en": "While it's true that training takes time, we can phase it in.",
+            "ru": "Хотя обучение действительно требует времени, мы можем внедрять это постепенно."
+          },
+          {
+            "sp": "Colleague B",
+            "en": "Agreed. Let's propose a gradual rollout.",
+            "ru": "Согласен. Давай предложим постепенное внедрение."
+          }
+        ]
+      },
+      "c1-l4": {
+        "title": "Professional Negotiation Language",
+        "pattern": "We'd be willing to... / provided that... / on the condition that...",
+        "explanation": "Negotiation English is precise about conditions and mutual concessions: \"We'd be willing to lower the price, provided that you commit to a longer contract\" clearly links one concession to a specific condition. This precision avoids ambiguity in agreements where the exact terms matter.",
+        "fact": "\"Provided that\" and \"on the condition that\" are functionally interchangeable, but \"provided that\" sounds slightly less formal and is more common in spoken negotiation, while \"on the condition that\" appears more often in written contracts — a subtle register distinction skilled negotiators use deliberately.",
+        "dialogue": [
+          {
+            "sp": "Buyer",
+            "en": "We'd be willing to sign today, provided that the price includes delivery.",
+            "ru": "Мы готовы подписать сегодня, при условии, что цена включает доставку."
+          },
+          {
+            "sp": "Seller",
+            "en": "That's acceptable, on the condition that payment is made within thirty days.",
+            "ru": "Это приемлемо, при условии, что оплата будет произведена в течение тридцати дней."
+          },
+          {
+            "sp": "Buyer",
+            "en": "Agreed. Let's put that in writing.",
+            "ru": "Согласны. Давайте оформим это письменно."
+          },
+          {
+            "sp": "Seller",
+            "en": "I'll have the contract ready within the hour.",
+            "ru": "Договор будет готов в течение часа."
+          }
+        ]
+      },
+      "c1-l5": {
+        "title": "Abstract & Philosophical Discussion",
+        "pattern": "abstract nouns + hedged claims (arguably, in a sense, to some extent)",
+        "explanation": "Philosophical English discussion relies heavily on abstract nouns (freedom, meaning, identity) combined with careful hedges that avoid overclaiming: \"arguably\", \"in a sense\", \"to some extent\". These qualifiers signal intellectual humility — a claim presented as absolute truth reads as naive in this register.",
+        "fact": "The word \"arguably\" is one of the most overused hedges in academic and journalistic English precisely because it lets a writer make a strong claim while technically leaving room for disagreement — style guides frequently warn against overusing it, yet it remains extremely common in exactly this kind of abstract discussion.",
+        "dialogue": [
+          {
+            "sp": "Amina",
+            "en": "Freedom, arguably, means something different to every generation.",
+            "ru": "Свобода, можно сказать, для каждого поколения значит что-то своё."
+          },
+          {
+            "sp": "Yerbol",
+            "en": "In a sense, that's true of most abstract concepts.",
+            "ru": "В каком-то смысле это верно для большинства абстрактных понятий."
+          },
+          {
+            "sp": "Amina",
+            "en": "To some extent, our sense of identity is shaped by circumstance.",
+            "ru": "В какой-то степени наше чувство идентичности формируется обстоятельствами."
+          },
+          {
+            "sp": "Yerbol",
+            "en": "That's a fair point, though I'd argue choice matters just as much.",
+            "ru": "Справедливое замечание, хотя я бы сказал, что выбор играет не меньшую роль."
+          }
+        ]
+      },
+      "c1-l6": {
+        "title": "Advanced Discourse Markers",
+        "pattern": "that said / on the flip side / needless to say / in any case",
+        "explanation": "These markers manage the flow and structure of a sophisticated argument — signaling a shift, a counterpoint, or a return to the main thread. \"That said\" pivots after a concession, \"on the flip side\" introduces a contrasting perspective, \"needless to say\" flags something the speaker assumes is obvious.",
+        "fact": "Fluent use of discourse markers is one of the clearest signals of near-native proficiency — they don't add new information to a sentence, but they guide the listener's expectations moment to moment, and their absence (or misuse) is often what makes otherwise grammatically correct advanced English sound slightly foreign.",
+        "dialogue": [
+          {
+            "sp": "Analyst",
+            "en": "The results were mixed. That said, the overall trend is positive.",
+            "ru": "Результаты были неоднозначными. Тем не менее, общая тенденция положительная."
+          },
+          {
+            "sp": "Director",
+            "en": "On the flip side, competitors are moving faster than expected.",
+            "ru": "С другой стороны, конкуренты действуют быстрее, чем ожидалось."
+          },
+          {
+            "sp": "Analyst",
+            "en": "Needless to say, we'll need to adjust the strategy.",
+            "ru": "Само собой разумеется, нам нужно будет скорректировать стратегию."
+          },
+          {
+            "sp": "Director",
+            "en": "In any case, let's reconvene next week with a revised plan.",
+            "ru": "В любом случае, давайте соберёмся на следующей неделе с пересмотренным планом."
+          }
+        ]
       }
     }
   }
