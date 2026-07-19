@@ -1045,12 +1045,14 @@
         setTimeout(() => {
           const diagEl = document.getElementById("audioDiagnostic");
           if (!diagEl) return;
-          const Ctx = window.AudioContext || window.webkitAudioContext;
-          if (!Ctx) { diagEl.textContent = "Web Audio API не поддерживается этим браузером."; return; }
-          const ctx = beep._ctx;
-          diagEl.textContent = ctx
-            ? `Audio: state=${ctx.state}, sampleRate=${ctx.sampleRate}, muted=${soundMuted}, error=${_lastBeepError || "нет"}`
-            : "AudioContext ещё не создан.";
+          if (_lastBeepError) {
+            diagEl.textContent = `Ошибка воспроизведения: ${_lastBeepError}`;
+            return;
+          }
+          // On iPhone/iPad, the physical silent switch mutes generated sound
+          // effects like this one (a real iOS behavior, not a bug) — but not
+          // spoken audio, which is why voice playback still works either way.
+          diagEl.textContent = "Если звук не слышен: на iPhone/iPad проверьте боковой переключатель бесшумного режима — он отключает короткие звуковые эффекты, хотя голос всё равно звучит.";
         }, 250);
       });
     }
