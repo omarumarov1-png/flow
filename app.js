@@ -759,106 +759,6 @@
     return html;
   }
 
-  // Real geometry of every lesson node, in the roadmap's own content-space
-  // coordinates (i.e. unaffected by current scroll position) — the single
-  // source of truth for both the connecting path and the jump buttons.
-  // Deliberately never touches scrollHeight/scrollWidth: an absolutely
-  // positioned SVG child can itself inflate a scrolling container's
-  // scrollHeight once sized, which was silently corrupting both the path
-  // (clipped/misdrawn) and the jump targets (overshooting into empty space).
-  function roadmapNodePoints(roadmapEl) {
-    const nodeEls = Array.from(roadmapEl.querySelectorAll(".roadmap-node, .roadmap-next-node"));
-    const containerRect = roadmapEl.getBoundingClientRect();
-    return nodeEls.map(n => {
-      const r = n.getBoundingClientRect();
-      return {
-        x: r.left + r.width / 2 - containerRect.left + roadmapEl.scrollLeft,
-        y: r.top + r.height / 2 - containerRect.top + roadmapEl.scrollTop,
-        top: r.top - containerRect.top + roadmapEl.scrollTop,
-        done: n.classList.contains("done"),
-      };
-    });
-  }
-
-  // Traces an actual road through the zigzagged lesson nodes — measured
-  // from real layout rather than guessed from CSS, since the left/center/
-  // right offsets are percentage-based and shift with container width.
-  // The walked stretch (behind completed lessons) is a solid gradient line
-  // brightening toward the peak; the road ahead is a soft dashed track —
-  // together they read as progress climbing toward the summit.
-  function drawRoadmapPath() {
-    const roadmapEl = document.getElementById("roadmapEl");
-    if (!roadmapEl) return;
-    const points = roadmapNodePoints(roadmapEl);
-    if (points.length < 2) return;
-    function segmentPath(pts) {
-      let d = `M ${pts[0].x} ${pts[0].y}`;
-      for (let i = 1; i < pts.length; i++) {
-        const prev = pts[i - 1], curr = pts[i];
-        const midY = (prev.y + curr.y) / 2;
-        d += ` C ${prev.x} ${midY}, ${curr.x} ${midY}, ${curr.x} ${curr.y}`;
-      }
-      return d;
-    }
-    let doneCount = 0;
-    while (doneCount < points.length && points[doneCount].done) doneCount++;
-    const walkedPts = points.slice(0, Math.min(doneCount + 1, points.length));
-    const aheadPts = points.slice(Math.max(doneCount, 0));
-    const NS = "http://www.w3.org/2000/svg";
-    let svg = roadmapEl.querySelector(".roadmap-path-svg");
-    if (!svg) {
-      svg = document.createElementNS(NS, "svg");
-      svg.setAttribute("class", "roadmap-path-svg");
-      roadmapEl.insertBefore(svg, roadmapEl.firstChild);
-    }
-    const maxY = Math.max(...points.map(p => p.y)) + 60;
-    svg.setAttribute("width", roadmapEl.clientWidth);
-    svg.setAttribute("height", maxY);
-    // Built via createElementNS/appendChild rather than svg.innerHTML — Safari
-    // has long had inconsistent behavior parsing dynamically-assigned SVG
-    // markup through innerHTML (elements after the first can silently fail
-    // to pick up the SVG namespace), which was causing every road segment
-    // past the first to simply not render on iOS.
-    while (svg.firstChild) svg.removeChild(svg.firstChild);
-    const defs = document.createElementNS(NS, "defs");
-    const grad = document.createElementNS(NS, "linearGradient");
-    grad.setAttribute("id", "roadmapGrad");
-    grad.setAttribute("x1", "0"); grad.setAttribute("y1", "1");
-    grad.setAttribute("x2", "0"); grad.setAttribute("y2", "0");
-    const stop1 = document.createElementNS(NS, "stop");
-    stop1.setAttribute("offset", "0%"); stop1.setAttribute("stop-color", "var(--flow)");
-    const stop2 = document.createElementNS(NS, "stop");
-    stop2.setAttribute("offset", "100%"); stop2.setAttribute("stop-color", "var(--amber)");
-    grad.appendChild(stop1); grad.appendChild(stop2);
-    defs.appendChild(grad);
-    svg.appendChild(defs);
-    function makePath(d, stroke, width) {
-      const path = document.createElementNS(NS, "path");
-      path.setAttribute("d", d);
-      path.setAttribute("fill", "none");
-      path.setAttribute("stroke", stroke);
-      path.setAttribute("stroke-width", width);
-      path.setAttribute("stroke-linecap", "round");
-      return path;
-    }
-    if (aheadPts.length >= 2) svg.appendChild(makePath(segmentPath(aheadPts), "var(--dim)", "7"));
-    if (walkedPts.length >= 2) svg.appendChild(makePath(segmentPath(walkedPts), "url(#roadmapGrad)", "7"));
-  }
-  function scrollRoadmapToFirstLesson() {
-    const roadmapEl = document.getElementById("roadmapEl");
-    if (!roadmapEl) return;
-    const points = roadmapNodePoints(roadmapEl);
-    if (!points.length) return;
-    const targetY = Math.max(...points.map(p => p.top)) - roadmapEl.clientHeight + 100;
-    roadmapEl.scrollTo({ top: Math.max(0, targetY), behavior: "smooth" });
-  }
-  let _roadmapResizeQueued = false;
-  window.addEventListener("resize", () => {
-    if (_roadmapResizeQueued || !document.getElementById("roadmapEl")) return;
-    _roadmapResizeQueued = true;
-    requestAnimationFrame(() => { _roadmapResizeQueued = false; drawRoadmapPath(); });
-  });
-
   // The level whose roadmap should show by default: the one containing the
   // first unlocked-but-not-yet-completed lesson (i.e. "where the user is"),
   // falling back to the first built level.
@@ -897,29 +797,35 @@
     const levelLessons = flatLessons.filter(l => l.levelId === level.id);
     const levelDone = levelLessons.filter(l => progress.completedLessons.includes(l.id)).length;
     const levelComplete = levelLessons.length > 0 && levelDone === levelLessons.length;
+    const railPct = levelLessons.length ? Math.round((levelDone / levelLessons.length) * 100) : 0;
 
-    let nodesHtml = "";
+    // A calm vertical trail instead of a computed winding road: one plain
+    // CSS line (no JS geometry, no SVG) with rows gently alternating indent
+    // for rhythm. Reads top (lesson 1) to bottom (last lesson), so there's
+    // nothing to "jump to" — the current lesson just scrolls into view.
+    let rowsHtml = "";
+    let currentAssigned = false;
     levelLessons.forEach((lesson, i) => {
       const flatIndex = flatLessons.indexOf(lesson);
       const unlocked = isLessonUnlocked(flatIndex);
       const done = progress.completedLessons.includes(lesson.id);
-      const isCurrent = unlocked && !done;
+      const isCurrent = unlocked && !done && !currentAssigned;
+      if (isCurrent) currentAssigned = true;
       const isReading = !!lesson.readingPassage;
-      const offset = ["center", "left", "right"][i % 3];
-      nodesHtml += `
-        <div class="roadmap-row ${offset}">
-          <button class="roadmap-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""} ${isReading ? "reading" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
+      rowsHtml += `
+        <div class="trail-row ${i % 2 === 1 ? "indent" : ""}">
+          <button class="trail-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""} ${isReading ? "reading" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
             ${done ? "✓" : !unlocked ? "🔒" : isReading ? "📖" : lesson.number}
           </button>
-          <div class="roadmap-label"><span class="roadmap-label-en">${lesson.title}</span><span class="roadmap-label-native">${lesson.titleNative || ""}</span></div>
+          <div class="trail-info"><span class="trail-title">${lesson.title}</span><span class="trail-title-native">${lesson.titleNative || ""}</span></div>
         </div>
       `;
     });
     if (levelComplete && nextLevel) {
-      nodesHtml += `
-        <div class="roadmap-row center">
-          <button class="roadmap-next-node" id="nextLevelBtn" aria-label="Следующий уровень">🏁</button>
-          <div class="roadmap-label"><span class="roadmap-label-en">Уровень пройден!</span><span class="roadmap-label-native">Следующий: ${nextLevel.badge}</span></div>
+      rowsHtml += `
+        <div class="trail-row">
+          <button class="trail-node trail-next-node" id="nextLevelBtn" aria-label="Следующий уровень">🏁</button>
+          <div class="trail-info"><span class="trail-title">Уровень пройден!</span><span class="trail-title-native">Следующий: ${nextLevel.badge}</span></div>
         </div>
       `;
     }
@@ -944,15 +850,12 @@
       </div>
       ${!levelLessons.length
         ? `<div class="level-locked-note">Уроки уровня ${level.badge} уже готовятся и скоро появятся здесь.</div>`
-        : `<div class="roadmap-wrap">
-            <div class="roadmap" id="roadmapEl">${nodesHtml}</div>
-            <button class="roadmap-jump" id="jumpBottomBtn" title="К первому уроку" aria-label="К первому уроку">⇊</button>
+        : `<div class="trail-wrap">
+            <div class="trail-rail"><div class="trail-rail-fill" style="height:${railPct}%"></div></div>
+            <div class="trail-list" id="roadmapEl">${rowsHtml}</div>
            </div>`
       }
     `;
-
-    const jumpBottomBtn = document.getElementById("jumpBottomBtn");
-    if (jumpBottomBtn) jumpBottomBtn.addEventListener("click", scrollRoadmapToFirstLesson);
 
     document.getElementById("prevLevelBtn").addEventListener("click", () => {
       if (!prevLevel) return;
@@ -972,18 +875,15 @@
         renderLevelRoadmap();
       });
     }
-    screenEl.querySelectorAll(".roadmap-node:not(.locked)").forEach(node => {
+    screenEl.querySelectorAll(".trail-node:not(.locked)").forEach(node => {
       node.addEventListener("click", () => {
         const lesson = flatLessons.find(l => l.id === node.dataset.lesson);
         if (lesson) startLesson(lesson);
       });
     });
 
-    const target = screenEl.querySelector(".roadmap-node.current") || screenEl.querySelector(".roadmap-node.unlocked");
-    requestAnimationFrame(() => {
-      drawRoadmapPath();
-      if (target) target.scrollIntoView({ block: "center", behavior: "auto" });
-    });
+    const target = screenEl.querySelector(".trail-node.current") || screenEl.querySelector(".trail-node.unlocked");
+    if (target) requestAnimationFrame(() => target.scrollIntoView({ block: "center", behavior: "auto" }));
   }
 
   // ---------- placement test ----------

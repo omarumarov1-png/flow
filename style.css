@@ -159,47 +159,41 @@ button.stat:hover { color: var(--flow); }
 .level-count { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-soft); }
 .level-locked-note { font-size: 0.8rem; color: var(--ink-soft); background: var(--card); border: 1px dashed var(--border); border-radius: 10px; padding: 14px 16px; margin-top: 10px; }
 
-/* Lessons run bottom (lesson 1) to top (last lesson) — column-reverse means
-   the first child in the DOM (lesson 1) ends up visually lowest, so the
-   list can just be built in normal reading order. */
-.roadmap-wrap { position: relative; }
-.roadmap {
-  display: flex; flex-direction: column-reverse; align-items: center; position: relative;
-  padding: 24px 10px 10px; margin-top: 4px; max-height: 60vh; overflow-y: auto;
+/* A calm vertical trail: one plain CSS line (.trail-rail), no computed
+   path, no SVG, no scroll-jump buttons — rows just alternate a small
+   indent for rhythm and the current lesson scrolls into view on render.
+   Reads top (lesson 1) to bottom (last lesson), normal reading order. */
+.trail-wrap { position: relative; padding: 6px 4px 8px 0; }
+.trail-rail {
+  position: absolute; left: 28px; top: 29px; bottom: 29px; width: 3px;
+  background: var(--dim); border-radius: 2px; overflow: hidden; z-index: 0;
 }
-.roadmap-path-svg { position: absolute; top: 0; left: 0; z-index: 0; pointer-events: none; }
-/* Positioned relative to .roadmap-wrap (not .roadmap, which scrolls) so these
-   stay pinned to the visible corners regardless of scroll position. */
-.roadmap-jump {
-  position: absolute; right: 8px; bottom: 8px; z-index: 3; width: 40px; height: 40px; border-radius: 50%;
-  border: 1.5px solid var(--border); background: var(--card); color: var(--ink-soft);
-  font-size: 1.05rem; display: flex; align-items: center; justify-content: center; cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15); opacity: 0.85; transition: opacity 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+.trail-rail-fill {
+  position: absolute; top: 0; left: 0; width: 100%;
+  background: linear-gradient(to bottom, var(--flow), var(--amber));
 }
-.roadmap-jump:hover { opacity: 1; border-color: var(--flow); color: var(--flow); }
-.roadmap-row { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 22px; }
-.roadmap-row.left { align-items: flex-start; padding-left: 12%; }
-.roadmap-row.right { align-items: flex-end; padding-right: 12%; }
-.roadmap-node {
-  width: 58px; height: 58px; border-radius: 50%; border: 3px solid var(--dim); background: var(--card);
+.trail-list { display: flex; flex-direction: column; gap: 24px; }
+.trail-row { position: relative; z-index: 1; display: flex; align-items: center; gap: 16px; }
+.trail-row.indent { margin-left: 34px; }
+.trail-node {
+  flex-shrink: 0; width: 58px; height: 58px; border-radius: 50%; border: 3px solid var(--dim); background: var(--card);
   color: var(--ink-soft); font-family: var(--font-mono); font-weight: 700; font-size: 1.1rem;
-  display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center; cursor: pointer;
   box-shadow: 0 3px 0 var(--border); transition: transform 0.1s ease;
 }
-.roadmap-node:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 1px 0 var(--border); }
-.roadmap-node.unlocked { border-color: var(--flow); color: var(--flow); background: var(--flow-wash); }
-.roadmap-node.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--flow-wash); }
-.roadmap-node.done { border-color: var(--flow); background: var(--flow); color: #fff; box-shadow: 0 3px 0 var(--btn-shadow); }
-.roadmap-node.locked { cursor: default; opacity: 0.6; }
-.roadmap-node:disabled { cursor: default; }
-.roadmap-next-node {
-  width: 64px; height: 64px; border-radius: 50%; border: 3px solid var(--amber); background: var(--amber-wash);
-  font-size: 1.5rem; display: flex; align-items: center; justify-content: center; cursor: pointer;
-  box-shadow: 0 3px 0 #8a5e1f;
-}
-.roadmap-label { text-align: center; margin-top: 8px; max-width: 130px; }
-.roadmap-label-en { display: block; font-family: var(--font-display); font-weight: 700; font-size: 0.82rem; color: var(--ink); }
-.roadmap-label-native { display: block; font-size: 0.72rem; color: var(--ink-soft); margin-top: 1px; }
+.trail-node:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 1px 0 var(--border); }
+.trail-node.unlocked { border-color: var(--flow); color: var(--flow); background: var(--flow-wash); }
+.trail-node.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--flow-wash); }
+.trail-node.done { border-color: var(--flow); background: var(--flow); color: #fff; box-shadow: 0 3px 0 var(--btn-shadow); }
+.trail-node.locked { cursor: default; opacity: 0.6; }
+.trail-node:disabled { cursor: default; }
+.trail-node.reading { border-color: var(--amber); }
+.trail-node.reading.unlocked { color: var(--amber); background: var(--amber-wash); border-color: var(--amber); }
+.trail-node.reading.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--amber-wash); }
+.trail-next-node { border-color: var(--amber); background: var(--amber-wash); font-size: 1.5rem; }
+.trail-info { display: flex; flex-direction: column; min-width: 0; }
+.trail-title { font-family: var(--font-display); font-weight: 700; font-size: 0.9rem; color: var(--ink); }
+.trail-title-native { font-size: 0.76rem; color: var(--ink-soft); margin-top: 1px; }
 
 /* ---------- lesson session ---------- */
 .lesson-bar { display: flex; align-items: center; gap: 12px; padding: 14px 20px; }
@@ -290,10 +284,6 @@ button.stat:hover { color: var(--flow); }
 .passage-en { font-size: 1.02rem; line-height: 1.6; margin: 0 0 4px; color: var(--ink); }
 .passage-ru { font-size: 0.85rem; color: var(--ink-soft); font-style: italic; margin: 0; }
 .passage-ru.hidden { display: none; }
-
-.roadmap-node.reading { border-color: var(--amber); }
-.roadmap-node.reading.unlocked { color: var(--amber); background: var(--amber-wash); border-color: var(--amber); }
-.roadmap-node.reading.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--amber-wash); }
 
 .feedback { position: fixed; left: 0; right: 0; bottom: 0; padding: 18px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .feedback-main { display: flex; align-items: center; gap: 12px; min-width: 0; }
