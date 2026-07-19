@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="style.css?v=11" />
+<link rel="stylesheet" href="style.css?v=12" />
 </head>
 <body>
 
@@ -126,6 +126,17 @@
   </div>
 </div>
 
+<div class="modal hidden" id="dialogueModal">
+  <div class="modal-card">
+    <div class="modal-header">
+      <h3 id="dialogueTitle">Пример диалога</h3>
+      <button class="modal-close" id="dialogueClose" aria-label="Закрыть">&times;</button>
+    </div>
+    <p class="modal-sub">Короткий диалог, показывающий эту тему на практике.</p>
+    <div class="dialogue-list" id="dialogueList"></div>
+  </div>
+</div>
+
 <div class="modal hidden" id="accountModal">
   <div class="modal-card">
     <div class="modal-header">
@@ -140,7 +151,7 @@
 </div>
 
 <script src="firebase-config.js?v=1"></script>
-<script src="app.js?v=20"></script>
+<script src="app.js?v=21"></script>
 <script src="auth.js?v=4"></script>
 </body>
 </html>

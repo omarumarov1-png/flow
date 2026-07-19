@@ -17,6 +17,7 @@
             "title": "Hello (Part 1)",
             "titleNative": "Привет · Часть 1",
             "description": "Greetings and introducing yourself",
+            "topicId": "a1-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -105,6 +106,7 @@
             "title": "Hello (Part 2)",
             "titleNative": "Привет · Часть 2",
             "description": "Greetings and introducing yourself",
+            "topicId": "a1-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -193,6 +195,7 @@
             "title": "To Be (Part 1)",
             "titleNative": "Глагол to be · Часть 1",
             "description": "I am, you are, he is",
+            "topicId": "a1-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -360,6 +363,7 @@
             "title": "To Be (Part 2)",
             "titleNative": "Глагол to be · Часть 2",
             "description": "I am, you are, he is",
+            "topicId": "a1-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -448,6 +452,7 @@
             "title": "Family (Part 1)",
             "titleNative": "Семья · Часть 1",
             "description": "Talking about your family",
+            "topicId": "a1-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -536,6 +541,7 @@
             "title": "Family (Part 2)",
             "titleNative": "Семья · Часть 2",
             "description": "Talking about your family",
+            "topicId": "a1-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -703,6 +709,7 @@
             "title": "Numbers (Part 1)",
             "titleNative": "Числа · Часть 1",
             "description": "Counting and basic numbers",
+            "topicId": "a1-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -791,6 +798,7 @@
             "title": "Numbers (Part 2)",
             "titleNative": "Числа · Часть 2",
             "description": "Counting and basic numbers",
+            "topicId": "a1-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -879,6 +887,7 @@
             "title": "Daily Routine (Part 1)",
             "titleNative": "Распорядок дня · Часть 1",
             "description": "Everyday actions in simple present",
+            "topicId": "a1-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1042,6 +1051,7 @@
             "title": "Daily Routine (Part 2)",
             "titleNative": "Распорядок дня · Часть 2",
             "description": "Everyday actions in simple present",
+            "topicId": "a1-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1130,6 +1140,7 @@
             "title": "Food & Drink (Part 1)",
             "titleNative": "Еда и напитки · Часть 1",
             "description": "Ordering food and talking about meals",
+            "topicId": "a1-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1218,6 +1229,7 @@
             "title": "Food & Drink (Part 2)",
             "titleNative": "Еда и напитки · Часть 2",
             "description": "Ordering food and talking about meals",
+            "topicId": "a1-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1381,6 +1393,7 @@
             "title": "Colors & Objects (Part 1)",
             "titleNative": "Цвета и предметы · Часть 1",
             "description": "Describing everyday things",
+            "topicId": "a1-l7",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1469,6 +1482,7 @@
             "title": "Colors & Objects (Part 2)",
             "titleNative": "Цвета и предметы · Часть 2",
             "description": "Describing everyday things",
+            "topicId": "a1-l7",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1557,6 +1571,7 @@
             "title": "Weather & Time (Part 1)",
             "titleNative": "Погода и время · Часть 1",
             "description": "Talking about the weather and telling time",
+            "topicId": "a1-l8",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1720,6 +1735,7 @@
             "title": "Weather & Time (Part 2)",
             "titleNative": "Погода и время · Часть 2",
             "description": "Talking about the weather and telling time",
+            "topicId": "a1-l8",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1808,6 +1824,7 @@
             "title": "Simple Questions (Part 1)",
             "titleNative": "Простые вопросы · Часть 1",
             "description": "Asking basic questions",
+            "topicId": "a1-l9",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -1896,6 +1913,7 @@
             "title": "Simple Questions (Part 2)",
             "titleNative": "Простые вопросы · Часть 2",
             "description": "Asking basic questions",
+            "topicId": "a1-l9",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2059,6 +2077,7 @@
             "title": "Likes & Dislikes (Part 1)",
             "titleNative": "Нравится и не нравится · Часть 1",
             "description": "Expressing preferences",
+            "topicId": "a1-l10",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2147,6 +2166,7 @@
             "title": "Likes & Dislikes (Part 2)",
             "titleNative": "Нравится и не нравится · Часть 2",
             "description": "Expressing preferences",
+            "topicId": "a1-l10",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2235,6 +2255,7 @@
             "title": "Places in Town (Part 1)",
             "titleNative": "Места в городе · Часть 1",
             "description": "Talking about locations",
+            "topicId": "a1-l11",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2402,6 +2423,7 @@
             "title": "Places in Town (Part 2)",
             "titleNative": "Места в городе · Часть 2",
             "description": "Talking about locations",
+            "topicId": "a1-l11",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2490,6 +2512,7 @@
             "title": "Review & Small Talk (Part 1)",
             "titleNative": "Повторение и разговор · Часть 1",
             "description": "Mixed review of A1 patterns",
+            "topicId": "a1-l12",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2578,6 +2601,7 @@
             "title": "Review & Small Talk (Part 2)",
             "titleNative": "Повторение и разговор · Часть 2",
             "description": "Mixed review of A1 patterns",
+            "topicId": "a1-l12",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2674,6 +2698,7 @@
             "title": "Past Simple (Part 1)",
             "titleNative": "Прошедшее время · Часть 1",
             "description": "Talking about yesterday and last week",
+            "topicId": "a2-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2762,6 +2787,7 @@
             "title": "Past Simple (Part 2)",
             "titleNative": "Прошедшее время · Часть 2",
             "description": "Talking about yesterday and last week",
+            "topicId": "a2-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -2850,6 +2876,7 @@
             "title": "Future Plans (Part 1)",
             "titleNative": "Планы на будущее · Часть 1",
             "description": "Will and going to",
+            "topicId": "a2-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3013,6 +3040,7 @@
             "title": "Future Plans (Part 2)",
             "titleNative": "Планы на будущее · Часть 2",
             "description": "Will and going to",
+            "topicId": "a2-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3101,6 +3129,7 @@
             "title": "Can, Must, Should (Part 1)",
             "titleNative": "Модальные глаголы · Часть 1",
             "description": "Ability, obligation, and advice",
+            "topicId": "a2-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3189,6 +3218,7 @@
             "title": "Can, Must, Should (Part 2)",
             "titleNative": "Модальные глаголы · Часть 2",
             "description": "Ability, obligation, and advice",
+            "topicId": "a2-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3352,6 +3382,7 @@
             "title": "Comparisons (Part 1)",
             "titleNative": "Сравнения · Часть 1",
             "description": "Comparative and superlative forms",
+            "topicId": "a2-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3440,6 +3471,7 @@
             "title": "Comparisons (Part 2)",
             "titleNative": "Сравнения · Часть 2",
             "description": "Comparative and superlative forms",
+            "topicId": "a2-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3528,6 +3560,7 @@
             "title": "Travel (Part 1)",
             "titleNative": "Путешествия · Часть 1",
             "description": "Getting around and asking for directions",
+            "topicId": "a2-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3691,6 +3724,7 @@
             "title": "Travel (Part 2)",
             "titleNative": "Путешествия · Часть 2",
             "description": "Getting around and asking for directions",
+            "topicId": "a2-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3779,6 +3813,7 @@
             "title": "Health (Part 1)",
             "titleNative": "Здоровье · Часть 1",
             "description": "Talking about how you feel",
+            "topicId": "a2-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -3867,6 +3902,7 @@
             "title": "Health (Part 2)",
             "titleNative": "Здоровье · Часть 2",
             "description": "Talking about how you feel",
+            "topicId": "a2-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4030,6 +4066,7 @@
             "title": "Shopping (Part 1)",
             "titleNative": "Покупки · Часть 1",
             "description": "Buying things and comparing prices",
+            "topicId": "a2-l7",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4118,6 +4155,7 @@
             "title": "Shopping (Part 2)",
             "titleNative": "Покупки · Часть 2",
             "description": "Buying things and comparing prices",
+            "topicId": "a2-l7",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4206,6 +4244,7 @@
             "title": "Work (Part 1)",
             "titleNative": "Работа · Часть 1",
             "description": "Jobs and the workplace",
+            "topicId": "a2-l8",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4369,6 +4408,7 @@
             "title": "Work (Part 2)",
             "titleNative": "Работа · Часть 2",
             "description": "Jobs and the workplace",
+            "topicId": "a2-l8",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4457,6 +4497,7 @@
             "title": "Hobbies (Part 1)",
             "titleNative": "Хобби · Часть 1",
             "description": "Free time and interests",
+            "topicId": "a2-l9",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4545,6 +4586,7 @@
             "title": "Hobbies (Part 2)",
             "titleNative": "Хобби · Часть 2",
             "description": "Free time and interests",
+            "topicId": "a2-l9",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4708,6 +4750,7 @@
             "title": "Describing People (Part 1)",
             "titleNative": "Описание людей · Часть 1",
             "description": "Appearance and personality",
+            "topicId": "a2-l10",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4796,6 +4839,7 @@
             "title": "Describing People (Part 2)",
             "titleNative": "Описание людей · Часть 2",
             "description": "Appearance and personality",
+            "topicId": "a2-l10",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -4884,6 +4928,7 @@
             "title": "Phone Calls (Part 1)",
             "titleNative": "Телефонные звонки · Часть 1",
             "description": "Making and answering calls",
+            "topicId": "a2-l11",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5047,6 +5092,7 @@
             "title": "Phone Calls (Part 2)",
             "titleNative": "Телефонные звонки · Часть 2",
             "description": "Making and answering calls",
+            "topicId": "a2-l11",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5135,6 +5181,7 @@
             "title": "Opinions (Part 1)",
             "titleNative": "Мнения · Часть 1",
             "description": "Agreeing, disagreeing, giving opinions",
+            "topicId": "a2-l12",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5223,6 +5270,7 @@
             "title": "Opinions (Part 2)",
             "titleNative": "Мнения · Часть 2",
             "description": "Agreeing, disagreeing, giving opinions",
+            "topicId": "a2-l12",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5319,6 +5367,7 @@
             "title": "Present Perfect (Part 1)",
             "titleNative": "Настоящее совершенное · Часть 1",
             "description": "Experiences and recent events",
+            "topicId": "b1-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5407,6 +5456,7 @@
             "title": "Present Perfect (Part 2)",
             "titleNative": "Настоящее совершенное · Часть 2",
             "description": "Experiences and recent events",
+            "topicId": "b1-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5495,6 +5545,7 @@
             "title": "First Conditional (Part 1)",
             "titleNative": "Первое условное · Часть 1",
             "description": "Real future possibilities",
+            "topicId": "b1-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5658,6 +5709,7 @@
             "title": "First Conditional (Part 2)",
             "titleNative": "Первое условное · Часть 2",
             "description": "Real future possibilities",
+            "topicId": "b1-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5746,6 +5798,7 @@
             "title": "Second Conditional (Part 1)",
             "titleNative": "Второе условное · Часть 1",
             "description": "Hypothetical and unreal situations",
+            "topicId": "b1-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5834,6 +5887,7 @@
             "title": "Second Conditional (Part 2)",
             "titleNative": "Второе условное · Часть 2",
             "description": "Hypothetical and unreal situations",
+            "topicId": "b1-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -5997,6 +6051,7 @@
             "title": "Passive Voice (Part 1)",
             "titleNative": "Страдательный залог · Часть 1",
             "description": "When the action matters more than who did it",
+            "topicId": "b1-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6085,6 +6140,7 @@
             "title": "Passive Voice (Part 2)",
             "titleNative": "Страдательный залог · Часть 2",
             "description": "When the action matters more than who did it",
+            "topicId": "b1-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6173,6 +6229,7 @@
             "title": "Reported Speech (Part 1)",
             "titleNative": "Косвенная речь · Часть 1",
             "description": "Reporting what someone said",
+            "topicId": "b1-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6336,6 +6393,7 @@
             "title": "Reported Speech (Part 2)",
             "titleNative": "Косвенная речь · Часть 2",
             "description": "Reporting what someone said",
+            "topicId": "b1-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6424,6 +6482,7 @@
             "title": "Making Suggestions (Part 1)",
             "titleNative": "Предложения и советы · Часть 1",
             "description": "Proposing ideas and giving advice",
+            "topicId": "b1-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6512,6 +6571,7 @@
             "title": "Making Suggestions (Part 2)",
             "titleNative": "Предложения и советы · Часть 2",
             "description": "Proposing ideas and giving advice",
+            "topicId": "b1-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6608,6 +6668,7 @@
             "title": "Phrasal Verbs (Part 1)",
             "titleNative": "Фразовые глаголы · Часть 1",
             "description": "Everyday two-word verbs native speakers actually use",
+            "topicId": "b1plus-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6696,6 +6757,7 @@
             "title": "Phrasal Verbs (Part 2)",
             "titleNative": "Фразовые глаголы · Часть 2",
             "description": "Everyday two-word verbs native speakers actually use",
+            "topicId": "b1plus-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6784,6 +6846,7 @@
             "title": "Sharing Opinions (Part 1)",
             "titleNative": "Выражение мнения · Часть 1",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
+            "topicId": "b1plus-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -6947,6 +7010,7 @@
             "title": "Sharing Opinions (Part 2)",
             "titleNative": "Выражение мнения · Часть 2",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
+            "topicId": "b1plus-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7035,6 +7099,7 @@
             "title": "Third Conditional (Part 1)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 1",
             "description": "Regrets and hypothetical past outcomes",
+            "topicId": "b1plus-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7123,6 +7188,7 @@
             "title": "Third Conditional (Part 2)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 2",
             "description": "Regrets and hypothetical past outcomes",
+            "topicId": "b1plus-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7286,6 +7352,7 @@
             "title": "Reported Questions (Part 1)",
             "titleNative": "Косвенные вопросы · Часть 1",
             "description": "Asking and reporting questions politely and indirectly",
+            "topicId": "b1plus-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7374,6 +7441,7 @@
             "title": "Reported Questions (Part 2)",
             "titleNative": "Косвенные вопросы · Часть 2",
             "description": "Asking and reporting questions politely and indirectly",
+            "topicId": "b1plus-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7462,6 +7530,7 @@
             "title": "Modals of Deduction (Part 1)",
             "titleNative": "Модальные глаголы предположения · Часть 1",
             "description": "Guessing what must, might, or can't be true",
+            "topicId": "b1plus-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7625,6 +7694,7 @@
             "title": "Modals of Deduction (Part 2)",
             "titleNative": "Модальные глаголы предположения · Часть 2",
             "description": "Guessing what must, might, or can't be true",
+            "topicId": "b1plus-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7713,6 +7783,7 @@
             "title": "Comparisons & Contrasts (Part 1)",
             "titleNative": "Сравнения и противопоставления · Часть 1",
             "description": "Weighing options and highlighting differences",
+            "topicId": "b1plus-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7801,6 +7872,7 @@
             "title": "Comparisons & Contrasts (Part 2)",
             "titleNative": "Сравнения и противопоставления · Часть 2",
             "description": "Weighing options and highlighting differences",
+            "topicId": "b1plus-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7897,6 +7969,7 @@
             "title": "Wishes & Regrets (Part 1)",
             "titleNative": "Желания и сожаления · Часть 1",
             "description": "Wish, if only, and things you'd change",
+            "topicId": "b2-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -7985,6 +8058,7 @@
             "title": "Wishes & Regrets (Part 2)",
             "titleNative": "Желания и сожаления · Часть 2",
             "description": "Wish, if only, and things you'd change",
+            "topicId": "b2-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8073,6 +8147,7 @@
             "title": "Mixed Conditionals (Part 1)",
             "titleNative": "Смешанные условные предложения · Часть 1",
             "description": "Past causes with present results, and the reverse",
+            "topicId": "b2-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8236,6 +8311,7 @@
             "title": "Mixed Conditionals (Part 2)",
             "titleNative": "Смешанные условные предложения · Часть 2",
             "description": "Past causes with present results, and the reverse",
+            "topicId": "b2-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8324,6 +8400,7 @@
             "title": "Advanced Passive (Part 1)",
             "titleNative": "Продвинутый страдательный залог · Часть 1",
             "description": "Passive with modals and perfect forms",
+            "topicId": "b2-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8412,6 +8489,7 @@
             "title": "Advanced Passive (Part 2)",
             "titleNative": "Продвинутый страдательный залог · Часть 2",
             "description": "Passive with modals and perfect forms",
+            "topicId": "b2-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8575,6 +8653,7 @@
             "title": "Emphasis & Inversion (Part 1)",
             "titleNative": "Эмфаза и инверсия · Часть 1",
             "description": "Fronting negatives and emphatic structures for natural flair",
+            "topicId": "b2-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8663,6 +8742,7 @@
             "title": "Emphasis & Inversion (Part 2)",
             "titleNative": "Эмфаза и инверсия · Часть 2",
             "description": "Fronting negatives and emphatic structures for natural flair",
+            "topicId": "b2-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8751,6 +8831,7 @@
             "title": "Society & Technology (Part 1)",
             "titleNative": "Общество и технологии · Часть 1",
             "description": "Discussing abstract, current issues with nuance",
+            "topicId": "b2-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -8914,6 +8995,7 @@
             "title": "Society & Technology (Part 2)",
             "titleNative": "Общество и технологии · Часть 2",
             "description": "Discussing abstract, current issues with nuance",
+            "topicId": "b2-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9002,6 +9084,7 @@
             "title": "Advanced Linking Words (Part 1)",
             "titleNative": "Продвинутые слова-связки · Часть 1",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
+            "topicId": "b2-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9090,6 +9173,7 @@
             "title": "Advanced Linking Words (Part 2)",
             "titleNative": "Продвинутые слова-связки · Часть 2",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
+            "topicId": "b2-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9186,6 +9270,7 @@
             "title": "Hedging & Softening (Part 1)",
             "titleNative": "Смягчение высказываний · Часть 1",
             "description": "Sounding diplomatic instead of blunt",
+            "topicId": "b2plus-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9274,6 +9359,7 @@
             "title": "Hedging & Softening (Part 2)",
             "titleNative": "Смягчение высказываний · Часть 2",
             "description": "Sounding diplomatic instead of blunt",
+            "topicId": "b2plus-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9362,6 +9448,7 @@
             "title": "Idiomatic Collocations (Part 1)",
             "titleNative": "Идиоматические сочетания · Часть 1",
             "description": "Word pairings that make you sound like a native speaker",
+            "topicId": "b2plus-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9525,6 +9612,7 @@
             "title": "Idiomatic Collocations (Part 2)",
             "titleNative": "Идиоматические сочетания · Часть 2",
             "description": "Word pairings that make you sound like a native speaker",
+            "topicId": "b2plus-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9613,6 +9701,7 @@
             "title": "Narrative Tense Mixing (Part 1)",
             "titleNative": "Смешение времён в повествовании · Часть 1",
             "description": "Weaving past, past perfect, and past continuous naturally",
+            "topicId": "b2plus-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9701,6 +9790,7 @@
             "title": "Narrative Tense Mixing (Part 2)",
             "titleNative": "Смешение времён в повествовании · Часть 2",
             "description": "Weaving past, past perfect, and past continuous naturally",
+            "topicId": "b2plus-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9864,6 +9954,7 @@
             "title": "Formal Register (Part 1)",
             "titleNative": "Официальный регистр речи · Часть 1",
             "description": "Sounding polished in emails, meetings, and presentations",
+            "topicId": "b2plus-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -9952,6 +10043,7 @@
             "title": "Formal Register (Part 2)",
             "titleNative": "Официальный регистр речи · Часть 2",
             "description": "Sounding polished in emails, meetings, and presentations",
+            "topicId": "b2plus-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10040,6 +10132,7 @@
             "title": "Attitude & Emotion (Part 1)",
             "titleNative": "Отношение и эмоции · Часть 1",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
+            "topicId": "b2plus-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10203,6 +10296,7 @@
             "title": "Attitude & Emotion (Part 2)",
             "titleNative": "Отношение и эмоции · Часть 2",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
+            "topicId": "b2plus-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10291,6 +10385,7 @@
             "title": "Nuanced Modality (Part 1)",
             "titleNative": "Тонкие оттенки модальности · Часть 1",
             "description": "Precise shades of possibility, obligation, and permission",
+            "topicId": "b2plus-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10379,6 +10474,7 @@
             "title": "Nuanced Modality (Part 2)",
             "titleNative": "Тонкие оттенки модальности · Часть 2",
             "description": "Precise shades of possibility, obligation, and permission",
+            "topicId": "b2plus-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10475,6 +10571,7 @@
             "title": "Academic & Analytical Language (Part 1)",
             "titleNative": "Академический и аналитический язык · Часть 1",
             "description": "Sounding precise and objective in analysis and writing",
+            "topicId": "c1-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10563,6 +10660,7 @@
             "title": "Academic & Analytical Language (Part 2)",
             "titleNative": "Академический и аналитический язык · Часть 2",
             "description": "Sounding precise and objective in analysis and writing",
+            "topicId": "c1-l1",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10651,6 +10749,7 @@
             "title": "Rhetorical Devices & Persuasion (Part 1)",
             "titleNative": "Риторические приёмы и убеждение · Часть 1",
             "description": "Rhetorical questions, contrast, and persuasive structure",
+            "topicId": "c1-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10810,6 +10909,7 @@
             "title": "Rhetorical Devices & Persuasion (Part 2)",
             "titleNative": "Риторические приёмы и убеждение · Часть 2",
             "description": "Rhetorical questions, contrast, and persuasive structure",
+            "topicId": "c1-l2",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10898,6 +10998,7 @@
             "title": "Subtle Contrast & Concession (Part 1)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 1",
             "description": "Although, whereas, despite — precise shades of contrast",
+            "topicId": "c1-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -10986,6 +11087,7 @@
             "title": "Subtle Contrast & Concession (Part 2)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 2",
             "description": "Although, whereas, despite — precise shades of contrast",
+            "topicId": "c1-l3",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11145,6 +11247,7 @@
             "title": "Professional Negotiation Language (Part 1)",
             "titleNative": "Дипломатичный язык переговоров · Часть 1",
             "description": "Diplomatic phrasing for business and negotiation",
+            "topicId": "c1-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11233,6 +11336,7 @@
             "title": "Professional Negotiation Language (Part 2)",
             "titleNative": "Дипломатичный язык переговоров · Часть 2",
             "description": "Diplomatic phrasing for business and negotiation",
+            "topicId": "c1-l4",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11321,6 +11425,7 @@
             "title": "Abstract & Philosophical Discussion (Part 1)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 1",
             "description": "Discussing ideas, values, and abstract concepts",
+            "topicId": "c1-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11480,6 +11585,7 @@
             "title": "Abstract & Philosophical Discussion (Part 2)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 2",
             "description": "Discussing ideas, values, and abstract concepts",
+            "topicId": "c1-l5",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11568,6 +11674,7 @@
             "title": "Advanced Discourse Markers (Part 1)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 1",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
+            "topicId": "c1-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11656,6 +11763,7 @@
             "title": "Advanced Discourse Markers (Part 2)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 2",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
+            "topicId": "c1-l6",
             "exercises": [
               {
                 "type": "multiple-choice",
@@ -11740,6 +11848,680 @@
           }
         ]
       }
-    ]
+    ],
+    "grammarTopics": {
+      "a1-l1": {
+        "title": "Greetings & Introductions",
+        "pattern": "Hi! / My name is ... / I am from ...",
+        "explanation": "English greetings change with time of day (good morning/evening) but stay simple otherwise — no special verb forms, no grammatical gender to worry about. \"My name is X\" and \"I am from Y\" are fixed patterns worth memorizing as whole chunks rather than building word by word.",
+        "fact": "\"Hi\" is only about 200 years old as a greeting — it started as a way to attract attention (like shouting to a boat) before becoming a casual hello in the 20th century, spreading through telephone culture (\"Hi\" answered calls before \"hello\" became standard).",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Hi! What's your name?",
+            "ru": "Привет! Как тебя зовут?"
+          },
+          {
+            "sp": "Marat",
+            "en": "My name is Marat. Nice to meet you.",
+            "ru": "Меня зовут Марат. Приятно познакомиться."
+          },
+          {
+            "sp": "Anna",
+            "en": "Where are you from?",
+            "ru": "Откуда ты?"
+          },
+          {
+            "sp": "Marat",
+            "en": "I am from Kazakhstan. And you?",
+            "ru": "Я из Казахстана. А ты?"
+          }
+        ]
+      },
+      "a1-l2": {
+        "title": "The Verb \"To Be\"",
+        "pattern": "I am / you are / he-she-it is / we-they are",
+        "explanation": "\"To be\" is the most irregular verb in English — it doesn't follow the usual pattern of adding -s for he/she/it. Instead it has three completely different forms: am, is, are. Once you know these three, you can build an enormous number of sentences: descriptions, states, professions, feelings.",
+        "fact": "\"To be\" is irregular in almost every language because it's used so often — the most frequent words in a language tend to keep their old, irregular forms instead of being smoothed out over time, since people use them too often to \"forget\" the old pattern.",
+        "dialogue": [
+          {
+            "sp": "Elena",
+            "en": "Are you a student?",
+            "ru": "Ты студент?"
+          },
+          {
+            "sp": "Dias",
+            "en": "Yes, I am. I am a student at the university.",
+            "ru": "Да. Я студент в университете."
+          },
+          {
+            "sp": "Elena",
+            "en": "Is your sister a student too?",
+            "ru": "Твоя сестра тоже студентка?"
+          },
+          {
+            "sp": "Dias",
+            "en": "No, she isn't. She is a doctor.",
+            "ru": "Нет. Она врач."
+          }
+        ]
+      },
+      "a1-l3": {
+        "title": "Family & Possessives",
+        "pattern": "my / your / his / her + family member",
+        "explanation": "Possessive adjectives (my, your, his, her, our, their) always come before the noun and never change form based on gender of the noun — unlike Russian, English \"her book\" and \"her brother\" use the same word \"her\" regardless of whether the object is masculine or feminine.",
+        "fact": "English used to have grammatical gender like Russian, centuries ago — Old English nouns were masculine, feminine, or neuter. It was mostly lost after the Norman Conquest, when English simplified rapidly while absorbing thousands of French words.",
+        "dialogue": [
+          {
+            "sp": "Sasha",
+            "en": "Is this your brother?",
+            "ru": "Это твой брат?"
+          },
+          {
+            "sp": "Nurlan",
+            "en": "Yes, this is my brother. His name is Aidos.",
+            "ru": "Да, это мой брат. Его зовут Айдос."
+          },
+          {
+            "sp": "Sasha",
+            "en": "And who is she?",
+            "ru": "А кто она?"
+          },
+          {
+            "sp": "Nurlan",
+            "en": "She is my sister. Her name is Aigerim.",
+            "ru": "Это моя сестра. Её зовут Айгерим."
+          }
+        ]
+      },
+      "a1-l4": {
+        "title": "Numbers & Age",
+        "pattern": "I am [number] years old",
+        "explanation": "English states age with \"to be\" plus \"years old\" — never a direct verb like \"to have\" (unlike many other languages that literally say \"I have 25 years\"). Dropping \"years old\" and just saying \"I am 25\" is also completely correct and common in speech.",
+        "fact": "English number words up to twelve are all irregular, historically unrelated shapes (one, two, three... eleven, twelve) — only from thirteen onward does the language switch to a predictable \"teen\" pattern, a fossil of a very old counting system.",
+        "dialogue": [
+          {
+            "sp": "Kate",
+            "en": "How old are you?",
+            "ru": "Сколько тебе лет?"
+          },
+          {
+            "sp": "Yerlan",
+            "en": "I am twenty-eight years old. And you?",
+            "ru": "Мне двадцать восемь лет. А тебе?"
+          },
+          {
+            "sp": "Kate",
+            "en": "I am twenty-five.",
+            "ru": "Мне двадцать пять."
+          },
+          {
+            "sp": "Yerlan",
+            "en": "Nice! We are close in age.",
+            "ru": "Здорово! Мы почти ровесники."
+          }
+        ]
+      },
+      "a1-l5": {
+        "title": "Daily Routine & Present Simple",
+        "pattern": "I wake up / he wakes up (verb + -s for he/she/it)",
+        "explanation": "Present Simple describes habits and routines — things that happen regularly, not right now. The only tricky part: for \"he/she/it\", add -s to the verb (I wake up, but he wakes up). This -s is one of the most commonly forgotten rules by learners, so it's worth drilling on its own.",
+        "fact": "Adding -s for third person singular is one of the last surviving pieces of a much richer old English verb-ending system — Old English verbs had different endings for every single person (I, you, he, we, you-all, they), and modern English kept just this one.",
+        "dialogue": [
+          {
+            "sp": "Oksana",
+            "en": "What time do you wake up?",
+            "ru": "Во сколько ты просыпаешься?"
+          },
+          {
+            "sp": "Timur",
+            "en": "I wake up at seven. My wife wakes up at six.",
+            "ru": "Я просыпаюсь в семь. Моя жена просыпается в шесть."
+          },
+          {
+            "sp": "Oksana",
+            "en": "Do you eat breakfast together?",
+            "ru": "Вы завтракаете вместе?"
+          },
+          {
+            "sp": "Timur",
+            "en": "Yes, we always eat breakfast together.",
+            "ru": "Да, мы всегда завтракаем вместе."
+          }
+        ]
+      },
+      "a1-l6": {
+        "title": "Food, Drink & Countable Nouns",
+        "pattern": "some / any + noun; a piece of, a cup of",
+        "explanation": "Food words split into countable (an apple, two apples) and uncountable (bread, coffee, water — no plural, no \"a\" in front). Use \"some\" in positive sentences and \"any\" in questions/negatives for both types: \"I have some bread\", \"Do you have any coffee?\"",
+        "fact": "Words like \"bread\", \"rice\", and \"advice\" are grammatically uncountable in English even though the actual thing is obviously made of countable pieces — this is a grammar convention, not a fact about the world, and it differs from language to language (Russian treats some of these differently too).",
+        "dialogue": [
+          {
+            "sp": "Waiter",
+            "en": "Would you like some coffee?",
+            "ru": "Хотите кофе?"
+          },
+          {
+            "sp": "Guest",
+            "en": "Yes, please. And do you have any fresh bread?",
+            "ru": "Да, пожалуйста. А у вас есть свежий хлеб?"
+          },
+          {
+            "sp": "Waiter",
+            "en": "Of course. Anything else?",
+            "ru": "Конечно. Что-нибудь ещё?"
+          },
+          {
+            "sp": "Guest",
+            "en": "Just some water, thank you.",
+            "ru": "Просто воду, спасибо."
+          }
+        ]
+      },
+      "a1-l7": {
+        "title": "Colors, Objects & Adjective Order",
+        "pattern": "a [color] [noun] — adjective always before the noun",
+        "explanation": "Unlike Russian, where adjectives can move around fairly freely, English adjectives almost always go directly before the noun they describe: \"a red car\", not \"a car red\". This word order is one of the most consistent rules in English and rarely has exceptions in everyday speech.",
+        "fact": "English does have a strict hidden order when you stack multiple adjectives (opinion-size-age-shape-color-origin-material-purpose) — \"a beautiful old red Italian car\" sounds natural, but reordering it (\"a red Italian old beautiful car\") sounds wrong to native speakers, even though almost none of them could explain the rule.",
+        "dialogue": [
+          {
+            "sp": "Amina",
+            "en": "I like your new bag. Is it black?",
+            "ru": "Мне нравится твоя новая сумка. Она чёрная?"
+          },
+          {
+            "sp": "Ruslan",
+            "en": "No, it's dark blue. I also have a red one.",
+            "ru": "Нет, тёмно-синяя. У меня ещё есть красная."
+          },
+          {
+            "sp": "Amina",
+            "en": "What color is your car?",
+            "ru": "Какого цвета твоя машина?"
+          },
+          {
+            "sp": "Ruslan",
+            "en": "It's white, with a black roof.",
+            "ru": "Она белая, с чёрной крышей."
+          }
+        ]
+      },
+      "a1-l8": {
+        "title": "Weather & Time Expressions",
+        "pattern": "It is [weather/time] — \"it\" as an empty subject",
+        "explanation": "English uses \"it\" as a grammatical placeholder subject for weather and time, even though \"it\" doesn't refer to anything real: \"It is cold\", \"It is five o'clock\". Russian doesn't need this filler word, which is why learners often try to skip it — but English sentences need a subject, so \"it\" fills that slot.",
+        "fact": "This \"empty it\" is called a \"dummy subject\" in linguistics, and English needs it because the language lost the ability to drop subjects entirely (unlike Russian, Spanish, or Arabic, which can say the equivalent of just \"is cold\" and be grammatically complete).",
+        "dialogue": [
+          {
+            "sp": "Zhanna",
+            "en": "What's the weather like today?",
+            "ru": "Какая сегодня погода?"
+          },
+          {
+            "sp": "Bek",
+            "en": "It's sunny and warm. What time is it?",
+            "ru": "Солнечно и тепло. Который час?"
+          },
+          {
+            "sp": "Zhanna",
+            "en": "It's almost noon.",
+            "ru": "Уже почти полдень."
+          },
+          {
+            "sp": "Bek",
+            "en": "Let's go for a walk, then.",
+            "ru": "Тогда пойдём гулять."
+          }
+        ]
+      },
+      "a1-l9": {
+        "title": "Forming Simple Questions",
+        "pattern": "Do/Does + subject + verb? / Is/Are + subject...?",
+        "explanation": "Most English questions need a helper word (do/does) that doesn't exist in the Russian question — \"Do you like coffee?\" not \"Like you coffee?\". Questions with \"to be\" are simpler: just flip the subject and verb (\"You are tired\" → \"Are you tired?\").",
+        "fact": "This \"do-support\" rule is unique among European languages — French, German, and Russian all form questions by reordering words, but English had to invent a whole separate helper verb system after most of its original verb endings disappeared, leaving no other way to signal a question.",
+        "dialogue": [
+          {
+            "sp": "Dana",
+            "en": "Do you speak English?",
+            "ru": "Ты говоришь по-английски?"
+          },
+          {
+            "sp": "Arman",
+            "en": "Yes, a little. Do you understand me?",
+            "ru": "Да, немного. Ты меня понимаешь?"
+          },
+          {
+            "sp": "Dana",
+            "en": "Yes, I do. Are you from Almaty?",
+            "ru": "Да. Ты из Алматы?"
+          },
+          {
+            "sp": "Arman",
+            "en": "No, I'm not. I'm from Astana.",
+            "ru": "Нет. Я из Астаны."
+          }
+        ]
+      },
+      "a1-l10": {
+        "title": "Likes, Dislikes & the -ing Form",
+        "pattern": "I like / love / hate + verb-ing",
+        "explanation": "After verbs like \"like\", \"love\", \"hate\", and \"enjoy\", the following verb takes the -ing form, not the infinitive: \"I like swimming\", not \"I like to swim\" (though \"to swim\" is also technically possible after \"like\" specifically — but -ing is the safer, more natural default to learn first).",
+        "fact": "The \"-ing\" ending actually comes from two different Old English endings that merged over time — one that made nouns from verbs (like \"a building\") and one that marked an ongoing action (\"I am building\") — which is why \"-ing\" words can act as both nouns and verb forms today.",
+        "dialogue": [
+          {
+            "sp": "Lena",
+            "en": "Do you like reading?",
+            "ru": "Тебе нравится читать?"
+          },
+          {
+            "sp": "Sanzhar",
+            "en": "I love reading. I hate watching TV, though.",
+            "ru": "Я обожаю читать. А вот смотреть телевизор терпеть не могу."
+          },
+          {
+            "sp": "Lena",
+            "en": "Really? I like watching movies.",
+            "ru": "Правда? А мне нравится смотреть фильмы."
+          },
+          {
+            "sp": "Sanzhar",
+            "en": "Movies are okay. TV shows are too long for me.",
+            "ru": "Фильмы — ещё ничего. Сериалы для меня слишком долгие."
+          }
+        ]
+      },
+      "a1-l11": {
+        "title": "Places & Prepositions of Location",
+        "pattern": "in / on / at / near / next to",
+        "explanation": "English prepositions of place don't map one-to-one onto Russian ones, so they need to be learned per-phrase rather than translated word-for-word: \"at the market\" (not \"in\"), \"in the city\" (not \"at\"), \"on the street\" (not \"in\"). These small words are one of the hardest parts of English for Russian speakers.",
+        "fact": "English has roughly 150 prepositions, far more than most languages, and many of them (\"in\", \"on\", \"at\") come from Old Norse and Old English words for physical containment and contact — \"in\" originally meant literally \"inside a hollow space\", which still shapes how it's used today.",
+        "dialogue": [
+          {
+            "sp": "Aliya",
+            "en": "Where is the nearest hospital?",
+            "ru": "Где ближайшая больница?"
+          },
+          {
+            "sp": "Stranger",
+            "en": "It's on Green Street, near the park.",
+            "ru": "Она на Зелёной улице, рядом с парком."
+          },
+          {
+            "sp": "Aliya",
+            "en": "Is it far from here?",
+            "ru": "Это далеко отсюда?"
+          },
+          {
+            "sp": "Stranger",
+            "en": "No, it's just five minutes on foot.",
+            "ru": "Нет, всего пять минут пешком."
+          }
+        ]
+      },
+      "a1-l12": {
+        "title": "Review: Small Talk Patterns",
+        "pattern": "How are you? / What do you do? / Nice to meet you.",
+        "explanation": "English small talk relies on a small set of fixed, almost ritual phrases — \"How are you?\", \"What do you do?\", \"Nice to meet you.\" Native speakers barely think about these; they're chunks to memorize whole, not sentences to build from grammar rules each time.",
+        "fact": "\"How are you?\" is rarely a real question in English — the expected answer is almost always some version of \"fine, thanks\" regardless of how someone actually feels. Answering it literally and honestly can come across as oversharing to English speakers, unlike in some other cultures.",
+        "dialogue": [
+          {
+            "sp": "Guest",
+            "en": "Hi, nice to meet you. How are you?",
+            "ru": "Привет, приятно познакомиться. Как дела?"
+          },
+          {
+            "sp": "Host",
+            "en": "I'm good, thanks. What do you do?",
+            "ru": "Хорошо, спасибо. Кем ты работаешь?"
+          },
+          {
+            "sp": "Guest",
+            "en": "I'm a teacher. And you?",
+            "ru": "Я учитель. А ты?"
+          },
+          {
+            "sp": "Host",
+            "en": "I work in marketing. Nice to meet you too.",
+            "ru": "Я работаю в маркетинге. Мне тоже приятно познакомиться."
+          }
+        ]
+      },
+      "a2-l1": {
+        "title": "Past Simple",
+        "pattern": "verb + -ed (regular) / irregular past forms",
+        "explanation": "Past Simple describes finished actions at a specific past time. Regular verbs add -ed (walk → walked), but the most common English verbs (be, go, have, see, do...) are irregular and must be memorized individually — there's no shortcut for these, only repetition.",
+        "fact": "Irregular verbs are irregular precisely because they're so common — \"go/went\", \"be/was\", \"have/had\" are among the most frequently used words in the language, and frequent words resist the regularizing pressure that smooths rare verbs into the standard -ed pattern over centuries.",
+        "dialogue": [
+          {
+            "sp": "Rita",
+            "en": "What did you do yesterday?",
+            "ru": "Что ты делал вчера?"
+          },
+          {
+            "sp": "Damir",
+            "en": "I went to the mountains with friends. We had a great time.",
+            "ru": "Я ездил в горы с друзьями. Мы отлично провели время."
+          },
+          {
+            "sp": "Rita",
+            "en": "Did you take any photos?",
+            "ru": "Ты фотографировал?"
+          },
+          {
+            "sp": "Damir",
+            "en": "Yes, I took a lot of photos.",
+            "ru": "Да, я сделал много фотографий."
+          }
+        ]
+      },
+      "a2-l2": {
+        "title": "Future Plans: will vs going to",
+        "pattern": "I will + verb (decision now) / I am going to + verb (plan already made)",
+        "explanation": "\"Will\" is for spontaneous decisions made at the moment of speaking (\"I'll answer the phone\"), while \"going to\" is for plans decided before now (\"I'm going to visit Paris next summer\" — already planned). Mixing these up doesn't usually cause confusion, but native speakers do feel the difference.",
+        "fact": "\"Going to\" as a future marker started as a literal description of physical movement (\"I am going to [a place] to [do something]\") and only later got reanalyzed as a pure future-tense marker — it's now often shortened to \"gonna\" in casual speech precisely because it no longer feels like a movement verb.",
+        "dialogue": [
+          {
+            "sp": "Aida",
+            "en": "What are you going to do this weekend?",
+            "ru": "Что ты собираешься делать на выходных?"
+          },
+          {
+            "sp": "Yerbol",
+            "en": "I'm going to visit my parents. Want to come?",
+            "ru": "Я собираюсь навестить родителей. Хочешь со мной?"
+          },
+          {
+            "sp": "Aida",
+            "en": "Sure, I'll come with you.",
+            "ru": "Конечно, я поеду с тобой."
+          },
+          {
+            "sp": "Yerbol",
+            "en": "Great, I'll pick you up at ten.",
+            "ru": "Отлично, заеду за тобой в десять."
+          }
+        ]
+      },
+      "a2-l3": {
+        "title": "Modal Verbs: can, must, should",
+        "pattern": "can (ability/permission), must (obligation), should (advice)",
+        "explanation": "Modal verbs never change form (no -s, no -ing, no \"to\") and are followed directly by the base verb: \"she can swim\", not \"she cans to swim\". Each modal carries a different shade of meaning — can = ability/permission, must = strong obligation, should = advice/recommendation.",
+        "fact": "\"Must\" is grammatically frozen — it has no past tense, no infinitive, no -ing form at all. To talk about past obligation, English has to switch to a completely different phrase, \"had to\", because \"must\" simply ran out of grammatical forms centuries ago and never regained them.",
+        "dialogue": [
+          {
+            "sp": "Doctor",
+            "en": "You must rest for a few days.",
+            "ru": "Вам нужно отдохнуть несколько дней."
+          },
+          {
+            "sp": "Patient",
+            "en": "Can I go to work tomorrow?",
+            "ru": "Я могу пойти на работу завтра?"
+          },
+          {
+            "sp": "Doctor",
+            "en": "No, you shouldn't. You should stay home.",
+            "ru": "Нет, не стоит. Вам следует остаться дома."
+          },
+          {
+            "sp": "Patient",
+            "en": "Okay, I understand.",
+            "ru": "Хорошо, понимаю."
+          }
+        ]
+      },
+      "a2-l4": {
+        "title": "Comparisons: -er / more / as...as",
+        "pattern": "short adj + -er / more + long adj / as + adj + as",
+        "explanation": "Short adjectives (1 syllable, some 2-syllable) take -er (fast → faster); longer adjectives use \"more\" instead (expensive → more expensive). \"As...as\" compares equal things (\"as tall as\"). The rule for which adjectives take -er vs \"more\" has exceptions, but the syllable-count guideline works most of the time.",
+        "fact": "The rule isn't purely about syllable count — it's really about pronunciation rhythm. Two-syllable adjectives ending in -y (happy, easy) almost always take -er (happier, easier) because that ending is easy to pronounce smoothly, while two-syllable adjectives ending in other sounds usually need \"more\".",
+        "dialogue": [
+          {
+            "sp": "Meruert",
+            "en": "This coat is warmer than my old one.",
+            "ru": "Это пальто теплее, чем моё старое."
+          },
+          {
+            "sp": "Askar",
+            "en": "Is it more expensive too?",
+            "ru": "Оно и дороже тоже?"
+          },
+          {
+            "sp": "Meruert",
+            "en": "A little, but it's as good as the one I saw in Almaty.",
+            "ru": "Немного, но оно такое же хорошее, как то, что я видела в Алматы."
+          },
+          {
+            "sp": "Askar",
+            "en": "Sounds like a good choice.",
+            "ru": "Звучит как хороший выбор."
+          }
+        ]
+      },
+      "a2-l5": {
+        "title": "Travel Vocabulary & \"there is/are\"",
+        "pattern": "there is + singular / there are + plural",
+        "explanation": "\"There is/are\" introduces something's existence — \"There is a hotel near here\", \"There are many restaurants downtown.\" Russian often doesn't need an equivalent word here at all, which is why learners frequently drop \"there\" by mistake and just say \"is a hotel near here.\"",
+        "fact": "\"There is/are\" is another example of a dummy subject, like weather \"it\" — the real subject (\"a hotel\") sits after the verb instead of before it, a special word order English reserves specifically for introducing new information into a conversation.",
+        "dialogue": [
+          {
+            "sp": "Tourist",
+            "en": "Is there a good restaurant near the hotel?",
+            "ru": "Есть ли хороший ресторан рядом с отелем?"
+          },
+          {
+            "sp": "Local",
+            "en": "Yes, there are several. There's a great one just around the corner.",
+            "ru": "Да, их несколько. Прямо за углом отличный."
+          },
+          {
+            "sp": "Tourist",
+            "en": "Is there a train station nearby too?",
+            "ru": "А железнодорожный вокзал тоже рядом?"
+          },
+          {
+            "sp": "Local",
+            "en": "Yes, it's about ten minutes away.",
+            "ru": "Да, минут десять пешком."
+          }
+        ]
+      },
+      "a2-l6": {
+        "title": "Health & Body Vocabulary",
+        "pattern": "My [body part] hurts / I have a [symptom]",
+        "explanation": "English describes pain with \"hurt\" as an active verb (\"My head hurts\") or with \"have\" plus a noun (\"I have a headache\") — never a construction like \"me hurts head\". Both patterns are common; \"have + noun\" tends to sound slightly more formal or precise (used with doctors, for instance).",
+        "fact": "Many English illness names are compound words hiding old body-part vocabulary — \"headache\" is literally \"head\" + \"ache\", and \"heartburn\" isn't about the heart at all (it's the stomach/esophagus), a naming mistake from centuries ago that stuck permanently in the language.",
+        "dialogue": [
+          {
+            "sp": "Nurse",
+            "en": "What's wrong? Where does it hurt?",
+            "ru": "Что случилось? Где болит?"
+          },
+          {
+            "sp": "Patient",
+            "en": "My throat hurts, and I have a fever.",
+            "ru": "У меня болит горло, и температура."
+          },
+          {
+            "sp": "Nurse",
+            "en": "Do you have a headache too?",
+            "ru": "Голова тоже болит?"
+          },
+          {
+            "sp": "Patient",
+            "en": "Yes, a little.",
+            "ru": "Да, немного."
+          }
+        ]
+      },
+      "a2-l7": {
+        "title": "Shopping & Quantifiers",
+        "pattern": "How much / How many + noun",
+        "explanation": "\"How much\" asks about uncountable nouns and prices (\"How much does it cost?\", \"How much bread?\"), while \"How many\" asks about countable nouns you can number (\"How many apples?\"). Mixing these up is one of the most common mistakes among learners, but native speakers rarely misunderstand — context usually saves the sentence.",
+        "fact": "English shopping phrases like \"How much is it?\" evolved from older constructions asking literally \"how much [money] does it cost\", with the money word eventually dropped since it was always understood from context — a very common pattern in language, where frequently-repeated words disappear over time.",
+        "dialogue": [
+          {
+            "sp": "Customer",
+            "en": "How much does this jacket cost?",
+            "ru": "Сколько стоит эта куртка?"
+          },
+          {
+            "sp": "Seller",
+            "en": "It's fifteen thousand tenge. How many do you need?",
+            "ru": "Пятнадцать тысяч тенге. Сколько вам нужно?"
+          },
+          {
+            "sp": "Customer",
+            "en": "Just one, thanks. Do you have a smaller size?",
+            "ru": "Одну, спасибо. У вас есть размер поменьше?"
+          },
+          {
+            "sp": "Seller",
+            "en": "Yes, let me check in the back.",
+            "ru": "Да, сейчас проверю на складе."
+          }
+        ]
+      },
+      "a2-l8": {
+        "title": "Work & Present Continuous",
+        "pattern": "am/is/are + verb-ing (happening now / temporary)",
+        "explanation": "Present Continuous describes actions happening right now or temporary situations (\"I am working on a new project this month\"), as opposed to Present Simple, which describes permanent facts and habits (\"I work in finance\"). Confusing the two is a very common learner mistake, since Russian doesn't grammatically separate these the same way.",
+        "fact": "A small group of English verbs (know, believe, want, love, own...) almost never take the -ing form, even when describing something happening \"now\" — these are called \"stative verbs\", and saying \"I am knowing the answer\" sounds distinctly wrong to native ears, even to those who can't explain why.",
+        "dialogue": [
+          {
+            "sp": "Colleague",
+            "en": "What are you working on these days?",
+            "ru": "Над чем ты сейчас работаешь?"
+          },
+          {
+            "sp": "Aigerim",
+            "en": "I'm preparing a big presentation for next week.",
+            "ru": "Я готовлю большую презентацию к следующей неделе."
+          },
+          {
+            "sp": "Colleague",
+            "en": "Are you finishing it on time?",
+            "ru": "Успеваешь закончить вовремя?"
+          },
+          {
+            "sp": "Aigerim",
+            "en": "I think so, yes. It's going well.",
+            "ru": "Думаю, да. Всё идёт хорошо."
+          }
+        ]
+      },
+      "a2-l9": {
+        "title": "Hobbies & Frequency Adverbs",
+        "pattern": "always / usually / often / sometimes / rarely / never",
+        "explanation": "Frequency adverbs describe how often something happens and go in a specific place: before the main verb (\"I always play tennis\") but after \"to be\" (\"I am always tired\"). Getting this word order right is one of the small details that makes English sound natural instead of translated.",
+        "fact": "These adverbs form a precise scale that native speakers rank almost identically: always (100%) > usually > often > sometimes > occasionally > rarely > never (0%) — and mixing up \"often\" and \"usually\" is one of the subtlest mistakes even advanced learners make, since the words overlap heavily in casual use.",
+        "dialogue": [
+          {
+            "sp": "Sabina",
+            "en": "Do you often go hiking?",
+            "ru": "Ты часто ходишь в походы?"
+          },
+          {
+            "sp": "Nurlan",
+            "en": "I usually go once a month. I never go alone, though.",
+            "ru": "Обычно раз в месяц. Правда, никогда не хожу один."
+          },
+          {
+            "sp": "Sabina",
+            "en": "That sounds fun. I sometimes go too.",
+            "ru": "Звучит здорово. Я тоже иногда хожу."
+          },
+          {
+            "sp": "Nurlan",
+            "en": "You should come with us next time!",
+            "ru": "Пойдём с нами в следующий раз!"
+          }
+        ]
+      },
+      "a2-l10": {
+        "title": "Describing People",
+        "pattern": "has/have + [feature]; is + [adjective]",
+        "explanation": "English separates physical features (using \"have\": \"she has brown hair\") from personality/appearance adjectives (using \"be\": \"she is tall\", \"he is friendly\"). Mixing these — saying \"she is brown hair\" — is a very common but easily-fixed learner mistake.",
+        "fact": "Describing hair and eye color with \"have\" rather than \"be\" (\"I have blue eyes\", not \"I am blue-eyed\" in casual speech) reflects a deeper pattern: English treats physical attributes as things you \"possess\" rather than qualities you \"are\", the opposite of how many other languages, including Russian, frame the same idea.",
+        "dialogue": [
+          {
+            "sp": "Police officer",
+            "en": "Can you describe him?",
+            "ru": "Можете его описать?"
+          },
+          {
+            "sp": "Witness",
+            "en": "He's tall, with short brown hair. He has a beard.",
+            "ru": "Он высокий, с короткими каштановыми волосами. У него борода."
+          },
+          {
+            "sp": "Police officer",
+            "en": "Is he wearing glasses?",
+            "ru": "Он в очках?"
+          },
+          {
+            "sp": "Witness",
+            "en": "Yes, and he's wearing a blue jacket.",
+            "ru": "Да, и на нём синяя куртка."
+          }
+        ]
+      },
+      "a2-l11": {
+        "title": "Phone Calls & Polite Requests",
+        "pattern": "Could you... ? / Would you mind... ? / Can I speak to...?",
+        "explanation": "Phone English relies on set polite formulas that are more formal than everyday speech: \"Could I speak to...\", \"Can you hold on, please?\", \"Could you repeat that?\" \"Could\" and \"would\" soften a request compared to \"can\" and \"will\", making it sound more courteous — useful in any formal request, not just phone calls.",
+        "fact": "Using the PAST tense forms \"could\" and \"would\" to sound MORE polite (not to talk about the past) is a pattern called the \"politeness distancing\" effect — grammatically distancing a request from the present moment psychologically distances it from being a direct demand, softening it in the listener's mind.",
+        "dialogue": [
+          {
+            "sp": "Caller",
+            "en": "Hello, could I speak to Mr. Aliyev, please?",
+            "ru": "Здравствуйте, могу я поговорить с господином Алиевым?"
+          },
+          {
+            "sp": "Receptionist",
+            "en": "One moment, please. Could you tell me your name?",
+            "ru": "Одну минуту. Не могли бы вы представиться?"
+          },
+          {
+            "sp": "Caller",
+            "en": "Yes, this is Timur calling about the meeting.",
+            "ru": "Да, это Тимур, звоню по поводу встречи."
+          },
+          {
+            "sp": "Receptionist",
+            "en": "Thank you, please hold on.",
+            "ru": "Спасибо, оставайтесь на линии."
+          }
+        ]
+      },
+      "a2-l12": {
+        "title": "Giving Opinions",
+        "pattern": "I think... / In my opinion... / I don't think...",
+        "explanation": "English softens negative opinions in a distinctive way: instead of \"I think it's not good\", native speakers usually say \"I don't think it's good\" — moving the negative to the main verb. This pattern, called \"negative raising\", sounds more natural even though logically both sentences mean the same thing.",
+        "fact": "\"Negative raising\" happens with a specific small set of verbs (think, believe, suppose, want) but NOT with others (hope, know) — \"I don't think it will rain\" is natural, but \"I don't hope it will rain\" sounds odd; native speakers absorb this list unconsciously through exposure, without ever being taught a rule.",
+        "dialogue": [
+          {
+            "sp": "Bota",
+            "en": "What do you think of the new plan?",
+            "ru": "Что ты думаешь о новом плане?"
+          },
+          {
+            "sp": "Erlan",
+            "en": "In my opinion, it's a good start, but I don't think it's finished yet.",
+            "ru": "На мой взгляд, это хорошее начало, но, думаю, план ещё не готов."
+          },
+          {
+            "sp": "Bota",
+            "en": "I agree. What would you change?",
+            "ru": "Согласна. Что бы ты изменил?"
+          },
+          {
+            "sp": "Erlan",
+            "en": "I think we need more details about the budget.",
+            "ru": "Думаю, нужно больше деталей о бюджете."
+          }
+        ]
+      }
+    }
   }
 }

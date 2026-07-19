@@ -35,6 +35,7 @@
   const menuToggleBtnEl = document.getElementById("menuToggleBtn");
   const mobileMenuPanelEl = document.getElementById("mobileMenuPanel");
   const hoardModal = document.getElementById("hoardModal");
+  const dialogueModal = document.getElementById("dialogueModal");
 
   let course = null;
   let flatLessons = [];
@@ -546,6 +547,46 @@
     });
   }
 
+  // ---------- grammar notes ----------
+  function grammarPanel() {
+    const lesson = currentExercise()._sourceLesson || session.lesson;
+    const topic = lesson.topicId && course.grammarTopics && course.grammarTopics[lesson.topicId];
+    if (!topic) return "";
+    return `
+      <details class="grammar-panel">
+        <summary>Грамматика</summary>
+        <h4>${topic.title}</h4>
+        <p class="grammar-pattern">${topic.pattern}</p>
+        <p class="grammar-explanation">${topic.explanation}</p>
+        <div class="fact-box">
+          <span class="fact-label">Знаете ли вы?</span>
+          <p>${topic.fact}</p>
+        </div>
+        <button class="btn-ghost btn-small" id="dialogueBtn" type="button">Пример диалога</button>
+      </details>
+    `;
+  }
+
+  function wireGrammarPanel() {
+    const btn = document.getElementById("dialogueBtn");
+    if (!btn) return;
+    const lesson = currentExercise()._sourceLesson || session.lesson;
+    const topic = course.grammarTopics[lesson.topicId];
+    btn.addEventListener("click", () => showDialogue(topic));
+  }
+
+  function showDialogue(topic) {
+    document.getElementById("dialogueTitle").textContent = topic.title;
+    document.getElementById("dialogueList").innerHTML = topic.dialogue.map(turn => `
+      <div class="dialogue-turn">
+        <span class="dialogue-speaker">${turn.sp}</span>
+        <p class="dialogue-en">${turn.en}</p>
+        <p class="dialogue-ru">${turn.ru}</p>
+      </div>
+    `).join("");
+    dialogueModal.classList.remove("hidden");
+  }
+
   function renderMultipleChoice(ex) {
     const siblingTexts = (ex._sourceLesson.exercises || [])
       .filter(e => !(e.ru === ex.ru && e.en === ex.en))
@@ -557,6 +598,7 @@
     const answerIndex = options.indexOf(ex.en);
 
     renderLessonChrome(`
+      ${grammarPanel()}
       <div class="card">
         <div class="prompt-kicker"><span>Выбери перевод</span></div>
         <div class="prompt-native">${ex.ru}</div>
@@ -565,6 +607,7 @@
         </div>
       </div>
     `);
+    wireGrammarPanel();
 
     let answered = false;
     document.querySelectorAll("#options .option").forEach(btn => {
@@ -590,6 +633,7 @@
     let placed = [];
 
     renderLessonChrome(`
+      ${grammarPanel()}
       <div class="card">
         <div class="prompt-kicker"><span>Собери перевод</span></div>
         <div class="prompt-native">${ex.ru}</div>
@@ -597,6 +641,7 @@
         <div class="bank-pool" id="bankPool"></div>
       </div>
     `);
+    wireGrammarPanel();
 
     const targetEl = document.getElementById("bankTarget");
     const poolEl = document.getElementById("bankPool");
@@ -1119,14 +1164,13 @@
     progress.placementDone = true;
     saveProgress();
     const placedLevel = course.levels[placedIdx];
-    const hasContent = flatLessons.some(l => l.levelId === placedLevelId);
 
     screenEl.innerHTML = `
       <div class="placement-result">
         <h2>Результат теста</h2>
         <p>Ваш стартовый уровень:</p>
         <div class="level-pill">${placedLevel.badge} · ${placedLevel.label}</div>
-        <p>${hasContent ? "Соответствующие уроки уже разблокированы ниже." : "Уроки этого уровня скоро появятся — а пока доступен весь материал уровня A1 и выше, до момента их готовности."}</p>
+        <p>Соответствующие уроки уже разблокированы ниже.</p>
         <div class="placement-actions">
           <button class="primary-btn" id="placementDoneBtn">К урокам</button>
         </div>
@@ -1228,6 +1272,13 @@
     });
     hoardModal.addEventListener("click", e => {
       if (e.target === hoardModal) hoardModal.classList.add("hidden");
+    });
+
+    document.getElementById("dialogueClose").addEventListener("click", () => {
+      dialogueModal.classList.add("hidden");
+    });
+    dialogueModal.addEventListener("click", e => {
+      if (e.target === dialogueModal) dialogueModal.classList.add("hidden");
     });
 
     function closeMobileMenu() {
