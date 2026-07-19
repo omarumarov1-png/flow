@@ -3304,7 +3304,662 @@
         "cefr": "B1+",
         "badge": "B1+",
         "label": "Свободнее и увереннее",
-        "lessons": []
+        "lessons": [
+          {
+            "id": "b1plus-l1",
+            "number": 31,
+            "title": "Phrasal Verbs",
+            "titleNative": "Фразовые глаголы",
+            "description": "Everyday two-word verbs native speakers actually use",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Не могла бы ты выключить свет, когда уходишь?",
+                "en": "Could you turn off the light when you leave?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я наконец разобрался с этой проблемой вчера вечером.",
+                "en": "I finally figured out this problem last night."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не сдавайся так легко, у тебя всё получится.",
+                "en": "Don't give up so easily, you'll manage."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она отказалась от предложения без объяснений.",
+                "en": "She turned down the offer without explanation."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы можем перенести встречу на пятницу?",
+                "en": "Can we put off the meeting until Friday?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он вырос в маленьком городке на юге.",
+                "en": "He grew up in a small town in the south."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пожалуйста, заполни эту форму перед собеседованием.",
+                "en": "Please fill out this form before the interview."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужно разобраться с этим беспорядком до вечера.",
+                "en": "I need to clean up this mess before evening."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компания уволила треть сотрудников в прошлом году.",
+                "en": "The company laid off a third of its staff last year."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Давай встретимся у входа в десять.",
+                "en": "Let's meet up at the entrance at ten."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она отлично справляется с трудными клиентами.",
+                "en": "She deals with difficult clients really well."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он совсем сдался и перестал искать работу.",
+                "en": "He completely gave up and stopped looking for a job."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы должны придумать новый план как можно скорее.",
+                "en": "We need to come up with a new plan as soon as possible."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не забудь выключить компьютер перед уходом.",
+                "en": "Don't forget to shut down the computer before leaving."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я случайно наткнулся на старую фотографию сегодня.",
+                "en": "I came across an old photo today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дети быстро подрастают, ты и не заметишь.",
+                "en": "Kids grow up fast, you won't even notice."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он извинился и постарался всё исправить.",
+                "en": "He apologized and tried to make up for it."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я откладываю деньги на новую машину.",
+                "en": "I'm putting aside money for a new car."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она рассталась со своим парнем месяц назад.",
+                "en": "She broke up with her boyfriend a month ago."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Давай разберёмся с этим сейчас, а не позже.",
+                "en": "Let's sort this out now, not later."
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l2",
+            "number": 32,
+            "title": "Sharing Opinions",
+            "titleNative": "Выражение мнения",
+            "description": "Agreeing, disagreeing, and softening a strong opinion",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "На мой взгляд, эта идея не сработает.",
+                "en": "In my opinion, this idea won't work."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я вполне согласен с тем, что ты сказал.",
+                "en": "I completely agree with what you said."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Боюсь, я не могу с этим согласиться.",
+                "en": "I'm afraid I can't agree with that."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне кажется, мы упускаем что-то важное.",
+                "en": "It seems to me we're missing something important."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Честно говоря, я никогда не любил этот фильм.",
+                "en": "To be honest, I've never liked this movie."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "С одной стороны, это удобно, но с другой — дорого.",
+                "en": "On the one hand, it's convenient, but on the other, it's expensive."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я не уверен, что это лучшее решение.",
+                "en": "I'm not sure this is the best solution."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Насколько я понимаю, встреча перенесена.",
+                "en": "As far as I understand, the meeting has been rescheduled."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты вправе не соглашаться, но я думаю иначе.",
+                "en": "You're entitled to disagree, but I think differently."
+              },
+              {
+                "type": "type-answer",
+                "ru": "По-моему, эта книга сильно переоценена.",
+                "en": "In my view, this book is seriously overrated."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я полностью поддерживаю эту точку зрения.",
+                "en": "I fully support this point of view."
+              },
+              {
+                "type": "word-bank",
+                "ru": "При всём уважении, я думаю, ты ошибаешься.",
+                "en": "With all due respect, I think you're wrong."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кажется, никто не разделяет мою точку зрения.",
+                "en": "It seems nobody shares my point of view."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я не совсем уверен в этом, если честно.",
+                "en": "I'm not entirely sure about that, to be honest."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Некоторые люди со мной не согласятся, но так тому и быть.",
+                "en": "Some people will disagree with me, but so be it."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Позволь мне не согласиться с этим утверждением.",
+                "en": "Let me disagree with that statement."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хорошая мысль, но я вижу это иначе.",
+                "en": "Good point, but I see it differently."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она редко высказывает своё мнение на собраниях.",
+                "en": "She rarely voices her opinion at meetings."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ты действительно так считаешь, или просто дразнишь меня?",
+                "en": "Do you really think that, or are you just teasing me?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Давай сойдёмся на том, что мы не согласны.",
+                "en": "Let's agree to disagree."
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l3",
+            "number": 33,
+            "title": "Third Conditional",
+            "titleNative": "Третье условное (нереальное прошлое)",
+            "description": "Regrets and hypothetical past outcomes",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я знал об этом раньше, я бы пришёл.",
+                "en": "If I had known about it earlier, I would have come."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она бы сдала экзамен, если бы больше готовилась.",
+                "en": "She would have passed the exam if she had studied more."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы бы не опоздали, если бы вышли раньше.",
+                "en": "We wouldn't have been late if we had left earlier."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что бы ты сделал, если бы потерял паспорт в аэропорту?",
+                "en": "What would you have done if you had lost your passport at the airport?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы он позвонил, я бы забрал его с вокзала.",
+                "en": "If he had called, I would have picked him up from the station."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы не поверил, если бы не увидел это своими глазами.",
+                "en": "I wouldn't have believed it if I hadn't seen it with my own eyes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы у них было больше денег, они бы купили дом раньше.",
+                "en": "If they had had more money, they would have bought a house sooner."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она бы не расстроилась, если бы ты извинился сразу.",
+                "en": "She wouldn't have been upset if you had apologized right away."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы мы не пропустили автобус, мы бы уже были дома.",
+                "en": "If we hadn't missed the bus, we would already be home."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я бы принял другое решение на твоём месте.",
+                "en": "I would have made a different decision in your place."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я был на твоём месте, я бы не рискнул.",
+                "en": "If I had been in your place, I wouldn't have taken the risk."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компания бы не потеряла клиентов, если бы отреагировала быстрее.",
+                "en": "The company wouldn't have lost clients if it had reacted faster."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы врач заметил это раньше, лечение было бы проще.",
+                "en": "If the doctor had noticed it earlier, the treatment would have been simpler."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы бы никогда не встретились, если бы не тот случайный дождь.",
+                "en": "We would never have met if it hadn't been for that random rainstorm."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы она приняла ту работу, её жизнь сложилась бы иначе.",
+                "en": "If she had taken that job, her life would have turned out differently."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы предупредил тебя, если бы знал, что так получится.",
+                "en": "I would have warned you if I had known it would turn out this way."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы мы послушали его совет, мы бы избежали этой ошибки.",
+                "en": "If we had listened to his advice, we would have avoided this mistake."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что бы случилось, если бы он не успел на самолёт?",
+                "en": "What would have happened if he hadn't made it to the plane?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я не забыл ключи, мне не пришлось бы ждать на улице.",
+                "en": "If I hadn't forgotten my keys, I wouldn't have had to wait outside."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она бы согласилась, если бы условия были немного лучше.",
+                "en": "She would have agreed if the terms had been a little better."
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l4",
+            "number": 34,
+            "title": "Reported Questions",
+            "titleNative": "Косвенные вопросы",
+            "description": "Asking and reporting questions politely and indirectly",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Он спросил, где находится ближайшая аптека.",
+                "en": "He asked where the nearest pharmacy was."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не могли бы вы подсказать, сколько это стоит?",
+                "en": "Could you tell me how much this costs?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она спросила меня, знаю ли я его номер телефона.",
+                "en": "She asked me if I knew his phone number."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Интересно, во сколько открывается музей.",
+                "en": "I wonder what time the museum opens."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Учитель спросил, сделали ли мы домашнее задание.",
+                "en": "The teacher asked whether we had done our homework."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты не знаешь, почему поезд задерживается?",
+                "en": "Do you know why the train is delayed?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он поинтересовался, откуда я приехал.",
+                "en": "He asked where I came from."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она хотела знать, буду ли я на вечеринке.",
+                "en": "She wanted to know if I would be at the party."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не подскажете, как пройти до вокзала отсюда?",
+                "en": "Could you tell me how to get to the station from here?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Менеджер спросил, почему отчёт ещё не готов.",
+                "en": "The manager asked why the report wasn't ready yet."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне интересно, что она думает об этом плане.",
+                "en": "I wonder what she thinks about this plan."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он спросил, могу ли я помочь ему с переездом.",
+                "en": "He asked if I could help him with the move."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не могли бы вы объяснить, как это работает?",
+                "en": "Could you explain how this works?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Полицейский спросил, куда мы направляемся.",
+                "en": "The police officer asked where we were heading."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она спросила, есть ли у меня какие-то вопросы.",
+                "en": "She asked if I had any questions."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Интересно, сколько людей придёт на встречу.",
+                "en": "I wonder how many people will come to the meeting."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он спросил меня, когда я планирую вернуться.",
+                "en": "He asked me when I was planning to come back."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не знаете, есть ли здесь поблизости хороший ресторан?",
+                "en": "Do you know if there's a good restaurant nearby?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она спросила, почему я не ответил на её сообщение.",
+                "en": "She asked why I hadn't replied to her message."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне бы хотелось узнать, что вы думаете по этому поводу.",
+                "en": "I'd like to know what you think about this."
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l5",
+            "number": 35,
+            "title": "Modals of Deduction",
+            "titleNative": "Модальные глаголы предположения",
+            "description": "Guessing what must, might, or can't be true",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Свет включен, значит, она должна быть дома.",
+                "en": "The light is on, so she must be home."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он не отвечает на звонки, наверное, он занят.",
+                "en": "He's not answering calls, he must be busy."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дверь заперта, значит, они, должно быть, уже ушли.",
+                "en": "The door is locked, so they must have already left."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возможно, он просто забыл о встрече.",
+                "en": "He might have just forgotten about the meeting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это не может быть правдой, слишком уж неправдоподобно.",
+                "en": "This can't be true, it's too unbelievable."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она, наверное, устала после такого долгого перелёта.",
+                "en": "She must be tired after such a long flight."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Может быть, они застряли в пробке.",
+                "en": "They might be stuck in traffic."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он не мог этого сказать, это на него не похоже.",
+                "en": "He can't have said that, it's not like him."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возможно, она уже знает эту новость.",
+                "en": "She might already know the news."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Судя по акценту, он, должно быть, из Шотландии.",
+                "en": "Judging by the accent, he must be from Scotland."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не может быть, чтобы они забыли про наш день рождения.",
+                "en": "They can't have forgotten about our birthday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он выглядит расстроенным, наверное, что-то случилось.",
+                "en": "He looks upset, something must have happened."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Возможно, письмо просто затерялось на почте.",
+                "en": "The letter might have simply got lost in the mail."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она, должно быть, потратила на это несколько часов.",
+                "en": "She must have spent hours on this."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не может быть, чтобы он всё это сделал сам.",
+                "en": "He can't have done all this by himself."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Может быть, они решили остаться дома из-за дождя.",
+                "en": "They might have decided to stay home because of the rain."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Судя по тишине, собрание, должно быть, уже закончилось.",
+                "en": "Judging by the silence, the meeting must have already ended."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он, наверное, не получил моё сообщение.",
+                "en": "He probably didn't get my message."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возможно, она просто стеснялась спросить.",
+                "en": "She might have simply been too shy to ask."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не может быть, чтобы цена была настолько низкой.",
+                "en": "The price can't be that low."
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l6",
+            "number": 36,
+            "title": "Comparisons & Contrasts",
+            "titleNative": "Сравнения и противопоставления",
+            "description": "Weighing options and highlighting differences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Этот вариант гораздо практичнее, чем предыдущий.",
+                "en": "This option is far more practical than the previous one."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Чем больше он объяснял, тем меньше я понимал.",
+                "en": "The more he explained, the less I understood."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Жизнь в деревне намного спокойнее, чем в большом городе.",
+                "en": "Life in the countryside is much calmer than in a big city."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В отличие от своего брата, она очень организованная.",
+                "en": "Unlike her brother, she is very organized."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Этот метод работает так же хорошо, как и старый.",
+                "en": "This method works just as well as the old one."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Чем раньше мы начнём, тем быстрее закончим.",
+                "en": "The sooner we start, the faster we'll finish."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она гораздо терпеливее, чем я в подобных ситуациях.",
+                "en": "She is far more patient than I am in situations like this."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В то время как одни любят перемены, другие их боятся.",
+                "en": "While some people love change, others are afraid of it."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это решение не такое дорогое, как кажется на первый взгляд.",
+                "en": "This solution isn't as expensive as it seems at first glance."
+              },
+              {
+                "type": "type-answer",
+                "ru": "По сравнению с прошлым годом, продажи выросли вдвое.",
+                "en": "Compared to last year, sales have doubled."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он куда более уверен в себе, чем раньше.",
+                "en": "He's a lot more confident than he used to be."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В отличие от большинства коллег, она никогда не опаздывает.",
+                "en": "Unlike most of her colleagues, she is never late."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта версия приложения работает быстрее предыдущей.",
+                "en": "This version of the app works faster than the previous one."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Чем дольше я живу здесь, тем больше мне нравится этот город.",
+                "en": "The longer I live here, the more I like this city."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он предпочитает читать книгу, а не смотреть экранизацию.",
+                "en": "He prefers reading the book rather than watching the film adaptation."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта модель не такая надёжная, как более дорогая версия.",
+                "en": "This model isn't as reliable as the more expensive version."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В противоположность своим словам, он действовал совсем иначе.",
+                "en": "Contrary to what he said, he acted quite differently."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Оба варианта хороши, но этот немного дешевле.",
+                "en": "Both options are good, but this one is a bit cheaper."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По сравнению с другими кандидатами, у неё гораздо больше опыта.",
+                "en": "Compared to the other candidates, she has far more experience."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Чем сложнее задача, тем интереснее мне её решать.",
+                "en": "The harder the task, the more interesting it is for me to solve."
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "b2",
