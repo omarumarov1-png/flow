@@ -6922,8 +6922,83 @@
             ]
           },
           {
-            "id": "b2plus-l2-p2",
+            "id": "b2plus-reading-1",
             "number": 111,
+            "title": "Learning to Say No",
+            "titleNative": "Учимся говорить нет",
+            "description": "Рассказ с элементами смягчённой речи и фразовых глаголов.",
+            "readingPassage": {
+              "context": "Рассказ с элементами смягчённой речи и фразовых глаголов.",
+              "paragraphs": [
+                {
+                  "en": "For years, I found it hard to turn down requests from colleagues.",
+                  "ru": "Годами мне было трудно отказывать коллегам в просьбах."
+                },
+                {
+                  "en": "I would take on extra work even when I was already overwhelmed.",
+                  "ru": "Я брался за дополнительную работу, даже когда уже был перегружен."
+                },
+                {
+                  "en": "Eventually, I realized this habit was wearing me down.",
+                  "ru": "В итоге я понял, что эта привычка изматывает меня."
+                },
+                {
+                  "en": "I started practicing polite but firm ways to decline.",
+                  "ru": "Я начал практиковать вежливые, но твёрдые способы отказа."
+                },
+                {
+                  "en": "Instead of apologizing endlessly, I simply explained my limits.",
+                  "ru": "Вместо бесконечных извинений я просто объяснял свои границы."
+                },
+                {
+                  "en": "To my surprise, most people respected my honesty.",
+                  "ru": "К моему удивлению, большинство людей уважали мою честность."
+                },
+                {
+                  "en": "Learning to say no, it turns out, made me more reliable, not less.",
+                  "ru": "Оказалось, что умение говорить нет сделало меня более надёжным, а не менее."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что было трудно автору годами?",
+                "options": [
+                  "Просить о помощи",
+                  "Отказывать коллегам",
+                  "Заводить друзей",
+                  "Учить языки"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что понял автор в итоге?",
+                "options": [
+                  "Что нужно работать больше",
+                  "Что привычка его изматывает",
+                  "Что коллеги неправы",
+                  "Что нужно сменить работу"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как отреагировали люди на честность автора?",
+                "options": [
+                  "С обидой",
+                  "С уважением",
+                  "С безразличием",
+                  "С раздражением"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2plus-l2-p2",
+            "number": 112,
             "title": "Idiomatic Collocations (Part 2)",
             "titleNative": "Идиоматические сочетания · Часть 2",
             "description": "Word pairings that make you sound like a native speaker",
@@ -6982,7 +7057,7 @@
           },
           {
             "id": "b2plus-l3-p1",
-            "number": 112,
+            "number": 113,
             "title": "Narrative Tense Mixing (Part 1)",
             "titleNative": "Смешение времён в повествовании · Часть 1",
             "description": "Weaving past, past perfect, and past continuous naturally",
@@ -7041,7 +7116,7 @@
           },
           {
             "id": "b2plus-l3-p2",
-            "number": 113,
+            "number": 114,
             "title": "Narrative Tense Mixing (Part 2)",
             "titleNative": "Смешение времён в повествовании · Часть 2",
             "description": "Weaving past, past perfect, and past continuous naturally",
@@ -7099,8 +7174,83 @@
             ]
           },
           {
+            "id": "b2plus-reading-2",
+            "number": 115,
+            "title": "A Diplomatic Disagreement",
+            "titleNative": "Дипломатичное несогласие",
+            "description": "Диалог-рассказ с выражением мнения и уступительными конструкциями.",
+            "readingPassage": {
+              "context": "Диалог-рассказ с выражением мнения и уступительными конструкциями.",
+              "paragraphs": [
+                {
+                  "en": "During the meeting, my colleague proposed cutting the marketing budget.",
+                  "ru": "На встрече мой коллега предложил сократить маркетинговый бюджет."
+                },
+                {
+                  "en": "I don't want to sound dismissive, but I think that's a risky move.",
+                  "ru": "Не хочу показаться пренебрежительным, но, по-моему, это рискованный шаг."
+                },
+                {
+                  "en": "Although his reasoning made sense on paper, it ignored recent trends.",
+                  "ru": "Хотя его аргументы звучали разумно на бумаге, они игнорировали недавние тенденции."
+                },
+                {
+                  "en": "I suggested we look at the data before making a final decision.",
+                  "ru": "Я предложил изучить данные, прежде чем принимать окончательное решение."
+                },
+                {
+                  "en": "To my relief, the team agreed to postpone the vote for a week.",
+                  "ru": "К моему облегчению, команда согласилась отложить голосование на неделю."
+                },
+                {
+                  "en": "In the end, we found a compromise that satisfied everyone.",
+                  "ru": "В итоге мы нашли компромисс, который устроил всех."
+                },
+                {
+                  "en": "Disagreeing respectfully, I learned, is far more effective than avoiding conflict.",
+                  "ru": "Я понял, что уважительное несогласие гораздо эффективнее, чем избегание конфликта."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что предложил коллега?",
+                "options": [
+                  "Увеличить бюджет",
+                  "Сократить маркетинговый бюджет",
+                  "Уволить сотрудников",
+                  "Сменить стратегию"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что проигнорировали аргументы коллеги?",
+                "options": [
+                  "Мнение команды",
+                  "Недавние тенденции",
+                  "Бюджет прошлого года",
+                  "Мнение клиентов"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончилась встреча?",
+                "options": [
+                  "Ссорой",
+                  "Компромиссом",
+                  "Увольнением",
+                  "Ничем не закончилась"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2plus-l4-p1",
-            "number": 114,
+            "number": 116,
             "title": "Formal Register (Part 1)",
             "titleNative": "Официальный регистр речи · Часть 1",
             "description": "Sounding polished in emails, meetings, and presentations",
@@ -7159,7 +7309,7 @@
           },
           {
             "id": "b2plus-l4-p2",
-            "number": 115,
+            "number": 117,
             "title": "Formal Register (Part 2)",
             "titleNative": "Официальный регистр речи · Часть 2",
             "description": "Sounding polished in emails, meetings, and presentations",
@@ -7218,7 +7368,7 @@
           },
           {
             "id": "b2plus-l5-p1",
-            "number": 116,
+            "number": 118,
             "title": "Attitude & Emotion (Part 1)",
             "titleNative": "Отношение и эмоции · Часть 1",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
@@ -7276,8 +7426,83 @@
             ]
           },
           {
+            "id": "b2plus-reading-3",
+            "number": 119,
+            "title": "The Weight of Small Talk",
+            "titleNative": "Вес светской беседы",
+            "description": "Итоговый рассказ уровня B2+ — эмоции и отношение, идиоматические сочетания.",
+            "readingPassage": {
+              "context": "Итоговый рассказ уровня B2+ — эмоции и отношение, идиоматические сочетания.",
+              "paragraphs": [
+                {
+                  "en": "I used to dread small talk at networking events.",
+                  "ru": "Раньше я боялся светской беседы на нетворкинг-мероприятиях."
+                },
+                {
+                  "en": "It felt shallow, and I never knew what to say.",
+                  "ru": "Это казалось поверхностным, и я никогда не знал, что сказать."
+                },
+                {
+                  "en": "Over time, though, I started to see it differently.",
+                  "ru": "Со временем, однако, я начал видеть это иначе."
+                },
+                {
+                  "en": "Small talk, it turns out, is often the doorway to deeper conversation.",
+                  "ru": "Оказывается, светская беседа часто является дверью к более глубокому разговору."
+                },
+                {
+                  "en": "A simple question about someone's weekend can reveal a shared interest.",
+                  "ru": "Простой вопрос о чьих-то выходных может выявить общий интерес."
+                },
+                {
+                  "en": "I stopped treating it as a chore and started treating it as curiosity.",
+                  "ru": "Я перестал относиться к этому как к обязанности и начал относиться как к любопытству."
+                },
+                {
+                  "en": "Now, oddly enough, it's one of my favorite parts of meeting new people.",
+                  "ru": "Теперь, как ни странно, это одна из моих любимых частей знакомства с новыми людьми."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что раньше чувствовал автор насчёт светской беседы?",
+                "options": [
+                  "Интерес",
+                  "Страх/неловкость",
+                  "Радость",
+                  "Скуку"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем оказывается светская беседа, по мнению автора?",
+                "options": [
+                  "Пустой тратой времени",
+                  "Дверью к более глубокому разговору",
+                  "Обязанностью",
+                  "Испытанием"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как теперь автор относится к светской беседе?",
+                "options": [
+                  "С раздражением",
+                  "С любопытством",
+                  "С безразличием",
+                  "С тревогой"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2plus-l5-p2",
-            "number": 117,
+            "number": 120,
             "title": "Attitude & Emotion (Part 2)",
             "titleNative": "Отношение и эмоции · Часть 2",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
@@ -7336,7 +7561,7 @@
           },
           {
             "id": "b2plus-l6-p1",
-            "number": 118,
+            "number": 121,
             "title": "Nuanced Modality (Part 1)",
             "titleNative": "Тонкие оттенки модальности · Часть 1",
             "description": "Precise shades of possibility, obligation, and permission",
@@ -7395,7 +7620,7 @@
           },
           {
             "id": "b2plus-l6-p2",
-            "number": 119,
+            "number": 122,
             "title": "Nuanced Modality (Part 2)",
             "titleNative": "Тонкие оттенки модальности · Часть 2",
             "description": "Precise shades of possibility, obligation, and permission",
@@ -7462,7 +7687,7 @@
         "lessons": [
           {
             "id": "c1-l1-p1",
-            "number": 120,
+            "number": 123,
             "title": "Academic & Analytical Language (Part 1)",
             "titleNative": "Академический и аналитический язык · Часть 1",
             "description": "Sounding precise and objective in analysis and writing",
@@ -7521,7 +7746,7 @@
           },
           {
             "id": "c1-l1-p2",
-            "number": 121,
+            "number": 124,
             "title": "Academic & Analytical Language (Part 2)",
             "titleNative": "Академический и аналитический язык · Часть 2",
             "description": "Sounding precise and objective in analysis and writing",
@@ -7580,7 +7805,7 @@
           },
           {
             "id": "c1-l2-p1",
-            "number": 122,
+            "number": 125,
             "title": "Rhetorical Devices & Persuasion (Part 1)",
             "titleNative": "Риторические приёмы и убеждение · Часть 1",
             "description": "Rhetorical questions, contrast, and persuasive structure",
@@ -7638,8 +7863,79 @@
             ]
           },
           {
+            "id": "c1-reading-1",
+            "number": 126,
+            "title": "The Illusion of Certainty",
+            "titleNative": "Иллюзия определённости",
+            "description": "Аналитический текст — тренируем академическую лексику и хеджирование.",
+            "readingPassage": {
+              "context": "Аналитический текст — тренируем академическую лексику и хеджирование.",
+              "paragraphs": [
+                {
+                  "en": "Modern life often rewards those who project unwavering confidence.",
+                  "ru": "Современная жизнь часто вознаграждает тех, кто демонстрирует непоколебимую уверенность."
+                },
+                {
+                  "en": "Yet the most reliable experts are frequently the ones who admit uncertainty.",
+                  "ru": "Однако самые надёжные эксперты зачастую те, кто признаёт неопределённость."
+                },
+                {
+                  "en": "Certainty, it seems, is easier to sell than nuance.",
+                  "ru": "Определённость, судя по всему, легче продать, чем нюанс."
+                },
+                {
+                  "en": "This creates a strange incentive to sound more sure than the evidence allows.",
+                  "ru": "Это создаёт странный стимул звучать увереннее, чем позволяют доказательства."
+                },
+                {
+                  "en": "Genuine expertise, by contrast, often comes with carefully stated limits.",
+                  "ru": "Подлинная экспертиза, напротив, часто сопровождается тщательно обозначенными ограничениями."
+                },
+                {
+                  "en": "Recognizing this distinction may be one of the most valuable skills of our time.",
+                  "ru": "Умение распознавать это различие, возможно, один из самых ценных навыков нашего времени."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что часто вознаграждает современная жизнь?",
+                "options": [
+                  "Скромность",
+                  "Непоколебимую уверенность",
+                  "Молчание",
+                  "Осторожность"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что отличает подлинную экспертизу?",
+                "options": [
+                  "Отсутствие сомнений",
+                  "Тщательно обозначенные ограничения",
+                  "Громкие заявления",
+                  "Быстрые ответы"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что легче продать, по мнению автора?",
+                "options": [
+                  "Нюанс",
+                  "Определённость",
+                  "Правду",
+                  "Сложность"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "c1-l2-p2",
-            "number": 123,
+            "number": 127,
             "title": "Rhetorical Devices & Persuasion (Part 2)",
             "titleNative": "Риторические приёмы и убеждение · Часть 2",
             "description": "Rhetorical questions, contrast, and persuasive structure",
@@ -7698,7 +7994,7 @@
           },
           {
             "id": "c1-l3-p1",
-            "number": 124,
+            "number": 128,
             "title": "Subtle Contrast & Concession (Part 1)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 1",
             "description": "Although, whereas, despite — precise shades of contrast",
@@ -7757,7 +8053,7 @@
           },
           {
             "id": "c1-l3-p2",
-            "number": 125,
+            "number": 129,
             "title": "Subtle Contrast & Concession (Part 2)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 2",
             "description": "Although, whereas, despite — precise shades of contrast",
@@ -7815,8 +8111,79 @@
             ]
           },
           {
+            "id": "c1-reading-2",
+            "number": 130,
+            "title": "Negotiating Without Losing Ground",
+            "titleNative": "Переговоры без потери позиций",
+            "description": "Текст о переговорах — тренируем дипломатичную лексику.",
+            "readingPassage": {
+              "context": "Текст о переговорах — тренируем дипломатичную лексику.",
+              "paragraphs": [
+                {
+                  "en": "Effective negotiation rarely means getting everything you want.",
+                  "ru": "Эффективные переговоры редко означают получение всего, чего вы хотите."
+                },
+                {
+                  "en": "More often, it means understanding what the other side truly values.",
+                  "ru": "Чаще это означает понимание того, что действительно ценит другая сторона."
+                },
+                {
+                  "en": "We would appreciate the chance to clarify our position before proceeding.",
+                  "ru": "Мы были бы признательны за возможность прояснить нашу позицию, прежде чем двигаться дальше."
+                },
+                {
+                  "en": "A skilled negotiator concedes small points to protect larger ones.",
+                  "ru": "Опытный переговорщик уступает в мелочах, чтобы защитить более важное."
+                },
+                {
+                  "en": "Silence, used deliberately, can be more persuasive than argument.",
+                  "ru": "Молчание, используемое намеренно, может быть убедительнее аргумента."
+                },
+                {
+                  "en": "In the end, the best deals leave both sides feeling respected, not just satisfied.",
+                  "ru": "В конечном счёте, лучшие сделки оставляют обе стороны с чувством уважения, а не просто удовлетворения."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что редко означает эффективные переговоры?",
+                "options": [
+                  "Получение всего желаемого",
+                  "Понимание другой стороны",
+                  "Быстрое завершение",
+                  "Компромисс"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Зачем опытный переговорщик уступает в мелочах?",
+                "options": [
+                  "Чтобы показаться слабым",
+                  "Чтобы защитить более важное",
+                  "Чтобы завершить быстрее",
+                  "Случайно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что оставляют лучшие сделки?",
+                "options": [
+                  "Только удовлетворение",
+                  "Чувство уважения у обеих сторон",
+                  "Разочарование",
+                  "Ничего особенного"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "c1-l4-p1",
-            "number": 126,
+            "number": 131,
             "title": "Professional Negotiation Language (Part 1)",
             "titleNative": "Дипломатичный язык переговоров · Часть 1",
             "description": "Diplomatic phrasing for business and negotiation",
@@ -7875,7 +8242,7 @@
           },
           {
             "id": "c1-l4-p2",
-            "number": 127,
+            "number": 132,
             "title": "Professional Negotiation Language (Part 2)",
             "titleNative": "Дипломатичный язык переговоров · Часть 2",
             "description": "Diplomatic phrasing for business and negotiation",
@@ -7934,7 +8301,7 @@
           },
           {
             "id": "c1-l5-p1",
-            "number": 128,
+            "number": 133,
             "title": "Abstract & Philosophical Discussion (Part 1)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 1",
             "description": "Discussing ideas, values, and abstract concepts",
@@ -7992,8 +8359,79 @@
             ]
           },
           {
+            "id": "c1-reading-3",
+            "number": 134,
+            "title": "What We Owe the Past",
+            "titleNative": "Что мы должны прошлому",
+            "description": "Итоговый философский текст уровня C1 — абстрактная лексика и продвинутые связки.",
+            "readingPassage": {
+              "context": "Итоговый философский текст уровня C1 — абстрактная лексика и продвинутые связки.",
+              "paragraphs": [
+                {
+                  "en": "Every generation inherits ideas it did not choose.",
+                  "ru": "Каждое поколение наследует идеи, которые оно не выбирало."
+                },
+                {
+                  "en": "Some of these ideas deserve to be questioned; others, quietly preserved.",
+                  "ru": "Некоторые из этих идей заслуживают того, чтобы их подвергли сомнению; другие — тихо сохранили."
+                },
+                {
+                  "en": "The difficulty lies in telling the two apart without the benefit of hindsight.",
+                  "ru": "Сложность в том, чтобы отличить одно от другого без выгоды ретроспективного взгляда."
+                },
+                {
+                  "en": "Tradition, at its best, is not blind repetition but tested wisdom.",
+                  "ru": "Традиция, в лучшем своём проявлении, — это не слепое повторение, а проверенная временем мудрость."
+                },
+                {
+                  "en": "At its worst, however, it becomes an excuse to avoid necessary change.",
+                  "ru": "В худшем же случае она становится оправданием избегания необходимых перемен."
+                },
+                {
+                  "en": "Perhaps the most honest position is neither reverence nor rejection, but scrutiny.",
+                  "ru": "Возможно, самая честная позиция — это не почитание и не отвержение, а внимательное рассмотрение."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что наследует каждое поколение?",
+                "options": [
+                  "Деньги",
+                  "Идеи, которые оно не выбирало",
+                  "Только традиции",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем традиция является в лучшем случае?",
+                "options": [
+                  "Слепым повторением",
+                  "Проверенной мудростью",
+                  "Ошибкой",
+                  "Модой"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какую позицию автор считает самой честной?",
+                "options": [
+                  "Полное почитание",
+                  "Полное отвержение",
+                  "Внимательное рассмотрение",
+                  "Безразличие"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "c1-l5-p2",
-            "number": 129,
+            "number": 135,
             "title": "Abstract & Philosophical Discussion (Part 2)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 2",
             "description": "Discussing ideas, values, and abstract concepts",
@@ -8052,7 +8490,7 @@
           },
           {
             "id": "c1-l6-p1",
-            "number": 130,
+            "number": 136,
             "title": "Advanced Discourse Markers (Part 1)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 1",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
@@ -8111,7 +8549,7 @@
           },
           {
             "id": "c1-l6-p2",
-            "number": 131,
+            "number": 137,
             "title": "Advanced Discourse Markers (Part 2)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 2",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
