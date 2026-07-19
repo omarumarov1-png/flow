@@ -533,9 +533,13 @@
         document.querySelectorAll("#options .option").forEach(b => b.disabled = true);
         btn.classList.add(correct ? "correct" : "incorrect");
         if (!correct) document.querySelector(`#options .option[data-i="${ex.answerIndex}"]`).classList.add("correct");
-        afterAnswer(correct, { ru: ex.question, en: ex.options[ex.answerIndex] });
+        // Mistake review only stores a plain {ru, en} snapshot, not the
+        // exercise type, and the question/options here are both Russian
+        // (testing comprehension without requiring English output) — so
+        // reuse a real paragraph pair instead, which actually has an
+        // English side, rather than mislabeling Russian text as "en".
+        afterAnswer(correct, lesson.readingPassage.paragraphs[0]);
         screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.options[ex.answerIndex]));
-        wireFeedbackReplay(ex.options[ex.answerIndex]);
         scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
       });
     });
@@ -798,7 +802,11 @@
         matchedCount++;
         if (matchedCount === total) {
           const correct = mistakes === 0;
-          afterAnswer(correct, { ru: "Найди пары", en: "Matching" });
+          // Mistake review only stores a plain {ru, en} snapshot, not the
+          // exercise type — reuse a real pair from this set (rather than a
+          // placeholder like "Find the pairs") so a missed match resurfaces
+          // in review mode as an actual, meaningful sentence to translate.
+          afterAnswer(correct, ex.pairs[0]);
           screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, "Все пары найдены"));
           scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
         }
