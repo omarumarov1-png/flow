@@ -9,6 +9,16 @@
   const ADVANCE_DELAY_CORRECT = 900;
   const ADVANCE_DELAY_WRONG = 2500;
 
+  // Mobile Safari keeps a tapped <button> focused, which leaves the
+  // browser's focus outline stuck on the last-tapped tile/option even
+  // though the user just touched it, not navigated with a keyboard.
+  // event.detail is 0 for a keyboard-triggered click and >=1 for a real
+  // pointer/touch click, so this only blurs (clears the ring) on taps.
+  document.addEventListener("click", e => {
+    const btn = e.target.closest("button");
+    if (btn && e.detail !== 0) btn.blur();
+  });
+
   const screenEl = document.getElementById("screen");
   const streakEl = document.getElementById("streakCount");
   const xpEl = document.getElementById("xpCount");
@@ -96,6 +106,20 @@
   }
   document.addEventListener("pointerdown", warmAudio, { once: true, passive: true });
 
+  // iOS Safari leaves the speech engine "asleep" until it's spoken from
+  // inside a real user gesture at least once; a silent, near-empty
+  // utterance on the very first tap wakes it up so the first real answer
+  // isn't the one that gets silently dropped.
+  function warmSpeech() {
+    if (!("speechSynthesis" in window)) return;
+    try {
+      const u = new SpeechSynthesisUtterance(" ");
+      u.volume = 0;
+      window.speechSynthesis.speak(u);
+    } catch (e) { /* speech unavailable */ }
+  }
+  document.addEventListener("pointerdown", warmSpeech, { once: true, passive: true });
+
   // Browser-native text-to-speech (Web Speech Synthesis API) — free, no API
   // key, no per-sentence audio files, works for the entire sentence bank
   // automatically since it reads text live. Voice list loads async on some
@@ -129,15 +153,23 @@
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
   const SPEECH_RATE = 0.85;
+  let _currentUtterance = null;
   function speak(text, onEnd) {
     if (soundMuted || !("speechSynthesis" in window)) { if (onEnd) onEnd(); return; }
     try {
-      window.speechSynthesis.cancel();
+      // Calling cancel() immediately before speak() is a well-known iOS
+      // Safari trap: the following speak() can get silently dropped. Only
+      // cancel when something is actually queued/playing.
+      if (window.speechSynthesis.speaking || window.speechSynthesis.pending) {
+        window.speechSynthesis.cancel();
+      }
       const u = new SpeechSynthesisUtterance(text);
       u.lang = "en-US";
       u.rate = SPEECH_RATE;
       if (_preferredVoice) u.voice = _preferredVoice;
       if (onEnd) { u.onend = onEnd; u.onerror = onEnd; }
+      _currentUtterance = u; // keep a live reference — some browsers silently
+      // drop speech if the utterance is garbage-collected before it plays
       window.speechSynthesis.speak(u);
     } catch (e) { if (onEnd) onEnd(); }
   }
@@ -334,6 +366,7 @@
 
   function renderLessonChrome(bodyHtml) {
     if (_passagePlaying) {
+      _passageToken++;
       window.speechSynthesis.cancel();
       _passagePlaying = false;
     }
@@ -348,7 +381,7 @@
     `;
     document.getElementById("exitBtn").addEventListener("click", () => {
       cancelAdvance();
-      if (_passagePlaying) { window.speechSynthesis.cancel(); _passagePlaying = false; }
+      if (_passagePlaying) { _passageToken++; window.speechSynthesis.cancel(); _passagePlaying = false; }
       session = null;
       renderHome();
     });
@@ -368,6 +401,7 @@
 
   // ---------- reading comprehension ----------
   let _passagePlaying = false;
+  let _passageToken = 0;
   function renderPassagePanel(lesson) {
     const rows = lesson.readingPassage.paragraphs.map((p, i) => `
       <div class="passage-line" data-line="${i}">
@@ -401,33 +435,59 @@
     });
   }
 
+  // iOS/Safari's SpeechSynthesis can fire onend/onerror twice — or early —
+  // for the same utterance, and calling speak() again while the previous
+  // one is still technically "speaking" can silently cut it off. A plain
+  // recursive onend->speak() chain is therefore not reliable for reading
+  // several paragraphs in strict order: duplicate/early events double-
+  // advance the index and paragraphs end up skipped or overlapping.
+  // Fix: a session token invalidates any callback from a stopped/replaced
+  // chain, a per-step "already advanced" guard absorbs duplicate end
+  // events, and a small gap between utterances avoids WebKit's glitch
+  // when speak() is called immediately from inside another onend.
+  function stopPassagePlayback(btn, lineEls) {
+    _passageToken++;
+    window.speechSynthesis.cancel();
+    _passagePlaying = false;
+    if (btn) btn.textContent = "🔊 Слушать";
+    lineEls.forEach(l => l.classList.remove("speaking"));
+  }
+
   function wirePassageListen(lesson) {
     const btn = document.getElementById("passageListenBtn");
     if (!btn) return;
     const paragraphs = lesson.readingPassage.paragraphs;
     const lineEls = Array.from(document.querySelectorAll(".passage-line"));
     btn.addEventListener("click", () => {
-      if (_passagePlaying) {
-        window.speechSynthesis.cancel();
-        _passagePlaying = false;
-        btn.textContent = "🔊 Слушать";
-        lineEls.forEach(l => l.classList.remove("speaking"));
-        return;
-      }
+      if (_passagePlaying) { stopPassagePlayback(btn, lineEls); return; }
+      if (soundMuted || !("speechSynthesis" in window)) return;
+      window.speechSynthesis.cancel();
       _passagePlaying = true;
       btn.textContent = "⏹ Стоп";
+      const token = ++_passageToken;
       let i = 0;
-      function playNext() {
-        lineEls.forEach(l => l.classList.remove("speaking"));
-        if (!_passagePlaying || i >= paragraphs.length) {
-          _passagePlaying = false;
-          btn.textContent = "🔊 Слушать";
+      function step() {
+        if (token !== _passageToken || i >= paragraphs.length) {
+          if (token === _passageToken) { _passagePlaying = false; btn.textContent = "🔊 Слушать"; }
+          lineEls.forEach(l => l.classList.remove("speaking"));
           return;
         }
+        lineEls.forEach(l => l.classList.remove("speaking"));
         if (lineEls[i]) lineEls[i].classList.add("speaking");
-        speak(paragraphs[i].en, () => { i++; playNext(); });
+        const u = new SpeechSynthesisUtterance(paragraphs[i].en);
+        u.lang = "en-US";
+        u.rate = SPEECH_RATE;
+        if (_preferredVoice) u.voice = _preferredVoice;
+        let advanced = false;
+        u.onend = u.onerror = () => {
+          if (advanced || token !== _passageToken) return;
+          advanced = true;
+          i++;
+          setTimeout(step, 150);
+        };
+        window.speechSynthesis.speak(u);
       }
-      playNext();
+      step();
     });
   }
 
