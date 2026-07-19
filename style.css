@@ -165,7 +165,7 @@ button.stat:hover { color: var(--flow); }
    Reads top (lesson 1) to bottom (last lesson), normal reading order. */
 .trail-wrap { position: relative; padding: 6px 4px 8px 0; }
 .trail-rail {
-  position: absolute; left: 28px; top: 29px; bottom: 29px; width: 3px;
+  position: absolute; left: 31.5px; top: 29px; bottom: 29px; width: 3px;
   background: var(--dim); border-radius: 2px; overflow: hidden; z-index: 0;
 }
 .trail-rail-fill {
@@ -174,7 +174,6 @@ button.stat:hover { color: var(--flow); }
 }
 .trail-list { display: flex; flex-direction: column; gap: 24px; }
 .trail-row { position: relative; z-index: 1; display: flex; align-items: center; gap: 16px; }
-.trail-row.indent { margin-left: 34px; }
 .trail-node {
   flex-shrink: 0; width: 58px; height: 58px; border-radius: 50%; border: 3px solid var(--dim); background: var(--card);
   color: var(--ink-soft); font-family: var(--font-mono); font-weight: 700; font-size: 1.1rem;
