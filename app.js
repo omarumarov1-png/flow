@@ -458,6 +458,8 @@
   }
 
   function renderTypeAnswer(ex) {
+    const targetWords = ex.en.split(/\s+/).filter(Boolean);
+    let hintsRevealed = 0;
     renderLessonChrome(`
       <div class="card">
         <div class="prompt-kicker"><span>Напиши перевод</span></div>
@@ -465,14 +467,31 @@
         <form class="type-answer-form" id="typeForm">
           <input class="type-answer-input" id="typeInput" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Введите перевод на английском..." />
           <button class="type-submit-btn" id="typeSubmitBtn" type="submit" disabled>Проверить</button>
+          <div class="hint-row">
+            <button type="button" class="hint-btn" id="hintBtn">💡 Подсказка</button>
+            <div class="hint-text" id="hintText"></div>
+          </div>
           <div class="type-answer-hint">Небольшие опечатки — это нормально, система их учитывает.</div>
         </form>
       </div>
     `);
     const input = document.getElementById("typeInput");
     const submitBtn = document.getElementById("typeSubmitBtn");
+    const hintBtn = document.getElementById("hintBtn");
+    const hintText = document.getElementById("hintText");
     input.addEventListener("input", () => { submitBtn.disabled = !input.value.trim(); });
     setTimeout(() => input.focus(), 50);
+
+    // Progressive hint: each tap reveals one more word of the target answer,
+    // masking the rest with dots matching word length — free to use, no
+    // score/XP penalty, just a comfort aid for when you're stuck.
+    hintBtn.addEventListener("click", () => {
+      if (hintsRevealed < targetWords.length) hintsRevealed++;
+      hintText.textContent = targetWords
+        .map((w, i) => (i < hintsRevealed ? w : "•".repeat(Math.max(1, w.replace(/[.,!?;:"']/g, "").length))))
+        .join(" ");
+      if (hintsRevealed >= targetWords.length) hintBtn.disabled = true;
+    });
 
     document.getElementById("typeForm").addEventListener("submit", e => {
       e.preventDefault();

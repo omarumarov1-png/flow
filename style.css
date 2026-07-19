@@ -255,6 +255,15 @@ button.stat:hover { color: var(--flow); }
 .type-submit-btn:disabled { opacity: 0.4; cursor: default; }
 .type-answer-hint { font-size: 0.82rem; color: var(--ink-soft); }
 .type-answer-hint strong { color: var(--flow); }
+.hint-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.hint-btn {
+  padding: 8px 14px; border-radius: 20px; border: 1.5px solid var(--amber); background: var(--amber-wash);
+  color: var(--amber); font-family: var(--font-body); font-weight: 600; font-size: 0.85rem; cursor: pointer;
+  flex-shrink: 0; transition: background 0.12s ease;
+}
+.hint-btn:hover:not(:disabled) { background: var(--amber); color: #fff; }
+.hint-btn:disabled { opacity: 0.5; cursor: default; }
+.hint-text { font-family: var(--font-mono); font-size: 0.95rem; color: var(--ink-soft); letter-spacing: 0.03em; }
 
 .feedback { position: fixed; left: 0; right: 0; bottom: 0; padding: 18px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .feedback-main { display: flex; align-items: center; gap: 12px; min-width: 0; }
