@@ -280,13 +280,39 @@ button.stat:hover { color: var(--flow); }
 .type-answer-hint { font-size: 0.82rem; color: var(--ink-soft); }
 .type-answer-hint strong { color: var(--flow); }
 
-.listen-replay-btn {
-  align-self: flex-start; margin-bottom: 18px; padding: 10px 18px; border-radius: 24px;
-  border: 1.5px solid var(--flow); background: var(--flow-wash); color: var(--flow);
-  font-family: var(--font-body); font-weight: 600; font-size: 0.95rem; cursor: pointer;
-  transition: background 0.12s ease;
+/* The listening "stage": a big play button with pulsing rings that only
+   animate while audio is actually speaking (driven by speak()'s onEnd
+   callback, not a fixed timer), plus a slow-motion (turtle) replay —
+   the two things every serious listening exercise needs. */
+.audio-stage { display: flex; align-items: center; gap: 16px; margin-bottom: 22px; }
+.audio-stage-lg { justify-content: center; margin-bottom: 28px; }
+.listen-play-btn {
+  position: relative; width: 64px; height: 64px; border-radius: 50%; flex-shrink: 0;
+  border: none; background: var(--flow); color: #fff; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 4px 0 var(--btn-shadow); transition: transform 0.1s ease;
 }
-.listen-replay-btn:hover { background: var(--flow); color: #fff; }
+.audio-stage-lg .listen-play-btn { width: 84px; height: 84px; }
+.listen-play-btn:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--btn-shadow); }
+.audio-icon { font-size: 1.6rem; position: relative; z-index: 2; }
+.audio-stage-lg .audio-icon { font-size: 2.1rem; }
+.audio-rings { position: absolute; inset: 0; border-radius: 50%; pointer-events: none; }
+.audio-rings span {
+  position: absolute; inset: 0; border-radius: 50%; border: 2px solid var(--flow); opacity: 0;
+}
+.audio-stage.playing .audio-rings span { animation: audio-ring-pulse 1.4s ease-out infinite; }
+.audio-stage.playing .audio-rings span:nth-child(2) { animation-delay: 0.4s; }
+.audio-stage.playing .audio-rings span:nth-child(3) { animation-delay: 0.8s; }
+.audio-stage.playing .listen-play-btn { animation: audio-btn-bob 0.6s ease-in-out infinite alternate; }
+@keyframes audio-ring-pulse { 0% { opacity: 0.55; transform: scale(1); } 100% { opacity: 0; transform: scale(1.9); } }
+@keyframes audio-btn-bob { from { transform: scale(1); } to { transform: scale(1.06); } }
+.listen-slow-btn {
+  width: 44px; height: 44px; border-radius: 50%; border: 1.5px solid var(--border); flex-shrink: 0;
+  background: var(--surface); color: var(--ink-soft); font-size: 1.1rem; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: border-color 0.12s ease, color 0.12s ease;
+}
+.listen-slow-btn:hover { border-color: var(--amber); color: var(--amber); }
 
 .fill-blank-sentence {
   font-family: var(--font-display); font-size: 1.15rem; font-weight: 600; line-height: 1.6;

@@ -166,8 +166,9 @@
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
   const SPEECH_RATE = 0.85;
+  const SPEECH_RATE_SLOW = 0.55;
   let _currentUtterance = null;
-  function speak(text, onEnd) {
+  function speak(text, onEnd, rate) {
     if (soundMuted || !("speechSynthesis" in window)) { if (onEnd) onEnd(); return; }
     try {
       // Calling cancel() immediately before speak() is a well-known iOS
@@ -178,7 +179,7 @@
       }
       const u = new SpeechSynthesisUtterance(text);
       u.lang = "en-US";
-      u.rate = SPEECH_RATE;
+      u.rate = rate || SPEECH_RATE;
       if (_preferredVoice) u.voice = _preferredVoice;
       if (onEnd) { u.onend = onEnd; u.onerror = onEnd; }
       _currentUtterance = u; // keep a live reference — some browsers silently
@@ -411,6 +412,8 @@
     else if (ex.type === "multiple-choice") renderMultipleChoice(ex);
     else if (ex.type === "word-bank") renderWordBank(ex);
     else if (ex.type === "listening") renderListening(ex);
+    else if (ex.type === "listening-choice") renderListeningChoice(ex);
+    else if (ex.type === "listening-tap") renderListeningTap(ex);
     else if (ex.type === "fill-blank") renderFillBlank(ex);
     else if (ex.type === "matching") renderMatching(ex);
     else renderTypeAnswer(ex);
@@ -743,12 +746,42 @@
     });
   }
 
-  // ---------- listening dictation ----------
+  // ---------- listening ----------
+  // A shared audio "stage" used by all three listening variants: a big
+  // circular play button with pulsing rings that animate while the TTS
+  // is actually speaking (not just while "clicked"), plus a slow-motion
+  // (turtle) replay at a reduced rate — the two things every serious
+  // listening exercise in a language app needs and Flow didn't have.
+  function audioStageHtml(big) {
+    return `
+      <div class="audio-stage${big ? " audio-stage-lg" : ""}">
+        <button class="listen-play-btn" id="listenPlayBtn" type="button" aria-label="Слушать">
+          <span class="audio-rings"><span></span><span></span><span></span></span>
+          <span class="audio-icon">🔊</span>
+        </button>
+        <button class="listen-slow-btn" id="listenSlowBtn" type="button" title="Медленно" aria-label="Слушать медленно">🐢</button>
+      </div>
+    `;
+  }
+  function wireAudioStage(text) {
+    const stage = document.querySelector(".audio-stage");
+    const playBtn = document.getElementById("listenPlayBtn");
+    const slowBtn = document.getElementById("listenSlowBtn");
+    function play(rate) {
+      stage.classList.add("playing");
+      speak(text, () => stage.classList.remove("playing"), rate);
+    }
+    playBtn.addEventListener("click", () => play());
+    slowBtn.addEventListener("click", () => play(SPEECH_RATE_SLOW));
+    return play;
+  }
+
+  // ---- listening: dictation (hear it, type it) ----
   function renderListening(ex) {
     renderLessonChrome(`
       <div class="card">
         <div class="prompt-kicker"><span>Прослушай и напиши</span></div>
-        <button class="listen-replay-btn" id="listenReplayBtn" type="button" aria-label="Прослушать снова">🔊 Слушать</button>
+        ${audioStageHtml(false)}
         <form class="type-answer-form" id="typeForm">
           <input class="type-answer-input" id="typeInput" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Напиши то, что услышал..." />
           <button class="type-submit-btn" id="typeSubmitBtn" type="submit" disabled>Проверить</button>
@@ -757,18 +790,17 @@
         </form>
       </div>
     `);
+    const play = wireAudioStage(ex.en);
     const input = document.getElementById("typeInput");
     const submitBtn = document.getElementById("typeSubmitBtn");
-    const replayBtn = document.getElementById("listenReplayBtn");
     const translitToggle = document.getElementById("listenTranslitToggle");
     input.addEventListener("input", () => { submitBtn.disabled = !input.value.trim(); });
-    replayBtn.addEventListener("click", () => speak(ex.en));
     translitToggle.addEventListener("click", () => {
       const t = document.getElementById("listenTranslitText");
       t.classList.toggle("hidden");
       translitToggle.textContent = t.classList.contains("hidden") ? "Показать перевод" : "Скрыть перевод";
     });
-    setTimeout(() => speak(ex.en), 300);
+    setTimeout(play, 300);
 
     document.getElementById("typeForm").addEventListener("submit", e => {
       e.preventDefault();
@@ -784,6 +816,112 @@
       wireFeedbackReplay(ex.en);
       advanceAfterSpeech(ex.en, correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
     });
+  }
+
+  // ---- listening: pure-audio multiple choice (hear it, pick the meaning —
+  // no text shown upfront, unlike regular multiple-choice) ----
+  function renderListeningChoice(ex) {
+    const siblingTexts = (ex._sourceLesson.exercises || [])
+      .filter(e => !(e.ru === ex.ru && e.en === ex.en))
+      .map(e => e.en)
+      .filter(Boolean);
+    const pool = Array.from(new Set(siblingTexts.filter(t => t !== ex.en)));
+    const distractors = shuffled(pool).slice(0, 3);
+    const options = shuffled([ex.en, ...distractors]);
+    const answerIndex = options.indexOf(ex.en);
+
+    renderLessonChrome(`
+      <div class="card">
+        <div class="prompt-kicker"><span>Послушай и выбери перевод</span></div>
+        ${audioStageHtml(true)}
+        <div class="options" id="options">
+          ${options.map((opt, i) => `<button class="option" data-i="${i}">${opt}</button>`).join("")}
+        </div>
+      </div>
+    `);
+    const play = wireAudioStage(ex.en);
+    setTimeout(play, 300);
+
+    let answered = false;
+    document.querySelectorAll("#options .option").forEach(btn => {
+      btn.addEventListener("click", () => {
+        if (answered) return;
+        answered = true;
+        const i = Number(btn.dataset.i);
+        const correct = i === answerIndex;
+        document.querySelectorAll("#options .option").forEach(b => b.disabled = true);
+        btn.classList.add(correct ? "correct" : "incorrect");
+        if (!correct) document.querySelector(`#options .option[data-i="${answerIndex}"]`).classList.add("correct");
+        afterAnswer(correct, ex);
+        screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.en));
+        wireFeedbackReplay(ex.en);
+        scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+      });
+    });
+  }
+
+  // ---- listening: pure-audio word reconstruction (hear it, tap the words
+  // in order — no text shown upfront, unlike regular word-bank) ----
+  function renderListeningTap(ex) {
+    const tgtTokens = enTokens(ex.en);
+    const bank = shuffled(tgtTokens);
+    let placed = [];
+
+    renderLessonChrome(`
+      <div class="card">
+        <div class="prompt-kicker"><span>Послушай и собери фразу</span></div>
+        ${audioStageHtml(false)}
+        <div class="bank-target" id="bankTarget"></div>
+        <div class="bank-pool" id="bankPool"></div>
+      </div>
+    `);
+    const play = wireAudioStage(ex.en);
+    setTimeout(play, 300);
+
+    const targetEl = document.getElementById("bankTarget");
+    const poolEl = document.getElementById("bankPool");
+    let submitted = false;
+
+    function submit() {
+      if (submitted) return;
+      submitted = true;
+      poolEl.querySelectorAll(".bank-tile").forEach(b => b.disabled = true);
+      targetEl.querySelectorAll(".bank-tile").forEach(b => b.disabled = true);
+      const correct = placed.length === tgtTokens.length && placed.every((w, i) => w === tgtTokens[i]);
+      afterAnswer(correct, ex);
+      screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, tgtTokens.join(" ")));
+      wireFeedbackReplay(ex.en);
+      advanceAfterSpeech(ex.en, correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+    }
+
+    function renderTiles() {
+      targetEl.innerHTML = placed.map((w, i) => `<button class="bank-tile" data-target-i="${i}">${w}</button>`).join("");
+      const usedIdx = new Set();
+      placed.forEach(w => {
+        const idx = bank.findIndex((b, i) => b === w && !usedIdx.has(i));
+        if (idx !== -1) usedIdx.add(idx);
+      });
+      poolEl.innerHTML = bank.map((w, i) =>
+        `<button class="bank-tile ${usedIdx.has(i) ? "placed" : ""}" data-pool-i="${i}" ${usedIdx.has(i) ? "disabled" : ""}>${w}</button>`
+      ).join("");
+
+      poolEl.querySelectorAll(".bank-tile:not(.placed)").forEach(btn => {
+        btn.addEventListener("click", () => {
+          placed.push(btn.textContent);
+          renderTiles();
+          if (placed.length === tgtTokens.length) setTimeout(submit, 150);
+        });
+      });
+      targetEl.querySelectorAll(".bank-tile").forEach(btn => {
+        btn.addEventListener("click", () => {
+          if (submitted) return;
+          const i = Number(btn.dataset.targetI);
+          placed.splice(i, 1);
+          renderTiles();
+        });
+      });
+    }
+    renderTiles();
   }
 
   // ---------- fill in the blank ----------

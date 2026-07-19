@@ -58,22 +58,22 @@
                 "en": "My name is Anna."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Как тебя зовут?",
                 "en": "What is your name?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Приятно познакомиться.",
                 "en": "Nice to meet you."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Откуда ты?",
                 "en": "Where are you from?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я из России.",
                 "en": "I am from Russia."
               },
@@ -147,22 +147,22 @@
                 "en": "Good night."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Извините.",
                 "en": "Excuse me."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Спасибо большое.",
                 "en": "Thank you very much."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Пожалуйста.",
                 "en": "You're welcome."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я не понимаю.",
                 "en": "I don't understand."
               },
@@ -236,22 +236,22 @@
                 "en": "They are at home."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Это моя книга.",
                 "en": "This is my book."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Это твой телефон.",
                 "en": "This is your phone."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я не голоден.",
                 "en": "I am not hungry."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Ты не прав.",
                 "en": "You are not right."
               },
@@ -404,22 +404,22 @@
                 "en": "I am tired."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Погода хорошая.",
                 "en": "The weather is nice."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Сегодня холодно.",
                 "en": "It is cold today."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Это интересно.",
                 "en": "This is interesting."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Это трудно.",
                 "en": "This is difficult."
               },
@@ -493,22 +493,22 @@
                 "en": "They have two children."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мой сын ходит в школу.",
                 "en": "My son goes to school."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Моя дочь любит читать.",
                 "en": "My daughter loves reading."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Это мой муж.",
                 "en": "This is my husband."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Это моя жена.",
                 "en": "This is my wife."
               },
@@ -582,22 +582,22 @@
                 "en": "How many children do you have?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мой дядя живёт за границей.",
                 "en": "My uncle lives abroad."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Моя тётя приезжает завтра.",
                 "en": "My aunt is coming tomorrow."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы часто встречаемся с родственниками.",
                 "en": "We often meet with relatives."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Вся семья собралась за столом.",
                 "en": "The whole family gathered at the table."
               },
@@ -750,22 +750,22 @@
                 "en": "We have ten students."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Это стоит двадцать долларов.",
                 "en": "This costs twenty dollars."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Ему тридцать лет.",
                 "en": "He is thirty years old."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "В классе двадцать пять учеников.",
                 "en": "There are twenty-five students in the class."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я живу на пятом этаже.",
                 "en": "I live on the fifth floor."
               },
@@ -839,22 +839,22 @@
                 "en": "Today is the tenth."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "У меня два номера телефона.",
                 "en": "I have two phone numbers."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Дай мне, пожалуйста, три яблока.",
                 "en": "Give me three apples, please."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Здесь всего четыре стула.",
                 "en": "There are only four chairs here."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мне нужно ещё немного времени.",
                 "en": "I need a bit more time."
               },
@@ -928,22 +928,22 @@
                 "en": "He works from nine to five."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мы обедаем в полдень.",
                 "en": "We have lunch at noon."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я возвращаюсь домой вечером.",
                 "en": "I come home in the evening."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Она готовит ужин каждый день.",
                 "en": "She cooks dinner every day."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы ужинаем вместе.",
                 "en": "We have dinner together."
               },
@@ -1092,22 +1092,22 @@
                 "en": "I check my email every morning."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он занимается спортом три раза в неделю.",
                 "en": "He exercises three times a week."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Дети играют после школы.",
                 "en": "The children play after school."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я убираю квартиру по субботам.",
                 "en": "I clean the apartment on Saturdays."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы ходим в магазин по средам.",
                 "en": "We go to the shop on Wednesdays."
               },
@@ -1181,22 +1181,22 @@
                 "en": "He doesn't eat meat."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она пьёт воду каждый день.",
                 "en": "She drinks water every day."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Дайте мне, пожалуйста, меню.",
                 "en": "Give me the menu, please."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Что вы порекомендуете?",
                 "en": "What do you recommend?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Счёт, пожалуйста.",
                 "en": "The bill, please."
               },
@@ -1270,22 +1270,22 @@
                 "en": "Fruits are very healthy."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он заказал пиццу на ужин.",
                 "en": "He ordered pizza for dinner."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мы редко едим фастфуд.",
                 "en": "We rarely eat fast food."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Ты хочешь ещё немного риса?",
                 "en": "Do you want some more rice?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я не могу есть острое.",
                 "en": "I can't eat spicy food."
               },
@@ -1434,22 +1434,22 @@
                 "en": "The table is brown."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Это жёлтый карандаш.",
                 "en": "This is a yellow pencil."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мне нравится этот цвет.",
                 "en": "I like this color."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Где мои ключи?",
                 "en": "Where are my keys?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мой телефон на столе.",
                 "en": "My phone is on the table."
               },
@@ -1523,22 +1523,22 @@
                 "en": "My glasses are broken."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Часы висят на стене.",
                 "en": "The clock is on the wall."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Зонт стоит у двери.",
                 "en": "The umbrella is by the door."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Это красивая картина.",
                 "en": "This is a beautiful painting."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мне нужна новая сумка.",
                 "en": "I need a new bag."
               },
@@ -1612,22 +1612,22 @@
                 "en": "The sky is clear today."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Который час?",
                 "en": "What time is it?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Сейчас три часа.",
                 "en": "It is three o'clock now."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Уже поздно.",
                 "en": "It is already late."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Ещё рано.",
                 "en": "It is still early."
               },
@@ -1776,22 +1776,22 @@
                 "en": "Spring is my favorite season."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Осенью листья падают.",
                 "en": "In autumn the leaves fall."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Завтра будет снег.",
                 "en": "Tomorrow it will snow."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Возьми зонт, может пойти дождь.",
                 "en": "Take an umbrella, it might rain."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Сегодня прекрасный день.",
                 "en": "Today is a beautiful day."
               },
@@ -1865,22 +1865,22 @@
                 "en": "How did you get here?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Сколько это стоит?",
                 "en": "How much does this cost?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Куда ты идёшь?",
                 "en": "Where are you going?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Чей это телефон?",
                 "en": "Whose phone is this?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Какой сегодня день?",
                 "en": "What day is it today?"
               },
@@ -1954,22 +1954,22 @@
                 "en": "Do you want to come with us?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Это далеко отсюда?",
                 "en": "Is it far from here?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "У тебя есть ручка?",
                 "en": "Do you have a pen?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Можно войти?",
                 "en": "May I come in?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Ты уверен?",
                 "en": "Are you sure?"
               },
@@ -2118,22 +2118,22 @@
                 "en": "We love traveling."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мне нравится этот город.",
                 "en": "I like this city."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Ты любишь спорт?",
                 "en": "Do you like sports?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мне больше нравится лето.",
                 "en": "I like summer better."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Он не любит рано вставать.",
                 "en": "He doesn't like getting up early."
               },
@@ -2207,22 +2207,22 @@
                 "en": "I like walking in the evenings."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она любит новые впечатления.",
                 "en": "She loves new experiences."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мне не нравится этот вкус.",
                 "en": "I don't like this taste."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы предпочитаем тишину.",
                 "en": "We prefer silence."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Тебе нравится эта идея?",
                 "en": "Do you like this idea?"
               },
@@ -2296,22 +2296,22 @@
                 "en": "The library is closed on Sundays."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Парк очень красивый весной.",
                 "en": "The park is very beautiful in spring."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Аэропорт находится далеко от центра.",
                 "en": "The airport is far from the center."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Вокзал рядом с гостиницей.",
                 "en": "The train station is near the hotel."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Кафе на первом этаже.",
                 "en": "The cafe is on the first floor."
               },
@@ -2464,22 +2464,22 @@
                 "en": "The market opens early in the morning."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мой офис на десятом этаже.",
                 "en": "My office is on the tenth floor."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Спортзал находится рядом с домом.",
                 "en": "The gym is near my house."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Кинотеатр в новом торговом центре.",
                 "en": "The cinema is in the new shopping mall."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Отель прямо на берегу моря.",
                 "en": "The hotel is right on the seashore."
               },
@@ -2553,22 +2553,22 @@
                 "en": "Let's meet tomorrow."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мне пора идти.",
                 "en": "I have to go now."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Позвони мне позже.",
                 "en": "Call me later."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Хорошего дня!",
                 "en": "Have a nice day!"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Удачи тебе!",
                 "en": "Good luck!"
               },
@@ -2642,22 +2642,22 @@
                 "en": "What are you doing this weekend?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Ничего не планировал пока.",
                 "en": "I haven't planned anything yet."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Хочешь чашку кофе?",
                 "en": "Would you like a cup of coffee?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "С удовольствием.",
                 "en": "I would love to."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Спасибо, что пришёл.",
                 "en": "Thank you for coming."
               },
@@ -2739,22 +2739,22 @@
                 "en": "Did you see this article?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Они уехали в субботу.",
                 "en": "They left on Saturday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мы встретились в кафе.",
                 "en": "We met at a cafe."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я забыл его номер телефона.",
                 "en": "I forgot his phone number."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она написала мне письмо.",
                 "en": "She wrote me a letter."
               },
@@ -2828,22 +2828,22 @@
                 "en": "He didn't tell me the truth."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я закончил университет в 2018 году.",
                 "en": "I graduated from university in 2018."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Они построили этот дом давно.",
                 "en": "They built this house a long time ago."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Ты когда-нибудь был в Лондоне?",
                 "en": "Have you ever been to London?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я никогда не пробовал суши.",
                 "en": "I have never tried sushi."
               },
@@ -2917,22 +2917,22 @@
                 "en": "I promise I will help you."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Что ты будешь делать на выходных?",
                 "en": "What are you going to do this weekend?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я собираюсь начать новую работу.",
                 "en": "I am going to start a new job."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Они переедут в новую квартиру в июле.",
                 "en": "They will move into a new apartment in July."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы не будем опаздывать в следующий раз.",
                 "en": "We won't be late next time."
               },
@@ -3081,22 +3081,22 @@
                 "en": "Everything will change soon."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Компания планирует открыть новый офис.",
                 "en": "The company is planning to open a new office."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я больше не буду опаздывать.",
                 "en": "I won't be late anymore."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы обязательно вернёмся сюда.",
                 "en": "We will definitely come back here."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она точно поможет тебе с этим.",
                 "en": "She will definitely help you with this."
               },
@@ -3170,22 +3170,22 @@
                 "en": "You need to book in advance."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мне пришлось работать в субботу.",
                 "en": "I had to work on Saturday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Ты не обязан отвечать сейчас.",
                 "en": "You don't have to answer now."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы должны быть осторожны.",
                 "en": "We must be careful."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Тебе не стоит так волноваться.",
                 "en": "You shouldn't worry so much."
               },
@@ -3259,22 +3259,22 @@
                 "en": "You'd better check again."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я должен был предупредить тебя раньше.",
                 "en": "I should have warned you earlier."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Она могла бы стать отличным врачом.",
                 "en": "She could become a great doctor."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Разрешите мне объяснить ситуацию.",
                 "en": "Allow me to explain the situation."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Вы обязаны соблюдать правила.",
                 "en": "You are required to follow the rules."
               },
@@ -3423,22 +3423,22 @@
                 "en": "This task is more difficult than it seems."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мой брат моложе меня на два года.",
                 "en": "My brother is two years younger than me."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Это лучшее решение из возможных.",
                 "en": "This is the best solution possible."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Автобус медленнее поезда.",
                 "en": "The bus is slower than the train."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она работает усерднее всех.",
                 "en": "She works harder than everyone."
               },
@@ -3512,22 +3512,22 @@
                 "en": "This model is less popular than the previous one."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "У неё самый красивый почерк, который я видел.",
                 "en": "She has the most beautiful handwriting I've seen."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Погода становится теплее с каждым днём.",
                 "en": "The weather is getting warmer every day."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Он самый опытный сотрудник в компании.",
                 "en": "He is the most experienced employee in the company."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Это гораздо проще, чем я думал.",
                 "en": "This is much easier than I thought."
               },
@@ -3601,22 +3601,22 @@
                 "en": "I only have carry-on luggage."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Поверните налево на следующем перекрёстке.",
                 "en": "Turn left at the next intersection."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Идите прямо, потом направо.",
                 "en": "Go straight, then turn right."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Сколько стоит билет в одну сторону?",
                 "en": "How much is a one-way ticket?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы потерялись в незнакомом городе.",
                 "en": "We got lost in an unfamiliar city."
               },
@@ -3765,22 +3765,22 @@
                 "en": "Don't forget to take your charger with you."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мы решили путешествовать налегке.",
                 "en": "We decided to travel light."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Гид отлично знал историю города.",
                 "en": "The guide knew the city's history very well."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Отсюда открывается прекрасный вид на море.",
                 "en": "There is a beautiful view of the sea from here."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы едва успели на пересадку.",
                 "en": "We barely made our connecting flight."
               },
@@ -3854,22 +3854,22 @@
                 "en": "The doctor prescribed me medicine."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "У меня аллергия на орехи.",
                 "en": "I am allergic to nuts."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Тебе нужно больше пить воды.",
                 "en": "You need to drink more water."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я стараюсь регулярно заниматься спортом.",
                 "en": "I try to exercise regularly."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "У него болит горло и кашель.",
                 "en": "He has a sore throat and a cough."
               },
@@ -3943,22 +3943,22 @@
                 "en": "She feels much better now."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я стараюсь избегать стресса.",
                 "en": "I try to avoid stress."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "У них закончилось лекарство в аптеке.",
                 "en": "The pharmacy ran out of the medicine."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мне нужен отдых после этой недели.",
                 "en": "I need some rest after this week."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Здоровое питание очень важно.",
                 "en": "Healthy eating is very important."
               },
@@ -4107,22 +4107,22 @@
                 "en": "I want to return this item."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "У вас принимают карты?",
                 "en": "Do you accept cards?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мне нужен чек, пожалуйста.",
                 "en": "I need a receipt, please."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Этот цвет мне не подходит.",
                 "en": "This color doesn't suit me."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Магазин закрывается через час.",
                 "en": "The store closes in an hour."
               },
@@ -4196,22 +4196,22 @@
                 "en": "This bag is worth the money."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Доставка займёт три дня.",
                 "en": "Delivery will take three days."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я забыл список покупок дома.",
                 "en": "I forgot the shopping list at home."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "У кассы образовалась очередь.",
                 "en": "A line formed at the checkout."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Могу я обменять это на другой размер?",
                 "en": "Can I exchange this for a different size?"
               },
@@ -4285,22 +4285,22 @@
                 "en": "She got a promotion last month."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мне нужно закончить проект к пятнице.",
                 "en": "I need to finish the project by Friday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я подал заявление на новую должность.",
                 "en": "I applied for a new position."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Собеседование прошло довольно хорошо.",
                 "en": "The interview went pretty well."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "У нас гибкий график работы.",
                 "en": "We have a flexible work schedule."
               },
@@ -4449,22 +4449,22 @@
                 "en": "Work takes up a lot of time."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я ищу работу поближе к дому.",
                 "en": "I'm looking for a job closer to home."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Совещание затянулось на два часа.",
                 "en": "The meeting dragged on for two hours."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мне нравится моя команда.",
                 "en": "I like my team."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Крайний срок перенесли на понедельник.",
                 "en": "The deadline was moved to Monday."
               },
@@ -4538,22 +4538,22 @@
                 "en": "I collect old coins."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он учится играть на гитаре.",
                 "en": "He is learning to play the guitar."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мне нравится готовить новые блюда.",
                 "en": "I enjoy cooking new dishes."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Она рисует акварелью по вечерам.",
                 "en": "She paints with watercolors in the evenings."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы часто ходим на рыбалку с отцом.",
                 "en": "We often go fishing with dad."
               },
@@ -4627,22 +4627,22 @@
                 "en": "I recently started practicing yoga."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он увлекается программированием на досуге.",
                 "en": "He's into coding in his spare time."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мне нравится вязать зимними вечерами.",
                 "en": "I like knitting on winter evenings."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы вместе занимаемся плаванием.",
                 "en": "We swim together."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она пишет короткие рассказы для себя.",
                 "en": "She writes short stories for herself."
               },
@@ -4791,22 +4791,22 @@
                 "en": "He has kind eyes."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она очень терпеливая с детьми.",
                 "en": "She is very patient with children."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мой брат довольно упрямый.",
                 "en": "My brother is quite stubborn."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Она носит очки и улыбается очень часто.",
                 "en": "She wears glasses and smiles very often."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Он выглядит моложе своего возраста.",
                 "en": "He looks younger than his age."
               },
@@ -4880,22 +4880,22 @@
                 "en": "He is of average height and sturdy build."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она очень организованный человек.",
                 "en": "She is a very organized person."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Он бывает вспыльчивым иногда.",
                 "en": "He can be hot-tempered sometimes."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "У неё мягкий и спокойный характер.",
                 "en": "She has a gentle and calm character."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Он выглядит уставшим сегодня.",
                 "en": "He looks tired today."
               },
@@ -4969,22 +4969,22 @@
                 "en": "The line is busy, try again later."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Оставьте сообщение после сигнала.",
                 "en": "Leave a message after the beep."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Извините, я неправильно набрал номер.",
                 "en": "Sorry, I dialed the wrong number."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "У меня разрядился телефон.",
                 "en": "My phone battery died."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Он не отвечает на звонки весь день.",
                 "en": "He hasn't answered calls all day."
               },
@@ -5133,22 +5133,22 @@
                 "en": "Thanks for calling back so quickly."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я забыл зарядить телефон вчера.",
                 "en": "I forgot to charge my phone yesterday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мы договорились созвониться завтра утром.",
                 "en": "We agreed to call each other tomorrow morning."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Он говорит очень тихо по телефону.",
                 "en": "He speaks very quietly on the phone."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Повторите, пожалуйста, ваш номер телефона.",
                 "en": "Please repeat your phone number."
               },
@@ -5222,22 +5222,22 @@
                 "en": "I think there's another point of view here."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Честно говоря, я в этом не уверен.",
                 "en": "Honestly, I'm not sure about this."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я считаю, что нужно попробовать ещё раз.",
                 "en": "I believe we should try again."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "С одной стороны, это удобно, с другой — дорого.",
                 "en": "On the one hand it's convenient, on the other it's expensive."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я вижу это немного иначе.",
                 "en": "I see it a bit differently."
               },
@@ -5311,22 +5311,22 @@
                 "en": "I changed my mind after talking to her."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Это спорный вопрос, у всех разные мнения.",
                 "en": "It's a controversial issue, everyone has different opinions."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я бы хотел услышать твоё мнение об этом.",
                 "en": "I would like to hear your opinion on this."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы должны уважать мнения друг друга.",
                 "en": "We should respect each other's opinions."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "В конце концов, решение осталось за ней.",
                 "en": "In the end, the decision was hers."
               },
@@ -5408,22 +5408,22 @@
                 "en": "They have already made a decision."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она прожила здесь всю свою жизнь.",
                 "en": "She has lived here her whole life."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мы ещё не получили ответ.",
                 "en": "We haven't received a response yet."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я недавно начал изучать испанский.",
                 "en": "I have recently started learning Spanish."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Он много раз читал эту книгу.",
                 "en": "He has read this book many times."
               },
@@ -5497,22 +5497,22 @@
                 "en": "She has greatly improved her English."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Они переехали в новый дом на прошлой неделе.",
                 "en": "They moved into a new house last week."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мир сильно изменился за последние годы.",
                 "en": "The world has changed a lot in recent years."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я никогда раньше не видел такого заката.",
                 "en": "I have never seen such a sunset before."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы завершили проект раньше срока.",
                 "en": "We have completed the project ahead of schedule."
               },
@@ -5586,22 +5586,22 @@
                 "en": "If you don't sleep, you will be tired tomorrow."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если она согласится, мы начнём проект в понедельник.",
                 "en": "If she agrees, we will start the project on Monday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Если пойдёт дождь, мероприятие отменят.",
                 "en": "If it rains, the event will be cancelled."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если ты попросишь вежливо, он поможет тебе.",
                 "en": "If you ask politely, he will help you."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мы опоздаем, если не выйдем сейчас.",
                 "en": "We will be late if we don't leave now."
               },
@@ -5750,22 +5750,22 @@
                 "en": "If any problems come up, let me know."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она расстроится, если ты забудешь про её день рождения.",
                 "en": "She will be upset if you forget her birthday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Если мы объединим усилия, у нас получится.",
                 "en": "If we join forces, we will succeed."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если билеты закончатся, мы пойдём в другой раз.",
                 "en": "If the tickets run out, we will go another time."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Что ты будешь делать, если он откажется?",
                 "en": "What will you do if he refuses?"
               },
@@ -5839,22 +5839,22 @@
                 "en": "If we lived closer, we would see each other more often."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если бы у него была возможность, он бы уехал за границу.",
                 "en": "If he had the chance, he would move abroad."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я бы не стал так поступать на твоём месте.",
                 "en": "I wouldn't act like that in your place."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы я говорил свободно по-английски, я бы сменил работу.",
                 "en": "If I spoke English fluently, I would change jobs."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Что бы вы изменили, если бы могли начать сначала?",
                 "en": "What would you change if you could start over?"
               },
@@ -5928,22 +5928,22 @@
                 "en": "If I could choose any profession, I would become a doctor."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если бы она попросила, я бы точно согласился.",
                 "en": "If she asked, I would definitely agree."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Что случилось бы, если бы никто не пришёл?",
                 "en": "What would happen if nobody came?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы мир был справедливее, жить было бы легче.",
                 "en": "If the world were fairer, life would be easier."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я бы купил этот дом, если бы у меня хватило денег.",
                 "en": "I would buy this house if I had enough money."
               },
@@ -6092,22 +6092,22 @@
                 "en": "This painting was painted by a famous artist."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Заявки принимаются до пятницы.",
                 "en": "Applications are accepted until Friday."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Проект был завершён вовремя.",
                 "en": "The project was completed on time."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Ошибка была замечена только на следующий день.",
                 "en": "The mistake was noticed only the next day."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Все документы должны быть подписаны сегодня.",
                 "en": "All documents must be signed today."
               },
@@ -6181,22 +6181,22 @@
                 "en": "Candidates will be notified by email."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Все данные хранятся в безопасности.",
                 "en": "All data is kept secure."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мост был закрыт на ремонт.",
                 "en": "The bridge was closed for repairs."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Результаты были объявлены вчера вечером.",
                 "en": "The results were announced last night."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Это решение было тщательно продумано.",
                 "en": "This decision was carefully thought through."
               },
@@ -6270,22 +6270,22 @@
                 "en": "She said she would call back tomorrow."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Учитель сказал, что экзамен будет трудным.",
                 "en": "The teacher said the exam would be difficult."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Он объяснил, почему опоздал.",
                 "en": "He explained why he was late."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Она призналась, что была неправа.",
                 "en": "She admitted that she was wrong."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Они обещали, что закончат к пятнице.",
                 "en": "They promised they would finish by Friday."
               },
@@ -6434,22 +6434,22 @@
                 "en": "He said he didn't remember this conversation."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Они заявили, что не изменят своего решения.",
                 "en": "They stated that they would not change their decision."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Она спросила, когда начнётся урок.",
                 "en": "She asked when the lesson would start."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Он сказал, что подумает об этом.",
                 "en": "He said he would think about it."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она сообщила, что переезжает в другой город.",
                 "en": "She informed us that she was moving to another city."
               },
@@ -6523,22 +6523,22 @@
                 "en": "What if we tried a different approach?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я бы порекомендовал сначала всё перепроверить.",
                 "en": "I would recommend double-checking everything first."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Почему бы тебе не отдохнуть немного?",
                 "en": "Why don't you take a little rest?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Давай подождём и посмотрим, что будет.",
                 "en": "Let's wait and see what happens."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Тебе лучше поговорить с ним напрямую.",
                 "en": "You'd better talk to him directly."
               },
@@ -6612,22 +6612,22 @@
                 "en": "I think we should consider all the options."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Может, попробуем что-то новое на этот раз?",
                 "en": "Maybe we should try something new this time?"
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Советую тебе не торопиться с решением.",
                 "en": "I advise you not to rush the decision."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Давайте установим чёткий срок для этого.",
                 "en": "Let's set a clear deadline for this."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Тебе стоило бы извиниться перед ней.",
                 "en": "You should apologize to her."
               },
@@ -6709,22 +6709,22 @@
                 "en": "He grew up in a small town in the south."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Пожалуйста, заполни эту форму перед собеседованием.",
                 "en": "Please fill out this form before the interview."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мне нужно разобраться с этим беспорядком до вечера.",
                 "en": "I need to clean up this mess before evening."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Компания уволила треть сотрудников в прошлом году.",
                 "en": "The company laid off a third of its staff last year."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Давай встретимся у входа в десять.",
                 "en": "Let's meet up at the entrance at ten."
               },
@@ -6798,22 +6798,22 @@
                 "en": "Kids grow up fast, you won't even notice."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он извинился и постарался всё исправить.",
                 "en": "He apologized and tried to make up for it."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Я откладываю деньги на новую машину.",
                 "en": "I'm putting aside money for a new car."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Она рассталась со своим парнем месяц назад.",
                 "en": "She broke up with her boyfriend a month ago."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Давай разберёмся с этим сейчас, а не позже.",
                 "en": "Let's sort this out now, not later."
               },
@@ -6887,22 +6887,22 @@
                 "en": "On the one hand, it's convenient, but on the other, it's expensive."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Я не уверен, что это лучшее решение.",
                 "en": "I'm not sure this is the best solution."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Насколько я понимаю, встреча перенесена.",
                 "en": "As far as I understand, the meeting has been rescheduled."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Ты вправе не соглашаться, но я думаю иначе.",
                 "en": "You're entitled to disagree, but I think differently."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "По-моему, эта книга сильно переоценена.",
                 "en": "In my view, this book is seriously overrated."
               },
@@ -7051,22 +7051,22 @@
                 "en": "Let me disagree with that statement."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Хорошая мысль, но я вижу это иначе.",
                 "en": "Good point, but I see it differently."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Она редко высказывает своё мнение на собраниях.",
                 "en": "She rarely voices her opinion at meetings."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Ты действительно так считаешь, или просто дразнишь меня?",
                 "en": "Do you really think that, or are you just teasing me?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Давай сойдёмся на том, что мы не согласны.",
                 "en": "Let's agree to disagree."
               },
@@ -7140,22 +7140,22 @@
                 "en": "I wouldn't have believed it if I hadn't seen it with my own eyes."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если бы у них было больше денег, они бы купили дом раньше.",
                 "en": "If they had had more money, they would have bought a house sooner."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Она бы не расстроилась, если бы ты извинился сразу.",
                 "en": "She wouldn't have been upset if you had apologized right away."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы мы не пропустили автобус, мы бы уже были дома.",
                 "en": "If we hadn't missed the bus, we would already be home."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Я бы принял другое решение на твоём месте.",
                 "en": "I would have made a different decision in your place."
               },
@@ -7229,22 +7229,22 @@
                 "en": "I would have warned you if I had known it would turn out this way."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если бы мы послушали его совет, мы бы избежали этой ошибки.",
                 "en": "If we had listened to his advice, we would have avoided this mistake."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Что бы случилось, если бы он не успел на самолёт?",
                 "en": "What would have happened if he hadn't made it to the plane?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы я не забыл ключи, мне не пришлось бы ждать на улице.",
                 "en": "If I hadn't forgotten my keys, I wouldn't have had to wait outside."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она бы согласилась, если бы условия были немного лучше.",
                 "en": "She would have agreed if the terms had been a little better."
               },
@@ -7393,22 +7393,22 @@
                 "en": "Do you know why the train is delayed?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он поинтересовался, откуда я приехал.",
                 "en": "He asked where I came from."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Она хотела знать, буду ли я на вечеринке.",
                 "en": "She wanted to know if I would be at the party."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Не подскажете, как пройти до вокзала отсюда?",
                 "en": "Could you tell me how to get to the station from here?"
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Менеджер спросил, почему отчёт ещё не готов.",
                 "en": "The manager asked why the report wasn't ready yet."
               },
@@ -7482,22 +7482,22 @@
                 "en": "I wonder how many people will come to the meeting."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Он спросил меня, когда я планирую вернуться.",
                 "en": "He asked me when I was planning to come back."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Не знаете, есть ли здесь поблизости хороший ресторан?",
                 "en": "Do you know if there's a good restaurant nearby?"
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Она спросила, почему я не ответил на её сообщение.",
                 "en": "She asked why I hadn't replied to her message."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мне бы хотелось узнать, что вы думаете по этому поводу.",
                 "en": "I'd like to know what you think about this."
               },
@@ -7571,22 +7571,22 @@
                 "en": "She must be tired after such a long flight."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Может быть, они застряли в пробке.",
                 "en": "They might be stuck in traffic."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Он не мог этого сказать, это на него не похоже.",
                 "en": "He can't have said that, it's not like him."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Возможно, она уже знает эту новость.",
                 "en": "She might already know the news."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Судя по акценту, он, должно быть, из Шотландии.",
                 "en": "Judging by the accent, he must be from Scotland."
               },
@@ -7735,22 +7735,22 @@
                 "en": "They might have decided to stay home because of the rain."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Судя по тишине, собрание, должно быть, уже закончилось.",
                 "en": "Judging by the silence, the meeting must have already ended."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Он, наверное, не получил моё сообщение.",
                 "en": "He probably didn't get my message."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Возможно, она просто стеснялась спросить.",
                 "en": "She might have simply been too shy to ask."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Не может быть, чтобы цена была настолько низкой.",
                 "en": "The price can't be that low."
               },
@@ -7824,22 +7824,22 @@
                 "en": "The sooner we start, the faster we'll finish."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она гораздо терпеливее, чем я в подобных ситуациях.",
                 "en": "She is far more patient than I am in situations like this."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "В то время как одни любят перемены, другие их боятся.",
                 "en": "While some people love change, others are afraid of it."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Это решение не такое дорогое, как кажется на первый взгляд.",
                 "en": "This solution isn't as expensive as it seems at first glance."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "По сравнению с прошлым годом, продажи выросли вдвое.",
                 "en": "Compared to last year, sales have doubled."
               },
@@ -7913,22 +7913,22 @@
                 "en": "This model isn't as reliable as the more expensive version."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "В противоположность своим словам, он действовал совсем иначе.",
                 "en": "Contrary to what he said, he acted quite differently."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Оба варианта хороши, но этот немного дешевле.",
                 "en": "Both options are good, but this one is a bit cheaper."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "По сравнению с другими кандидатами, у неё гораздо больше опыта.",
                 "en": "Compared to the other candidates, she has far more experience."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Чем сложнее задача, тем интереснее мне её решать.",
                 "en": "The harder the task, the more interesting it is for me to solve."
               },
@@ -8010,22 +8010,22 @@
                 "en": "If only we had had more time to prepare."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Жаль, что я согласился на этот проект.",
                 "en": "I wish I hadn't agreed to this project."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Хотелось бы, чтобы погода была получше на выходных.",
                 "en": "I wish the weather were better this weekend."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы только он послушал наш совет тогда.",
                 "en": "If only he had listened to our advice back then."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Жаль, что я не могу вернуться и всё исправить.",
                 "en": "I wish I could go back and fix everything."
               },
@@ -8099,22 +8099,22 @@
                 "en": "I wish she had told us sooner."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Хотелось бы мне уметь так же хорошо готовить, как ты.",
                 "en": "I wish I could cook as well as you."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Если бы только это решение было в моих руках.",
                 "en": "If only this decision were in my hands."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Жаль, что я не сохранил эти фотографии.",
                 "en": "I wish I had saved those photos."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Хотелось бы, чтобы всё было по-другому.",
                 "en": "I wish things were different."
               },
@@ -8188,22 +8188,22 @@
                 "en": "If you weren't so busy, you would understand the situation better."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если бы я изучал программирование раньше, сейчас мне было бы легче найти работу.",
                 "en": "If I had studied programming earlier, it would be easier for me to find a job now."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Если бы она не переехала за границу, она была бы сейчас здесь с нами.",
                 "en": "If she hadn't moved abroad, she would be here with us now."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы у него не было такого сильного характера, он бы сейчас сдался.",
                 "en": "If he didn't have such a strong character, he would have given up by now."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Если бы мы не потратили все деньги, у нас была бы сейчас финансовая подушка.",
                 "en": "If we hadn't spent all the money, we would have a financial cushion now."
               },
@@ -8352,22 +8352,22 @@
                 "en": "If we hadn't made that decision, the company would be in a better position now."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если бы я не был левшой, мне было бы сейчас проще пользоваться этими инструментами.",
                 "en": "If I weren't left-handed, it would be easier for me to use these tools now."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Если бы она не потеряла тот контракт, у неё сейчас был бы свой бизнес.",
                 "en": "If she hadn't lost that contract, she would have her own business now."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Если бы я не пропустил тот экзамен, моя жизнь пошла бы совсем по-другому.",
                 "en": "If I hadn't missed that exam, my life would have turned out very differently."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Если бы мы не были так осторожны тогда, сейчас всё могло бы обернуться хуже.",
                 "en": "If we hadn't been so careful back then, things could be much worse now."
               },
@@ -8441,22 +8441,22 @@
                 "en": "Applications can be submitted online right now."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Здание, возможно, будет снесено в следующем году.",
                 "en": "The building might be demolished next year."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Эти данные не должны были быть переданы третьим лицам.",
                 "en": "This data shouldn't have been shared with third parties."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Решение будет принято советом директоров на этой неделе.",
                 "en": "The decision will be made by the board of directors this week."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Проект мог бы быть завершён вовремя, если бы не задержки.",
                 "en": "The project could have been completed on time if it weren't for the delays."
               },
@@ -8530,22 +8530,22 @@
                 "en": "The results of the study will be published next month."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Все жалобы должны рассматриваться в течение пяти рабочих дней.",
                 "en": "All complaints must be reviewed within five business days."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Этот метод давно используется в медицине.",
                 "en": "This method has long been used in medicine."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Возможно, эта информация уже была раскрыта журналистам.",
                 "en": "This information may have already been disclosed to journalists."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Проект должен быть представлен руководству до пятницы.",
                 "en": "The project must be presented to management by Friday."
               },
@@ -8694,22 +8694,22 @@
                 "en": "Little did anyone expect such a turn of events."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Не только она выиграла конкурс, но и получила стипендию.",
                 "en": "Not only did she win the competition, but she also got a scholarship."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Едва мы сели за стол, как погас свет.",
                 "en": "Hardly had we sat down at the table when the lights went out."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Только тогда я осознал, как сильно ошибался.",
                 "en": "Only then did I realize how wrong I had been."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Никогда ещё компания не сталкивалась с таким кризисом.",
                 "en": "Never has the company faced such a crisis before."
               },
@@ -8783,22 +8783,22 @@
                 "en": "Never before have I felt so confident."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Едва он открыл рот, как все замолчали.",
                 "en": "No sooner had he opened his mouth than everyone fell silent."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Только сейчас я начинаю понимать, чего мне это стоило.",
                 "en": "Only now am I beginning to understand what it cost me."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Ни секунды не колеблясь, она приняла решение.",
                 "en": "Without a moment's hesitation, she made her decision."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Так редко выпадает шанс начать всё заново.",
                 "en": "So rarely does one get the chance to start over."
               },
@@ -8872,22 +8872,22 @@
                 "en": "Automation threatens to replace entire professions in the future."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Доступ к информации стал проще, но её достоверность вызывает сомнения.",
                 "en": "Access to information has become easier, but its reliability is questionable."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Урбанизация меняет структуру традиционных обществ.",
                 "en": "Urbanization is changing the structure of traditional societies."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Приватность в цифровую эпоху становится всё более редким явлением.",
                 "en": "Privacy in the digital age is becoming an increasingly rare thing."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Общество постепенно привыкает к удалённой работе как к норме.",
                 "en": "Society is gradually getting used to remote work as the norm."
               },
@@ -9036,22 +9036,22 @@
                 "en": "Economic growth doesn't always mean an improvement in quality of life."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Кибербезопасность стала одним из главных приоритетов для бизнеса.",
                 "en": "Cybersecurity has become one of the top priorities for businesses."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Общественное мнение всё сильнее формируется под влиянием алгоритмов.",
                 "en": "Public opinion is increasingly shaped by algorithms."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Устойчивое развитие требует пересмотра привычных моделей потребления.",
                 "en": "Sustainable development requires rethinking familiar consumption patterns."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Технологический прогресс ставит перед обществом новые этические вопросы.",
                 "en": "Technological progress raises new ethical questions for society."
               },
@@ -9125,22 +9125,22 @@
                 "en": "Even though he was against it, the decision was made anyway."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Ввиду сложившейся ситуации, встречу пришлось перенести.",
                 "en": "In view of the current situation, the meeting had to be postponed."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Иными словами, нам нужно полностью пересмотреть наш подход.",
                 "en": "In other words, we need to completely rethink our approach."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "С другой стороны, у этого решения есть и свои преимущества.",
                 "en": "On the other hand, this decision does have its advantages."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Следовательно, мы должны действовать быстрее, чем планировали.",
                 "en": "Consequently, we need to act faster than planned."
               },
@@ -9214,22 +9214,22 @@
                 "en": "In light of this, we'll have to change the entire schedule."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Хотя это и звучит просто, на деле всё гораздо сложнее.",
                 "en": "Although it sounds simple, in reality it's much more complicated."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Таким образом, мы приходим к вполне логичному выводу.",
                 "en": "Thus, we arrive at a fairly logical conclusion."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Несмотря на разногласия, команда сумела найти компромисс.",
                 "en": "Despite the disagreements, the team managed to find a compromise."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "В конечном счёте, именно эти детали определили успех проекта.",
                 "en": "Ultimately, it was these details that determined the project's success."
               },
@@ -9311,22 +9311,22 @@
                 "en": "I could be wrong, but I feel there's a problem here."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Если честно, я не совсем уверен, что это сработает.",
                 "en": "To be honest, I'm not entirely sure this will work."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Не хочу давить, но нам действительно нужно решение сегодня.",
                 "en": "I don't want to push, but we really do need a decision today."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Кажется, есть небольшое недопонимание между нами.",
                 "en": "There seems to be a slight misunderstanding between us."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Возможно, стоит взглянуть на это немного иначе.",
                 "en": "It might be worth looking at this a bit differently."
               },
@@ -9400,22 +9400,22 @@
                 "en": "I don't want to interfere, but this seems worth discussing."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Возможно, дело не совсем в том, о чём мы думаем.",
                 "en": "It might not quite be about what we think it is."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "По правде говоря, я не совсем понимаю, к чему ты клонишь.",
                 "en": "To tell the truth, I don't quite understand what you're getting at."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Не то чтобы это было плохо, просто есть варианты получше.",
                 "en": "It's not that it's bad, there are just better options."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мне кажется, тут стоит проявить немного больше осторожности.",
                 "en": "I feel we should be a bit more careful here."
               },
@@ -9489,22 +9489,22 @@
                 "en": "He always keeps his word, no matter what happens."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мы приняли это близко к сердцу.",
                 "en": "We took it to heart."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Она умеет держать себя в руках даже в стрессовых ситуациях.",
                 "en": "She knows how to keep her composure even in stressful situations."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Это решение открывает нам новые возможности.",
                 "en": "This decision opens up new opportunities for us."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Он взял на себя инициативу и возглавил команду.",
                 "en": "He took the initiative and led the team."
               },
@@ -9653,22 +9653,22 @@
                 "en": "We need to keep calm in this situation."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она внесла значительный вклад в успех команды.",
                 "en": "She made a significant contribution to the team's success."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Он поставил под сомнение целесообразность этого плана.",
                 "en": "He questioned the wisdom of this plan."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы должны идти в ногу со временем.",
                 "en": "We need to keep up with the times."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Она приняла вызов и не отступила.",
                 "en": "She took up the challenge and didn't back down."
               },
@@ -9742,22 +9742,22 @@
                 "en": "We were walking through the park when it started raining heavily."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она уже уехала, когда я наконец решил ей позвонить.",
                 "en": "She had already left by the time I finally decided to call her."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Пока родители обсуждали планы, дети смотрели телевизор.",
                 "en": "While the parents were discussing plans, the kids were watching TV."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я вспомнил, что забыл ключи, только когда дошёл до двери.",
                 "en": "I remembered I had forgotten my keys only when I reached the door."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Они уже начали ужинать, когда я наконец добрался до дома.",
                 "en": "They had already started dinner by the time I finally got home."
               },
@@ -9831,22 +9831,22 @@
                 "en": "While the kids were sleeping, the parents were quietly discussing plans for the future."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Она уже забыла об этом разговоре, когда я снова его упомянул.",
                 "en": "She had already forgotten about that conversation when I brought it up again."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Пока мы искали место для парковки, начался дождь.",
                 "en": "While we were looking for a parking spot, it started raining."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я как раз собирался уходить, когда пришло твоё сообщение.",
                 "en": "I was just about to leave when your message arrived."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "К тому моменту, как подали десерт, все уже наелись.",
                 "en": "By the time dessert was served, everyone was already full."
               },
@@ -9995,22 +9995,22 @@
                 "en": "This decision was made after a thorough analysis of the situation."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Хотелось бы подчеркнуть важность своевременного выполнения задач.",
                 "en": "We would like to emphasize the importance of completing tasks on time."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мы готовы обсудить все детали в удобное для вас время.",
                 "en": "We are ready to discuss all the details at your convenience."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Прошу прощения за возможные неудобства, вызванные задержкой.",
                 "en": "I apologize for any inconvenience caused by the delay."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Данный вопрос требует незамедлительного рассмотрения.",
                 "en": "This matter requires immediate consideration."
               },
@@ -10084,22 +10084,22 @@
                 "en": "We are compelled to postpone making a final decision."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Данная инициатива заслуживает особого внимания со стороны руководства.",
                 "en": "This initiative deserves special attention from management."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Просим извинить за задержку с ответом на ваше письмо.",
                 "en": "Please accept our apologies for the delay in responding to your letter."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы уверены, что данное предложение отвечает интересам обеих сторон.",
                 "en": "We are confident that this proposal serves the interests of both parties."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Благодарим за понимание и терпение в данной ситуации.",
                 "en": "Thank you for your understanding and patience in this situation."
               },
@@ -10173,22 +10173,22 @@
                 "en": "I was pleasantly surprised by how everything went."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Признаюсь, эта ситуация вызывает у меня смешанные чувства.",
                 "en": "I admit this situation gives me mixed feelings."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Меня искренне трогает то, как она заботится о своей семье.",
                 "en": "I'm genuinely touched by how she takes care of her family."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я не могу скрыть своего разочарования этим результатом.",
                 "en": "I can't hide my disappointment with this result."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Мне немного не по себе от того, как быстро всё меняется.",
                 "en": "I feel a bit uneasy about how quickly everything is changing."
               },
@@ -10337,22 +10337,22 @@
                 "en": "I feel genuine gratitude for your support."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Меня немного смущает такое количество внимания.",
                 "en": "I'm a bit embarrassed by all this attention."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Не скрою, эта ситуация вызывает у меня тревогу.",
                 "en": "I won't hide that this situation makes me anxious."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Я искренне восхищён тем, как ты со всем справилась.",
                 "en": "I'm genuinely impressed by how you handled everything."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Меня не покидает ощущение, что мы что-то упускаем.",
                 "en": "I can't shake the feeling that we're missing something."
               },
@@ -10426,22 +10426,22 @@
                 "en": "Ideally, we should have finished this sooner."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "По сути, у нас нет другого выбора, кроме как согласиться.",
                 "en": "Essentially, we have no choice but to agree."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "В крайнем случае, мы всегда можем перенести срок.",
                 "en": "As a last resort, we can always postpone the deadline."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Разумеется, окончательное решение остаётся за тобой.",
                 "en": "Naturally, the final decision remains yours."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Вероятно, стоило бы обсудить это с командой заранее.",
                 "en": "It would probably be worth discussing this with the team in advance."
               },
@@ -10515,22 +10515,22 @@
                 "en": "As a rule, such matters are decided at the management level."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Пожалуй, стоит обдумать это ещё раз, прежде чем решать.",
                 "en": "Perhaps it's worth thinking this over again before deciding."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "В крайнем случае, мы можем обратиться за помощью извне.",
                 "en": "As a last resort, we can seek outside help."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Скорее всего, нам придётся пересмотреть весь бюджет.",
                 "en": "We'll most likely have to revise the entire budget."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "В целом, ситуация выглядит гораздо лучше, чем раньше.",
                 "en": "Overall, the situation looks much better than before."
               },
@@ -10612,22 +10612,22 @@
                 "en": "The data presented point to a steady downward trend."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Этот подход, хотя и распространён, не лишён существенных недостатков.",
                 "en": "This approach, while widespread, is not without significant drawbacks."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Согласно последним исследованиям, ситуация значительно сложнее, чем считалось ранее.",
                 "en": "According to recent research, the situation is considerably more complex than previously thought."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Данное утверждение требует дополнительного эмпирического подтверждения.",
                 "en": "This claim requires further empirical confirmation."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "В целом можно утверждать, что результаты подтверждают исходную гипотезу.",
                 "en": "Overall, it can be argued that the results support the original hypothesis."
               },
@@ -10701,22 +10701,22 @@
                 "en": "The findings partly contradict previous research."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Гипотеза была впоследствии опровергнута дальнейшими экспериментами.",
                 "en": "The hypothesis was subsequently disproved by further experiments."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Учитывая имеющиеся данные, разумно предположить обратное.",
                 "en": "Given the available data, it is reasonable to assume the opposite."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Этот вопрос выходит за рамки данной статьи и заслуживает отдельного рассмотрения.",
                 "en": "This question falls outside the scope of this article and deserves separate consideration."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Совокупность факторов указывает на многогранную природу проблемы.",
                 "en": "The combination of factors points to the multifaceted nature of the problem."
               },
@@ -10790,22 +10790,22 @@
                 "en": "Who, if not us, should take on this responsibility?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Не только эксперты, но и обычные граждане замечают эту проблему.",
                 "en": "Not only experts, but ordinary citizens too are noticing this problem."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "История, как известно, повторяется — и не всегда в нашу пользу.",
                 "en": "History, as we know, repeats itself — and not always in our favor."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Чем дольше мы медлим, тем труднее будет найти решение.",
                 "en": "The longer we delay, the harder it will be to find a solution."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Это не просто вопрос политики — это вопрос принципа.",
                 "en": "This is not simply a matter of policy — it is a matter of principle."
               },
@@ -10950,22 +10950,22 @@
                 "en": "If not now, then when? If not us, then who?"
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Подобные аргументы звучат убедительно лишь на первый взгляд.",
                 "en": "Such arguments sound convincing only at first glance."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Реальность, увы, куда сложнее, чем нам хотелось бы верить.",
                 "en": "Reality, alas, is far more complex than we would like to believe."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Стоит задаться вопросом, чего мы на самом деле добиваемся.",
                 "en": "It is worth asking what we are actually trying to achieve."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Пусть цифры говорят сами за себя.",
                 "en": "Let the numbers speak for themselves."
               },
@@ -11039,22 +11039,22 @@
                 "en": "For all its complexity, the problem has a fairly simple solution."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Несмотря на то что данные неполны, общая картина довольно ясна.",
                 "en": "Even though the data is incomplete, the overall picture is fairly clear."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Вопреки распространённому мнению, это далеко не новое явление.",
                 "en": "Contrary to popular belief, this is far from a new phenomenon."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Хотя и с оговорками, большинство экспертов поддерживают эту идею.",
                 "en": "Although with reservations, most experts support this idea."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Тогда как первый вариант проще, второй значительно надёжнее.",
                 "en": "Whereas the first option is simpler, the second is significantly more reliable."
               },
@@ -11128,22 +11128,22 @@
                 "en": "However convenient this path may seem, it is not without risks."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "В отличие от предыдущей версии, эта модель работает значительно быстрее.",
                 "en": "Unlike the previous version, this model works significantly faster."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Хотя цель оправдывает средства не всегда, в данном случае это применимо.",
                 "en": "Although the end doesn't always justify the means, it applies in this case."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Несмотря на разногласия, команда сумела прийти к единому решению.",
                 "en": "Despite the disagreements, the team managed to reach a unified decision."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Как бы то ни было, решение должно быть принято до конца недели.",
                 "en": "Be that as it may, the decision must be made by the end of the week."
               },
@@ -11288,22 +11288,22 @@
                 "en": "This proposal seems to us to be a reasonable compromise."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Мы бы предпочли отложить окончательное решение до следующей встречи.",
                 "en": "We would prefer to postpone the final decision until the next meeting."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Позвольте выразить некоторую обеспокоенность по поводу сроков.",
                 "en": "Allow me to express some concern regarding the timeline."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Мы высоко ценим вашу готовность к диалогу по этому вопросу.",
                 "en": "We greatly appreciate your willingness to engage in dialogue on this matter."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Было бы разумно рассмотреть все варианты, прежде чем принимать решение.",
                 "en": "It would be wise to consider all options before making a decision."
               },
@@ -11377,22 +11377,22 @@
                 "en": "We are open to further negotiations under reasonable conditions."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Позвольте заметить, что подобный подход уже доказал свою эффективность.",
                 "en": "Allow me to note that this approach has already proven effective."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Мы настоятельно рекомендуем пересмотреть данный пункт соглашения.",
                 "en": "We strongly recommend revisiting this clause of the agreement."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "При всей симпатии к вашей позиции, мы не можем принять эти условия.",
                 "en": "For all our sympathy toward your position, we cannot accept these terms."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Надеемся на дальнейшее плодотворное сотрудничество между нашими сторонами.",
                 "en": "We look forward to further fruitful cooperation between our parties."
               },
@@ -11466,22 +11466,22 @@
                 "en": "Human nature, it seems, combines both altruism and self-interest."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Границы между добром и злом порой куда более размыты, чем кажется.",
                 "en": "The boundaries between good and evil are sometimes far blurrier than they seem."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Идентичность формируется на пересечении личного опыта и общества.",
                 "en": "Identity is formed at the intersection of personal experience and society."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Знание само по себе не гарантирует мудрости.",
                 "en": "Knowledge in itself does not guarantee wisdom."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Вопрос свободы воли остаётся предметом споров на протяжении веков.",
                 "en": "The question of free will has remained a subject of debate for centuries."
               },
@@ -11626,22 +11626,22 @@
                 "en": "Individuality and belonging to society often come into conflict."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "Понимание себя, возможно, начинается с признания собственных противоречий.",
                 "en": "Understanding oneself perhaps begins with acknowledging one's own contradictions."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Технологии меняют не только образ жизни, но и саму суть человеческих отношений.",
                 "en": "Technology changes not only our way of life, but the very nature of human relationships."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Смысл, судя по всему, не столько находят, сколько создают.",
                 "en": "Meaning, it seems, is not so much found as it is created."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Наши убеждения формируются задолго до того, как мы начинаем подвергать их сомнению.",
                 "en": "Our beliefs are formed long before we begin to question them."
               },
@@ -11715,22 +11715,22 @@
                 "en": "In other words, the problem is much deeper than it appears at first glance."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "В конечном счёте, именно результат определяет ценность усилий.",
                 "en": "Ultimately, it is the outcome that determines the value of the effort."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Что примечательно, никто из участников не выразил открытого несогласия.",
                 "en": "What's notable is that none of the participants voiced open disagreement."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Как следствие, доверие к институту оказалось серьёзно подорвано.",
                 "en": "As a consequence, trust in the institution was seriously undermined."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "Вместе с тем, нельзя игнорировать и положительные стороны предложения.",
                 "en": "At the same time, one cannot ignore the positive aspects of the proposal."
               },
@@ -11804,22 +11804,22 @@
                 "en": "Besides this, the long-term consequences of the decision should also be considered."
               },
               {
-                "type": "type-answer",
+                "type": "listening-choice",
                 "ru": "В сущности, оба подхода преследуют одну и ту же цель.",
                 "en": "In essence, both approaches pursue the same goal."
               },
               {
-                "type": "multiple-choice",
+                "type": "type-answer",
                 "ru": "Как бы там ни было, время для промедления уже прошло.",
                 "en": "However that may be, the time for delay has already passed."
               },
               {
-                "type": "word-bank",
+                "type": "listening-tap",
                 "ru": "Соответственно, следующим шагом должен стать пересмотр стратегии.",
                 "en": "Accordingly, the next step should be a revision of the strategy."
               },
               {
-                "type": "listening",
+                "type": "multiple-choice",
                 "ru": "В заключение стоит отметить, что вопрос остаётся открытым.",
                 "en": "In conclusion, it is worth noting that the question remains open."
               },
