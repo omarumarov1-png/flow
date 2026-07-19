@@ -408,6 +408,9 @@
     if (ex.type === "comprehension") renderComprehension(ex);
     else if (ex.type === "multiple-choice") renderMultipleChoice(ex);
     else if (ex.type === "word-bank") renderWordBank(ex);
+    else if (ex.type === "listening") renderListening(ex);
+    else if (ex.type === "fill-blank") renderFillBlank(ex);
+    else if (ex.type === "matching") renderMatching(ex);
     else renderTypeAnswer(ex);
   }
 
@@ -541,7 +544,8 @@
   function renderMultipleChoice(ex) {
     const siblingTexts = (ex._sourceLesson.exercises || [])
       .filter(e => !(e.ru === ex.ru && e.en === ex.en))
-      .map(e => e.en);
+      .map(e => e.en)
+      .filter(Boolean);
     const pool = Array.from(new Set(siblingTexts.filter(t => t !== ex.en)));
     const distractors = shuffled(pool).slice(0, 3);
     const options = shuffled([ex.en, ...distractors]);
@@ -686,6 +690,140 @@
       screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.en));
       wireFeedbackReplay(ex.en);
       advanceAfterSpeech(ex.en, correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+    });
+  }
+
+  // ---------- listening dictation ----------
+  function renderListening(ex) {
+    renderLessonChrome(`
+      <div class="card">
+        <div class="prompt-kicker"><span>Прослушай и напиши</span></div>
+        <button class="listen-replay-btn" id="listenReplayBtn" type="button" aria-label="Прослушать снова">🔊 Слушать</button>
+        <form class="type-answer-form" id="typeForm">
+          <input class="type-answer-input" id="typeInput" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Напиши то, что услышал..." />
+          <button class="type-submit-btn" id="typeSubmitBtn" type="submit" disabled>Проверить</button>
+          <button type="button" class="translit-toggle" id="listenTranslitToggle">Показать перевод</button>
+          <p class="translit hidden" id="listenTranslitText">${ex.ru}</p>
+        </form>
+      </div>
+    `);
+    const input = document.getElementById("typeInput");
+    const submitBtn = document.getElementById("typeSubmitBtn");
+    const replayBtn = document.getElementById("listenReplayBtn");
+    const translitToggle = document.getElementById("listenTranslitToggle");
+    input.addEventListener("input", () => { submitBtn.disabled = !input.value.trim(); });
+    replayBtn.addEventListener("click", () => speak(ex.en));
+    translitToggle.addEventListener("click", () => {
+      const t = document.getElementById("listenTranslitText");
+      t.classList.toggle("hidden");
+      translitToggle.textContent = t.classList.contains("hidden") ? "Показать перевод" : "Скрыть перевод";
+    });
+    setTimeout(() => speak(ex.en), 300);
+
+    document.getElementById("typeForm").addEventListener("submit", e => {
+      e.preventDefault();
+      if (!input.value.trim()) return;
+      const dist = levenshtein(normalizeAnswer(input.value), normalizeAnswer(ex.en));
+      const tolerance = Math.max(1, Math.floor(normalizeAnswer(ex.en).length * 0.08));
+      const correct = dist <= tolerance;
+      input.disabled = true;
+      submitBtn.disabled = true;
+      input.classList.add(correct ? "correct" : "incorrect");
+      afterAnswer(correct, ex);
+      screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.en));
+      wireFeedbackReplay(ex.en);
+      advanceAfterSpeech(ex.en, correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+    });
+  }
+
+  // ---------- fill in the blank ----------
+  function renderFillBlank(ex) {
+    const options = shuffled(ex.options);
+    renderLessonChrome(`
+      <div class="card">
+        <div class="prompt-kicker"><span>Заполни пропуск</span></div>
+        <div class="prompt-native">${ex.ru}</div>
+        <div class="fill-blank-sentence">${ex.blankedEn}</div>
+        <div class="options" id="options">
+          ${options.map((opt, i) => `<button class="option" data-word="${opt}">${opt}</button>`).join("")}
+        </div>
+      </div>
+    `);
+    let answered = false;
+    document.querySelectorAll("#options .option").forEach(btn => {
+      btn.addEventListener("click", () => {
+        if (answered) return;
+        answered = true;
+        const correct = btn.dataset.word === ex.answer;
+        document.querySelectorAll("#options .option").forEach(b => b.disabled = true);
+        btn.classList.add(correct ? "correct" : "incorrect");
+        if (!correct) document.querySelector(`#options .option[data-word="${ex.answer}"]`).classList.add("correct");
+        const fullSentence = ex.blankedEn.replace("___", ex.answer);
+        afterAnswer(correct, { ru: ex.ru, en: fullSentence });
+        screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, fullSentence));
+        wireFeedbackReplay(fullSentence);
+        advanceAfterSpeech(fullSentence, correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+      });
+    });
+  }
+
+  // ---------- matching pairs ----------
+  function renderMatching(ex) {
+    const leftOrder = shuffled(ex.pairs.map((p, i) => i));
+    const rightOrder = shuffled(ex.pairs.map((p, i) => i));
+    renderLessonChrome(`
+      <div class="card">
+        <div class="prompt-kicker"><span>Найди пары</span></div>
+        <div class="matching-grid">
+          <div class="matching-col" id="matchLeft">
+            ${leftOrder.map(i => `<button class="match-card" data-i="${i}" data-side="ru">${ex.pairs[i].ru}</button>`).join("")}
+          </div>
+          <div class="matching-col" id="matchRight">
+            ${rightOrder.map(i => `<button class="match-card" data-i="${i}" data-side="en">${ex.pairs[i].en}</button>`).join("")}
+          </div>
+        </div>
+      </div>
+    `);
+    let selectedLeft = null, selectedRight = null, matchedCount = 0, mistakes = 0;
+    const total = ex.pairs.length;
+    function tryMatch() {
+      if (selectedLeft === null || selectedRight === null) return;
+      const leftBtn = document.querySelector(`.match-card[data-side="ru"][data-i="${selectedLeft}"]`);
+      const rightBtn = document.querySelector(`.match-card[data-side="en"][data-i="${selectedRight}"]`);
+      if (selectedLeft === selectedRight) {
+        leftBtn.classList.add("matched");
+        rightBtn.classList.add("matched");
+        leftBtn.disabled = true;
+        rightBtn.disabled = true;
+        matchedCount++;
+        if (matchedCount === total) {
+          const correct = mistakes === 0;
+          afterAnswer(correct, { ru: "Найди пары", en: "Matching" });
+          screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, "Все пары найдены"));
+          scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+        }
+      } else {
+        mistakes++;
+        [leftBtn, rightBtn].forEach(b => { b.classList.add("mismatch"); setTimeout(() => b.classList.remove("mismatch"), 350); });
+      }
+      selectedLeft = null; selectedRight = null;
+      document.querySelectorAll(".match-card.selected").forEach(b => b.classList.remove("selected"));
+    }
+    document.querySelectorAll('.match-card[data-side="ru"]').forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll('.match-card[data-side="ru"]').forEach(b => b.classList.remove("selected"));
+        btn.classList.add("selected");
+        selectedLeft = Number(btn.dataset.i);
+        tryMatch();
+      });
+    });
+    document.querySelectorAll('.match-card[data-side="en"]').forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll('.match-card[data-side="en"]').forEach(b => b.classList.remove("selected"));
+        btn.classList.add("selected");
+        selectedRight = Number(btn.dataset.i);
+        tryMatch();
+      });
     });
   }
 
