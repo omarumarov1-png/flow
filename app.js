@@ -277,6 +277,7 @@
   }
 
   function isLessonUnlocked(flatIndex) {
+    if (window.CloudSync && window.CloudSync.isOwner) return true;
     const lesson = flatLessons[flatIndex];
     const levelIdx = course.levels.findIndex(lv => lv.id === lesson.levelId);
     const levelStartFlatIndex = flatLessons.findIndex(l => l.levelId === lesson.levelId);

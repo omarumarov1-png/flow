@@ -223,6 +223,7 @@
       if (user) {
         const ref = doc(db, "apps", APP_ID, "users", user.uid);
         const isOwner = !!(user.email && user.email.toLowerCase() === OWNER_EMAIL);
+        window.CloudSync.isOwner = isOwner;
         let approved = isOwner;
         try {
           const existing = await getDoc(ref);
@@ -258,6 +259,7 @@
         }
         startApp();
       } else {
+        window.CloudSync.isOwner = false;
         window.__appStarted = false;
         hidePending();
         hideLoading();
