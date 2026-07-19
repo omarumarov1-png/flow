@@ -189,8 +189,87 @@
             ]
           },
           {
-            "id": "a1-l2-p2",
+            "id": "a1-reading-1",
             "number": 4,
+            "title": "Meet Anna",
+            "titleNative": "Знакомство с Анной",
+            "description": "Короткий рассказ о знакомстве — тренируем приветствия и глагол to be.",
+            "readingPassage": {
+              "context": "Короткий рассказ о знакомстве — тренируем приветствия и глагол to be.",
+              "paragraphs": [
+                {
+                  "en": "Hi! My name is Anna.",
+                  "ru": "Привет! Меня зовут Анна."
+                },
+                {
+                  "en": "I am from Kazakhstan.",
+                  "ru": "Я из Казахстана."
+                },
+                {
+                  "en": "I am twenty-five years old.",
+                  "ru": "Мне двадцать пять лет."
+                },
+                {
+                  "en": "I am a student.",
+                  "ru": "Я студентка."
+                },
+                {
+                  "en": "My friend's name is Marat.",
+                  "ru": "Моего друга зовут Марат."
+                },
+                {
+                  "en": "He is a teacher.",
+                  "ru": "Он учитель."
+                },
+                {
+                  "en": "We are happy today.",
+                  "ru": "Сегодня мы счастливы."
+                },
+                {
+                  "en": "Nice to meet you!",
+                  "ru": "Приятно познакомиться!"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько лет Анне?",
+                "options": [
+                  "Двадцать",
+                  "Двадцать пять",
+                  "Тридцать",
+                  "Восемнадцать"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Кто такой Марат?",
+                "options": [
+                  "Студент",
+                  "Врач",
+                  "Учитель",
+                  "Инженер"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Откуда Анна?",
+                "options": [
+                  "Из России",
+                  "Из Казахстана",
+                  "Из США",
+                  "Из Китая"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "a1-l2-p2",
+            "number": 5,
             "title": "To Be (Part 2)",
             "titleNative": "Глагол to be · Часть 2",
             "description": "I am, you are, he is",
@@ -249,7 +328,7 @@
           },
           {
             "id": "a1-l3-p1",
-            "number": 5,
+            "number": 6,
             "title": "Family (Part 1)",
             "titleNative": "Семья · Часть 1",
             "description": "Talking about your family",
@@ -308,7 +387,7 @@
           },
           {
             "id": "a1-l3-p2",
-            "number": 6,
+            "number": 7,
             "title": "Family (Part 2)",
             "titleNative": "Семья · Часть 2",
             "description": "Talking about your family",
@@ -366,8 +445,87 @@
             ]
           },
           {
+            "id": "a1-reading-2",
+            "number": 8,
+            "title": "My Family",
+            "titleNative": "Моя семья",
+            "description": "Рассказ о семье и числах — тренируем притяжательные местоимения и цифры.",
+            "readingPassage": {
+              "context": "Рассказ о семье и числах — тренируем притяжательные местоимения и цифры.",
+              "paragraphs": [
+                {
+                  "en": "This is my family.",
+                  "ru": "Это моя семья."
+                },
+                {
+                  "en": "I have two brothers and one sister.",
+                  "ru": "У меня два брата и одна сестра."
+                },
+                {
+                  "en": "My father is a doctor.",
+                  "ru": "Мой отец врач."
+                },
+                {
+                  "en": "My mother is an engineer.",
+                  "ru": "Моя мать инженер."
+                },
+                {
+                  "en": "We have one dog and two cats.",
+                  "ru": "У нас одна собака и две кошки."
+                },
+                {
+                  "en": "My grandmother lives with us.",
+                  "ru": "Моя бабушка живёт с нами."
+                },
+                {
+                  "en": "She is seventy years old.",
+                  "ru": "Ей семьдесят лет."
+                },
+                {
+                  "en": "We are a big, happy family.",
+                  "ru": "Мы большая, счастливая семья."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько братьев у автора?",
+                "options": [
+                  "Один",
+                  "Два",
+                  "Три",
+                  "Ни одного"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Кем работает мама?",
+                "options": [
+                  "Врач",
+                  "Учитель",
+                  "Инженер",
+                  "Студентка"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько лет бабушке?",
+                "options": [
+                  "Шестьдесят",
+                  "Шестьдесят пять",
+                  "Семьдесят",
+                  "Восемьдесят"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "a1-l4-p1",
-            "number": 7,
+            "number": 9,
             "title": "Numbers (Part 1)",
             "titleNative": "Числа · Часть 1",
             "description": "Counting and basic numbers",
@@ -426,7 +584,7 @@
           },
           {
             "id": "a1-l4-p2",
-            "number": 8,
+            "number": 10,
             "title": "Numbers (Part 2)",
             "titleNative": "Числа · Часть 2",
             "description": "Counting and basic numbers",
@@ -485,7 +643,7 @@
           },
           {
             "id": "a1-l5-p1",
-            "number": 9,
+            "number": 11,
             "title": "Daily Routine (Part 1)",
             "titleNative": "Распорядок дня · Часть 1",
             "description": "Everyday actions in simple present",
@@ -543,8 +701,83 @@
             ]
           },
           {
+            "id": "a1-reading-3",
+            "number": 12,
+            "title": "A Normal Day",
+            "titleNative": "Обычный день",
+            "description": "Рассказ о распорядке дня и еде — тренируем настоящее простое время.",
+            "readingPassage": {
+              "context": "Рассказ о распорядке дня и еде — тренируем настоящее простое время.",
+              "paragraphs": [
+                {
+                  "en": "I wake up at seven o'clock.",
+                  "ru": "Я просыпаюсь в семь часов."
+                },
+                {
+                  "en": "I drink coffee for breakfast.",
+                  "ru": "На завтрак я пью кофе."
+                },
+                {
+                  "en": "I go to work at nine.",
+                  "ru": "Я иду на работу в девять."
+                },
+                {
+                  "en": "At noon, I eat lunch with my friends.",
+                  "ru": "В полдень я обедаю с друзьями."
+                },
+                {
+                  "en": "I like tea and fresh bread.",
+                  "ru": "Мне нравятся чай и свежий хлеб."
+                },
+                {
+                  "en": "In the evening, I cook dinner at home.",
+                  "ru": "Вечером я готовлю ужин дома."
+                },
+                {
+                  "en": "I go to bed at eleven o'clock.",
+                  "ru": "Я ложусь спать в одиннадцать часов."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Во сколько автор просыпается?",
+                "options": [
+                  "В шесть",
+                  "В семь",
+                  "В восемь",
+                  "В девять"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что автор пьёт на завтрак?",
+                "options": [
+                  "Чай",
+                  "Сок",
+                  "Кофе",
+                  "Молоко"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "С кем автор обедает?",
+                "options": [
+                  "С семьёй",
+                  "С друзьями",
+                  "Один",
+                  "С коллегами"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a1-l5-p2",
-            "number": 10,
+            "number": 13,
             "title": "Daily Routine (Part 2)",
             "titleNative": "Распорядок дня · Часть 2",
             "description": "Everyday actions in simple present",
@@ -603,7 +836,7 @@
           },
           {
             "id": "a1-l6-p1",
-            "number": 11,
+            "number": 14,
             "title": "Food & Drink (Part 1)",
             "titleNative": "Еда и напитки · Часть 1",
             "description": "Ordering food and talking about meals",
@@ -662,7 +895,7 @@
           },
           {
             "id": "a1-l6-p2",
-            "number": 12,
+            "number": 15,
             "title": "Food & Drink (Part 2)",
             "titleNative": "Еда и напитки · Часть 2",
             "description": "Ordering food and talking about meals",
@@ -720,8 +953,83 @@
             ]
           },
           {
+            "id": "a1-reading-4",
+            "number": 16,
+            "title": "My Blue House",
+            "titleNative": "Мой синий дом",
+            "description": "Рассказ о доме, цветах и погоде — тренируем прилагательные.",
+            "readingPassage": {
+              "context": "Рассказ о доме, цветах и погоде — тренируем прилагательные.",
+              "paragraphs": [
+                {
+                  "en": "My house is blue and white.",
+                  "ru": "Мой дом синий и белый."
+                },
+                {
+                  "en": "There is a red car near the house.",
+                  "ru": "Рядом с домом стоит красная машина."
+                },
+                {
+                  "en": "The kitchen table is brown.",
+                  "ru": "Кухонный стол коричневый."
+                },
+                {
+                  "en": "My bedroom is small but very cozy.",
+                  "ru": "Моя спальня маленькая, но очень уютная."
+                },
+                {
+                  "en": "Today the weather is sunny and warm.",
+                  "ru": "Сегодня погода солнечная и тёплая."
+                },
+                {
+                  "en": "Yesterday it was cold and rainy.",
+                  "ru": "Вчера было холодно и дождливо."
+                },
+                {
+                  "en": "I like sunny days the most.",
+                  "ru": "Больше всего я люблю солнечные дни."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какого цвета дом?",
+                "options": [
+                  "Красный",
+                  "Синий и белый",
+                  "Зелёный",
+                  "Коричневый"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая сегодня погода?",
+                "options": [
+                  "Холодная",
+                  "Дождливая",
+                  "Солнечная и тёплая",
+                  "Снежная"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая спальня у автора?",
+                "options": [
+                  "Большая",
+                  "Маленькая и уютная",
+                  "Холодная",
+                  "Синяя"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a1-l7-p1",
-            "number": 13,
+            "number": 17,
             "title": "Colors & Objects (Part 1)",
             "titleNative": "Цвета и предметы · Часть 1",
             "description": "Describing everyday things",
@@ -780,7 +1088,7 @@
           },
           {
             "id": "a1-l7-p2",
-            "number": 14,
+            "number": 18,
             "title": "Colors & Objects (Part 2)",
             "titleNative": "Цвета и предметы · Часть 2",
             "description": "Describing everyday things",
@@ -839,7 +1147,7 @@
           },
           {
             "id": "a1-l8-p1",
-            "number": 15,
+            "number": 19,
             "title": "Weather & Time (Part 1)",
             "titleNative": "Погода и время · Часть 1",
             "description": "Talking about the weather and telling time",
@@ -897,8 +1205,83 @@
             ]
           },
           {
+            "id": "a1-reading-5",
+            "number": 20,
+            "title": "Questions at the Market",
+            "titleNative": "Вопросы на рынке",
+            "description": "Диалог-рассказ с вопросами — тренируем вопросительные слова.",
+            "readingPassage": {
+              "context": "Диалог-рассказ с вопросами — тренируем вопросительные слова.",
+              "paragraphs": [
+                {
+                  "en": "Where is the market?",
+                  "ru": "Где находится рынок?"
+                },
+                {
+                  "en": "It is near my house, on Green Street.",
+                  "ru": "Он рядом с моим домом, на Зелёной улице."
+                },
+                {
+                  "en": "What do you buy there?",
+                  "ru": "Что ты там покупаешь?"
+                },
+                {
+                  "en": "I buy fruit, vegetables, and bread.",
+                  "ru": "Я покупаю фрукты, овощи и хлеб."
+                },
+                {
+                  "en": "How much does it cost?",
+                  "ru": "Сколько это стоит?"
+                },
+                {
+                  "en": "It doesn't cost much, maybe five dollars.",
+                  "ru": "Это стоит недорого, примерно пять долларов."
+                },
+                {
+                  "en": "I like this market very much.",
+                  "ru": "Мне очень нравится этот рынок."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Где находится рынок?",
+                "options": [
+                  "На Зелёной улице",
+                  "В центре города",
+                  "Далеко от дома",
+                  "На Красной улице"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что покупает автор?",
+                "options": [
+                  "Одежду",
+                  "Фрукты, овощи и хлеб",
+                  "Мебель",
+                  "Книги"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько это стоит?",
+                "options": [
+                  "Один доллар",
+                  "Пять долларов",
+                  "Десять долларов",
+                  "Дорого"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a1-l8-p2",
-            "number": 16,
+            "number": 21,
             "title": "Weather & Time (Part 2)",
             "titleNative": "Погода и время · Часть 2",
             "description": "Talking about the weather and telling time",
@@ -957,7 +1340,7 @@
           },
           {
             "id": "a1-l9-p1",
-            "number": 17,
+            "number": 22,
             "title": "Simple Questions (Part 1)",
             "titleNative": "Простые вопросы · Часть 1",
             "description": "Asking basic questions",
@@ -1016,7 +1399,7 @@
           },
           {
             "id": "a1-l9-p2",
-            "number": 18,
+            "number": 23,
             "title": "Simple Questions (Part 2)",
             "titleNative": "Простые вопросы · Часть 2",
             "description": "Asking basic questions",
@@ -1074,8 +1457,83 @@
             ]
           },
           {
+            "id": "a1-reading-6",
+            "number": 24,
+            "title": "Around Town",
+            "titleNative": "По городу",
+            "description": "Рассказ о местах в городе — тренируем название мест и направления.",
+            "readingPassage": {
+              "context": "Рассказ о местах в городе — тренируем название мест и направления.",
+              "paragraphs": [
+                {
+                  "en": "My city has a park, a school, and a hospital.",
+                  "ru": "В моём городе есть парк, школа и больница."
+                },
+                {
+                  "en": "The park is next to my house.",
+                  "ru": "Парк находится рядом с моим домом."
+                },
+                {
+                  "en": "I walk to the park every morning.",
+                  "ru": "Каждое утро я иду гулять в парк."
+                },
+                {
+                  "en": "My children go to school by bus.",
+                  "ru": "Мои дети едут в школу на автобусе."
+                },
+                {
+                  "en": "The hospital is far from the city center.",
+                  "ru": "Больница находится далеко от центра города."
+                },
+                {
+                  "en": "There is also a nice restaurant downtown.",
+                  "ru": "В центре города есть также хороший ресторан."
+                },
+                {
+                  "en": "I love my city very much.",
+                  "ru": "Я очень люблю свой город."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Где находится парк?",
+                "options": [
+                  "Далеко от дома",
+                  "Рядом с домом",
+                  "В центре города",
+                  "Возле школы"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как дети едут в школу?",
+                "options": [
+                  "Пешком",
+                  "На машине",
+                  "На автобусе",
+                  "На велосипеде"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Где находится больница?",
+                "options": [
+                  "Рядом с домом",
+                  "В парке",
+                  "Далеко от центра города",
+                  "Возле школы"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "a1-l10-p1",
-            "number": 19,
+            "number": 25,
             "title": "Likes & Dislikes (Part 1)",
             "titleNative": "Нравится и не нравится · Часть 1",
             "description": "Expressing preferences",
@@ -1134,7 +1592,7 @@
           },
           {
             "id": "a1-l10-p2",
-            "number": 20,
+            "number": 26,
             "title": "Likes & Dislikes (Part 2)",
             "titleNative": "Нравится и не нравится · Часть 2",
             "description": "Expressing preferences",
@@ -1193,7 +1651,7 @@
           },
           {
             "id": "a1-l11-p1",
-            "number": 21,
+            "number": 27,
             "title": "Places in Town (Part 1)",
             "titleNative": "Места в городе · Часть 1",
             "description": "Talking about locations",
@@ -1251,8 +1709,87 @@
             ]
           },
           {
+            "id": "a1-reading-7",
+            "number": 28,
+            "title": "Talking to a New Friend",
+            "titleNative": "Разговор с новым другом",
+            "description": "Итоговый рассказ-диалог — повторение пройденных тем A1.",
+            "readingPassage": {
+              "context": "Итоговый рассказ-диалог — повторение пройденных тем A1.",
+              "paragraphs": [
+                {
+                  "en": "Hello! What is your name?",
+                  "ru": "Привет! Как тебя зовут?"
+                },
+                {
+                  "en": "My name is Elena. Nice to meet you.",
+                  "ru": "Меня зовут Елена. Приятно познакомиться."
+                },
+                {
+                  "en": "Where are you from?",
+                  "ru": "Откуда ты?"
+                },
+                {
+                  "en": "I am from Russia, but I live in Almaty now.",
+                  "ru": "Я из России, но сейчас живу в Алматы."
+                },
+                {
+                  "en": "What do you do?",
+                  "ru": "Кем ты работаешь?"
+                },
+                {
+                  "en": "I am a teacher. I like my job very much.",
+                  "ru": "Я учитель. Мне очень нравится моя работа."
+                },
+                {
+                  "en": "Do you like Almaty?",
+                  "ru": "Тебе нравится Алматы?"
+                },
+                {
+                  "en": "Yes, I like it a lot. The people are friendly.",
+                  "ru": "Да, мне очень нравится. Люди здесь дружелюбные."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Как зовут нового друга?",
+                "options": [
+                  "Анна",
+                  "Елена",
+                  "Мария",
+                  "Наташа"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Где сейчас живёт Елена?",
+                "options": [
+                  "В России",
+                  "В Алматы",
+                  "В Казани",
+                  "В Москве"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Кем работает Елена?",
+                "options": [
+                  "Врачом",
+                  "Инженером",
+                  "Учителем",
+                  "Студенткой"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "a1-l11-p2",
-            "number": 22,
+            "number": 29,
             "title": "Places in Town (Part 2)",
             "titleNative": "Места в городе · Часть 2",
             "description": "Talking about locations",
@@ -1311,7 +1848,7 @@
           },
           {
             "id": "a1-l12-p1",
-            "number": 23,
+            "number": 30,
             "title": "Review & Small Talk (Part 1)",
             "titleNative": "Повторение и разговор · Часть 1",
             "description": "Mixed review of A1 patterns",
@@ -1370,7 +1907,7 @@
           },
           {
             "id": "a1-l12-p2",
-            "number": 24,
+            "number": 31,
             "title": "Review & Small Talk (Part 2)",
             "titleNative": "Повторение и разговор · Часть 2",
             "description": "Mixed review of A1 patterns",
@@ -1437,7 +1974,7 @@
         "lessons": [
           {
             "id": "a2-l1-p1",
-            "number": 25,
+            "number": 32,
             "title": "Past Simple (Part 1)",
             "titleNative": "Прошедшее время · Часть 1",
             "description": "Talking about yesterday and last week",
@@ -1496,7 +2033,7 @@
           },
           {
             "id": "a2-l1-p2",
-            "number": 26,
+            "number": 33,
             "title": "Past Simple (Part 2)",
             "titleNative": "Прошедшее время · Часть 2",
             "description": "Talking about yesterday and last week",
@@ -1555,7 +2092,7 @@
           },
           {
             "id": "a2-l2-p1",
-            "number": 27,
+            "number": 34,
             "title": "Future Plans (Part 1)",
             "titleNative": "Планы на будущее · Часть 1",
             "description": "Will and going to",
@@ -1614,7 +2151,7 @@
           },
           {
             "id": "a2-l2-p2",
-            "number": 28,
+            "number": 35,
             "title": "Future Plans (Part 2)",
             "titleNative": "Планы на будущее · Часть 2",
             "description": "Will and going to",
@@ -1673,7 +2210,7 @@
           },
           {
             "id": "a2-l3-p1",
-            "number": 29,
+            "number": 36,
             "title": "Can, Must, Should (Part 1)",
             "titleNative": "Модальные глаголы · Часть 1",
             "description": "Ability, obligation, and advice",
@@ -1732,7 +2269,7 @@
           },
           {
             "id": "a2-l3-p2",
-            "number": 30,
+            "number": 37,
             "title": "Can, Must, Should (Part 2)",
             "titleNative": "Модальные глаголы · Часть 2",
             "description": "Ability, obligation, and advice",
@@ -1791,7 +2328,7 @@
           },
           {
             "id": "a2-l4-p1",
-            "number": 31,
+            "number": 38,
             "title": "Comparisons (Part 1)",
             "titleNative": "Сравнения · Часть 1",
             "description": "Comparative and superlative forms",
@@ -1850,7 +2387,7 @@
           },
           {
             "id": "a2-l4-p2",
-            "number": 32,
+            "number": 39,
             "title": "Comparisons (Part 2)",
             "titleNative": "Сравнения · Часть 2",
             "description": "Comparative and superlative forms",
@@ -1909,7 +2446,7 @@
           },
           {
             "id": "a2-l5-p1",
-            "number": 33,
+            "number": 40,
             "title": "Travel (Part 1)",
             "titleNative": "Путешествия · Часть 1",
             "description": "Getting around and asking for directions",
@@ -1968,7 +2505,7 @@
           },
           {
             "id": "a2-l5-p2",
-            "number": 34,
+            "number": 41,
             "title": "Travel (Part 2)",
             "titleNative": "Путешествия · Часть 2",
             "description": "Getting around and asking for directions",
@@ -2027,7 +2564,7 @@
           },
           {
             "id": "a2-l6-p1",
-            "number": 35,
+            "number": 42,
             "title": "Health (Part 1)",
             "titleNative": "Здоровье · Часть 1",
             "description": "Talking about how you feel",
@@ -2086,7 +2623,7 @@
           },
           {
             "id": "a2-l6-p2",
-            "number": 36,
+            "number": 43,
             "title": "Health (Part 2)",
             "titleNative": "Здоровье · Часть 2",
             "description": "Talking about how you feel",
@@ -2145,7 +2682,7 @@
           },
           {
             "id": "a2-l7-p1",
-            "number": 37,
+            "number": 44,
             "title": "Shopping (Part 1)",
             "titleNative": "Покупки · Часть 1",
             "description": "Buying things and comparing prices",
@@ -2204,7 +2741,7 @@
           },
           {
             "id": "a2-l7-p2",
-            "number": 38,
+            "number": 45,
             "title": "Shopping (Part 2)",
             "titleNative": "Покупки · Часть 2",
             "description": "Buying things and comparing prices",
@@ -2263,7 +2800,7 @@
           },
           {
             "id": "a2-l8-p1",
-            "number": 39,
+            "number": 46,
             "title": "Work (Part 1)",
             "titleNative": "Работа · Часть 1",
             "description": "Jobs and the workplace",
@@ -2322,7 +2859,7 @@
           },
           {
             "id": "a2-l8-p2",
-            "number": 40,
+            "number": 47,
             "title": "Work (Part 2)",
             "titleNative": "Работа · Часть 2",
             "description": "Jobs and the workplace",
@@ -2381,7 +2918,7 @@
           },
           {
             "id": "a2-l9-p1",
-            "number": 41,
+            "number": 48,
             "title": "Hobbies (Part 1)",
             "titleNative": "Хобби · Часть 1",
             "description": "Free time and interests",
@@ -2440,7 +2977,7 @@
           },
           {
             "id": "a2-l9-p2",
-            "number": 42,
+            "number": 49,
             "title": "Hobbies (Part 2)",
             "titleNative": "Хобби · Часть 2",
             "description": "Free time and interests",
@@ -2499,7 +3036,7 @@
           },
           {
             "id": "a2-l10-p1",
-            "number": 43,
+            "number": 50,
             "title": "Describing People (Part 1)",
             "titleNative": "Описание людей · Часть 1",
             "description": "Appearance and personality",
@@ -2558,7 +3095,7 @@
           },
           {
             "id": "a2-l10-p2",
-            "number": 44,
+            "number": 51,
             "title": "Describing People (Part 2)",
             "titleNative": "Описание людей · Часть 2",
             "description": "Appearance and personality",
@@ -2617,7 +3154,7 @@
           },
           {
             "id": "a2-l11-p1",
-            "number": 45,
+            "number": 52,
             "title": "Phone Calls (Part 1)",
             "titleNative": "Телефонные звонки · Часть 1",
             "description": "Making and answering calls",
@@ -2676,7 +3213,7 @@
           },
           {
             "id": "a2-l11-p2",
-            "number": 46,
+            "number": 53,
             "title": "Phone Calls (Part 2)",
             "titleNative": "Телефонные звонки · Часть 2",
             "description": "Making and answering calls",
@@ -2735,7 +3272,7 @@
           },
           {
             "id": "a2-l12-p1",
-            "number": 47,
+            "number": 54,
             "title": "Opinions (Part 1)",
             "titleNative": "Мнения · Часть 1",
             "description": "Agreeing, disagreeing, giving opinions",
@@ -2794,7 +3331,7 @@
           },
           {
             "id": "a2-l12-p2",
-            "number": 48,
+            "number": 55,
             "title": "Opinions (Part 2)",
             "titleNative": "Мнения · Часть 2",
             "description": "Agreeing, disagreeing, giving opinions",
@@ -2861,7 +3398,7 @@
         "lessons": [
           {
             "id": "b1-l1-p1",
-            "number": 49,
+            "number": 56,
             "title": "Present Perfect (Part 1)",
             "titleNative": "Настоящее совершенное · Часть 1",
             "description": "Experiences and recent events",
@@ -2920,7 +3457,7 @@
           },
           {
             "id": "b1-l1-p2",
-            "number": 50,
+            "number": 57,
             "title": "Present Perfect (Part 2)",
             "titleNative": "Настоящее совершенное · Часть 2",
             "description": "Experiences and recent events",
@@ -2979,7 +3516,7 @@
           },
           {
             "id": "b1-l2-p1",
-            "number": 51,
+            "number": 58,
             "title": "First Conditional (Part 1)",
             "titleNative": "Первое условное · Часть 1",
             "description": "Real future possibilities",
@@ -3038,7 +3575,7 @@
           },
           {
             "id": "b1-l2-p2",
-            "number": 52,
+            "number": 59,
             "title": "First Conditional (Part 2)",
             "titleNative": "Первое условное · Часть 2",
             "description": "Real future possibilities",
@@ -3097,7 +3634,7 @@
           },
           {
             "id": "b1-l3-p1",
-            "number": 53,
+            "number": 60,
             "title": "Second Conditional (Part 1)",
             "titleNative": "Второе условное · Часть 1",
             "description": "Hypothetical and unreal situations",
@@ -3156,7 +3693,7 @@
           },
           {
             "id": "b1-l3-p2",
-            "number": 54,
+            "number": 61,
             "title": "Second Conditional (Part 2)",
             "titleNative": "Второе условное · Часть 2",
             "description": "Hypothetical and unreal situations",
@@ -3215,7 +3752,7 @@
           },
           {
             "id": "b1-l4-p1",
-            "number": 55,
+            "number": 62,
             "title": "Passive Voice (Part 1)",
             "titleNative": "Страдательный залог · Часть 1",
             "description": "When the action matters more than who did it",
@@ -3274,7 +3811,7 @@
           },
           {
             "id": "b1-l4-p2",
-            "number": 56,
+            "number": 63,
             "title": "Passive Voice (Part 2)",
             "titleNative": "Страдательный залог · Часть 2",
             "description": "When the action matters more than who did it",
@@ -3333,7 +3870,7 @@
           },
           {
             "id": "b1-l5-p1",
-            "number": 57,
+            "number": 64,
             "title": "Reported Speech (Part 1)",
             "titleNative": "Косвенная речь · Часть 1",
             "description": "Reporting what someone said",
@@ -3392,7 +3929,7 @@
           },
           {
             "id": "b1-l5-p2",
-            "number": 58,
+            "number": 65,
             "title": "Reported Speech (Part 2)",
             "titleNative": "Косвенная речь · Часть 2",
             "description": "Reporting what someone said",
@@ -3451,7 +3988,7 @@
           },
           {
             "id": "b1-l6-p1",
-            "number": 59,
+            "number": 66,
             "title": "Making Suggestions (Part 1)",
             "titleNative": "Предложения и советы · Часть 1",
             "description": "Proposing ideas and giving advice",
@@ -3510,7 +4047,7 @@
           },
           {
             "id": "b1-l6-p2",
-            "number": 60,
+            "number": 67,
             "title": "Making Suggestions (Part 2)",
             "titleNative": "Предложения и советы · Часть 2",
             "description": "Proposing ideas and giving advice",
@@ -3577,7 +4114,7 @@
         "lessons": [
           {
             "id": "b1plus-l1-p1",
-            "number": 61,
+            "number": 68,
             "title": "Phrasal Verbs (Part 1)",
             "titleNative": "Фразовые глаголы · Часть 1",
             "description": "Everyday two-word verbs native speakers actually use",
@@ -3636,7 +4173,7 @@
           },
           {
             "id": "b1plus-l1-p2",
-            "number": 62,
+            "number": 69,
             "title": "Phrasal Verbs (Part 2)",
             "titleNative": "Фразовые глаголы · Часть 2",
             "description": "Everyday two-word verbs native speakers actually use",
@@ -3695,7 +4232,7 @@
           },
           {
             "id": "b1plus-l2-p1",
-            "number": 63,
+            "number": 70,
             "title": "Sharing Opinions (Part 1)",
             "titleNative": "Выражение мнения · Часть 1",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
@@ -3754,7 +4291,7 @@
           },
           {
             "id": "b1plus-l2-p2",
-            "number": 64,
+            "number": 71,
             "title": "Sharing Opinions (Part 2)",
             "titleNative": "Выражение мнения · Часть 2",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
@@ -3813,7 +4350,7 @@
           },
           {
             "id": "b1plus-l3-p1",
-            "number": 65,
+            "number": 72,
             "title": "Third Conditional (Part 1)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 1",
             "description": "Regrets and hypothetical past outcomes",
@@ -3872,7 +4409,7 @@
           },
           {
             "id": "b1plus-l3-p2",
-            "number": 66,
+            "number": 73,
             "title": "Third Conditional (Part 2)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 2",
             "description": "Regrets and hypothetical past outcomes",
@@ -3931,7 +4468,7 @@
           },
           {
             "id": "b1plus-l4-p1",
-            "number": 67,
+            "number": 74,
             "title": "Reported Questions (Part 1)",
             "titleNative": "Косвенные вопросы · Часть 1",
             "description": "Asking and reporting questions politely and indirectly",
@@ -3990,7 +4527,7 @@
           },
           {
             "id": "b1plus-l4-p2",
-            "number": 68,
+            "number": 75,
             "title": "Reported Questions (Part 2)",
             "titleNative": "Косвенные вопросы · Часть 2",
             "description": "Asking and reporting questions politely and indirectly",
@@ -4049,7 +4586,7 @@
           },
           {
             "id": "b1plus-l5-p1",
-            "number": 69,
+            "number": 76,
             "title": "Modals of Deduction (Part 1)",
             "titleNative": "Модальные глаголы предположения · Часть 1",
             "description": "Guessing what must, might, or can't be true",
@@ -4108,7 +4645,7 @@
           },
           {
             "id": "b1plus-l5-p2",
-            "number": 70,
+            "number": 77,
             "title": "Modals of Deduction (Part 2)",
             "titleNative": "Модальные глаголы предположения · Часть 2",
             "description": "Guessing what must, might, or can't be true",
@@ -4167,7 +4704,7 @@
           },
           {
             "id": "b1plus-l6-p1",
-            "number": 71,
+            "number": 78,
             "title": "Comparisons & Contrasts (Part 1)",
             "titleNative": "Сравнения и противопоставления · Часть 1",
             "description": "Weighing options and highlighting differences",
@@ -4226,7 +4763,7 @@
           },
           {
             "id": "b1plus-l6-p2",
-            "number": 72,
+            "number": 79,
             "title": "Comparisons & Contrasts (Part 2)",
             "titleNative": "Сравнения и противопоставления · Часть 2",
             "description": "Weighing options and highlighting differences",
@@ -4293,7 +4830,7 @@
         "lessons": [
           {
             "id": "b2-l1-p1",
-            "number": 73,
+            "number": 80,
             "title": "Wishes & Regrets (Part 1)",
             "titleNative": "Желания и сожаления · Часть 1",
             "description": "Wish, if only, and things you'd change",
@@ -4352,7 +4889,7 @@
           },
           {
             "id": "b2-l1-p2",
-            "number": 74,
+            "number": 81,
             "title": "Wishes & Regrets (Part 2)",
             "titleNative": "Желания и сожаления · Часть 2",
             "description": "Wish, if only, and things you'd change",
@@ -4411,7 +4948,7 @@
           },
           {
             "id": "b2-l2-p1",
-            "number": 75,
+            "number": 82,
             "title": "Mixed Conditionals (Part 1)",
             "titleNative": "Смешанные условные предложения · Часть 1",
             "description": "Past causes with present results, and the reverse",
@@ -4470,7 +5007,7 @@
           },
           {
             "id": "b2-l2-p2",
-            "number": 76,
+            "number": 83,
             "title": "Mixed Conditionals (Part 2)",
             "titleNative": "Смешанные условные предложения · Часть 2",
             "description": "Past causes with present results, and the reverse",
@@ -4529,7 +5066,7 @@
           },
           {
             "id": "b2-l3-p1",
-            "number": 77,
+            "number": 84,
             "title": "Advanced Passive (Part 1)",
             "titleNative": "Продвинутый страдательный залог · Часть 1",
             "description": "Passive with modals and perfect forms",
@@ -4588,7 +5125,7 @@
           },
           {
             "id": "b2-l3-p2",
-            "number": 78,
+            "number": 85,
             "title": "Advanced Passive (Part 2)",
             "titleNative": "Продвинутый страдательный залог · Часть 2",
             "description": "Passive with modals and perfect forms",
@@ -4647,7 +5184,7 @@
           },
           {
             "id": "b2-l4-p1",
-            "number": 79,
+            "number": 86,
             "title": "Emphasis & Inversion (Part 1)",
             "titleNative": "Эмфаза и инверсия · Часть 1",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -4706,7 +5243,7 @@
           },
           {
             "id": "b2-l4-p2",
-            "number": 80,
+            "number": 87,
             "title": "Emphasis & Inversion (Part 2)",
             "titleNative": "Эмфаза и инверсия · Часть 2",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -4765,7 +5302,7 @@
           },
           {
             "id": "b2-l5-p1",
-            "number": 81,
+            "number": 88,
             "title": "Society & Technology (Part 1)",
             "titleNative": "Общество и технологии · Часть 1",
             "description": "Discussing abstract, current issues with nuance",
@@ -4824,7 +5361,7 @@
           },
           {
             "id": "b2-l5-p2",
-            "number": 82,
+            "number": 89,
             "title": "Society & Technology (Part 2)",
             "titleNative": "Общество и технологии · Часть 2",
             "description": "Discussing abstract, current issues with nuance",
@@ -4883,7 +5420,7 @@
           },
           {
             "id": "b2-l6-p1",
-            "number": 83,
+            "number": 90,
             "title": "Advanced Linking Words (Part 1)",
             "titleNative": "Продвинутые слова-связки · Часть 1",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
@@ -4942,7 +5479,7 @@
           },
           {
             "id": "b2-l6-p2",
-            "number": 84,
+            "number": 91,
             "title": "Advanced Linking Words (Part 2)",
             "titleNative": "Продвинутые слова-связки · Часть 2",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",

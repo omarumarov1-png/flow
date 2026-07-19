@@ -333,6 +333,10 @@
   }
 
   function renderLessonChrome(bodyHtml) {
+    if (_passagePlaying) {
+      window.speechSynthesis.cancel();
+      _passagePlaying = false;
+    }
     const pct = Math.round((session.index / session.total) * 100);
     screenEl.innerHTML = `
       <div class="lesson-bar">
@@ -344,6 +348,7 @@
     `;
     document.getElementById("exitBtn").addEventListener("click", () => {
       cancelAdvance();
+      if (_passagePlaying) { window.speechSynthesis.cancel(); _passagePlaying = false; }
       session = null;
       renderHome();
     });
@@ -355,9 +360,110 @@
     const ex = item.ex;
     if (!ex) { nextExercise(); return; }
     ex._sourceLesson = session.mode === "lesson" ? session.lesson : (flatLessons.find(l => l.id === (item.gid.split(":")[0])) || { exercises: [] });
-    if (ex.type === "multiple-choice") renderMultipleChoice(ex);
+    if (ex.type === "comprehension") renderComprehension(ex);
+    else if (ex.type === "multiple-choice") renderMultipleChoice(ex);
     else if (ex.type === "word-bank") renderWordBank(ex);
     else renderTypeAnswer(ex);
+  }
+
+  // ---------- reading comprehension ----------
+  let _passagePlaying = false;
+  function renderPassagePanel(lesson) {
+    const rows = lesson.readingPassage.paragraphs.map((p, i) => `
+      <div class="passage-line" data-line="${i}">
+        <p class="passage-en">${p.en}</p>
+        <p class="passage-ru hidden">${p.ru}</p>
+      </div>
+    `).join("");
+    const context = lesson.readingPassage.context
+      ? `<p class="context-note">${lesson.readingPassage.context}</p>` : "";
+    return `
+      <details class="passage-panel" open>
+        <summary>${lesson.title} <span class="ru-summary">${lesson.titleNative || ""}</span></summary>
+        ${context}
+        <div class="passage-controls">
+          <button class="translit-toggle" id="passageToggle">Показать перевод</button>
+          <button class="passage-listen-btn" id="passageListenBtn" title="Слушать текст" aria-label="Слушать текст">🔊 Слушать</button>
+        </div>
+        ${rows}
+      </details>
+    `;
+  }
+
+  function wirePassageToggle() {
+    const btn = document.getElementById("passageToggle");
+    if (!btn) return;
+    btn.addEventListener("click", () => {
+      const lines = document.querySelectorAll(".passage-ru");
+      const hide = !lines[0].classList.contains("hidden");
+      lines.forEach(l => l.classList.toggle("hidden", hide));
+      btn.textContent = hide ? "Показать перевод" : "Скрыть перевод";
+    });
+  }
+
+  function wirePassageListen(lesson) {
+    const btn = document.getElementById("passageListenBtn");
+    if (!btn) return;
+    const paragraphs = lesson.readingPassage.paragraphs;
+    const lineEls = Array.from(document.querySelectorAll(".passage-line"));
+    btn.addEventListener("click", () => {
+      if (_passagePlaying) {
+        window.speechSynthesis.cancel();
+        _passagePlaying = false;
+        btn.textContent = "🔊 Слушать";
+        lineEls.forEach(l => l.classList.remove("speaking"));
+        return;
+      }
+      _passagePlaying = true;
+      btn.textContent = "⏹ Стоп";
+      let i = 0;
+      function playNext() {
+        lineEls.forEach(l => l.classList.remove("speaking"));
+        if (!_passagePlaying || i >= paragraphs.length) {
+          _passagePlaying = false;
+          btn.textContent = "🔊 Слушать";
+          return;
+        }
+        if (lineEls[i]) lineEls[i].classList.add("speaking");
+        speak(paragraphs[i].en, () => { i++; playNext(); });
+      }
+      playNext();
+    });
+  }
+
+  function renderComprehension(ex) {
+    const lesson = ex._sourceLesson;
+    const options = ex.options.map((opt, i) =>
+      `<button class="option" data-i="${i}">${opt}</button>`
+    ).join("");
+
+    renderLessonChrome(`
+      ${renderPassagePanel(lesson)}
+      <div class="card">
+        <div class="prompt-kicker"><span>Проверь понимание текста</span></div>
+        <div class="prompt-native">${ex.question}</div>
+        <div class="options" id="options">${options}</div>
+      </div>
+    `);
+    wirePassageToggle();
+    wirePassageListen(lesson);
+
+    let answered = false;
+    document.querySelectorAll("#options .option").forEach(btn => {
+      btn.addEventListener("click", () => {
+        if (answered) return;
+        answered = true;
+        const i = Number(btn.dataset.i);
+        const correct = i === ex.answerIndex;
+        document.querySelectorAll("#options .option").forEach(b => b.disabled = true);
+        btn.classList.add(correct ? "correct" : "incorrect");
+        if (!correct) document.querySelector(`#options .option[data-i="${ex.answerIndex}"]`).classList.add("correct");
+        afterAnswer(correct, { ru: ex.question, en: ex.options[ex.answerIndex] });
+        screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.options[ex.answerIndex]));
+        wireFeedbackReplay(ex.options[ex.answerIndex]);
+        scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
+      });
+    });
   }
 
   function renderMultipleChoice(ex) {
@@ -726,11 +832,12 @@
       const unlocked = isLessonUnlocked(flatIndex);
       const done = progress.completedLessons.includes(lesson.id);
       const isCurrent = unlocked && !done;
+      const isReading = !!lesson.readingPassage;
       const offset = ["center", "left", "right"][i % 3];
       nodesHtml += `
         <div class="roadmap-row ${offset}">
-          <button class="roadmap-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
-            ${done ? "✓" : unlocked ? lesson.number : "🔒"}
+          <button class="roadmap-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""} ${isReading ? "reading" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
+            ${done ? "✓" : !unlocked ? "🔒" : isReading ? "📖" : lesson.number}
           </button>
           <div class="roadmap-label"><span class="roadmap-label-en">${lesson.title}</span><span class="roadmap-label-native">${lesson.titleNative || ""}</span></div>
         </div>

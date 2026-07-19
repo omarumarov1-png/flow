@@ -265,6 +265,36 @@ button.stat:hover { color: var(--flow); }
 .hint-btn:disabled { opacity: 0.5; cursor: default; }
 .hint-text { font-family: var(--font-mono); font-size: 0.95rem; color: var(--ink-soft); letter-spacing: 0.03em; }
 
+.passage-panel {
+  background: var(--surface); border: 1.5px solid var(--border); border-radius: 12px;
+  padding: 4px 18px 16px; margin-bottom: 20px;
+}
+.passage-panel summary { cursor: pointer; padding: 12px 0; font-family: var(--font-display); font-weight: 700; font-size: 0.98rem; color: var(--ink); }
+.passage-panel summary .ru-summary { font-family: var(--font-body); font-weight: 400; color: var(--ink-soft); margin-left: 8px; font-size: 0.85rem; }
+.context-note { font-size: 0.82rem; color: var(--ink-soft); margin: 0 0 12px; font-style: italic; }
+.translit-toggle {
+  background: none; border: none; font-family: var(--font-mono); font-size: 0.75rem;
+  color: var(--flow); padding: 0; cursor: pointer;
+}
+.translit-toggle:hover { color: var(--flow-bright); }
+.passage-controls { display: flex; align-items: center; gap: 16px; margin-bottom: 18px; flex-wrap: wrap; }
+.passage-controls .translit-toggle { margin-bottom: 0; }
+.passage-listen-btn {
+  background: none; border: 1.5px solid var(--flow); border-radius: 20px; padding: 4px 14px;
+  font-family: var(--font-mono); font-size: 0.75rem; color: var(--flow); cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+.passage-listen-btn:hover { background: var(--flow); color: #fff; }
+.passage-line { margin: 0 -8px 12px; padding: 4px 8px; border-radius: 8px; transition: background-color 0.2s ease; }
+.passage-line.speaking { background: var(--flow-wash); }
+.passage-en { font-size: 1.02rem; line-height: 1.6; margin: 0 0 4px; color: var(--ink); }
+.passage-ru { font-size: 0.85rem; color: var(--ink-soft); font-style: italic; margin: 0; }
+.passage-ru.hidden { display: none; }
+
+.roadmap-node.reading { border-color: var(--amber); }
+.roadmap-node.reading.unlocked { color: var(--amber); background: var(--amber-wash); border-color: var(--amber); }
+.roadmap-node.reading.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--amber-wash); }
+
 .feedback { position: fixed; left: 0; right: 0; bottom: 0; padding: 18px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .feedback-main { display: flex; align-items: center; gap: 12px; min-width: 0; }
 .feedback-main .speak-btn { flex-shrink: 0; }
