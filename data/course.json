@@ -2150,8 +2150,83 @@
             ]
           },
           {
-            "id": "a2-l2-p2",
+            "id": "a2-reading-1",
             "number": 35,
+            "title": "A Trip to the Mountains",
+            "titleNative": "Поездка в горы",
+            "description": "Рассказ в прошедшем времени — тренируем Past Simple.",
+            "readingPassage": {
+              "context": "Рассказ в прошедшем времени — тренируем Past Simple.",
+              "paragraphs": [
+                {
+                  "en": "Last weekend, I went to the mountains with my friends.",
+                  "ru": "В прошлые выходные я ездил в горы с друзьями."
+                },
+                {
+                  "en": "We drove for three hours and arrived in the evening.",
+                  "ru": "Мы ехали три часа и приехали вечером."
+                },
+                {
+                  "en": "The next morning, we walked to the top of a hill.",
+                  "ru": "На следующее утро мы поднялись на вершину холма."
+                },
+                {
+                  "en": "The view was beautiful, and the air was very fresh.",
+                  "ru": "Вид был прекрасным, а воздух очень свежим."
+                },
+                {
+                  "en": "We ate lunch outside and took many photos.",
+                  "ru": "Мы пообедали на улице и сделали много фотографий."
+                },
+                {
+                  "en": "In the evening, we made a fire and told stories.",
+                  "ru": "Вечером мы развели костёр и рассказывали истории."
+                },
+                {
+                  "en": "It was a wonderful trip, and I want to go again.",
+                  "ru": "Это была прекрасная поездка, и я хочу поехать снова."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько времени они ехали?",
+                "options": [
+                  "Один час",
+                  "Два часа",
+                  "Три часа",
+                  "Пять часов"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Что они делали утром?",
+                "options": [
+                  "Спали",
+                  "Поднялись на холм",
+                  "Поехали домой",
+                  "Готовили завтрак"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что они делали вечером?",
+                "options": [
+                  "Смотрели фильм",
+                  "Разожгли костёр",
+                  "Пошли в ресторан",
+                  "Легли спать сразу"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "a2-l2-p2",
+            "number": 36,
             "title": "Future Plans (Part 2)",
             "titleNative": "Планы на будущее · Часть 2",
             "description": "Will and going to",
@@ -2210,7 +2285,7 @@
           },
           {
             "id": "a2-l3-p1",
-            "number": 36,
+            "number": 37,
             "title": "Can, Must, Should (Part 1)",
             "titleNative": "Модальные глаголы · Часть 1",
             "description": "Ability, obligation, and advice",
@@ -2269,7 +2344,7 @@
           },
           {
             "id": "a2-l3-p2",
-            "number": 37,
+            "number": 38,
             "title": "Can, Must, Should (Part 2)",
             "titleNative": "Модальные глаголы · Часть 2",
             "description": "Ability, obligation, and advice",
@@ -2327,8 +2402,83 @@
             ]
           },
           {
+            "id": "a2-reading-2",
+            "number": 39,
+            "title": "Plans for Next Summer",
+            "titleNative": "Планы на следующее лето",
+            "description": "Рассказ о будущих планах — тренируем will / going to.",
+            "readingPassage": {
+              "context": "Рассказ о будущих планах — тренируем will / going to.",
+              "paragraphs": [
+                {
+                  "en": "Next summer, I am going to visit Europe.",
+                  "ru": "Следующим летом я собираюсь посетить Европу."
+                },
+                {
+                  "en": "I will fly to Paris first, and then to Rome.",
+                  "ru": "Сначала я полечу в Париж, а потом в Рим."
+                },
+                {
+                  "en": "I am going to stay with my cousin in Paris.",
+                  "ru": "В Париже я остановлюсь у своего двоюродного брата."
+                },
+                {
+                  "en": "We will visit famous museums and old churches.",
+                  "ru": "Мы посетим известные музеи и старые церкви."
+                },
+                {
+                  "en": "After that, I am going to travel alone to Italy.",
+                  "ru": "После этого я самостоятельно поеду в Италию."
+                },
+                {
+                  "en": "I think the food in Italy will be amazing.",
+                  "ru": "Я думаю, что еда в Италии будет потрясающей."
+                },
+                {
+                  "en": "I am very excited about this trip.",
+                  "ru": "Я очень взволнован этой поездкой."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Куда автор полетит первым делом?",
+                "options": [
+                  "В Рим",
+                  "В Париж",
+                  "В Мадрид",
+                  "В Лондон"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "У кого автор остановится в Париже?",
+                "options": [
+                  "У друга",
+                  "В отеле",
+                  "У двоюродного брата",
+                  "У сестры"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Куда автор поедет один?",
+                "options": [
+                  "В Париж",
+                  "В Рим",
+                  "В Италию",
+                  "В Испанию"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "a2-l4-p1",
-            "number": 38,
+            "number": 40,
             "title": "Comparisons (Part 1)",
             "titleNative": "Сравнения · Часть 1",
             "description": "Comparative and superlative forms",
@@ -2387,7 +2537,7 @@
           },
           {
             "id": "a2-l4-p2",
-            "number": 39,
+            "number": 41,
             "title": "Comparisons (Part 2)",
             "titleNative": "Сравнения · Часть 2",
             "description": "Comparative and superlative forms",
@@ -2446,7 +2596,7 @@
           },
           {
             "id": "a2-l5-p1",
-            "number": 40,
+            "number": 42,
             "title": "Travel (Part 1)",
             "titleNative": "Путешествия · Часть 1",
             "description": "Getting around and asking for directions",
@@ -2504,8 +2654,83 @@
             ]
           },
           {
+            "id": "a2-reading-3",
+            "number": 43,
+            "title": "Feeling Sick",
+            "titleNative": "Плохое самочувствие",
+            "description": "Рассказ о здоровье — тренируем модальные глаголы must / should.",
+            "readingPassage": {
+              "context": "Рассказ о здоровье — тренируем модальные глаголы must / should.",
+              "paragraphs": [
+                {
+                  "en": "Yesterday, I woke up with a headache and a sore throat.",
+                  "ru": "Вчера я проснулся с головной болью и болью в горле."
+                },
+                {
+                  "en": "I felt very tired, so I stayed in bed.",
+                  "ru": "Я чувствовал сильную усталость, поэтому остался в постели."
+                },
+                {
+                  "en": "My friend said I should see a doctor.",
+                  "ru": "Мой друг сказал, что мне следует обратиться к врачу."
+                },
+                {
+                  "en": "I must rest and drink a lot of water, the doctor said.",
+                  "ru": "Врач сказал, что я должен отдыхать и пить много воды."
+                },
+                {
+                  "en": "I can't go to work for two days.",
+                  "ru": "Я не могу выходить на работу два дня."
+                },
+                {
+                  "en": "I took some medicine, and I already feel better.",
+                  "ru": "Я принял лекарство, и мне уже лучше."
+                },
+                {
+                  "en": "Next time, I should sleep more and rest well.",
+                  "ru": "В следующий раз мне следует больше спать и хорошо отдыхать."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "С чем автор проснулся вчера?",
+                "options": [
+                  "С кашлем",
+                  "С головной болью и болью в горле",
+                  "С температурой",
+                  "С болью в спине"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что посоветовал друг?",
+                "options": [
+                  "Пойти на работу",
+                  "Обратиться к врачу",
+                  "Поспать весь день",
+                  "Ничего не делать"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько дней автор не может работать?",
+                "options": [
+                  "Один день",
+                  "Два дня",
+                  "Неделю",
+                  "Три дня"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l5-p2",
-            "number": 41,
+            "number": 44,
             "title": "Travel (Part 2)",
             "titleNative": "Путешествия · Часть 2",
             "description": "Getting around and asking for directions",
@@ -2564,7 +2789,7 @@
           },
           {
             "id": "a2-l6-p1",
-            "number": 42,
+            "number": 45,
             "title": "Health (Part 1)",
             "titleNative": "Здоровье · Часть 1",
             "description": "Talking about how you feel",
@@ -2623,7 +2848,7 @@
           },
           {
             "id": "a2-l6-p2",
-            "number": 43,
+            "number": 46,
             "title": "Health (Part 2)",
             "titleNative": "Здоровье · Часть 2",
             "description": "Talking about how you feel",
@@ -2681,8 +2906,83 @@
             ]
           },
           {
+            "id": "a2-reading-4",
+            "number": 47,
+            "title": "A New Coat",
+            "titleNative": "Новое пальто",
+            "description": "Рассказ о покупках — тренируем сравнительные конструкции.",
+            "readingPassage": {
+              "context": "Рассказ о покупках — тренируем сравнительные конструкции.",
+              "paragraphs": [
+                {
+                  "en": "I went shopping for a new coat last week.",
+                  "ru": "На прошлой неделе я ходил за покупками за новым пальто."
+                },
+                {
+                  "en": "The first coat was cheaper, but the quality was worse.",
+                  "ru": "Первое пальто было дешевле, но качество хуже."
+                },
+                {
+                  "en": "The second coat was more expensive, but much warmer.",
+                  "ru": "Второе пальто было дороже, но намного теплее."
+                },
+                {
+                  "en": "I compared the colors: black looked better than brown.",
+                  "ru": "Я сравнил цвета: чёрный смотрелся лучше, чем коричневый."
+                },
+                {
+                  "en": "In the end, I chose the warmer, more expensive coat.",
+                  "ru": "В итоге я выбрал более тёплое и дорогое пальто."
+                },
+                {
+                  "en": "It was the best decision for the cold winter.",
+                  "ru": "Это было лучшее решение для холодной зимы."
+                },
+                {
+                  "en": "Now I feel much more comfortable outside.",
+                  "ru": "Теперь мне намного комфортнее на улице."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какое пальто было теплее?",
+                "options": [
+                  "Первое",
+                  "Второе",
+                  "Оба одинаково",
+                  "Ни одно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какой цвет выглядел лучше?",
+                "options": [
+                  "Коричневый",
+                  "Синий",
+                  "Чёрный",
+                  "Серый"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Какое пальто в итоге выбрал автор?",
+                "options": [
+                  "Дешёвое",
+                  "Более тёплое и дорогое",
+                  "Коричневое",
+                  "Никакое"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l7-p1",
-            "number": 44,
+            "number": 48,
             "title": "Shopping (Part 1)",
             "titleNative": "Покупки · Часть 1",
             "description": "Buying things and comparing prices",
@@ -2741,7 +3041,7 @@
           },
           {
             "id": "a2-l7-p2",
-            "number": 45,
+            "number": 49,
             "title": "Shopping (Part 2)",
             "titleNative": "Покупки · Часть 2",
             "description": "Buying things and comparing prices",
@@ -2800,7 +3100,7 @@
           },
           {
             "id": "a2-l8-p1",
-            "number": 46,
+            "number": 50,
             "title": "Work (Part 1)",
             "titleNative": "Работа · Часть 1",
             "description": "Jobs and the workplace",
@@ -2858,8 +3158,83 @@
             ]
           },
           {
+            "id": "a2-reading-5",
+            "number": 51,
+            "title": "My First Week at Work",
+            "titleNative": "Моя первая неделя на работе",
+            "description": "Рассказ о работе — тренируем лексику по теме занятости.",
+            "readingPassage": {
+              "context": "Рассказ о работе — тренируем лексику по теме занятости.",
+              "paragraphs": [
+                {
+                  "en": "I started a new job on Monday.",
+                  "ru": "В понедельник я начал новую работу."
+                },
+                {
+                  "en": "My office is in the city center, near the park.",
+                  "ru": "Мой офис находится в центре города, рядом с парком."
+                },
+                {
+                  "en": "My boss is friendly and explains things clearly.",
+                  "ru": "Мой начальник дружелюбный и объясняет всё понятно."
+                },
+                {
+                  "en": "I work with a small team of five people.",
+                  "ru": "Я работаю в небольшой команде из пяти человек."
+                },
+                {
+                  "en": "On Wednesday, we had an important meeting.",
+                  "ru": "В среду у нас была важная встреча."
+                },
+                {
+                  "en": "I was nervous, but everything went well.",
+                  "ru": "Я нервничал, но всё прошло хорошо."
+                },
+                {
+                  "en": "By Friday, I already felt part of the team.",
+                  "ru": "К пятнице я уже чувствовал себя частью команды."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Где находится офис?",
+                "options": [
+                  "За городом",
+                  "В центре, рядом с парком",
+                  "Рядом с домом",
+                  "На окраине"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько человек в команде?",
+                "options": [
+                  "Три",
+                  "Пять",
+                  "Десять",
+                  "Два"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Когда была важная встреча?",
+                "options": [
+                  "В понедельник",
+                  "Во вторник",
+                  "В среду",
+                  "В пятницу"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "a2-l8-p2",
-            "number": 47,
+            "number": 52,
             "title": "Work (Part 2)",
             "titleNative": "Работа · Часть 2",
             "description": "Jobs and the workplace",
@@ -2918,7 +3293,7 @@
           },
           {
             "id": "a2-l9-p1",
-            "number": 48,
+            "number": 53,
             "title": "Hobbies (Part 1)",
             "titleNative": "Хобби · Часть 1",
             "description": "Free time and interests",
@@ -2977,7 +3352,7 @@
           },
           {
             "id": "a2-l9-p2",
-            "number": 49,
+            "number": 54,
             "title": "Hobbies (Part 2)",
             "titleNative": "Хобби · Часть 2",
             "description": "Free time and interests",
@@ -3035,8 +3410,83 @@
             ]
           },
           {
+            "id": "a2-reading-6",
+            "number": 55,
+            "title": "Weekend Hobbies",
+            "titleNative": "Хобби на выходных",
+            "description": "Рассказ о хобби и увлечениях — тренируем описание частоты действий.",
+            "readingPassage": {
+              "context": "Рассказ о хобби и увлечениях — тренируем описание частоты действий.",
+              "paragraphs": [
+                {
+                  "en": "On weekends, I usually play the guitar.",
+                  "ru": "По выходным я обычно играю на гитаре."
+                },
+                {
+                  "en": "My sister prefers painting and drawing.",
+                  "ru": "Моя сестра предпочитает рисовать."
+                },
+                {
+                  "en": "Sometimes we go cycling together in the park.",
+                  "ru": "Иногда мы вместе катаемся на велосипедах в парке."
+                },
+                {
+                  "en": "My brother is interested in photography.",
+                  "ru": "Мой брат увлекается фотографией."
+                },
+                {
+                  "en": "He takes his camera everywhere he goes.",
+                  "ru": "Он берёт камеру с собой повсюду."
+                },
+                {
+                  "en": "We all enjoy cooking new recipes on Sundays.",
+                  "ru": "По воскресеньям мы все любим готовить новые блюда."
+                },
+                {
+                  "en": "Hobbies help us relax after a busy week.",
+                  "ru": "Хобби помогают нам расслабиться после напряжённой недели."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Чем увлекается сестра?",
+                "options": [
+                  "Гитарой",
+                  "Фотографией",
+                  "Рисованием",
+                  "Готовкой"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем увлекается брат?",
+                "options": [
+                  "Фотографией",
+                  "Велоспортом",
+                  "Гитарой",
+                  "Рисованием"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что семья делает по воскресеньям?",
+                "options": [
+                  "Катается на велосипеде",
+                  "Готовит новые блюда",
+                  "Играет на гитаре",
+                  "Смотрит фильмы"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "a2-l10-p1",
-            "number": 50,
+            "number": 56,
             "title": "Describing People (Part 1)",
             "titleNative": "Описание людей · Часть 1",
             "description": "Appearance and personality",
@@ -3095,7 +3545,7 @@
           },
           {
             "id": "a2-l10-p2",
-            "number": 51,
+            "number": 57,
             "title": "Describing People (Part 2)",
             "titleNative": "Описание людей · Часть 2",
             "description": "Appearance and personality",
@@ -3154,7 +3604,7 @@
           },
           {
             "id": "a2-l11-p1",
-            "number": 52,
+            "number": 58,
             "title": "Phone Calls (Part 1)",
             "titleNative": "Телефонные звонки · Часть 1",
             "description": "Making and answering calls",
@@ -3212,8 +3662,83 @@
             ]
           },
           {
+            "id": "a2-reading-7",
+            "number": 59,
+            "title": "A Call with an Old Friend",
+            "titleNative": "Звонок старому другу",
+            "description": "Итоговый рассказ уровня A2 — телефонный разговор и обмен мнениями.",
+            "readingPassage": {
+              "context": "Итоговый рассказ уровня A2 — телефонный разговор и обмен мнениями.",
+              "paragraphs": [
+                {
+                  "en": "Yesterday, I called an old friend from school.",
+                  "ru": "Вчера я позвонил старому школьному другу."
+                },
+                {
+                  "en": "We hadn't talked in almost two years.",
+                  "ru": "Мы не разговаривали почти два года."
+                },
+                {
+                  "en": "He told me about his new job in another city.",
+                  "ru": "Он рассказал мне о своей новой работе в другом городе."
+                },
+                {
+                  "en": "I think he sounded very happy and confident.",
+                  "ru": "Мне кажется, он звучал очень счастливым и уверенным."
+                },
+                {
+                  "en": "In my opinion, moving to a new city was a good idea for him.",
+                  "ru": "По моему мнению, переезд в новый город был для него хорошей идеей."
+                },
+                {
+                  "en": "We talked for almost an hour about old memories.",
+                  "ru": "Мы почти час говорили о старых воспоминаниях."
+                },
+                {
+                  "en": "We promised to call each other more often.",
+                  "ru": "Мы пообещали звонить друг другу чаще."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько времени друзья не разговаривали?",
+                "options": [
+                  "Один год",
+                  "Почти два года",
+                  "Пять лет",
+                  "Один месяц"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "О чём рассказал друг?",
+                "options": [
+                  "О свадьбе",
+                  "О новой работе в другом городе",
+                  "О путешествии",
+                  "О новой квартире"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько они разговаривали?",
+                "options": [
+                  "Десять минут",
+                  "Полчаса",
+                  "Почти час",
+                  "Два часа"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "a2-l11-p2",
-            "number": 53,
+            "number": 60,
             "title": "Phone Calls (Part 2)",
             "titleNative": "Телефонные звонки · Часть 2",
             "description": "Making and answering calls",
@@ -3272,7 +3797,7 @@
           },
           {
             "id": "a2-l12-p1",
-            "number": 54,
+            "number": 61,
             "title": "Opinions (Part 1)",
             "titleNative": "Мнения · Часть 1",
             "description": "Agreeing, disagreeing, giving opinions",
@@ -3331,7 +3856,7 @@
           },
           {
             "id": "a2-l12-p2",
-            "number": 55,
+            "number": 62,
             "title": "Opinions (Part 2)",
             "titleNative": "Мнения · Часть 2",
             "description": "Agreeing, disagreeing, giving opinions",
@@ -3398,7 +3923,7 @@
         "lessons": [
           {
             "id": "b1-l1-p1",
-            "number": 56,
+            "number": 63,
             "title": "Present Perfect (Part 1)",
             "titleNative": "Настоящее совершенное · Часть 1",
             "description": "Experiences and recent events",
@@ -3457,7 +3982,7 @@
           },
           {
             "id": "b1-l1-p2",
-            "number": 57,
+            "number": 64,
             "title": "Present Perfect (Part 2)",
             "titleNative": "Настоящее совершенное · Часть 2",
             "description": "Experiences and recent events",
@@ -3516,7 +4041,7 @@
           },
           {
             "id": "b1-l2-p1",
-            "number": 58,
+            "number": 65,
             "title": "First Conditional (Part 1)",
             "titleNative": "Первое условное · Часть 1",
             "description": "Real future possibilities",
@@ -3574,8 +4099,83 @@
             ]
           },
           {
+            "id": "b1-reading-1",
+            "number": 66,
+            "title": "A Well-Traveled Life",
+            "titleNative": "Жизнь, полная путешествий",
+            "description": "Рассказ о жизненном опыте — тренируем Present Perfect.",
+            "readingPassage": {
+              "context": "Рассказ о жизненном опыте — тренируем Present Perfect.",
+              "paragraphs": [
+                {
+                  "en": "I have traveled to more than twenty countries in my life.",
+                  "ru": "За свою жизнь я побывал более чем в двадцати странах."
+                },
+                {
+                  "en": "I have never been to Africa, but I would love to go someday.",
+                  "ru": "Я никогда не был в Африке, но очень хотел бы там побывать."
+                },
+                {
+                  "en": "Last year, I finally visited Japan, which I had always dreamed of.",
+                  "ru": "В прошлом году я наконец посетил Японию, о которой всегда мечтал."
+                },
+                {
+                  "en": "I have already tried sushi, ramen, and many other Japanese dishes.",
+                  "ru": "Я уже пробовал суши, рамен и многие другие японские блюда."
+                },
+                {
+                  "en": "So far, my favorite trip has been to the mountains of Nepal.",
+                  "ru": "На данный момент моя любимая поездка — это в горы Непала."
+                },
+                {
+                  "en": "I haven't decided where to go next, but I have a few ideas.",
+                  "ru": "Я ещё не решил, куда поеду дальше, но у меня есть несколько идей."
+                },
+                {
+                  "en": "Traveling has taught me more than any book ever could.",
+                  "ru": "Путешествия научили меня большему, чем любая книга."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько стран посетил автор?",
+                "options": [
+                  "Десять",
+                  "Более двадцати",
+                  "Пять",
+                  "Сто"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Куда автор никогда не ездил?",
+                "options": [
+                  "В Японию",
+                  "В Непал",
+                  "В Африку",
+                  "В Европу"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая поездка стала любимой?",
+                "options": [
+                  "В Японию",
+                  "В горы Непала",
+                  "В Африку",
+                  "В Европу"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1-l2-p2",
-            "number": 59,
+            "number": 67,
             "title": "First Conditional (Part 2)",
             "titleNative": "Первое условное · Часть 2",
             "description": "Real future possibilities",
@@ -3634,7 +4234,7 @@
           },
           {
             "id": "b1-l3-p1",
-            "number": 60,
+            "number": 68,
             "title": "Second Conditional (Part 1)",
             "titleNative": "Второе условное · Часть 1",
             "description": "Hypothetical and unreal situations",
@@ -3693,7 +4293,7 @@
           },
           {
             "id": "b1-l3-p2",
-            "number": 61,
+            "number": 69,
             "title": "Second Conditional (Part 2)",
             "titleNative": "Второе условное · Часть 2",
             "description": "Hypothetical and unreal situations",
@@ -3751,8 +4351,83 @@
             ]
           },
           {
+            "id": "b1-reading-2",
+            "number": 70,
+            "title": "What Would You Do?",
+            "titleNative": "Что бы ты сделал?",
+            "description": "Рассказ о гипотетической ситуации — тренируем First и Second Conditional.",
+            "readingPassage": {
+              "context": "Рассказ о гипотетической ситуации — тренируем First и Second Conditional.",
+              "paragraphs": [
+                {
+                  "en": "If I win the lottery, I will buy a small house by the sea.",
+                  "ru": "Если я выиграю в лотерею, я куплю небольшой дом у моря."
+                },
+                {
+                  "en": "If I had a lot of money now, I would travel around the world.",
+                  "ru": "Если бы у меня сейчас было много денег, я бы путешествовал по всему миру."
+                },
+                {
+                  "en": "My friend once told me that if she were rich, she wouldn't work at all.",
+                  "ru": "Моя подруга однажды сказала, что если бы она была богата, она бы вообще не работала."
+                },
+                {
+                  "en": "I disagree with her; if I had enough money, I would still want a hobby job.",
+                  "ru": "Я с ней не согласен; если бы у меня было достаточно денег, я бы всё равно хотел работать над каким-то увлечением."
+                },
+                {
+                  "en": "If it rains tomorrow, we will stay home and watch movies.",
+                  "ru": "Если завтра пойдёт дождь, мы останемся дома и будем смотреть фильмы."
+                },
+                {
+                  "en": "But if the weather is nice, we will go to the beach instead.",
+                  "ru": "Но если погода будет хорошая, мы вместо этого поедем на пляж."
+                },
+                {
+                  "en": "It's interesting to imagine different versions of the future.",
+                  "ru": "Интересно представлять разные варианты будущего."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что купит автор, если выиграет в лотерею?",
+                "options": [
+                  "Машину",
+                  "Дом у моря",
+                  "Квартиру в городе",
+                  "Ресторан"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сказала подруга о богатстве?",
+                "options": [
+                  "Она бы много путешествовала",
+                  "Она бы вообще не работала",
+                  "Она бы купила дом",
+                  "Она бы помогала бедным"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что они сделают, если пойдёт дождь?",
+                "options": [
+                  "Пойдут на пляж",
+                  "Останутся дома и посмотрят фильмы",
+                  "Поедут за город",
+                  "Пойдут в ресторан"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1-l4-p1",
-            "number": 62,
+            "number": 71,
             "title": "Passive Voice (Part 1)",
             "titleNative": "Страдательный залог · Часть 1",
             "description": "When the action matters more than who did it",
@@ -3811,7 +4486,7 @@
           },
           {
             "id": "b1-l4-p2",
-            "number": 63,
+            "number": 72,
             "title": "Passive Voice (Part 2)",
             "titleNative": "Страдательный залог · Часть 2",
             "description": "When the action matters more than who did it",
@@ -3870,7 +4545,7 @@
           },
           {
             "id": "b1-l5-p1",
-            "number": 64,
+            "number": 73,
             "title": "Reported Speech (Part 1)",
             "titleNative": "Косвенная речь · Часть 1",
             "description": "Reporting what someone said",
@@ -3928,8 +4603,83 @@
             ]
           },
           {
+            "id": "b1-reading-3",
+            "number": 74,
+            "title": "The Meeting That Almost Didn't Happen",
+            "titleNative": "Встреча, которая чуть не сорвалась",
+            "description": "Итоговый рассказ уровня B1 — сочетание пассивного залога и косвенной речи.",
+            "readingPassage": {
+              "context": "Итоговый рассказ уровня B1 — сочетание пассивного залога и косвенной речи.",
+              "paragraphs": [
+                {
+                  "en": "The meeting was organized by our manager two weeks in advance.",
+                  "ru": "Встреча была организована нашим менеджером за две недели."
+                },
+                {
+                  "en": "Unfortunately, the room had been booked by another team by mistake.",
+                  "ru": "К сожалению, комнату по ошибке забронировала другая команда."
+                },
+                {
+                  "en": "My colleague said that the situation could be solved quickly.",
+                  "ru": "Мой коллега сказал, что ситуацию можно решить быстро."
+                },
+                {
+                  "en": "She suggested that we move the meeting to the smaller office.",
+                  "ru": "Она предложила перенести встречу в кабинет поменьше."
+                },
+                {
+                  "en": "Everyone was informed about the change within a few minutes.",
+                  "ru": "Всех проинформировали об изменении в течение нескольких минут."
+                },
+                {
+                  "en": "In the end, the meeting was held on time, and it went very well.",
+                  "ru": "В итоге встреча прошла вовремя, и всё прошло очень хорошо."
+                },
+                {
+                  "en": "We should always have a backup plan for situations like this.",
+                  "ru": "Нам всегда следует иметь запасной план для подобных ситуаций."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Кто организовал встречу?",
+                "options": [
+                  "Коллега",
+                  "Менеджер",
+                  "Секретарь",
+                  "Клиент"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что предложила коллега?",
+                "options": [
+                  "Отменить встречу",
+                  "Перенести встречу в другой кабинет",
+                  "Перенести встречу на другой день",
+                  "Провести встречу онлайн"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как прошла встреча в итоге?",
+                "options": [
+                  "Она была отменена",
+                  "Прошла с опозданием",
+                  "Прошла вовремя и хорошо",
+                  "Прошла плохо"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "b1-l5-p2",
-            "number": 65,
+            "number": 75,
             "title": "Reported Speech (Part 2)",
             "titleNative": "Косвенная речь · Часть 2",
             "description": "Reporting what someone said",
@@ -3988,7 +4738,7 @@
           },
           {
             "id": "b1-l6-p1",
-            "number": 66,
+            "number": 76,
             "title": "Making Suggestions (Part 1)",
             "titleNative": "Предложения и советы · Часть 1",
             "description": "Proposing ideas and giving advice",
@@ -4047,7 +4797,7 @@
           },
           {
             "id": "b1-l6-p2",
-            "number": 67,
+            "number": 77,
             "title": "Making Suggestions (Part 2)",
             "titleNative": "Предложения и советы · Часть 2",
             "description": "Proposing ideas and giving advice",
@@ -4114,7 +4864,7 @@
         "lessons": [
           {
             "id": "b1plus-l1-p1",
-            "number": 68,
+            "number": 78,
             "title": "Phrasal Verbs (Part 1)",
             "titleNative": "Фразовые глаголы · Часть 1",
             "description": "Everyday two-word verbs native speakers actually use",
@@ -4173,7 +4923,7 @@
           },
           {
             "id": "b1plus-l1-p2",
-            "number": 69,
+            "number": 79,
             "title": "Phrasal Verbs (Part 2)",
             "titleNative": "Фразовые глаголы · Часть 2",
             "description": "Everyday two-word verbs native speakers actually use",
@@ -4232,7 +4982,7 @@
           },
           {
             "id": "b1plus-l2-p1",
-            "number": 70,
+            "number": 80,
             "title": "Sharing Opinions (Part 1)",
             "titleNative": "Выражение мнения · Часть 1",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
@@ -4290,8 +5040,83 @@
             ]
           },
           {
+            "id": "b1plus-reading-1",
+            "number": 81,
+            "title": "Giving Up on the Old Plan",
+            "titleNative": "Отказ от старого плана",
+            "description": "Рассказ с фразовыми глаголами — тренируем их в естественном контексте.",
+            "readingPassage": {
+              "context": "Рассказ с фразовыми глаголами — тренируем их в естественном контексте.",
+              "paragraphs": [
+                {
+                  "en": "I used to put off important decisions for as long as possible.",
+                  "ru": "Раньше я откладывал важные решения на как можно дольше."
+                },
+                {
+                  "en": "Last year, I finally decided to give up that habit.",
+                  "ru": "В прошлом году я наконец решил отказаться от этой привычки."
+                },
+                {
+                  "en": "I sat down and figured out exactly what I wanted from my career.",
+                  "ru": "Я сел и точно понял, чего хочу от своей карьеры."
+                },
+                {
+                  "en": "Then I looked into a few options and set up meetings with mentors.",
+                  "ru": "Затем я изучил несколько вариантов и назначил встречи с наставниками."
+                },
+                {
+                  "en": "One of them talked me out of a risky idea I had been considering.",
+                  "ru": "Один из них отговорил меня от рискованной идеи, которую я рассматривал."
+                },
+                {
+                  "en": "In the end, I came up with a plan that actually made sense.",
+                  "ru": "В итоге я придумал план, который действительно имел смысл."
+                },
+                {
+                  "en": "Looking back, putting off that decision cost me a lot of time.",
+                  "ru": "Оглядываясь назад, откладывание того решения стоило мне много времени."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какую привычку бросил автор?",
+                "options": [
+                  "Курение",
+                  "Откладывать важные решения",
+                  "Опаздывать",
+                  "Тратить деньги"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "От чего отговорил наставник?",
+                "options": [
+                  "От смены работы",
+                  "От рискованной идеи",
+                  "От переезда",
+                  "От учёбы"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что понял автор, оглядываясь назад?",
+                "options": [
+                  "Что план был плохим",
+                  "Что откладывание стоило времени",
+                  "Что наставник был не прав",
+                  "Что нужно было раньше начать учёбу"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1plus-l2-p2",
-            "number": 71,
+            "number": 82,
             "title": "Sharing Opinions (Part 2)",
             "titleNative": "Выражение мнения · Часть 2",
             "description": "Agreeing, disagreeing, and softening a strong opinion",
@@ -4350,7 +5175,7 @@
           },
           {
             "id": "b1plus-l3-p1",
-            "number": 72,
+            "number": 83,
             "title": "Third Conditional (Part 1)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 1",
             "description": "Regrets and hypothetical past outcomes",
@@ -4409,7 +5234,7 @@
           },
           {
             "id": "b1plus-l3-p2",
-            "number": 73,
+            "number": 84,
             "title": "Third Conditional (Part 2)",
             "titleNative": "Третье условное (нереальное прошлое) · Часть 2",
             "description": "Regrets and hypothetical past outcomes",
@@ -4467,8 +5292,83 @@
             ]
           },
           {
+            "id": "b1plus-reading-2",
+            "number": 85,
+            "title": "Two Views on Remote Work",
+            "titleNative": "Два взгляда на удалённую работу",
+            "description": "Рассказ-дискуссия — тренируем выражение и защиту мнения.",
+            "readingPassage": {
+              "context": "Рассказ-дискуссия — тренируем выражение и защиту мнения.",
+              "paragraphs": [
+                {
+                  "en": "In my opinion, remote work has completely changed the way people live.",
+                  "ru": "На мой взгляд, удалённая работа полностью изменила образ жизни людей."
+                },
+                {
+                  "en": "I personally believe it gives people more control over their time.",
+                  "ru": "Лично я считаю, что это даёт людям больше контроля над своим временем."
+                },
+                {
+                  "en": "However, my colleague strongly disagrees with this view.",
+                  "ru": "Однако мой коллега категорически не согласен с этой точкой зрения."
+                },
+                {
+                  "en": "From his perspective, working from home makes teamwork much harder.",
+                  "ru": "С его точки зрения, работа из дома сильно усложняет командную работу."
+                },
+                {
+                  "en": "He argues that people lose important daily contact with colleagues.",
+                  "ru": "Он утверждает, что люди теряют важный ежедневный контакт с коллегами."
+                },
+                {
+                  "en": "I understand his point, but I still think the benefits outweigh the costs.",
+                  "ru": "Я понимаю его точку зрения, но всё же считаю, что плюсы перевешивают минусы."
+                },
+                {
+                  "en": "Perhaps the best solution is a mix of both office and home work.",
+                  "ru": "Возможно, лучшее решение — это сочетание работы в офисе и дома."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что думает автор об удалённой работе?",
+                "options": [
+                  "Она бесполезна",
+                  "Она даёт больше контроля над временем",
+                  "Она мешает семье",
+                  "Она невозможна"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "С чем не согласен коллега?",
+                "options": [
+                  "С зарплатой",
+                  "С мнением автора об удалённой работе",
+                  "С расписанием",
+                  "С выбором профессии"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какое решение предлагает автор в конце?",
+                "options": [
+                  "Полностью работать из дома",
+                  "Полностью работать в офисе",
+                  "Сочетание офиса и дома",
+                  "Сменить работу"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
             "id": "b1plus-l4-p1",
-            "number": 74,
+            "number": 86,
             "title": "Reported Questions (Part 1)",
             "titleNative": "Косвенные вопросы · Часть 1",
             "description": "Asking and reporting questions politely and indirectly",
@@ -4527,7 +5427,7 @@
           },
           {
             "id": "b1plus-l4-p2",
-            "number": 75,
+            "number": 87,
             "title": "Reported Questions (Part 2)",
             "titleNative": "Косвенные вопросы · Часть 2",
             "description": "Asking and reporting questions politely and indirectly",
@@ -4586,7 +5486,7 @@
           },
           {
             "id": "b1plus-l5-p1",
-            "number": 76,
+            "number": 88,
             "title": "Modals of Deduction (Part 1)",
             "titleNative": "Модальные глаголы предположения · Часть 1",
             "description": "Guessing what must, might, or can't be true",
@@ -4644,8 +5544,83 @@
             ]
           },
           {
+            "id": "b1plus-reading-3",
+            "number": 89,
+            "title": "If Only I Had Known",
+            "titleNative": "Если бы я только знал",
+            "description": "Итоговый рассказ уровня B1+ — Third Conditional и предположения о прошлом.",
+            "readingPassage": {
+              "context": "Итоговый рассказ уровня B1+ — Third Conditional и предположения о прошлом.",
+              "paragraphs": [
+                {
+                  "en": "If I had known about the traffic, I would have left the house earlier.",
+                  "ru": "Если бы я знал о пробках, я бы вышел из дома раньше."
+                },
+                {
+                  "en": "By the time I arrived, the meeting must have already started.",
+                  "ru": "К тому времени, как я приехал, встреча, должно быть, уже началась."
+                },
+                {
+                  "en": "Everyone looked surprised, so something unusual might have happened.",
+                  "ru": "Все выглядели удивлёнными, значит, могло произойти что-то необычное."
+                },
+                {
+                  "en": "It turned out that the client had cancelled at the last minute.",
+                  "ru": "Оказалось, что клиент отменил встречу в последнюю минуту."
+                },
+                {
+                  "en": "If they had told us sooner, we wouldn't have rushed for nothing.",
+                  "ru": "Если бы они сказали нам раньше, мы бы не спешили напрасно."
+                },
+                {
+                  "en": "Still, my boss couldn't have handled it any better than she did.",
+                  "ru": "Тем не менее, мой начальник не могла бы справиться с этим лучше, чем она это сделала."
+                },
+                {
+                  "en": "We simply rescheduled and turned a bad morning into a productive day.",
+                  "ru": "Мы просто перенесли встречу и превратили плохое утро в продуктивный день."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что бы сделал автор, если бы знал о пробках?",
+                "options": [
+                  "Остался бы дома",
+                  "Вышел бы раньше",
+                  "Позвонил бы клиенту",
+                  "Отменил бы встречу"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Почему встреча не состоялась вовремя?",
+                "options": [
+                  "Клиент отменил её в последнюю минуту",
+                  "Начальник опоздала",
+                  "Комната была занята",
+                  "Автор забыл о встрече"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончился день?",
+                "options": [
+                  "Всё было отменено",
+                  "Продуктивным днём",
+                  "Автора уволили",
+                  "Ничего не изменилось"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b1plus-l5-p2",
-            "number": 77,
+            "number": 90,
             "title": "Modals of Deduction (Part 2)",
             "titleNative": "Модальные глаголы предположения · Часть 2",
             "description": "Guessing what must, might, or can't be true",
@@ -4704,7 +5679,7 @@
           },
           {
             "id": "b1plus-l6-p1",
-            "number": 78,
+            "number": 91,
             "title": "Comparisons & Contrasts (Part 1)",
             "titleNative": "Сравнения и противопоставления · Часть 1",
             "description": "Weighing options and highlighting differences",
@@ -4763,7 +5738,7 @@
           },
           {
             "id": "b1plus-l6-p2",
-            "number": 79,
+            "number": 92,
             "title": "Comparisons & Contrasts (Part 2)",
             "titleNative": "Сравнения и противопоставления · Часть 2",
             "description": "Weighing options and highlighting differences",
@@ -4830,7 +5805,7 @@
         "lessons": [
           {
             "id": "b2-l1-p1",
-            "number": 80,
+            "number": 93,
             "title": "Wishes & Regrets (Part 1)",
             "titleNative": "Желания и сожаления · Часть 1",
             "description": "Wish, if only, and things you'd change",
@@ -4889,7 +5864,7 @@
           },
           {
             "id": "b2-l1-p2",
-            "number": 81,
+            "number": 94,
             "title": "Wishes & Regrets (Part 2)",
             "titleNative": "Желания и сожаления · Часть 2",
             "description": "Wish, if only, and things you'd change",
@@ -4948,7 +5923,7 @@
           },
           {
             "id": "b2-l2-p1",
-            "number": 82,
+            "number": 95,
             "title": "Mixed Conditionals (Part 1)",
             "titleNative": "Смешанные условные предложения · Часть 1",
             "description": "Past causes with present results, and the reverse",
@@ -5006,8 +5981,83 @@
             ]
           },
           {
+            "id": "b2-reading-1",
+            "number": 96,
+            "title": "A Career I Never Chased",
+            "titleNative": "Карьера, за которой я не гнался",
+            "description": "Рассказ о сожалениях и смешанных условных предложениях.",
+            "readingPassage": {
+              "context": "Рассказ о сожалениях и смешанных условных предложениях.",
+              "paragraphs": [
+                {
+                  "en": "I sometimes wish I had studied engineering instead of literature.",
+                  "ru": "Иногда я жалею, что не изучал инженерию вместо литературы."
+                },
+                {
+                  "en": "Had I made that choice, my life today would probably look very different.",
+                  "ru": "Сделай я тот выбор, моя жизнь сегодня, вероятно, выглядела бы совсем иначе."
+                },
+                {
+                  "en": "If I were more practical back then, I might have a completely different career now.",
+                  "ru": "Если бы тогда я был более практичным, у меня, возможно, была бы совершенно другая карьера сейчас."
+                },
+                {
+                  "en": "Rarely do I regret it for long, though, because writing has given me real satisfaction.",
+                  "ru": "Впрочем, я редко долго об этом жалею, потому что писательство приносит мне настоящее удовлетворение."
+                },
+                {
+                  "en": "Not only has it shaped my career, but it has also shaped how I see the world.",
+                  "ru": "Оно не только сформировало мою карьеру, но и то, как я вижу мир."
+                },
+                {
+                  "en": "If I hadn't taken that first writing class, I wouldn't be where I am today.",
+                  "ru": "Если бы я не записался на тот первый курс писательства, я бы не был там, где я сейчас."
+                },
+                {
+                  "en": "Looking back, I believe I made the right decision after all.",
+                  "ru": "Оглядываясь назад, я всё же считаю, что принял правильное решение."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём иногда жалеет автор?",
+                "options": [
+                  "Что не изучал медицину",
+                  "Что не изучал инженерию",
+                  "Что не путешествовал",
+                  "Что не работал за границей"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что дало автору писательство?",
+                "options": [
+                  "Много денег",
+                  "Настоящее удовлетворение",
+                  "Известность",
+                  "Ничего особенного"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "К какому выводу приходит автор в конце?",
+                "options": [
+                  "Он сожалеет о решении",
+                  "Он считает решение правильным",
+                  "Он бы хотел всё изменить",
+                  "Он не уверен"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2-l2-p2",
-            "number": 83,
+            "number": 97,
             "title": "Mixed Conditionals (Part 2)",
             "titleNative": "Смешанные условные предложения · Часть 2",
             "description": "Past causes with present results, and the reverse",
@@ -5066,7 +6116,7 @@
           },
           {
             "id": "b2-l3-p1",
-            "number": 84,
+            "number": 98,
             "title": "Advanced Passive (Part 1)",
             "titleNative": "Продвинутый страдательный залог · Часть 1",
             "description": "Passive with modals and perfect forms",
@@ -5125,7 +6175,7 @@
           },
           {
             "id": "b2-l3-p2",
-            "number": 85,
+            "number": 99,
             "title": "Advanced Passive (Part 2)",
             "titleNative": "Продвинутый страдательный залог · Часть 2",
             "description": "Passive with modals and perfect forms",
@@ -5183,8 +6233,83 @@
             ]
           },
           {
+            "id": "b2-reading-2",
+            "number": 100,
+            "title": "The Algorithm Knows Best?",
+            "titleNative": "Алгоритм знает лучше?",
+            "description": "Рассказ на тему общества и технологий — тренируем продвинутый пассив и слова-связки.",
+            "readingPassage": {
+              "context": "Рассказ на тему общества и технологий — тренируем продвинутый пассив и слова-связки.",
+              "paragraphs": [
+                {
+                  "en": "Every day, countless decisions about our lives are influenced by algorithms.",
+                  "ru": "Каждый день бесчисленные решения о нашей жизни находятся под влиянием алгоритмов."
+                },
+                {
+                  "en": "The videos we watch and the products we buy are largely determined by hidden systems.",
+                  "ru": "Видео, которые мы смотрим, и товары, которые мы покупаем, в основном определяются скрытыми системами."
+                },
+                {
+                  "en": "Consequently, many people have started to question how much control they truly have.",
+                  "ru": "Следовательно, многие люди начали задаваться вопросом, насколько реально у них есть контроль."
+                },
+                {
+                  "en": "On the other hand, these same systems have made everyday life more convenient.",
+                  "ru": "С другой стороны, те же самые системы сделали повседневную жизнь удобнее."
+                },
+                {
+                  "en": "Nevertheless, convenience should not come at the cost of privacy, in my view.",
+                  "ru": "Тем не менее, на мой взгляд, удобство не должно достигаться ценой приватности."
+                },
+                {
+                  "en": "As a result, stricter regulations are now being discussed by governments worldwide.",
+                  "ru": "В результате правительства по всему миру сейчас обсуждают более строгие правила."
+                },
+                {
+                  "en": "Whether or not these rules will be effective remains to be seen.",
+                  "ru": "Будут ли эти правила эффективны, пока неизвестно."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Чем определяются видео и товары, по мнению автора?",
+                "options": [
+                  "Личным выбором",
+                  "Скрытыми алгоритмами",
+                  "Случайностью",
+                  "Рекламой на ТВ"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению автора, не должно приноситься в жертву удобству?",
+                "options": [
+                  "Скорость",
+                  "Приватность",
+                  "Цена",
+                  "Качество"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сейчас обсуждают правительства?",
+                "options": [
+                  "Отмену интернета",
+                  "Более строгие правила",
+                  "Снижение налогов",
+                  "Новые технологии"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2-l4-p1",
-            "number": 86,
+            "number": 101,
             "title": "Emphasis & Inversion (Part 1)",
             "titleNative": "Эмфаза и инверсия · Часть 1",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -5243,7 +6368,7 @@
           },
           {
             "id": "b2-l4-p2",
-            "number": 87,
+            "number": 102,
             "title": "Emphasis & Inversion (Part 2)",
             "titleNative": "Эмфаза и инверсия · Часть 2",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -5302,7 +6427,7 @@
           },
           {
             "id": "b2-l5-p1",
-            "number": 88,
+            "number": 103,
             "title": "Society & Technology (Part 1)",
             "titleNative": "Общество и технологии · Часть 1",
             "description": "Discussing abstract, current issues with nuance",
@@ -5360,8 +6485,83 @@
             ]
           },
           {
+            "id": "b2-reading-3",
+            "number": 104,
+            "title": "Never Had I Expected This",
+            "titleNative": "Никогда я такого не ожидал",
+            "description": "Итоговый рассказ уровня B2 — инверсия и эмфатические конструкции.",
+            "readingPassage": {
+              "context": "Итоговый рассказ уровня B2 — инверсия и эмфатические конструкции.",
+              "paragraphs": [
+                {
+                  "en": "Never had I expected my small idea to grow into a real business.",
+                  "ru": "Я никогда не ожидал, что моя маленькая идея вырастет в настоящий бизнес."
+                },
+                {
+                  "en": "Little did I know, at the time, how much work it would actually take.",
+                  "ru": "Тогда я и не подозревал, сколько на самом деле потребуется работы."
+                },
+                {
+                  "en": "Not only did I have to learn new skills, but I also had to manage a team.",
+                  "ru": "Мне не только пришлось освоить новые навыки, но и научиться управлять командой."
+                },
+                {
+                  "en": "Rarely have I felt as challenged as I did during that first difficult year.",
+                  "ru": "Редко я чувствовал себя так испытанным, как в тот первый трудный год."
+                },
+                {
+                  "en": "Only after months of struggle did the business finally start to grow.",
+                  "ru": "Только после месяцев борьбы бизнес наконец начал расти."
+                },
+                {
+                  "en": "It is precisely this experience that taught me the value of persistence.",
+                  "ru": "Именно этот опыт научил меня ценности упорства."
+                },
+                {
+                  "en": "Should I ever doubt myself again, I will remember how far I have come.",
+                  "ru": "Если я когда-нибудь снова засомневаюсь в себе, я вспомню, как далеко я продвинулся."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Чего не ожидал автор?",
+                "options": [
+                  "Что бизнес провалится",
+                  "Что идея вырастет в настоящий бизнес",
+                  "Что придётся уехать",
+                  "Что найдёт инвестора"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чему, помимо новых навыков, пришлось научиться автору?",
+                "options": [
+                  "Готовке",
+                  "Управлению командой",
+                  "Иностранному языку",
+                  "Бухгалтерии"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чему научил этот опыт автора?",
+                "options": [
+                  "Ценности денег",
+                  "Ценности упорства",
+                  "Важности отдыха",
+                  "Важности удачи"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
             "id": "b2-l5-p2",
-            "number": 89,
+            "number": 105,
             "title": "Society & Technology (Part 2)",
             "titleNative": "Общество и технологии · Часть 2",
             "description": "Discussing abstract, current issues with nuance",
@@ -5420,7 +6620,7 @@
           },
           {
             "id": "b2-l6-p1",
-            "number": 90,
+            "number": 106,
             "title": "Advanced Linking Words (Part 1)",
             "titleNative": "Продвинутые слова-связки · Часть 1",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
@@ -5479,7 +6679,7 @@
           },
           {
             "id": "b2-l6-p2",
-            "number": 91,
+            "number": 107,
             "title": "Advanced Linking Words (Part 2)",
             "titleNative": "Продвинутые слова-связки · Часть 2",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
