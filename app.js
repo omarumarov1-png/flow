@@ -165,6 +165,23 @@
     refreshVoices();
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
+  // Many mobile browsers (Android Chrome especially, but also iOS Safari on
+  // a cold load) return an empty voice list on the first synchronous
+  // getVoices() call and never reliably fire onvoiceschanged (a long-standing
+  // Chromium bug) — unlike most desktop browsers, where onvoiceschanged
+  // alone is enough. speak() still works without a matched voice (it falls
+  // back to the browser's own en-US default via u.lang), but polling for up
+  // to ~9s after load lets the higher-quality ranked voice take over as soon
+  // as the real voice list finishes loading, instead of staying stuck on
+  // whatever generic default the OS picked on the very first utterance.
+  let _voicePollAttempts = 0;
+  function pollVoicesUntilFound() {
+    if (!("speechSynthesis" in window)) return;
+    refreshVoices();
+    if (_preferredVoice || _voicePollAttempts >= 30) return;
+    _voicePollAttempts++;
+    setTimeout(pollVoicesUntilFound, 300);
+  }
   const SPEECH_RATE = 0.85;
   const SPEECH_RATE_SLOW = 0.55;
   let _currentUtterance = null;
@@ -1060,6 +1077,8 @@
     if (!res.ok) throw new Error("Failed to load course data");
     const data = await res.json();
     course = data.course;
+    _voicePollAttempts = 0;
+    pollVoicesUntilFound();
 
     flatLessons = [];
     course.levels.forEach(level => {
