@@ -1,0 +1,26 @@
+{
+  "name": "flow-english",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint app.js auth.js firebase-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarumarov1-png/flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/omarumarov1-png/flow/issues"
+  },
+  "homepage": "https://github.com/omarumarov1-png/flow#readme",
+  "devDependencies": {
+    "eslint": "^10.7.0",
+    "globals": "^17.7.0"
+  }
+}
