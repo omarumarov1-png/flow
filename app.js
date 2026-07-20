@@ -4,6 +4,7 @@
   const PROGRESS_KEY = "flow-progress-v1";
   const THEME_KEY = "flow-theme";
   const SOUND_KEY = "flow-sound";
+  const PASSAGE_VOICE_KEY = "flow-passage-voice";
   const MAX_MISSED = 150;
   const REVISION_SIZE = 20;
   const ADVANCE_DELAY_CORRECT = 900;
@@ -136,30 +137,58 @@
   // Browser-native text-to-speech (Web Speech Synthesis API) — free, no API
   // key, no per-sentence audio files, works for the entire sentence bank
   // automatically since it reads text live. Voice list loads async on some
-  // browsers, so we cache it once populated and prefer a real en-US voice.
+  // browsers, so we cache it once populated and prefer a real English voice.
   // Ranked by how natural/pleasant they sound among voices that ship free
   // with the browser/OS (no paid API, no extra download): Chrome's Google
   // voices and Edge's neural voices lead, macOS's Samantha is a solid classic,
-  // then other common system voices before falling back to anything en-*.
-  const VOICE_RANK = [
+  // then other common system voices. Deliberately female-only — no male
+  // voice is ever ranked, so a bad match falls through to the (unranked,
+  // gender-agnostic) last-resort pick below rather than us actively
+  // choosing a male voice.
+  const FEMALE_VOICE_RANK = [
     /Google US English/i,
-    /Microsoft (Aria|Jenny|Emma).*(Natural|Online)/i,
+    /Microsoft (Aria|Jenny|Emma|Libby|Sonia).*(Natural|Online)/i,
     /Samantha/i,
     /Microsoft Zira/i,
-    /Ava|Nicky|Zoe/i,
-    /Microsoft (David|Mark)/i,
+    /Google UK English Female/i,
+    /Ava|Nicky|Zoe|Karen|Moira|Tessa|Kate|Fiona|Susan/i,
+  ];
+  // Best free natural-sounding male voices, same tiering logic as the female
+  // list: Edge's neural voices lead, macOS's Alex/Daniel are solid classics,
+  // then other common system voices. Only used where a male voice is
+  // explicitly requested (the reading-passage playback toggle) — general
+  // app TTS still defaults to the female ranking above.
+  const MALE_VOICE_RANK = [
+    /Microsoft (Guy|Ryan|Christopher|Eric).*(Natural|Online)/i,
+    /Google UK English Male/i,
+    /Alex/i,
+    /Daniel/i,
+    /Microsoft David/i,
+    /Fred|Oliver|Aaron/i,
   ];
   let _voices = [];
   let _preferredVoice = null;
+  let _preferredVoiceMale = null;
+  function pickVoice(pool, rank) {
+    for (const pattern of rank) {
+      const match = pool.find(v => pattern.test(v.name));
+      if (match) return match;
+    }
+    return null;
+  }
   function refreshVoices() {
     if (!("speechSynthesis" in window)) return;
     _voices = window.speechSynthesis.getVoices() || [];
-    const enUS = _voices.filter(v => v.lang === "en-US");
-    for (const pattern of VOICE_RANK) {
-      const match = enUS.find(v => pattern.test(v.name));
-      if (match) { _preferredVoice = match; return; }
-    }
-    _preferredVoice = enUS[0] || _voices.find(v => /^en/i.test(v.lang)) || null;
+    // Only exact "en-US" excludes plenty of legitimate English voices some
+    // platforms tag differently (e.g. "en_US" underscore form on some
+    // Android WebViews, or "en-GB"/other English locales) — those voices
+    // would silently skip ranking entirely and fall straight to the
+    // unranked last-resort pick, which is how a good female voice pick
+    // could get replaced by a random (sometimes male) one after a browser/
+    // OS update changed how it reports the voice's lang tag.
+    const en = _voices.filter(v => /^en[-_]/i.test(v.lang) || /^en$/i.test(v.lang));
+    _preferredVoice = pickVoice(en, FEMALE_VOICE_RANK) || en[0] || _voices.find(v => /^en/i.test(v.lang)) || null;
+    _preferredVoiceMale = pickVoice(en, MALE_VOICE_RANK) || _preferredVoice;
   }
   if ("speechSynthesis" in window) {
     refreshVoices();
@@ -458,6 +487,9 @@
   // ---------- reading comprehension ----------
   let _passagePlaying = false;
   let _passageToken = 0;
+  function passageVoiceGender() {
+    return localStorage.getItem(PASSAGE_VOICE_KEY) === "male" ? "male" : "female";
+  }
   function renderPassagePanel(lesson) {
     const rows = lesson.readingPassage.paragraphs.map((p, i) => `
       <div class="passage-line" data-line="${i}">
@@ -467,12 +499,14 @@
     `).join("");
     const context = lesson.readingPassage.context
       ? `<p class="context-note">${lesson.readingPassage.context}</p>` : "";
+    const isMale = passageVoiceGender() === "male";
     return `
       <details class="passage-panel" open>
         <summary>${lesson.title} <span class="ru-summary">${lesson.titleNative || ""}</span></summary>
         ${context}
         <div class="passage-controls">
           <button class="translit-toggle" id="passageToggle">Показать перевод</button>
+          <button class="passage-listen-btn" id="passageVoiceToggle" title="Сменить голос" aria-label="Сменить голос диктора">${isMale ? "👨 Мужской" : "👩 Женский"}</button>
           <button class="passage-listen-btn" id="passageListenBtn" title="Слушать текст" aria-label="Слушать текст">🔊 Слушать</button>
         </div>
         ${rows}
@@ -509,6 +543,17 @@
     lineEls.forEach(l => l.classList.remove("speaking"));
   }
 
+  function wirePassageVoiceToggle(lesson) {
+    const btn = document.getElementById("passageVoiceToggle");
+    if (!btn) return;
+    btn.addEventListener("click", () => {
+      if (_passagePlaying) stopPassagePlayback(document.getElementById("passageListenBtn"), Array.from(document.querySelectorAll(".passage-line")));
+      const next = passageVoiceGender() === "male" ? "female" : "male";
+      localStorage.setItem(PASSAGE_VOICE_KEY, next);
+      btn.textContent = next === "male" ? "👨 Мужской" : "👩 Женский";
+    });
+  }
+
   function wirePassageListen(lesson) {
     const btn = document.getElementById("passageListenBtn");
     if (!btn) return;
@@ -533,7 +578,8 @@
         const u = new SpeechSynthesisUtterance(paragraphs[i].en);
         u.lang = "en-US";
         u.rate = SPEECH_RATE;
-        if (_preferredVoice) u.voice = _preferredVoice;
+        const voice = passageVoiceGender() === "male" ? _preferredVoiceMale : _preferredVoice;
+        if (voice) u.voice = voice;
         let advanced = false;
         u.onend = u.onerror = () => {
           if (advanced || token !== _passageToken) return;
@@ -562,6 +608,7 @@
       </div>
     `);
     wirePassageToggle();
+    wirePassageVoiceToggle(lesson);
     wirePassageListen(lesson);
 
     let answered = false;
@@ -587,6 +634,9 @@
   }
 
   // ---------- grammar notes ----------
+  function currentExercise() {
+    return session.queue[session.index].ex;
+  }
   function grammarPanel() {
     const lesson = currentExercise()._sourceLesson || session.lesson;
     const topic = lesson.topicId && course.grammarTopics && course.grammarTopics[lesson.topicId];
