@@ -215,8 +215,21 @@
   const SPEECH_RATE_SLOW = 0.55;
   let _currentUtterance = null;
   let _speakToken = 0;
-  function speak(text, onEnd, rate) {
+  // Speaking immediately with no voice set lets the browser fall back to
+  // its own raw system default for the language — often a noticeably worse,
+  // more robotic voice than the ranked one refreshVoices() would have
+  // picked, just not loaded yet (voice lists load async, up to ~9s on some
+  // platforms). Rather than ever using that fallback, wait in short bursts
+  // for the ranked voice to show up first — up to ~1.8s, which is enough on
+  // every platform tested. If it truly never loads (no voices at all on
+  // this device), speak anyway after that so audio-dependent exercises
+  // (listening) aren't permanently silent — some voice beats none.
+  function speak(text, onEnd, rate, _waitMs) {
     if (soundMuted || !("speechSynthesis" in window)) { if (onEnd) onEnd(); return; }
+    if (!_preferredVoice && (_waitMs || 0) < 1800) {
+      setTimeout(() => speak(text, onEnd, rate, (_waitMs || 0) + 150), 150);
+      return;
+    }
     const token = ++_speakToken;
     let settled = false;
     try {
@@ -567,10 +580,17 @@
       btn.textContent = "⏹ Стоп";
       const token = ++_passageToken;
       let i = 0;
-      function step() {
+      function step(waitMs) {
         if (token !== _passageToken || i >= paragraphs.length) {
           if (token === _passageToken) { _passagePlaying = false; btn.textContent = "🔊 Слушать"; }
           lineEls.forEach(l => l.classList.remove("speaking"));
+          return;
+        }
+        // Same reasoning as speak(): don't fall back to an unset voice while
+        // the ranked one is still loading — wait briefly first.
+        const voice = passageVoiceGender() === "male" ? _preferredVoiceMale : _preferredVoice;
+        if (!voice && (waitMs || 0) < 1800) {
+          setTimeout(() => step((waitMs || 0) + 150), 150);
           return;
         }
         lineEls.forEach(l => l.classList.remove("speaking"));
@@ -578,7 +598,6 @@
         const u = new SpeechSynthesisUtterance(paragraphs[i].en);
         u.lang = "en-US";
         u.rate = SPEECH_RATE;
-        const voice = passageVoiceGender() === "male" ? _preferredVoiceMale : _preferredVoice;
         if (voice) u.voice = voice;
         let advanced = false;
         u.onend = u.onerror = () => {
