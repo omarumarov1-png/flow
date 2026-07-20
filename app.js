@@ -146,30 +146,44 @@
   // gender-agnostic) last-resort pick below rather than us actively
   // choosing a male voice.
   const FEMALE_VOICE_RANK = [
-    /Google US English/i,
-    /Microsoft (Aria|Jenny|Emma|Libby|Sonia).*(Natural|Online)/i,
+    /Microsoft (Aria|Jenny|Emma|Libby|Sonia)/i,
     /Samantha/i,
+    /Ava|Nicky|Zoe|Karen|Moira|Tessa|Kate|Fiona|Susan|Allison/i,
+    /Google US English/i,
     /Microsoft Zira/i,
     /Google UK English Female/i,
-    /Ava|Nicky|Zoe|Karen|Moira|Tessa|Kate|Fiona|Susan/i,
   ];
   // Best free natural-sounding male voices, same tiering logic as the female
-  // list: Edge's neural voices lead, macOS's Alex/Daniel are solid classics,
-  // then other common system voices. Only used where a male voice is
-  // explicitly requested (the reading-passage playback toggle) — general
-  // app TTS still defaults to the female ranking above.
+  // list. Only used where a male voice is explicitly requested (the
+  // reading-passage playback toggle) — general app TTS still defaults to
+  // the female ranking above.
   const MALE_VOICE_RANK = [
-    /Microsoft (Guy|Ryan|Christopher|Eric).*(Natural|Online)/i,
-    /Google UK English Male/i,
+    /Microsoft (Guy|Ryan|Christopher|Eric)/i,
     /Alex/i,
     /Daniel/i,
-    /Microsoft David/i,
     /Fred|Oliver|Aaron/i,
+    /Google UK English Male/i,
+    /Microsoft David/i,
   ];
   let _voices = [];
   let _preferredVoice = null;
   let _preferredVoiceMale = null;
+  // macOS/iOS ship both a compact default voice and a much better-sounding
+  // "(Enhanced)"/"(Premium)" download of the exact same named voice (e.g.
+  // "Samantha" vs "Samantha (Enhanced)"); Edge similarly ships its neural
+  // voices tagged "(Natural)"/"(Online)". A plain name-only match picks
+  // whichever variant the browser's array happens to list first — often
+  // the compact/default one — which is how a genuinely natural voice can
+  // silently regress to sounding robotic with zero code change on our end,
+  // purely from OS/browser voice-list ordering. Always prefer ANY
+  // high-quality-tier match, across the whole ranked list, before ever
+  // falling back to a bare/default-tier one.
   function pickVoice(pool, rank) {
+    const isHighTier = v => /(Enhanced|Premium|Natural|Online)/i.test(v.name);
+    for (const pattern of rank) {
+      const match = pool.find(v => pattern.test(v.name) && isHighTier(v));
+      if (match) return match;
+    }
     for (const pattern of rank) {
       const match = pool.find(v => pattern.test(v.name));
       if (match) return match;
@@ -399,11 +413,15 @@
     refreshTopStats();
   }
 
-  function renderFeedback(correct, answerText) {
+  // showSpeak defaults true (most exercises show English answer text worth
+  // replaying) — comprehension and matching pass false, since their
+  // feedback text is Russian (or a plain UI string) and was showing a
+  // speaker icon that wireFeedbackReplay() was never actually wired up for.
+  function renderFeedback(correct, answerText, showSpeak = true) {
     return `
       <div class="feedback ${correct ? "correct" : "incorrect"}">
         <div class="feedback-main">
-          <button class="speak-btn" id="feedbackSpeakBtn" title="Прослушать произношение" aria-label="Прослушать произношение">🔊</button>
+          ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Прослушать произношение" aria-label="Прослушать произношение">🔊</button>` : ""}
           <div>
             <div class="feedback-text">${correct ? "Верно! ✓" : "Не совсем"}</div>
             <div class="feedback-answer">${answerText}</div>
@@ -646,7 +664,7 @@
         // reuse a real paragraph pair instead, which actually has an
         // English side, rather than mislabeling Russian text as "en".
         afterAnswer(correct, lesson.readingPassage.paragraphs[0]);
-        screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.options[ex.answerIndex]));
+        screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, ex.options[ex.answerIndex], false));
         scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
       });
     });
@@ -1096,7 +1114,7 @@
           // placeholder like "Find the pairs") so a missed match resurfaces
           // in review mode as an actual, meaningful sentence to translate.
           afterAnswer(correct, ex.pairs[0]);
-          screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, "Все пары найдены"));
+          screenEl.insertAdjacentHTML("beforeend", renderFeedback(correct, "Все пары найдены", false));
           scheduleAdvance(correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
         }
       } else {
