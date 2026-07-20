@@ -12363,6 +12363,891 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "b1plus-l10-p1",
+            "number": 144,
+            "title": "Question Tags: Core Confirmation & Genuine Questions",
+            "titleNative": "Разделительные вопросы: подтверждение и настоящий вопрос",
+            "description": "Базовое построение tag-вопросов: согласование подлежащего и вспомогательного глагола, смена полярности, разница между тоном подтверждения и настоящим вопросом.",
+            "topicId": "b1plus-l10",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ты придёшь на вечеринку сегодня, да?",
+                "en": "You're coming to the party tonight, aren't you?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она не любит кофе, верно?",
+                "en": "She doesn't like coffee, does she?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Прекрасный день, не правда ли?",
+                "en": "It's a beautiful day, isn't it?"
+              },
+              {
+                "type": "listening",
+                "ru": "Ты случайно не видел мои ключи?",
+                "en": "You haven't seen my keys, have you?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он ведь умеет плавать, да?",
+                "en": "He can swim, can't he?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Они живут в Москве, не так ли?",
+                "en": "They live in Moscow, don't they?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ты же не собираешься ему рассказывать, да?",
+                "en": "You're not going to tell him, are you?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это твоя книга, да?",
+                "en": "This is your book, isn't it?",
+                "blankedEn": "This is your ___, isn't it?",
+                "answer": "book",
+                "options": [
+                  "book",
+                  "pen",
+                  "bag",
+                  "phone"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Мы уже встречались раньше, не так ли?",
+                    "en": "We've met before, haven't we?"
+                  },
+                  {
+                    "ru": "Ты закрыл дверь, да?",
+                    "en": "You locked the door, didn't you?"
+                  },
+                  {
+                    "ru": "Погода сегодня ужасная, правда?",
+                    "en": "The weather's terrible today, isn't it?"
+                  },
+                  {
+                    "ru": "Автобус ещё не приехал, да?",
+                    "en": "The bus hasn't arrived yet, has it?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l10-p2",
+            "number": 145,
+            "title": "Question Tags: Rhetorical & Nuanced Uses",
+            "titleNative": "Разделительные вопросы: риторика и тонкие оттенки",
+            "description": "Риторические и эмоциональные tag-вопросы: сарказм, жалоба, смягчение просьбы, неправильная форма «aren't I», и «shall we» после «let's».",
+            "topicId": "b1plus-l10",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ты меня никогда не слушаешь, да?",
+                "en": "You never listen to me, do you?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ну просто замечательно, да уж?",
+                "en": "Oh, that's just great, isn't it?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Закрой дверь, ладно?",
+                "en": "Close the door, will you?"
+              },
+              {
+                "type": "listening",
+                "ru": "Давай выпьем кофе, хорошо?",
+                "en": "Let's grab a coffee, shall we?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Я ведь прав, да?",
+                "en": "I'm right, aren't I?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мы ведь ничего не можем сделать, так?",
+                "en": "There's nothing we can do, is there?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тебе лучше поторопиться, да?",
+                "en": "You'd better hurry, hadn't you?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мне никто не звонил, пока меня не было, да?",
+                "en": "Nobody called while I was out, did they?",
+                "blankedEn": "Nobody ___ while I was out, did they?",
+                "answer": "called",
+                "options": [
+                  "called",
+                  "calling",
+                  "calls",
+                  "call"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "У нас ведь на самом деле нет выбора, да?",
+                    "en": "We don't really have a choice, do we?"
+                  },
+                  {
+                    "ru": "Ты ведь не забыл о встрече, правда?",
+                    "en": "You haven't forgotten about the meeting, have you?"
+                  },
+                  {
+                    "ru": "Жизнь несправедлива, не так ли?",
+                    "en": "Life's unfair, isn't it?"
+                  },
+                  {
+                    "ru": "Давай не будем спорить, ладно?",
+                    "en": "Let's not argue, shall we?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l11-p1",
+            "number": 146,
+            "title": "Articles — Advanced Usage (Part 1)",
+            "titleNative": "Артикли — продвинутое использование (Часть 1)",
+            "description": "Нулевой артикль с абстрактными понятиями, обобщениями и учреждениями по их функции",
+            "topicId": "b1plus-l11",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Любовь не купишь за деньги.",
+                "en": "Love cannot be bought with money."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дети во всём мире любят музыку.",
+                "en": "Children all over the world love music."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Свобода — это большая ответственность.",
+                "en": "Freedom is a great responsibility."
+              },
+              {
+                "type": "listening",
+                "ru": "Собаки — очень преданные животные.",
+                "en": "Dogs are very loyal animals."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Она каждый день ходит в школу пешком.",
+                "en": "She walks to school every day."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он попал в тюрьму за кражу.",
+                "en": "He went to prison for theft."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Образование меняет жизнь людей.",
+                "en": "Education changes people's lives."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Счастье нельзя измерить деньгами.",
+                "en": "Happiness cannot be measured in money.",
+                "blankedEn": "___ cannot be measured in money.",
+                "answer": "Happiness",
+                "options": [
+                  "Happiness",
+                  "Success",
+                  "Wealth",
+                  "Time"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Он рано ложится спать.",
+                    "en": "He goes to bed early."
+                  },
+                  {
+                    "ru": "Она поступила в университет в прошлом году.",
+                    "en": "She started university last year."
+                  },
+                  {
+                    "ru": "Люди боятся смерти.",
+                    "en": "People are afraid of death."
+                  },
+                  {
+                    "ru": "Терпение — это добродетель.",
+                    "en": "Patience is a virtue."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l11-p2",
+            "number": 147,
+            "title": "Articles — Advanced Usage (Part 2)",
+            "titleNative": "Артикли — продвинутое использование (Часть 2)",
+            "description": "Артикль the против нулевого артикля: конкретные учреждения, обобщения через the, транспорт и приёмы пищи",
+            "topicId": "b1plus-l11",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Обычно мы обедаем в полдень.",
+                "en": "We usually have lunch at noon."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я предпочитаю ездить на работу на автобусе, а не на машине.",
+                "en": "I prefer to go to work by bus rather than by car."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компьютер изменил то, как мы работаем и общаемся.",
+                "en": "The computer has changed the way we work and communicate."
+              },
+              {
+                "type": "listening",
+                "ru": "Мне пришлось сходить в школу, чтобы поговорить с учителем моего сына.",
+                "en": "I had to go to the school to talk to my son's teacher."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "После работы он обычно идёт домой пешком.",
+                "en": "After work, he usually walks home."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Любовь, которую она испытывала к своей стране, была очевидна для всех.",
+                "en": "The love she felt for her country was obvious to everyone."
+              },
+              {
+                "type": "type-answer",
+                "ru": "После суда его отправили в тюрьму на пять лет.",
+                "en": "After the trial, he was sent to prison for five years."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Кит — самое крупное животное на Земле.",
+                "en": "The whale is the largest animal on Earth.",
+                "blankedEn": "The ___ is the largest animal on Earth.",
+                "answer": "whale",
+                "options": [
+                  "whale",
+                  "whales",
+                  "ocean",
+                  "water"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Она изучает историю искусства в университете.",
+                    "en": "She's studying art history at university."
+                  },
+                  {
+                    "ru": "Человеческий мозг до сих пор полон загадок.",
+                    "en": "The human brain is still full of mysteries."
+                  },
+                  {
+                    "ru": "Мы ходим в церковь по воскресеньям, а не для того, чтобы её сфотографировать.",
+                    "en": "We go to church on Sundays, not to take pictures of it."
+                  },
+                  {
+                    "ru": "Правительство объявило новые меры против бедности.",
+                    "en": "The government announced new measures against poverty."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l12-p1",
+            "number": 148,
+            "title": "Both, Either, Neither: The Basics",
+            "titleNative": "Both, Either, Neither: Основы (Часть 1)",
+            "description": "Учимся говорить о двух вещах, людях или вариантах: both (оба), either (любой из двух), neither (ни один из двух).",
+            "topicId": "b1plus-l12",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Оба моих родителя работают в сфере образования.",
+                "en": "Both of my parents work in education."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Честно говоря, мне не нравится ни один из вариантов.",
+                "en": "I don't like either option, to be honest."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ни один из ресторанов не был открыт в воскресенье.",
+                "en": "Neither restaurant was open on Sunday."
+              },
+              {
+                "type": "listening",
+                "ru": "Можешь позвонить либо сегодня, либо завтра, это не важно.",
+                "en": "You can call either today or tomorrow, it doesn't matter."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Обе сестры окончили один и тот же университет.",
+                "en": "Both sisters graduated from the same university."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Никто из нас не знал ответа.",
+                "en": "Neither of us knew the answer."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она свободно говорит и на французском, и на испанском.",
+                "en": "She speaks both French and Spanish fluently."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Никто из нас не хочет готовить сегодня вечером, так что давай просто закажем пиццу.",
+                "en": "Neither of us wants to cook tonight, so let's just order pizza.",
+                "blankedEn": "___ of us wants to cook tonight, so let's just order pizza.",
+                "answer": "Neither",
+                "options": [
+                  "Neither",
+                  "Either",
+                  "Both",
+                  "Every"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Оба билета уже проданы.",
+                    "en": "Both tickets are already sold."
+                  },
+                  {
+                    "ru": "Ни тот, ни другой ответ не верен.",
+                    "en": "Neither answer is correct."
+                  },
+                  {
+                    "ru": "Возьми любую из этих книг.",
+                    "en": "Take either of these books."
+                  },
+                  {
+                    "ru": "И он, и она сказали правду.",
+                    "en": "Both he and she told the truth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l12-p2",
+            "number": 149,
+            "title": "Both, Either, Neither: Agreement and Fixed Phrases",
+            "titleNative": "Both, Either, Neither: Согласование и устойчивые фразы (Часть 2)",
+            "description": "Более сложные случаи: neither...nor, согласование с глаголом, короткие ответы и устойчивые выражения типа either way.",
+            "topicId": "b1plus-l12",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ни менеджер, ни персонал не были проинформированы об изменении.",
+                "en": "Neither the manager nor the staff were informed about the change."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я никогда раньше не был ни в одной из этих двух стран.",
+                "en": "I've never been to either country before."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По обе стороны дороги растут деревья.",
+                "en": "There are trees on either side of the road."
+              },
+              {
+                "type": "listening",
+                "ru": "В любом случае, нам нужно будет выехать завтра рано.",
+                "en": "Either way, we'll need to leave early tomorrow."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он не умеет плавать, и его брат тоже не умеет.",
+                "en": "He can't swim, and neither can his brother."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Оба кандидата отказались давать комментарии.",
+                "en": "Both of the candidates have refused to comment."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ни один из кандидатов не имеет достаточно опыта для этой должности.",
+                "en": "Neither of the applicants has enough experience for this role."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я ещё не решила — оба платья мне нравятся одинаково.",
+                "en": "I haven't decided yet — I like both dresses equally.",
+                "blankedEn": "I haven't decided yet — I like ___ dresses equally.",
+                "answer": "both",
+                "options": [
+                  "both",
+                  "either",
+                  "neither",
+                  "every"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Ни один из планов не сработал.",
+                    "en": "Neither plan worked."
+                  },
+                  {
+                    "ru": "Оба варианта имеют свои плюсы и минусы.",
+                    "en": "Both options have their pros and cons."
+                  },
+                  {
+                    "ru": "Я не хочу ни чай, ни кофе.",
+                    "en": "I don't want either tea or coffee."
+                  },
+                  {
+                    "ru": "У нас нет времени ни на то, ни на другое.",
+                    "en": "We don't have time for either one."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-12-reading",
+            "number": 150,
+            "title": "Choosing Where to Go",
+            "titleNative": "Выбираем, куда поехать",
+            "description": "Короткий рассказ о том, как две сестры не могли выбрать направление для летней поездки — с естественным использованием both, either и neither.",
+            "readingPassage": {
+              "context": "Короткий рассказ о том, как две сестры не могли выбрать направление для летней поездки — с естественным использованием both, either и neither.",
+              "paragraphs": [
+                {
+                  "en": "Last weekend, my sister and I were trying to plan our summer trip, but we couldn't agree on anything.",
+                  "ru": "В прошлые выходные мы с сестрой пытались спланировать наше летнее путешествие, но не могли ни о чём договориться."
+                },
+                {
+                  "en": "She wanted to go to Italy, and I wanted to go to Greece, so we decided that either country would actually be a great choice.",
+                  "ru": "Она хотела поехать в Италию, а я — в Грецию, поэтому мы решили, что любая из этих двух стран на самом деле будет отличным выбором."
+                },
+                {
+                  "en": "In the end, neither of us wanted to make the final decision alone, so we asked our parents for advice.",
+                  "ru": "В итоге никто из нас не хотел принимать окончательное решение в одиночку, поэтому мы спросили совета у родителей."
+                },
+                {
+                  "en": "Both of our parents suggested a completely different idea: Portugal.",
+                  "ru": "Оба наших родителя предложили совершенно другую идею: Португалию."
+                },
+                {
+                  "en": "At first, neither Anna nor I had even considered it, but the more we talked about it, the more we liked the idea.",
+                  "ru": "Сначала ни Анна, ни я даже не рассматривали этот вариант, но чем больше мы о нём говорили, тем больше он нам нравился."
+                },
+                {
+                  "en": "We checked flights, and either the morning flight or the evening one would get us there in time for the festival.",
+                  "ru": "Мы проверили рейсы, и либо утренний, либо вечерний рейс успевал бы доставить нас туда вовремя к фестивалю."
+                },
+                {
+                  "en": "Now both of us are excited, and neither of us regrets changing our plans.",
+                  "ru": "Теперь мы обе в восторге, и никто из нас не жалеет о том, что мы изменили свои планы."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Почему рассказчица и её сестра не могли договориться о летней поездке?",
+                "options": [
+                  "Потому что у них не было денег на поездку",
+                  "Потому что одна хотела в Италию, а другая — в Грецию",
+                  "Потому что родители запретили им ехать",
+                  "Потому что они не любят путешествовать вместе"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что в итоге предложили родители?",
+                "options": [
+                  "Остаться дома",
+                  "Поехать в Италию",
+                  "Поехать в Португалию",
+                  "Поехать в Грецию"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Как в итоге относятся обе сестры к изменению своих планов?",
+                "options": [
+                  "Обе жалеют о принятом решении",
+                  "Только одна из них довольна",
+                  "Никто из них не жалеет об этом решении",
+                  "Они до сих пор не могут решить, куда ехать"
+                ],
+                "answerIndex": 2
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l13-p1",
+            "number": 151,
+            "title": "So / Such for Emphasis (Part 1)",
+            "titleNative": "So / Such для усиления · Часть 1",
+            "description": "Базовые модели: so + прилагательное/наречие и such (a/an) + существительное",
+            "topicId": "b1plus-l13",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Этот кофе такой горячий!",
+                "en": "This coffee is so hot!"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сегодня такой прекрасный день.",
+                "en": "It's such a beautiful day today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она поёт так красиво.",
+                "en": "She sings so beautifully."
+              },
+              {
+                "type": "listening",
+                "ru": "Они такие интересные люди.",
+                "en": "They are such interesting people."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "У него так много друзей.",
+                "en": "He has so many friends."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "У нас не так много времени.",
+                "en": "We don't have so much time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это было такой неожиданностью!",
+                "en": "It was such a surprise!"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я так устал после работы.",
+                "en": "I'm so tired after work.",
+                "blankedEn": "I'm so ___ after work.",
+                "answer": "tired",
+                "options": [
+                  "busy",
+                  "tired",
+                  "hungry",
+                  "angry"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Это было так неожиданно!",
+                    "en": "It was so unexpected!"
+                  },
+                  {
+                    "ru": "У неё такой красивый голос.",
+                    "en": "She has such a beautiful voice."
+                  },
+                  {
+                    "ru": "Он бежит так быстро.",
+                    "en": "He runs so fast."
+                  },
+                  {
+                    "ru": "Это такая интересная книга.",
+                    "en": "This is such an interesting book."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l13-p2",
+            "number": 152,
+            "title": "So / Such for Emphasis (Part 2)",
+            "titleNative": "So / Such для усиления · Часть 2",
+            "description": "Конструкции so...that / such...that, so few/little и сравнения",
+            "topicId": "b1plus-l13",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Фильм был таким скучным, что я заснул.",
+                "en": "The movie was so boring that I fell asleep."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Экзамен был таким сложным, что половина класса его провалила.",
+                "en": "It was such a difficult exam that half the class failed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "На концерте было так мало людей.",
+                "en": "There were so few people at the concert."
+              },
+              {
+                "type": "listening",
+                "ru": "У неё так много терпения с детьми.",
+                "en": "She has such a lot of patience with children."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Этот тест оказался не таким сложным, как я ожидал.",
+                "en": "This test wasn't so difficult as I expected."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он ехал так быстро, что его остановила полиция.",
+                "en": "He drove so fast that the police stopped him."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Погода была настолько плохой, что мы отменили поездку.",
+                "en": "It was such bad weather that we cancelled the trip."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "До дедлайна осталось так мало времени.",
+                "en": "There is so little time left before the deadline.",
+                "blankedEn": "There is so ___ time left before the deadline.",
+                "answer": "little",
+                "options": [
+                  "few",
+                  "little",
+                  "much",
+                  "many"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Такова жизнь — иногда всё идёт не по плану.",
+                    "en": "Such is life — sometimes things don't go as planned."
+                  },
+                  {
+                    "ru": "Ну и что с того?",
+                    "en": "So what?"
+                  },
+                  {
+                    "ru": "Он был настолько уставшим, что уснул за столом.",
+                    "en": "He was so exhausted that he fell asleep at the table."
+                  },
+                  {
+                    "ru": "Это была такая редкая возможность, что я не мог отказаться.",
+                    "en": "It was such a rare opportunity that I couldn't refuse."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l14-p1",
+            "number": 153,
+            "title": "Time Clauses: When, While, As Soon As, Until (Part 1)",
+            "titleNative": "Придаточные времени: when, while, as soon as, until · Часть 1",
+            "description": "Базовое употребление when, while, as soon as, until и by the time с настоящим временем вместо будущего.",
+            "topicId": "b1plus-l14",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Позвони мне, когда придёшь домой.",
+                "en": "Call me when you get home."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я подожду здесь, пока ты не вернёшься.",
+                "en": "I'll wait here until you come back."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как только дождь прекратится, мы пойдём гулять.",
+                "en": "As soon as the rain stops, we'll go for a walk."
+              },
+              {
+                "type": "listening",
+                "ru": "Пока я готовлю ужин, ты можешь накрыть на стол.",
+                "en": "While I'm cooking dinner, you can set the table."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "К тому времени, как ты приедешь, я уже закончу работу.",
+                "en": "By the time you arrive, I'll have finished work."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Когда зазвонит будильник, вставай сразу же.",
+                "en": "When the alarm goes off, get up right away."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не уходи, пока я не скажу тебе.",
+                "en": "Don't leave until I tell you."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Как только я закончу этот отчёт, я отправлю его тебе.",
+                "en": "As soon as I finish this report, I'll send it to you.",
+                "blankedEn": "As soon as I ___ this report, I'll send it to you.",
+                "answer": "finish",
+                "options": [
+                  "finished",
+                  "will finish",
+                  "finish",
+                  "finishing"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Она позвонит, как только узнает результаты.",
+                    "en": "She'll call as soon as she finds out the results."
+                  },
+                  {
+                    "ru": "Мы останемся здесь, пока не стемнеет.",
+                    "en": "We'll stay here until it gets dark."
+                  },
+                  {
+                    "ru": "Пока дети спали, родители смотрели фильм.",
+                    "en": "While the children were sleeping, the parents watched a movie."
+                  },
+                  {
+                    "ru": "К тому времени, как автобус приехал, я уже замёрз.",
+                    "en": "By the time the bus arrived, I was already frozen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b1plus-l14-p2",
+            "number": 154,
+            "title": "Time Clauses: By the Time & Past Sequences (Part 2)",
+            "titleNative": "Придаточные времени: by the time и последовательность событий · Часть 2",
+            "description": "Сложные случаи: Past Perfect с by the time, until в отрицаниях и одновременные действия в прошлом.",
+            "topicId": "b1plus-l14",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Когда я пришёл домой, телефон уже звонил.",
+                "en": "When I got home, the phone was already ringing."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "К тому времени, как мы приехали на вокзал, поезд уже ушёл.",
+                "en": "By the time we got to the station, the train had already left."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пока он писал письмо, зазвонил телефон.",
+                "en": "While he was writing the letter, the phone rang."
+              },
+              {
+                "type": "listening",
+                "ru": "К тому времени, когда фильм закончится, будет уже полночь.",
+                "en": "By the time the movie ends, it will be midnight."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Она не успокоится, пока не получит ответ.",
+                "en": "She won't calm down until she gets an answer."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Как только он получит визу, он забронирует билеты.",
+                "en": "As soon as he gets his visa, he'll book the tickets."
+              },
+              {
+                "type": "type-answer",
+                "ru": "К тому времени, как ты закончишь университет, у тебя будет опыт работы.",
+                "en": "By the time you graduate, you'll have work experience."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Когда она приехала в аэропорт, её рейс уже улетел.",
+                "en": "When she arrived at the airport, her flight had already departed.",
+                "blankedEn": "When she arrived at the airport, her flight had already ___.",
+                "answer": "departed",
+                "options": [
+                  "boarded",
+                  "departed",
+                  "landed",
+                  "arrived"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Пока я жду тебя, я почитаю книгу.",
+                    "en": "While I wait for you, I'll read a book."
+                  },
+                  {
+                    "ru": "Она заплакала, как только услышала новость.",
+                    "en": "She burst into tears as soon as she heard the news."
+                  },
+                  {
+                    "ru": "Не звони мне, пока не дойдёшь до дома.",
+                    "en": "Don't call me until you get home."
+                  },
+                  {
+                    "ru": "К тридцати годам он уже построил свой дом.",
+                    "en": "By the time he turned thirty, he had already built his own house."
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12374,7 +13259,7 @@
         "lessons": [
           {
             "id": "b2-l1-p1",
-            "number": 144,
+            "number": 155,
             "title": "Wishes & Regrets (Part 1)",
             "titleNative": "Желания и сожаления · Часть 1",
             "description": "Wish, if only, and things you'd change",
@@ -12463,7 +13348,7 @@
           },
           {
             "id": "b2-l1-p2",
-            "number": 145,
+            "number": 156,
             "title": "Wishes & Regrets (Part 2)",
             "titleNative": "Желания и сожаления · Часть 2",
             "description": "Wish, if only, and things you'd change",
@@ -12552,7 +13437,7 @@
           },
           {
             "id": "b2-l2-p1",
-            "number": 146,
+            "number": 157,
             "title": "Mixed Conditionals (Part 1)",
             "titleNative": "Смешанные условные предложения · Часть 1",
             "description": "Past causes with present results, and the reverse",
@@ -12641,7 +13526,7 @@
           },
           {
             "id": "b2-reading-1",
-            "number": 147,
+            "number": 158,
             "title": "A Career I Never Chased",
             "titleNative": "Карьера, за которой я не гнался",
             "description": "Рассказ о сожалениях и смешанных условных предложениях.",
@@ -12716,7 +13601,7 @@
           },
           {
             "id": "b2-l2-p2",
-            "number": 148,
+            "number": 159,
             "title": "Mixed Conditionals (Part 2)",
             "titleNative": "Смешанные условные предложения · Часть 2",
             "description": "Past causes with present results, and the reverse",
@@ -12805,7 +13690,7 @@
           },
           {
             "id": "b2-l3-p1",
-            "number": 149,
+            "number": 160,
             "title": "Advanced Passive (Part 1)",
             "titleNative": "Продвинутый страдательный залог · Часть 1",
             "description": "Passive with modals and perfect forms",
@@ -12894,7 +13779,7 @@
           },
           {
             "id": "b2-l3-p2",
-            "number": 150,
+            "number": 161,
             "title": "Advanced Passive (Part 2)",
             "titleNative": "Продвинутый страдательный залог · Часть 2",
             "description": "Passive with modals and perfect forms",
@@ -12983,7 +13868,7 @@
           },
           {
             "id": "b2-reading-2",
-            "number": 151,
+            "number": 162,
             "title": "The Algorithm Knows Best?",
             "titleNative": "Алгоритм знает лучше?",
             "description": "Рассказ на тему общества и технологий — тренируем продвинутый пассив и слова-связки.",
@@ -13058,7 +13943,7 @@
           },
           {
             "id": "b2-l4-p1",
-            "number": 152,
+            "number": 163,
             "title": "Emphasis & Inversion (Part 1)",
             "titleNative": "Эмфаза и инверсия · Часть 1",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -13147,7 +14032,7 @@
           },
           {
             "id": "b2-l4-p2",
-            "number": 153,
+            "number": 164,
             "title": "Emphasis & Inversion (Part 2)",
             "titleNative": "Эмфаза и инверсия · Часть 2",
             "description": "Fronting negatives and emphatic structures for natural flair",
@@ -13236,7 +14121,7 @@
           },
           {
             "id": "b2-l5-p1",
-            "number": 154,
+            "number": 165,
             "title": "Society & Technology (Part 1)",
             "titleNative": "Общество и технологии · Часть 1",
             "description": "Discussing abstract, current issues with nuance",
@@ -13325,7 +14210,7 @@
           },
           {
             "id": "b2-reading-3",
-            "number": 155,
+            "number": 166,
             "title": "Never Had I Expected This",
             "titleNative": "Никогда я такого не ожидал",
             "description": "Итоговый рассказ уровня B2 — инверсия и эмфатические конструкции.",
@@ -13400,7 +14285,7 @@
           },
           {
             "id": "b2-l5-p2",
-            "number": 156,
+            "number": 167,
             "title": "Society & Technology (Part 2)",
             "titleNative": "Общество и технологии · Часть 2",
             "description": "Discussing abstract, current issues with nuance",
@@ -13489,7 +14374,7 @@
           },
           {
             "id": "b2-l6-p1",
-            "number": 157,
+            "number": 168,
             "title": "Advanced Linking Words (Part 1)",
             "titleNative": "Продвинутые слова-связки · Часть 1",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
@@ -13578,7 +14463,7 @@
           },
           {
             "id": "b2-l6-p2",
-            "number": 158,
+            "number": 169,
             "title": "Advanced Linking Words (Part 2)",
             "titleNative": "Продвинутые слова-связки · Часть 2",
             "description": "Nuanced conjunctions and discourse markers for fluent argument",
@@ -13667,7 +14552,7 @@
           },
           {
             "id": "b2-reading-4",
-            "number": 159,
+            "number": 170,
             "title": "Five Years From Now",
             "titleNative": "Через пять лет",
             "description": "Взгляд в будущее — тренируем future perfect и future continuous.",
@@ -13746,7 +14631,7 @@
           },
           {
             "id": "b2-l7-p1",
-            "number": 160,
+            "number": 171,
             "title": "Future Perfect & Future Continuous (Part 1)",
             "titleNative": "Future Perfect и Future Continuous · Часть 1",
             "description": "Actions completed by a future point, or in progress at one",
@@ -13835,7 +14720,7 @@
           },
           {
             "id": "b2-l7-p2",
-            "number": 161,
+            "number": 172,
             "title": "Future Perfect & Future Continuous (Part 2)",
             "titleNative": "Future Perfect и Future Continuous · Часть 2",
             "description": "Actions completed by a future point, or in progress at one",
@@ -13924,7 +14809,7 @@
           },
           {
             "id": "b2-l8-p1",
-            "number": 162,
+            "number": 173,
             "title": "Cleft Sentences (Part 1)",
             "titleNative": "Расщеплённые предложения · Часть 1",
             "description": "What.../It... structures that add emphasis",
@@ -14013,7 +14898,7 @@
           },
           {
             "id": "b2-reading-5",
-            "number": 163,
+            "number": 174,
             "title": "What Really Matters",
             "titleNative": "Что действительно важно",
             "description": "Воспоминания о бабушкиной кухне — тренируем расщеплённые предложения.",
@@ -14092,7 +14977,7 @@
           },
           {
             "id": "b2-l8-p2",
-            "number": 164,
+            "number": 175,
             "title": "Cleft Sentences (Part 2)",
             "titleNative": "Расщеплённые предложения · Часть 2",
             "description": "What.../It... structures that add emphasis",
@@ -14178,6 +15063,168 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "b2-l9-p1",
+            "number": 176,
+            "title": "Reporting Verbs (Part 1)",
+            "titleNative": "Глаголы для передачи чужой речи · Часть 1",
+            "description": "Основные глаголы: suggest, insist, deny, admit, claim, warn в базовых конструкциях",
+            "topicId": "b2-l9",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Она предложила пойти в кино в субботу.",
+                "en": "She suggested going to the cinema on Saturday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он настаивает на том, что сказал правду.",
+                "en": "He insists that he told the truth."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он отрицал, что взял деньги.",
+                "en": "He denied taking the money."
+              },
+              {
+                "type": "listening",
+                "ru": "Она призналась, что забыла о встрече.",
+                "en": "She admitted that she had forgotten about the meeting."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Компания утверждает, что их продукт полностью безопасен.",
+                "en": "The company claims that their product is completely safe."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Врач предупредил его не есть слишком много сахара.",
+                "en": "The doctor warned him not to eat too much sugar."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Учитель предложил, чтобы ученики сдали работу пораньше.",
+                "en": "The teacher suggested that the students hand in their work early."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он признал свою ошибку перед всей командой.",
+                "en": "He admitted his mistake in front of the whole team.",
+                "blankedEn": "He ___ his mistake in front of the whole team.",
+                "answer": "admitted",
+                "options": [
+                  "denied",
+                  "suggested",
+                  "admitted",
+                  "warned"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Он предложил перенести встречу на пятницу.",
+                    "en": "He suggested rescheduling the meeting to Friday."
+                  },
+                  {
+                    "ru": "Она отрицает, что знала об этом.",
+                    "en": "She denies knowing about it."
+                  },
+                  {
+                    "ru": "Мальчик признался, что разбил окно.",
+                    "en": "The boy admitted that he had broken the window."
+                  },
+                  {
+                    "ru": "Полиция предупредила жителей о наводнении.",
+                    "en": "The police warned residents about the flooding."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l9-p2",
+            "number": 177,
+            "title": "Reporting Verbs (Part 2)",
+            "titleNative": "Глаголы для передачи чужой речи · Часть 2",
+            "description": "Более сложные конструкции: перфектный герундий, страдательный залог и настойчивые предупреждения",
+            "topicId": "b2-l9",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Подозреваемый отрицает, что был на месте преступления в ту ночь.",
+                "en": "The suspect denies having been at the crime scene that night."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он утверждает, что видел НЛО, хотя никто ему не верит.",
+                "en": "He claims to have seen a UFO, even though nobody believes him."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она настояла на том, чтобы оплатить счёт самой.",
+                "en": "She insisted on paying the bill herself."
+              },
+              {
+                "type": "listening",
+                "ru": "Аналитики предупреждают, что цены могут резко вырасти в следующем году.",
+                "en": "Analysts are warning that prices could rise sharply next year."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Его предупредили не связываться с этими людьми.",
+                "en": "He was warned not to get involved with those people."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Она призналась в том, что читала его личные сообщения.",
+                "en": "She admitted to reading his private messages."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Врач предложил, чтобы пациент немедленно бросил курить.",
+                "en": "The doctor suggested that the patient give up smoking immediately."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Свидетель утверждает, что видел, как это произошло.",
+                "en": "The witness claims to have seen it happen.",
+                "blankedEn": "The witness ___ to have seen it happen.",
+                "answer": "claims",
+                "options": [
+                  "denies",
+                  "claims",
+                  "admits",
+                  "warns"
+                ]
+              },
+              {
+                "type": "matching",
+                "ru": "",
+                "en": "",
+                "pairs": [
+                  {
+                    "ru": "Он настаивает, чтобы мы остались на ужин.",
+                    "en": "He insists that we stay for dinner."
+                  },
+                  {
+                    "ru": "Она утверждает, что не помнит, что произошло.",
+                    "en": "She claims not to remember what happened."
+                  },
+                  {
+                    "ru": "Учёные предупреждают об опасности изменения климата.",
+                    "en": "Scientists are warning about the dangers of climate change."
+                  },
+                  {
+                    "ru": "Он отрицал, что был замешан в скандале.",
+                    "en": "He denied being involved in the scandal."
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -14189,7 +15236,7 @@
         "lessons": [
           {
             "id": "b2plus-l1-p1",
-            "number": 165,
+            "number": 178,
             "title": "Hedging & Softening (Part 1)",
             "titleNative": "Смягчение высказываний · Часть 1",
             "description": "Sounding diplomatic instead of blunt",
@@ -14278,7 +15325,7 @@
           },
           {
             "id": "b2plus-l1-p2",
-            "number": 166,
+            "number": 179,
             "title": "Hedging & Softening (Part 2)",
             "titleNative": "Смягчение высказываний · Часть 2",
             "description": "Sounding diplomatic instead of blunt",
@@ -14367,7 +15414,7 @@
           },
           {
             "id": "b2plus-l2-p1",
-            "number": 167,
+            "number": 180,
             "title": "Idiomatic Collocations (Part 1)",
             "titleNative": "Идиоматические сочетания · Часть 1",
             "description": "Word pairings that make you sound like a native speaker",
@@ -14456,7 +15503,7 @@
           },
           {
             "id": "b2plus-reading-1",
-            "number": 168,
+            "number": 181,
             "title": "Learning to Say No",
             "titleNative": "Учимся говорить нет",
             "description": "Рассказ с элементами смягчённой речи и фразовых глаголов.",
@@ -14531,7 +15578,7 @@
           },
           {
             "id": "b2plus-l2-p2",
-            "number": 169,
+            "number": 182,
             "title": "Idiomatic Collocations (Part 2)",
             "titleNative": "Идиоматические сочетания · Часть 2",
             "description": "Word pairings that make you sound like a native speaker",
@@ -14620,7 +15667,7 @@
           },
           {
             "id": "b2plus-l3-p1",
-            "number": 170,
+            "number": 183,
             "title": "Narrative Tense Mixing (Part 1)",
             "titleNative": "Смешение времён в повествовании · Часть 1",
             "description": "Weaving past, past perfect, and past continuous naturally",
@@ -14709,7 +15756,7 @@
           },
           {
             "id": "b2plus-l3-p2",
-            "number": 171,
+            "number": 184,
             "title": "Narrative Tense Mixing (Part 2)",
             "titleNative": "Смешение времён в повествовании · Часть 2",
             "description": "Weaving past, past perfect, and past continuous naturally",
@@ -14798,7 +15845,7 @@
           },
           {
             "id": "b2plus-reading-2",
-            "number": 172,
+            "number": 185,
             "title": "A Diplomatic Disagreement",
             "titleNative": "Дипломатичное несогласие",
             "description": "Диалог-рассказ с выражением мнения и уступительными конструкциями.",
@@ -14873,7 +15920,7 @@
           },
           {
             "id": "b2plus-l4-p1",
-            "number": 173,
+            "number": 186,
             "title": "Formal Register (Part 1)",
             "titleNative": "Официальный регистр речи · Часть 1",
             "description": "Sounding polished in emails, meetings, and presentations",
@@ -14962,7 +16009,7 @@
           },
           {
             "id": "b2plus-l4-p2",
-            "number": 174,
+            "number": 187,
             "title": "Formal Register (Part 2)",
             "titleNative": "Официальный регистр речи · Часть 2",
             "description": "Sounding polished in emails, meetings, and presentations",
@@ -15051,7 +16098,7 @@
           },
           {
             "id": "b2plus-l5-p1",
-            "number": 175,
+            "number": 188,
             "title": "Attitude & Emotion (Part 1)",
             "titleNative": "Отношение и эмоции · Часть 1",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
@@ -15140,7 +16187,7 @@
           },
           {
             "id": "b2plus-reading-3",
-            "number": 176,
+            "number": 189,
             "title": "The Weight of Small Talk",
             "titleNative": "Вес светской беседы",
             "description": "Итоговый рассказ уровня B2+ — эмоции и отношение, идиоматические сочетания.",
@@ -15215,7 +16262,7 @@
           },
           {
             "id": "b2plus-l5-p2",
-            "number": 177,
+            "number": 190,
             "title": "Attitude & Emotion (Part 2)",
             "titleNative": "Отношение и эмоции · Часть 2",
             "description": "Expressing frustration, relief, admiration, and doubt with nuance",
@@ -15304,7 +16351,7 @@
           },
           {
             "id": "b2plus-l6-p1",
-            "number": 178,
+            "number": 191,
             "title": "Nuanced Modality (Part 1)",
             "titleNative": "Тонкие оттенки модальности · Часть 1",
             "description": "Precise shades of possibility, obligation, and permission",
@@ -15393,7 +16440,7 @@
           },
           {
             "id": "b2plus-l6-p2",
-            "number": 179,
+            "number": 192,
             "title": "Nuanced Modality (Part 2)",
             "titleNative": "Тонкие оттенки модальности · Часть 2",
             "description": "Precise shades of possibility, obligation, and permission",
@@ -15482,7 +16529,7 @@
           },
           {
             "id": "b2plus-reading-4",
-            "number": 180,
+            "number": 193,
             "title": "A Difficult Recommendation",
             "titleNative": "Трудная рекомендация",
             "description": "Совет врача — тренируем сослагательное наклонение.",
@@ -15561,7 +16608,7 @@
           },
           {
             "id": "b2plus-l7-p1",
-            "number": 181,
+            "number": 194,
             "title": "Subjunctive Mood (Part 1)",
             "titleNative": "Сослагательное наклонение · Часть 1",
             "description": "Formal recommendations, demands, and unreal present situations",
@@ -15650,7 +16697,7 @@
           },
           {
             "id": "b2plus-l7-p2",
-            "number": 182,
+            "number": 195,
             "title": "Subjunctive Mood (Part 2)",
             "titleNative": "Сослагательное наклонение · Часть 2",
             "description": "Formal recommendations, demands, and unreal present situations",
@@ -15739,7 +16786,7 @@
           },
           {
             "id": "b2plus-l8-p1",
-            "number": 183,
+            "number": 196,
             "title": "Ellipsis & Substitution (Part 1)",
             "titleNative": "Эллипсис и замещение · Часть 1",
             "description": "Avoiding repetition with omitted words and so/not/one",
@@ -15828,7 +16875,7 @@
           },
           {
             "id": "b2plus-reading-5",
-            "number": 184,
+            "number": 197,
             "title": "Two Very Different Brothers",
             "titleNative": "Два очень разных брата",
             "description": "Сравнение братьев — тренируем эллипсис и замещение.",
@@ -15907,7 +16954,7 @@
           },
           {
             "id": "b2plus-l8-p2",
-            "number": 185,
+            "number": 198,
             "title": "Ellipsis & Substitution (Part 2)",
             "titleNative": "Эллипсис и замещение · Часть 2",
             "description": "Avoiding repetition with omitted words and so/not/one",
@@ -16004,7 +17051,7 @@
         "lessons": [
           {
             "id": "c1-l1-p1",
-            "number": 186,
+            "number": 199,
             "title": "Academic & Analytical Language (Part 1)",
             "titleNative": "Академический и аналитический язык · Часть 1",
             "description": "Sounding precise and objective in analysis and writing",
@@ -16093,7 +17140,7 @@
           },
           {
             "id": "c1-l1-p2",
-            "number": 187,
+            "number": 200,
             "title": "Academic & Analytical Language (Part 2)",
             "titleNative": "Академический и аналитический язык · Часть 2",
             "description": "Sounding precise and objective in analysis and writing",
@@ -16182,7 +17229,7 @@
           },
           {
             "id": "c1-l2-p1",
-            "number": 188,
+            "number": 201,
             "title": "Rhetorical Devices & Persuasion (Part 1)",
             "titleNative": "Риторические приёмы и убеждение · Часть 1",
             "description": "Rhetorical questions, contrast, and persuasive structure",
@@ -16271,7 +17318,7 @@
           },
           {
             "id": "c1-reading-1",
-            "number": 189,
+            "number": 202,
             "title": "The Illusion of Certainty",
             "titleNative": "Иллюзия определённости",
             "description": "Аналитический текст — тренируем академическую лексику и хеджирование.",
@@ -16342,7 +17389,7 @@
           },
           {
             "id": "c1-l2-p2",
-            "number": 190,
+            "number": 203,
             "title": "Rhetorical Devices & Persuasion (Part 2)",
             "titleNative": "Риторические приёмы и убеждение · Часть 2",
             "description": "Rhetorical questions, contrast, and persuasive structure",
@@ -16431,7 +17478,7 @@
           },
           {
             "id": "c1-l3-p1",
-            "number": 191,
+            "number": 204,
             "title": "Subtle Contrast & Concession (Part 1)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 1",
             "description": "Although, whereas, despite — precise shades of contrast",
@@ -16520,7 +17567,7 @@
           },
           {
             "id": "c1-l3-p2",
-            "number": 192,
+            "number": 205,
             "title": "Subtle Contrast & Concession (Part 2)",
             "titleNative": "Тонкие оттенки противопоставления и уступки · Часть 2",
             "description": "Although, whereas, despite — precise shades of contrast",
@@ -16609,7 +17656,7 @@
           },
           {
             "id": "c1-reading-2",
-            "number": 193,
+            "number": 206,
             "title": "Negotiating Without Losing Ground",
             "titleNative": "Переговоры без потери позиций",
             "description": "Текст о переговорах — тренируем дипломатичную лексику.",
@@ -16680,7 +17727,7 @@
           },
           {
             "id": "c1-l4-p1",
-            "number": 194,
+            "number": 207,
             "title": "Professional Negotiation Language (Part 1)",
             "titleNative": "Дипломатичный язык переговоров · Часть 1",
             "description": "Diplomatic phrasing for business and negotiation",
@@ -16769,7 +17816,7 @@
           },
           {
             "id": "c1-l4-p2",
-            "number": 195,
+            "number": 208,
             "title": "Professional Negotiation Language (Part 2)",
             "titleNative": "Дипломатичный язык переговоров · Часть 2",
             "description": "Diplomatic phrasing for business and negotiation",
@@ -16858,7 +17905,7 @@
           },
           {
             "id": "c1-l5-p1",
-            "number": 196,
+            "number": 209,
             "title": "Abstract & Philosophical Discussion (Part 1)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 1",
             "description": "Discussing ideas, values, and abstract concepts",
@@ -16947,7 +17994,7 @@
           },
           {
             "id": "c1-reading-3",
-            "number": 197,
+            "number": 210,
             "title": "What We Owe the Past",
             "titleNative": "Что мы должны прошлому",
             "description": "Итоговый философский текст уровня C1 — абстрактная лексика и продвинутые связки.",
@@ -17018,7 +18065,7 @@
           },
           {
             "id": "c1-l5-p2",
-            "number": 198,
+            "number": 211,
             "title": "Abstract & Philosophical Discussion (Part 2)",
             "titleNative": "Абстрактная и философская дискуссия · Часть 2",
             "description": "Discussing ideas, values, and abstract concepts",
@@ -17107,7 +18154,7 @@
           },
           {
             "id": "c1-l6-p1",
-            "number": 199,
+            "number": 212,
             "title": "Advanced Discourse Markers (Part 1)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 1",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
@@ -17196,7 +18243,7 @@
           },
           {
             "id": "c1-l6-p2",
-            "number": 200,
+            "number": 213,
             "title": "Advanced Discourse Markers (Part 2)",
             "titleNative": "Продвинутые слова-связки и маркеры дискурса · Часть 2",
             "description": "That said, on the flip side, needless to say — fluent connective tissue",
@@ -17285,7 +18332,7 @@
           },
           {
             "id": "c1-reading-4",
-            "number": 201,
+            "number": 214,
             "title": "The Report",
             "titleNative": "Отчёт",
             "description": "Обсуждение политики — тренируем номинализацию и официальный стиль.",
@@ -17364,7 +18411,7 @@
           },
           {
             "id": "c1-l7-p1",
-            "number": 202,
+            "number": 215,
             "title": "Nominalization & Formal Style (Part 1)",
             "titleNative": "Номинализация и официальный стиль · Часть 1",
             "description": "Turning verbs and adjectives into nouns for formal register",
@@ -17453,7 +18500,7 @@
           },
           {
             "id": "c1-l7-p2",
-            "number": 203,
+            "number": 216,
             "title": "Nominalization & Formal Style (Part 2)",
             "titleNative": "Номинализация и официальный стиль · Часть 2",
             "description": "Turning verbs and adjectives into nouns for formal register",
@@ -17542,7 +18589,7 @@
           },
           {
             "id": "c1-l8-p1",
-            "number": 204,
+            "number": 217,
             "title": "Advanced Hypotheticals in Discourse (Part 1)",
             "titleNative": "Продвинутые гипотетические конструкции · Часть 1",
             "description": "Were it not for, had it not been for, but for — argument and analysis",
@@ -17631,7 +18678,7 @@
           },
           {
             "id": "c1-reading-5",
-            "number": 205,
+            "number": 218,
             "title": "What Could Have Been",
             "titleNative": "Что могло бы быть",
             "description": "Размышления о карьере — тренируем продвинутые гипотетические конструкции.",
@@ -17710,7 +18757,7 @@
           },
           {
             "id": "c1-l8-p2",
-            "number": 206,
+            "number": 219,
             "title": "Advanced Hypotheticals in Discourse (Part 2)",
             "titleNative": "Продвинутые гипотетические конструкции · Часть 2",
             "description": "Were it not for, had it not been for, but for — argument and analysis",
@@ -20002,6 +21049,42 @@
             "ru": "Если это произойдёт, мы сосредоточимся на расширении, а не на выживании."
           }
         ]
+      },
+      "b1plus-l10": {
+        "title": "Question Tags: Rising vs. Falling Intonation",
+        "pattern": "[statement], + auxiliary(+n't) + subject?  (↘ falling = confirm  /  ↗ rising = real question)",
+        "explanation": "В русском языке для любого утверждения используется один универсальный хвостик — «да?», «не так ли?», «правда?» — независимо от глагола. В английском же tag должен точно повторять вспомогательный глагол и подлежащее основного предложения и менять полярность на противоположную: утверждение положительное → тег отрицательный, и наоборот. Ключевая тонкость: интонация меняет смысл тега — при понижении тона (↘) это скорее комментарий, ждущий согласия (как русское «да?»), а при повышении (↗) — это настоящий вопрос, выражающий реальную неуверенность говорящего. Кроме того, tags часто используются риторически — для жалобы, сарказма или смягчения просьбы — и вовсе не запрашивают информацию.",
+        "fact": "Формально после «I am» тег должен был бы звучать как «amn't I», но такой формы не существует — вместо неё используется единственное историческое исключение «aren't I?» («I'm right, aren't I?»). А в неформальном британском английском есть и обратная крайность: инвариантный тег «innit» (от «isn't it») может присоединяться к любому предложению вообще без согласования — «She likes him, innit?» — то есть разговорный английский иногда сам скатывается к «русской» модели одного универсального хвостика."
+      },
+      "b1plus-l11": {
+        "title": "Zero Article with Abstract Nouns, Institutions, and Generic Reference",
+        "pattern": "Ø + abstract/uncountable noun (love, freedom) · Ø + institution noun used by function (school, prison, hospital, church, bed, work) · Ø + plural noun for a whole class (Dogs are loyal) — no a/an, no the",
+        "explanation": "В русском языке артиклей нет вообще, поэтому русскоговорящие часто либо вставляют 'the' туда, где оно не нужно, либо, наоборот, забывают его там, где существительное стало конкретным. В английском артикль полностью опускается, когда речь идёт об абстрактном понятии в общем смысле (love, happiness, freedom, education), о классе предметов в целом (Cats are independent) или об учреждении, названном по его обычной функции, а не как конкретное здание (go to school, be in hospital, go to bed). Как только то же самое существительное конкретизируется — определяется контекстом, придаточным предложением или ситуацией («любовь, которую она испытывала», «школа, куда ходит мой сын») — появляется артикль 'the'. Это различие между общим и конкретным значением — ключ ко всей теме.",
+        "fact": "В британском английском говорят 'she's in hospital' (нулевой артикль, функция учреждения), а в американском обязательно 'she's in the hospital' — это одна из немногих грамматических точек, где британский и американский варианты языка расходятся именно в употреблении артикля."
+      },
+      "b1plus-l12": {
+        "title": "Both, Either, and Neither",
+        "pattern": "BOTH (of) + plural noun + plural verb  |  EITHER/NEITHER (of) + singular noun + singular verb",
+        "explanation": "Both, either и neither используются, когда речь идёт о двух людях, вещах или вариантах. Both = 'оба' (что-то верно для обоих, глагол во множественном числе: 'Both are ready'). Either = 'любой из двух / один или другой' (в вопросах и утверждениях, глагол в единственном числе: 'Either is fine'). Neither = 'ни один из двух' — само слово уже отрицательное, поэтому в английском нельзя добавлять ещё одно 'not': 'Neither is right' (НЕ 'Neither isn't right'), хотя по-русски мы говорим 'ни один... не прав' с двойным отрицанием. Обратите внимание на парные союзы both...and, either...or, neither...nor, которые связывают два элемента в предложении.",
+        "fact": "В коротких согласиях со знаком 'тоже' neither и either работают наоборот, чем кажется: после отрицательного утверждения используют 'Neither do I' (= 'я тоже нет'), а после отрицания вместо 'too' используют 'either' — 'I don't like it either' (= 'мне тоже не нравится'), и в обоих случаях никакого второго 'not' не требуется."
+      },
+      "b1plus-l13": {
+        "title": "So vs Such for Emphasis",
+        "pattern": "so + adjective/adverb (+ that...) | such (+ a/an) + (adjective) + noun (+ that...)",
+        "explanation": "Russian already has a close equivalent to this contrast: «так» before adjectives/adverbs matches 'so', and «такой» before a noun matches 'such'. The tricky part for a Russian speaker is that English 'such' needs an article before a singular countable noun ('such a beautiful day'), since Russian has no articles at all — learners often say 'so a beautiful day' by mistake, mixing the two patterns. Remember: 'so' attaches directly to an adjective or adverb with no noun ('so tired', 'so quickly'), while 'such' always introduces a noun phrase, with or without an adjective ('such patience', 'such a good idea'). When you add a result clause, both patterns finish with 'that', closely mirroring the Russian 'такой..., что' / 'так..., что' structure.",
+        "fact": "In older and more formal English, 'so' could modify a noun phrase directly by flipping the word order: 'so + adjective + a/an + noun' ('I've never seen so beautiful a sunset'), which is a fossil of a construction where 'so' behaved more like modern 'such'. It sounds literary today, but you'll still meet it in essays and news writing as an alternative to 'such a beautiful sunset'."
+      },
+      "b1plus-l14": {
+        "title": "Time Clauses: When / While / As Soon As / Until / By the Time",
+        "pattern": "when / while / as soon as / until / by the time + present (or past) — never a future tense in the clause itself",
+        "explanation": "В русском языке в придаточных времени тоже используется будущее время: «Когда ты придёшь, мы поужинаем» — оба глагола в будущем. В английском же после when, while, as soon as, until и by the time будущее время НЕ используется вообще — вместо него ставится настоящее (или настоящее совершённое) время, даже если речь идёт о будущем событии: «When you arrive, we'll have dinner» (не «will arrive»). Для прошедших событий by the time часто требует Past Perfect в главном предложении, показывая, что одно действие завершилось раньше другого. Запомните: will/would никогда не появляется сразу после этих союзов времени.",
+        "fact": "By the time — единственный из этих союзов, который систематически «требует» перфектной формы (had done в прошлом или will have done в будущем) в главном предложении, потому что сама фраза подчёркивает завершённость одного действия к моменту наступления другого — в отличие от when, которое обычно сочетается с простыми временами."
+      },
+      "b2-l9": {
+        "title": "Reporting Verbs: suggest, insist, deny, admit, claim, warn",
+        "pattern": "verb + (that)-clause / verb + -ing / verb + object + (not) to + infinitive",
+        "explanation": "В отличие от say и tell, эти глаголы требуют особых конструкций после себя: suggest и admit часто сочетаются с герундием (suggest doing, admit doing) или с that-clause, где в формальном стиле после that используется базовая форма глагола без -s — это называется subjunctive: 'She suggested that he leave early'. Deny и admit также могут сопровождаться перфектным герундием (denying having done, admitting to having done), чтобы показать, что действие произошло раньше момента речи. Warn, в отличие от русского 'предупредил, что...', чаще всего требует объекта перед инфинитивом: 'warned him not to go', а не буквальный перевод с что-clause. Claim обычно используется с инфинитивом (claim to be / to have done), когда говорящий сомневается в правдивости слов.",
+        "fact": "После suggest и insist в формальном английском часто используется 'голый' сослагательный глагол без -s даже в 3-м лице единственного числа: 'I suggest he go', а не 'goes' — и русскоязычные учащиеся часто ошибочно добавляют 'to' (suggest him to go), перенося модель глаголов advise/want, хотя suggest этой конструкции не допускает."
       }
     }
   }
