@@ -39,6 +39,13 @@
   const dialogueModal = document.getElementById("dialogueModal");
 
   let course = null;
+  // text -> {file, voice}, loaded from data/audio/manifest.json alongside
+  // course.json. Real pre-generated Kokoro voice lines (via the user's
+  // local Voicebox app), keyed by the literal English sentence -- far more
+  // natural than browser speechSynthesis, which stays as the fallback for
+  // anything not in the manifest (or when a slower replay rate is asked
+  // for, since only one normal-speed recording exists per sentence).
+  let audioManifest = {};
   let flatLessons = [];
   let progress = null;
   let session = null;
@@ -229,6 +236,20 @@
   const SPEECH_RATE_SLOW = 0.55;
   let _currentUtterance = null;
   let _speakToken = 0;
+  let _currentBundledAudio = null;
+  // Plays a pre-generated recording instead of speechSynthesis. Stops any
+  // other bundled clip first (rapid re-taps/replays), same spirit as the
+  // speechSynthesis cancel-before-speak guard below.
+  function playBundledAudio(entry, onEnd) {
+    if (_currentBundledAudio) { _currentBundledAudio.pause(); _currentBundledAudio = null; }
+    const audio = new Audio(`data/audio/${entry.file}`);
+    _currentBundledAudio = audio;
+    let settled = false;
+    const settle = () => { if (settled) return; settled = true; if (onEnd) onEnd(); };
+    audio.addEventListener("ended", settle, { once: true });
+    audio.addEventListener("error", settle, { once: true });
+    audio.play().catch(settle);
+  }
   // Speaking immediately with no voice set lets the browser fall back to
   // its own raw system default for the language — often a noticeably worse,
   // more robotic voice than the ranked one refreshVoices() would have
@@ -239,7 +260,18 @@
   // this device), speak anyway after that so audio-dependent exercises
   // (listening) aren't permanently silent — some voice beats none.
   function speak(text, onEnd, rate, _waitMs) {
-    if (soundMuted || !("speechSynthesis" in window)) { if (onEnd) onEnd(); return; }
+    if (soundMuted) { if (onEnd) onEnd(); return; }
+    // Only the normal rate has a bundled recording -- slow replay and any
+    // sentence missing from the manifest fall through to speechSynthesis.
+    const bundled = (!rate || rate === SPEECH_RATE) && audioManifest[text];
+    if (bundled) {
+      if (window.speechSynthesis && (window.speechSynthesis.speaking || window.speechSynthesis.pending)) {
+        window.speechSynthesis.cancel();
+      }
+      playBundledAudio(bundled, onEnd);
+      return;
+    }
+    if (!("speechSynthesis" in window)) { if (onEnd) onEnd(); return; }
     if (!_preferredVoice && (_waitMs || 0) < 1800) {
       setTimeout(() => speak(text, onEnd, rate, (_waitMs || 0) + 150), 150);
       return;
@@ -569,6 +601,7 @@
   function stopPassagePlayback(btn, lineEls) {
     _passageToken++;
     window.speechSynthesis.cancel();
+    if (_currentBundledAudio) { _currentBundledAudio.pause(); _currentBundledAudio = null; }
     _passagePlaying = false;
     if (btn) btn.textContent = "🔊 Слушать";
     lineEls.forEach(l => l.classList.remove("speaking"));
@@ -592,8 +625,8 @@
     const lineEls = Array.from(document.querySelectorAll(".passage-line"));
     btn.addEventListener("click", () => {
       if (_passagePlaying) { stopPassagePlayback(btn, lineEls); return; }
-      if (soundMuted || !("speechSynthesis" in window)) return;
-      window.speechSynthesis.cancel();
+      if (soundMuted) return;
+      if ("speechSynthesis" in window) window.speechSynthesis.cancel();
       _passagePlaying = true;
       btn.textContent = "⏹ Стоп";
       const token = ++_passageToken;
@@ -602,6 +635,22 @@
         if (token !== _passageToken || i >= paragraphs.length) {
           if (token === _passageToken) { _passagePlaying = false; btn.textContent = "🔊 Слушать"; }
           lineEls.forEach(l => l.classList.remove("speaking"));
+          return;
+        }
+        // A bundled recording has one fixed voice already baked in (picked
+        // for the sentence's content, e.g. matching a named character's
+        // gender) -- the male/female toggle only affects paragraphs that
+        // fall back to speechSynthesis, and bundled playback never needs
+        // to wait for a browser voice to finish loading.
+        const bundled = audioManifest[paragraphs[i].en];
+        if (bundled) {
+          lineEls.forEach(l => l.classList.remove("speaking"));
+          if (lineEls[i]) lineEls[i].classList.add("speaking");
+          playBundledAudio(bundled, () => {
+            if (token !== _passageToken) return;
+            i++;
+            setTimeout(step, 150);
+          });
           return;
         }
         // Same reasoning as speak(): don't fall back to an unset voice while
@@ -1179,10 +1228,16 @@
 
   // ---------- boot ----------
   async function loadCourseData() {
-    const res = await fetch("data/course.json");
+    const [res, manifestRes] = await Promise.all([
+      fetch("data/course.json"),
+      fetch("data/audio/manifest.json").catch(() => null),
+    ]);
     if (!res.ok) throw new Error("Failed to load course data");
     const data = await res.json();
     course = data.course;
+    if (manifestRes && manifestRes.ok) {
+      try { audioManifest = await manifestRes.json(); } catch (e) { audioManifest = {}; }
+    }
     _voicePollAttempts = 0;
     pollVoicesUntilFound();
 
