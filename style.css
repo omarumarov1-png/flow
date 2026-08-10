@@ -194,6 +194,26 @@ button.stat:hover { color: var(--flow); }
 .trail-title { font-family: var(--font-display); font-weight: 700; font-size: 0.9rem; color: var(--ink); }
 .trail-title-native { font-size: 0.76rem; color: var(--ink-soft); margin-top: 1px; }
 
+/* ---------- vocabulary hub ---------- */
+.vocab-hub-header { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+.vocab-hub-header h2 { font-family: var(--font-display); font-size: 1.2rem; margin: 0; color: var(--ink); }
+.vocab-hub-sub { font-size: 0.82rem; color: var(--ink-soft); margin: 6px 0 20px; }
+.vocab-level-group { margin-bottom: 22px; }
+.vocab-level-label { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; font-family: var(--font-display); font-weight: 600; font-size: 0.92rem; color: var(--ink); }
+.vocab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; }
+.vocab-card {
+  position: relative; background: var(--card); border: 1.5px solid var(--border); border-radius: 14px;
+  padding: 16px 14px; display: flex; flex-direction: column; align-items: flex-start; gap: 4px;
+  cursor: pointer; text-align: left; box-shadow: 0 2px 0 var(--border); transition: transform 0.1s ease;
+}
+.vocab-card:active { transform: translateY(2px); box-shadow: none; }
+.vocab-card:hover { border-color: var(--flow); }
+.vocab-card.done { border-color: var(--flow); background: var(--flow-wash); }
+.vocab-icon { font-size: 1.5rem; }
+.vocab-title { font-family: var(--font-display); font-weight: 700; font-size: 0.88rem; color: var(--ink); }
+.vocab-title-native { font-size: 0.74rem; color: var(--ink-soft); }
+.vocab-done-check { position: absolute; top: 10px; right: 12px; color: var(--flow); font-weight: 700; }
+
 /* ---------- lesson session ---------- */
 .lesson-bar { display: flex; align-items: center; gap: 12px; padding: 14px 20px; }
 .exit-btn { background: none; border: none; font-size: 1.5rem; color: var(--ink-soft); cursor: pointer; line-height: 1; padding: 0 6px; }

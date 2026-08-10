@@ -32,6 +32,7 @@
   const themeToggleEl = document.getElementById("themeToggle");
   const soundToggleEl = document.getElementById("soundToggle");
   const placementToggleEl = document.getElementById("placementToggle");
+  const vocabToggleEl = document.getElementById("vocabToggleBtn");
   const mobileMenuEl = document.getElementById("mobileMenu");
   const menuToggleBtnEl = document.getElementById("menuToggleBtn");
   const mobileMenuPanelEl = document.getElementById("mobileMenuPanel");
@@ -50,6 +51,11 @@
   let progress = null;
   let session = null;
   let currentLevelId = null;
+  // Which screen an exercise session should return to on exit/finish --
+  // "home" (grammar roadmap, the default) or "vocabulary" (the vocab hub),
+  // set right before starting a vocab-set session. A one-shot flag: reset
+  // to "home" as soon as it's read.
+  let returnScreen = "home";
   let advanceTimer = null;
   let soundMuted = false;
   let placementQuestions = [];
@@ -526,8 +532,18 @@
       cancelAdvance();
       if (_passagePlaying) { _passageToken++; window.speechSynthesis.cancel(); _passagePlaying = false; }
       session = null;
-      renderHome();
+      goToReturnScreen();
     });
+  }
+
+  // Reads returnScreen (set by startVocabSet before a vocab session
+  // starts) and navigates there, then resets it back to "home" -- a
+  // one-shot flag so a later ordinary lesson never inherits it by mistake.
+  function goToReturnScreen() {
+    const dest = returnScreen;
+    returnScreen = "home";
+    if (dest === "vocabulary") renderVocabularyHub();
+    else renderHome();
   }
 
   function renderExercise() {
@@ -1222,7 +1238,7 @@
     `;
     document.getElementById("continueHome").addEventListener("click", () => {
       session = null;
-      renderHome();
+      goToReturnScreen();
     });
   }
 
@@ -1394,6 +1410,74 @@
 
     const target = screenEl.querySelector(".trail-node.current") || screenEl.querySelector(".trail-node.unlocked");
     if (target) requestAnimationFrame(() => target.scrollIntoView({ block: "center", behavior: "auto" }));
+  }
+
+  // ---------- vocabulary track ----------
+  // A separate content track from the grammar-topic lessons above: themed
+  // word lists, no sequential unlock, organized by CEFR level for
+  // browsing only. Reuses startLesson()/renderExercise() as-is (confirmed
+  // they only need {id, exercises} -- no grammar-lesson-specific fields
+  // are read anywhere in the exercise-rendering path), so a vocab set
+  // just needs its word list turned into that same exercise shape.
+  function renderVocabularyHub() {
+    const sets = course.vocabularySets || [];
+    const byLevel = {};
+    sets.forEach(s => { (byLevel[s.level] = byLevel[s.level] || []).push(s); });
+
+    let groupsHtml = "";
+    course.levels.forEach(level => {
+      const group = byLevel[level.id];
+      if (!group || !group.length) return;
+      groupsHtml += `
+        <div class="vocab-level-group">
+          <div class="vocab-level-label"><span class="level-badge">${level.badge}</span><span>${level.label}</span></div>
+          <div class="vocab-grid">
+            ${group.map(set => {
+              const done = progress.completedLessons.includes(set.id);
+              return `
+                <button class="vocab-card ${done ? "done" : ""}" data-vocab="${set.id}">
+                  <span class="vocab-icon">${set.icon || "📘"}</span>
+                  <span class="vocab-title">${set.title}</span>
+                  <span class="vocab-title-native">${set.titleNative || ""}</span>
+                  ${done ? '<span class="vocab-done-check">✓</span>' : ""}
+                </button>`;
+            }).join("")}
+          </div>
+        </div>`;
+    });
+
+    screenEl.innerHTML = `
+      <div class="vocab-hub">
+        <div class="vocab-hub-header">
+          <button class="roadmap-arrow" id="vocabBackBtn" aria-label="Назад">‹</button>
+          <h2>Лексика</h2>
+        </div>
+        <p class="vocab-hub-sub">Тематические наборы слов по уровням — отдельно от грамматических уроков.</p>
+        ${groupsHtml || '<div class="level-locked-note">Наборы слов уже готовятся и скоро появятся здесь.</div>'}
+      </div>
+    `;
+    document.getElementById("vocabBackBtn").addEventListener("click", () => renderHome());
+    screenEl.querySelectorAll(".vocab-card").forEach(card => {
+      card.addEventListener("click", () => {
+        const set = sets.find(s => s.id === card.dataset.vocab);
+        if (set) startVocabSet(set);
+      });
+    });
+  }
+
+  function buildVocabExercises(words) {
+    const types = ["word-bank", "listening-choice", "multiple-choice", "type-answer", "listening", "listening-tap"];
+    const exercises = words.map((w, i) => ({ type: types[i % types.length], ru: w.ru, en: w.en }));
+    if (words.length >= 4) {
+      exercises.push({ type: "matching", pairs: words.slice(0, 4).map(w => ({ ru: w.ru, en: w.en })) });
+    }
+    return exercises;
+  }
+
+  function startVocabSet(set) {
+    cancelAdvance();
+    returnScreen = "vocabulary";
+    startLesson({ id: set.id, exercises: buildVocabExercises(set.words) });
   }
 
   // ---------- placement test ----------
@@ -1569,6 +1653,11 @@
       cancelAdvance();
       session = null;
       renderPlacementIntro();
+    });
+    vocabToggleEl.addEventListener("click", () => {
+      cancelAdvance();
+      session = null;
+      renderVocabularyHub();
     });
 
     wordsStatEl.addEventListener("click", () => {
