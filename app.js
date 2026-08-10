@@ -347,6 +347,52 @@
       window.CloudSync.pushProgress(progress);
     }
   }
+  // Merge, not overwrite: boot() used to do a blind
+  // `progress = Object.assign({}, remote)`, which meant every launch
+  // while signed in pulled whatever was in the cloud and silently
+  // replaced local progress with it outright -- including progress made
+  // THIS session that just hadn't reached the 800ms debounced push yet
+  // (finishing a lesson, then reloading or closing the tab quickly), and
+  // any real progress made on a device that had gone a while without
+  // syncing. Object.assign-based (not a literal object with named
+  // fields) so any field neither side of this function explicitly knows
+  // about -- migratedSplitIdsV1, or a future field -- survives instead of
+  // silently getting dropped.
+  function mergeProgress(local, remote) {
+    if (!local) return remote;
+    if (!remote) return local;
+    const union = (a, b) => Array.from(new Set([...(a || []), ...(b || [])]));
+    // missedBank holds {ru, en} objects, not plain strings like the other
+    // arrays here -- a Set-based union uses reference equality, so it
+    // would keep two structurally-identical entries as "different" and
+    // never actually dedupe. Union by a composite key instead.
+    function unionMissed(a, b) {
+      const seen = new Map();
+      [...(a || []), ...(b || [])].forEach(m => { if (m) seen.set(`${m.ru} ${m.en}`, m); });
+      return Array.from(seen.values()).slice(-MAX_MISSED);
+    }
+    // lastActiveDate is stored via toDateString() ("Mon Aug 09 2026") --
+    // weekday-first, NOT safe to compare as a plain string (weekday names
+    // don't sort in date order). Parse both sides for a real comparison.
+    const localTime = local.lastActiveDate ? new Date(local.lastActiveDate).getTime() : 0;
+    const remoteTime = remote.lastActiveDate ? new Date(remote.lastActiveDate).getTime() : 0;
+    return Object.assign({}, remote, local, {
+      xp: Math.max(local.xp || 0, remote.xp || 0),
+      streak: Math.max(local.streak || 0, remote.streak || 0),
+      lastActiveDate: remoteTime > localTime ? remote.lastActiveDate : local.lastActiveDate,
+      completedLessons: union(local.completedLessons, remote.completedLessons),
+      missedBank: unionMissed(local.missedBank, remote.missedBank),
+      wordHoard: union(local.wordHoard, remote.wordHoard),
+      // Placement is a one-time, in-order flow -- once done on either
+      // side, it should stay done; a higher placementLevelIndex reflects
+      // a more advanced placement result.
+      placementDone: !!(local.placementDone || remote.placementDone),
+      placementLevelIndex: Math.max(
+        local.placementLevelIndex === undefined ? -1 : local.placementLevelIndex,
+        remote.placementLevelIndex === undefined ? -1 : remote.placementLevelIndex
+      ),
+    });
+  }
   function updateStreakOnCompletion() {
     const today = new Date().toDateString();
     if (progress.lastActiveDate !== today) {
@@ -1607,6 +1653,31 @@
     saveProgress();
   }
 
+  // Pulls the cloud copy, merges it into local progress, and always pushes
+  // the merged result back up -- not only when the cloud had nothing. A
+  // cloud document can exist with progress that's missing or behind what
+  // this device already has (e.g. a push from this account genuinely
+  // never landed) -- pulling alone would silently leave that gap in place
+  // until the next lesson happens to trigger a save. Used by both boot()
+  // (runs once automatically) and the "Sync now" button, which exists
+  // because a device only ever auto-pulls once, at boot -- progress made
+  // on another device afterward never shows up here until either a full
+  // reload or an explicit manual sync.
+  async function syncFromCloud() {
+    if (!(window.CloudSync && window.CloudSync.user)) return { found: false };
+    const remote = await window.CloudSync.pullProgress();
+    const found = !!remote;
+    if (remote) {
+      progress = mergeProgress(progress, remote);
+      saveProgress();
+    }
+    // Awaited (not fire-and-forget): a caller reporting "uploaded" to the
+    // user needs that to mean the write actually happened, not just that
+    // it was scheduled.
+    await window.CloudSync.pushProgressNow(progress);
+    return { found, lessonsInCloud: found ? (remote.completedLessons || []).length : 0 };
+  }
+
   // ---------- boot ----------
   async function boot() {
     initTheme();
@@ -1615,11 +1686,7 @@
     await loadPlacementData();
     progress = loadProgress();
     if (window.CloudSync && window.CloudSync.user) {
-      try {
-        const remote = await window.CloudSync.pullProgress();
-        if (remote) { progress = Object.assign({ placementLevelIndex: -1, placementDone: false }, remote); saveProgress(); }
-        else window.CloudSync.pushProgress(progress);
-      } catch (e) { /* offline — continue with local progress */ }
+      try { await syncFromCloud(); } catch (e) { /* offline — continue with local progress */ }
     }
     migrateSplitLessonIds();
     refreshTopStats();
@@ -1647,6 +1714,32 @@
           // spoken audio, which is why voice playback still works either way.
           diagEl.textContent = "Если звук не слышен: на iPhone/iPad проверьте боковой переключатель бесшумного режима — он отключает короткие звуковые эффекты, хотя голос всё равно звучит.";
         }, 250);
+      });
+    }
+    const syncNowBtn = document.getElementById("syncNowBtn");
+    const syncStatusEl = document.getElementById("syncStatus");
+    if (syncNowBtn) {
+      syncNowBtn.addEventListener("click", async () => {
+        if (!(window.CloudSync && window.CloudSync.user)) {
+          if (syncStatusEl) syncStatusEl.textContent = "Не выполнен вход.";
+          return;
+        }
+        syncNowBtn.disabled = true;
+        if (syncStatusEl) syncStatusEl.textContent = "Синхронизация…";
+        try {
+          const result = await syncFromCloud();
+          refreshTopStats();
+          if (document.querySelector(".level-progress-card")) renderHome();
+          if (syncStatusEl) {
+            syncStatusEl.textContent = result.found
+              ? `Синхронизировано — найдено ${result.lessonsInCloud} уроков в облаке; прогресс этого устройства тоже загружен.`
+              : "В облаке не было сохранённого прогресса для этого аккаунта — прогресс этого устройства загружен.";
+          }
+        } catch (e) {
+          syncStatusEl && (syncStatusEl.textContent = `Ошибка синхронизации: ${(e && (e.code || e.message)) || "неизвестная ошибка"}`);
+        } finally {
+          syncNowBtn.disabled = false;
+        }
       });
     }
     placementToggleEl.addEventListener("click", () => {
