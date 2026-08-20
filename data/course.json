@@ -55808,6 +55808,1428 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "c1-reading-13",
+            "number": 247,
+            "title": "Urban Isolation in the Age of Connection",
+            "titleNative": "Городское одиночество в эпоху связи",
+            "description": "О парадоксе одиночества в переполненных, технологически связанных городах.",
+            "readingPassage": {
+              "context": "О парадоксе одиночества в переполненных, технологически связанных городах.",
+              "paragraphs": [
+                {
+                  "en": "Modern cities pack more people into less space than at any point in history.",
+                  "ru": "Современные города вмещают больше людей на меньшей площади, чем когда-либо в истории."
+                },
+                {
+                  "en": "Paradoxically, many urban residents report feeling more isolated than people in sparsely populated areas.",
+                  "ru": "Как ни парадоксально, многие городские жители сообщают, что чувствуют себя более одинокими, чем люди в малонаселённых районах."
+                },
+                {
+                  "en": "Constant digital connectivity has not translated into a corresponding sense of belonging.",
+                  "ru": "Постоянная цифровая связь не превратилась в соответствующее чувство принадлежности."
+                },
+                {
+                  "en": "Anonymous commutes, shared walls, and passing strangers rarely build the kind of trust that sustains community.",
+                  "ru": "Анонимные поездки на работу, общие стены и мимолётные незнакомцы редко создают то доверие, на котором держится сообщество."
+                },
+                {
+                  "en": "Urban planners increasingly argue that physical design shapes social connection more than population density alone.",
+                  "ru": "Градостроители всё чаще утверждают, что физическая планировка формирует социальные связи сильнее, чем одна лишь плотность населения."
+                },
+                {
+                  "en": "Shared courtyards, walkable neighborhoods, and communal spaces appear to foster more genuine interaction.",
+                  "ru": "Общие дворы, пешеходные районы и общественные пространства, по всей видимости, способствуют более искренним взаимодействиям."
+                },
+                {
+                  "en": "Some cities have begun redesigning public spaces specifically to counter this creeping sense of disconnection.",
+                  "ru": "Некоторые города уже начали перепроектировать общественные пространства именно для того, чтобы противостоять этому нарастающему чувству разобщённости."
+                },
+                {
+                  "en": "The challenge is to build density without sacrificing the everyday encounters that make people feel at home.",
+                  "ru": "Задача состоит в том, чтобы строить плотную застройку, не жертвуя повседневными встречами, благодаря которым люди чувствуют себя как дома."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что парадоксально отмечают многие городские жители?",
+                "options": [
+                  "Что им не хватает места",
+                  "Что чувствуют себя более одинокими, чем в малонаселённых районах",
+                  "Что им не хватает технологий",
+                  "Что города слишком тихие"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению градостроителей, формирует социальные связи сильнее плотности населения?",
+                "options": [
+                  "Уровень доходов",
+                  "Физическая планировка города",
+                  "Климат",
+                  "Возраст жителей"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "В чём заключается задача, описанная в тексте?",
+                "options": [
+                  "Снизить плотность населения",
+                  "Строить плотную застройку, не жертвуя повседневными встречами",
+                  "Полностью отказаться от общественных пространств",
+                  "Увеличить анонимность"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l19-p1",
+            "number": 248,
+            "title": "Professional Collocations & Idiom (Part 1)",
+            "titleNative": "Профессиональные коллокации и идиомы · Часть 1",
+            "description": "Fixed workplace collocations and semi-idiomatic phrases",
+            "topicId": "c1-l19",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Давай снова созвонимся, как только будут цифры.",
+                "en": "Let's touch base again once the numbers are in."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не думаю, что это сильно изменит ситуацию.",
+                "en": "I don't think this will move the needle much."
+              },
+              {
+                "type": "listening",
+                "ru": "По крайней мере, это простая задача.",
+                "en": "At least it's low-hanging fruit."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Убедимся, что все на одной волне.",
+                "en": "Let's make sure everyone's on the same page."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Нам нужно расставить приоритеты.",
+                "en": "We need to get our priorities straight."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Давайте не будем изобретать велосипед.",
+                "en": "Let's not reinvent the wheel."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он всегда мыслит масштабно.",
+                "en": "He always thinks outside the box."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "По крайней мере, это простая задача.",
+                "en": "At least it's low-hanging fruit.",
+                "blankedEn": "At least it's low-hanging ___.",
+                "answer": "fruit",
+                "options": [
+                  "fruit",
+                  "apple",
+                  "vegetable",
+                  "food"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Давай снова созвонимся, как только будут цифры.",
+                    "en": "Let's touch base again once the numbers are in."
+                  },
+                  {
+                    "ru": "Не думаю, что это сильно изменит ситуацию.",
+                    "en": "I don't think this will move the needle much."
+                  },
+                  {
+                    "ru": "По крайней мере, это простая задача.",
+                    "en": "At least it's low-hanging fruit."
+                  },
+                  {
+                    "ru": "Давайте не будем изобретать велосипед.",
+                    "en": "Let's not reinvent the wheel."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l19-p2",
+            "number": 249,
+            "title": "Professional Collocations & Idiom (Part 2)",
+            "titleNative": "Профессиональные коллокации и идиомы · Часть 2",
+            "description": "Fixed workplace collocations and semi-idiomatic phrases",
+            "topicId": "c1-l19",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Нам нужно свериться в конце недели.",
+                "en": "We need to check in at the end of the week."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Давайте разберёмся с этим по ходу дела.",
+                "en": "Let's cross that bridge when we come to it."
+              },
+              {
+                "type": "listening",
+                "ru": "Это решение изменило правила игры.",
+                "en": "That decision was a real game changer."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы работаем над этим в фоновом режиме.",
+                "en": "We're working on this behind the scenes."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он умеет держать руку на пульсе.",
+                "en": "He always keeps his finger on the pulse."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Нам нужно действовать на опережение.",
+                "en": "We need to stay ahead of the curve."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Давайте подведём итоги встречи.",
+                "en": "Let's wrap up the meeting."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это решение изменило правила игры.",
+                "en": "That decision was a real game changer.",
+                "blankedEn": "That decision was a real game ___.",
+                "answer": "changer",
+                "options": [
+                  "changer",
+                  "change",
+                  "changed",
+                  "changing"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Нам нужно свериться в конце недели.",
+                    "en": "We need to check in at the end of the week."
+                  },
+                  {
+                    "ru": "Давайте разберёмся с этим по ходу дела.",
+                    "en": "Let's cross that bridge when we come to it."
+                  },
+                  {
+                    "ru": "Это решение изменило правила игры.",
+                    "en": "That decision was a real game changer."
+                  },
+                  {
+                    "ru": "Он умеет держать руку на пульсе.",
+                    "en": "He always keeps his finger on the pulse."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l20-p1",
+            "number": 250,
+            "title": "Inversion after Negative Adverbials (Part 1)",
+            "titleNative": "Инверсия после отрицательных наречий · Часть 1",
+            "description": "Subject-auxiliary inversion after fronted negative adverbials",
+            "topicId": "c1-l20",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "План не только провалился, но и усугубил ситуацию.",
+                "en": "Not only did the plan fail, it made the situation worse."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Редко я видел настолько плохо организованный запуск.",
+                "en": "Rarely have I seen such a poorly managed rollout."
+              },
+              {
+                "type": "listening",
+                "ru": "Ни при каких обстоятельствах мы не должны повторить эту ошибку.",
+                "en": "Under no circumstances should we repeat that mistake."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Едва мы устранили одну проблему, как появилась другая.",
+                "en": "No sooner had we fixed one issue than another appeared."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Ни разу он не опоздал на встречу.",
+                "en": "Not once did he arrive late for a meeting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Лишь позже мы поняли всю серьёзность ситуации.",
+                "en": "Only later did we realize the full seriousness of the situation."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Едва ли она догадывалась о последствиях.",
+                "en": "Little did she know about the consequences."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "План не только провалился, но и усугубил ситуацию.",
+                "en": "Not only did the plan fail, it made the situation worse.",
+                "blankedEn": "Not only ___ the plan fail, it made the situation worse.",
+                "answer": "did",
+                "options": [
+                  "did",
+                  "was",
+                  "had",
+                  "does"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "План не только провалился, но и усугубил ситуацию.",
+                    "en": "Not only did the plan fail, it made the situation worse."
+                  },
+                  {
+                    "ru": "Редко я видел настолько плохо организованный запуск.",
+                    "en": "Rarely have I seen such a poorly managed rollout."
+                  },
+                  {
+                    "ru": "Ни при каких обстоятельствах мы не должны повторить эту ошибку.",
+                    "en": "Under no circumstances should we repeat that mistake."
+                  },
+                  {
+                    "ru": "Едва мы устранили одну проблему, как появилась другая.",
+                    "en": "No sooner had we fixed one issue than another appeared."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l20-p2",
+            "number": 251,
+            "title": "Inversion after Negative Adverbials (Part 2)",
+            "titleNative": "Инверсия после отрицательных наречий · Часть 2",
+            "description": "Subject-auxiliary inversion after fronted negative adverbials",
+            "topicId": "c1-l20",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ни в коем случае нельзя игнорировать эти данные.",
+                "en": "In no way should this data be ignored."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не успели мы начать, как случилась авария.",
+                "en": "Barely had we started when an accident happened."
+              },
+              {
+                "type": "listening",
+                "ru": "Только тогда мы поняли масштаб проблемы.",
+                "en": "Only then did we grasp the scale of the problem."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ни разу компания не пропустила квартальный отчёт.",
+                "en": "Not once has the company missed a quarterly report."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Едва дверь закрылась, как зазвонил телефон.",
+                "en": "Hardly had the door closed when the phone rang."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Лишь при особых условиях допускается исключение.",
+                "en": "Only under special conditions is an exception allowed."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Никогда прежде мы не сталкивались с подобным кризисом.",
+                "en": "Never before had we faced such a crisis."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Едва дверь закрылась, как зазвонил телефон.",
+                "en": "Hardly had the door closed when the phone rang.",
+                "blankedEn": "Hardly ___ the door closed when the phone rang.",
+                "answer": "had",
+                "options": [
+                  "had",
+                  "did",
+                  "was",
+                  "has"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Ни в коем случае нельзя игнорировать эти данные.",
+                    "en": "In no way should this data be ignored."
+                  },
+                  {
+                    "ru": "Не успели мы начать, как случилась авария.",
+                    "en": "Barely had we started when an accident happened."
+                  },
+                  {
+                    "ru": "Только тогда мы поняли масштаб проблемы.",
+                    "en": "Only then did we grasp the scale of the problem."
+                  },
+                  {
+                    "ru": "Никогда прежде мы не сталкивались с подобным кризисом.",
+                    "en": "Never before had we faced such a crisis."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-14",
+            "number": 252,
+            "title": "The Half-Life of Facts",
+            "titleNative": "Период полураспада фактов",
+            "description": "О том, как научные факты со временем устаревают и пересматриваются.",
+            "readingPassage": {
+              "context": "О том, как научные факты со временем устаревают и пересматриваются.",
+              "paragraphs": [
+                {
+                  "en": "Facts, much like radioactive substances, appear to have a kind of half-life.",
+                  "ru": "Факты, подобно радиоактивным веществам, похоже, обладают своего рода периодом полураспада."
+                },
+                {
+                  "en": "Over time, a significant portion of what is currently accepted as true will eventually be revised or overturned.",
+                  "ru": "Со временем значительная часть того, что сейчас принимается за истину, в конечном итоге будет пересмотрена или опровергнута."
+                },
+                {
+                  "en": "This is not a flaw in science but rather evidence that it is functioning as intended.",
+                  "ru": "Это не изъян науки, а, скорее, свидетельство того, что она работает так, как задумано."
+                },
+                {
+                  "en": "Medical guidelines, in particular, are revised with striking frequency as new evidence accumulates.",
+                  "ru": "Медицинские рекомендации, в частности, пересматриваются с поразительной частотой по мере накопления новых данных."
+                },
+                {
+                  "en": "What was considered sound advice a generation ago may now be viewed as outdated or even harmful.",
+                  "ru": "То, что поколение назад считалось разумным советом, сегодня может расцениваться как устаревшее или даже вредное."
+                },
+                {
+                  "en": "This constant revision can be unsettling to a public that expects settled, permanent answers.",
+                  "ru": "Это постоянное пересмотрение может тревожить публику, ожидающую окончательных, неизменных ответов."
+                },
+                {
+                  "en": "Understanding the provisional nature of knowledge, however, is itself a mark of scientific literacy.",
+                  "ru": "Тем не менее понимание временной природы знания само по себе является признаком научной грамотности."
+                },
+                {
+                  "en": "The goal is not certainty but ever-closer approximation to an elusive and shifting truth.",
+                  "ru": "Цель — не абсолютная уверенность, а всё более точное приближение к неуловимой, меняющейся истине."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что, согласно тексту, происходит с фактами со временем?",
+                "options": [
+                  "Они никогда не меняются",
+                  "Значительная часть будет пересмотрена или опровергнута",
+                  "Они становятся более точными автоматически",
+                  "Они исчезают"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что особенно часто пересматривается, по тексту?",
+                "options": [
+                  "Исторические даты",
+                  "Медицинские рекомендации",
+                  "Языковые правила",
+                  "Географические карты"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению текста, является признаком научной грамотности?",
+                "options": [
+                  "Полная уверенность в фактах",
+                  "Понимание временной природы знания",
+                  "Отказ от пересмотра теорий",
+                  "Игнорирование новых данных"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l21-p1",
+            "number": 253,
+            "title": "Ellipsis and Substitution (Part 1)",
+            "titleNative": "Эллипсис и замещение · Часть 1",
+            "description": "Omitting or substituting repeated elements for concise style",
+            "topicId": "c1-l21",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Она закончила отчёт раньше, чем я.",
+                "en": "She finished the report before I did."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я собирался его проверить, но не было времени.",
+                "en": "I meant to review it, but haven't had time."
+              },
+              {
+                "type": "listening",
+                "ru": "Думаешь, план сработает? Надеюсь, что да.",
+                "en": "Do you think the plan will work? I hope so."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он сказал, что позвонит, но не позвонил.",
+                "en": "He said he'd call, but he didn't."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Она может прийти, и я тоже могу.",
+                "en": "She can come, and so can I."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Кто-то должен это сделать, и я сделаю.",
+                "en": "Someone has to do it, and I will."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он не согласен, и я тоже не согласен.",
+                "en": "He doesn't agree, and neither do I."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он сказал, что позвонит, но не позвонил.",
+                "en": "He said he'd call, but he didn't.",
+                "blankedEn": "He said he'd call, but he ___.",
+                "answer": "didn't",
+                "options": [
+                  "didn't",
+                  "doesn't",
+                  "hasn't",
+                  "wasn't"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Она закончила отчёт раньше, чем я.",
+                    "en": "She finished the report before I did."
+                  },
+                  {
+                    "ru": "Думаешь, план сработает? Надеюсь, что да.",
+                    "en": "Do you think the plan will work? I hope so."
+                  },
+                  {
+                    "ru": "Она может прийти, и я тоже могу.",
+                    "en": "She can come, and so can I."
+                  },
+                  {
+                    "ru": "Он не согласен, и я тоже не согласен.",
+                    "en": "He doesn't agree, and neither do I."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l21-p2",
+            "number": 254,
+            "title": "Ellipsis and Substitution (Part 2)",
+            "titleNative": "Эллипсис и замещение · Часть 2",
+            "description": "Omitting or substituting repeated elements for concise style",
+            "topicId": "c1-l21",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Некоторые согласились, а некоторые нет.",
+                "en": "Some agreed, and some didn't."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она хотела остаться, но не смогла.",
+                "en": "She wanted to stay, but couldn't."
+              },
+              {
+                "type": "listening",
+                "ru": "Мы могли бы поехать, но решили не ехать.",
+                "en": "We could have gone, but decided not to."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если и есть решение, мы его найдём.",
+                "en": "If there is a solution, we will find one."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он обещал помочь, и он поможет.",
+                "en": "He promised to help, and he will."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она не была уверена, но я была.",
+                "en": "She wasn't sure, but I was."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Кто-то выиграет, а кто-то проиграет.",
+                "en": "Someone will win, and someone will lose."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Она хотела остаться, но не смогла.",
+                "en": "She wanted to stay, but couldn't.",
+                "blankedEn": "She wanted to stay, but ___.",
+                "answer": "couldn't",
+                "options": [
+                  "couldn't",
+                  "didn't",
+                  "wasn't",
+                  "hadn't"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Некоторые согласились, а некоторые нет.",
+                    "en": "Some agreed, and some didn't."
+                  },
+                  {
+                    "ru": "Она хотела остаться, но не смогла.",
+                    "en": "She wanted to stay, but couldn't."
+                  },
+                  {
+                    "ru": "Он обещал помочь, и он поможет.",
+                    "en": "He promised to help, and he will."
+                  },
+                  {
+                    "ru": "Она не была уверена, но я была.",
+                    "en": "She wasn't sure, but I was."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l22-p1",
+            "number": 255,
+            "title": "Inverted & Mixed Conditionals (Part 1)",
+            "titleNative": "Инвертированные и смешанные условные предложения · Часть 1",
+            "description": "Formal inversion and mixed-time conditional sentences",
+            "topicId": "c1-l22",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я знала о задержке, я бы перенесла встречу.",
+                "en": "Had I known about the delay, I would have rescheduled."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы бюджет увеличился, мы могли бы нанять больше сотрудников.",
+                "en": "Were the budget to increase, we could hire more staff."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы она усерднее училась, она была бы сейчас врачом.",
+                "en": "If she had studied harder, she would be a doctor now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы он не ушёл раньше времени, у него всё ещё была бы его прежняя работа.",
+                "en": "If he hadn't left early, he'd still have his old job."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Если бы не твоя помощь, я бы не справился.",
+                "en": "Had it not been for your help, I wouldn't have managed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы у нас было больше времени, мы бы закончили.",
+                "en": "Had we had more time, we would have finished."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Если бы она приняла это предложение, её жизнь была бы иной.",
+                "en": "Had she accepted that offer, her life would be different."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если бы я знала о задержке, я бы перенесла встречу.",
+                "en": "Had I known about the delay, I would have rescheduled.",
+                "blankedEn": "___ I known about the delay, I would have rescheduled.",
+                "answer": "Had",
+                "options": [
+                  "Had",
+                  "If",
+                  "Was",
+                  "Did"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Если бы я знала о задержке, я бы перенесла встречу.",
+                    "en": "Had I known about the delay, I would have rescheduled."
+                  },
+                  {
+                    "ru": "Если бы бюджет увеличился, мы могли бы нанять больше сотрудников.",
+                    "en": "Were the budget to increase, we could hire more staff."
+                  },
+                  {
+                    "ru": "Если бы она усерднее училась, она была бы сейчас врачом.",
+                    "en": "If she had studied harder, she would be a doctor now."
+                  },
+                  {
+                    "ru": "Если бы не твоя помощь, я бы не справился.",
+                    "en": "Had it not been for your help, I wouldn't have managed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-15",
+            "number": 256,
+            "title": "Rewilding: Nature's Second Chance",
+            "titleNative": "Ревайлдинг: второй шанс для природы",
+            "description": "О движении по восстановлению дикой природы в местах, изменённых человеком.",
+            "readingPassage": {
+              "context": "О движении по восстановлению дикой природы в местах, изменённых человеком.",
+              "paragraphs": [
+                {
+                  "en": "Rewilding is the practice of restoring an area of land to its natural, uncultivated state.",
+                  "ru": "Ревайлдинг — это практика восстановления участка земли до его естественного, некультивированного состояния."
+                },
+                {
+                  "en": "Unlike traditional conservation, which often tries to preserve a fixed snapshot of nature, rewilding embraces unpredictability.",
+                  "ru": "В отличие от традиционной охраны природы, которая часто пытается сохранить некий фиксированный снимок природы, ревайлдинг принимает непредсказуемость."
+                },
+                {
+                  "en": "Proponents reintroduce key species, such as wolves or beavers, and then largely step back.",
+                  "ru": "Сторонники реинтродуцируют ключевые виды, такие как волки или бобры, а затем в значительной степени отходят в сторону."
+                },
+                {
+                  "en": "These species often act as ecosystem engineers, reshaping landscapes in ways humans could never fully replicate.",
+                  "ru": "Эти виды часто выступают в роли «экосистемных инженеров», преобразуя ландшафты так, как люди никогда не смогли бы полностью воспроизвести."
+                },
+                {
+                  "en": "The reintroduction of wolves to Yellowstone famously altered river patterns by changing the behavior of grazing animals.",
+                  "ru": "Знаменитая реинтродукция волков в Йеллоустоуне изменила русла рек, повлияв на поведение травоядных животных."
+                },
+                {
+                  "en": "Critics worry that rewilding can conflict with farming and other established human land use.",
+                  "ru": "Критики опасаются, что ревайлдинг может вступать в конфликт с сельским хозяйством и другими устоявшимися видами землепользования."
+                },
+                {
+                  "en": "Supporters counter that carefully managed rewilding projects can coexist with, and even benefit, local economies through tourism.",
+                  "ru": "Сторонники возражают, что тщательно управляемые проекты ревайлдинга могут сосуществовать с местной экономикой и даже приносить ей пользу за счёт туризма."
+                },
+                {
+                  "en": "As biodiversity loss accelerates worldwide, rewilding is increasingly seen as a bold response rather than a fringe idea.",
+                  "ru": "По мере ускорения утраты биоразнообразия по всему миру ревайлдинг всё чаще воспринимается как смелый ответ, а не маргинальная идея."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Чем ревайлдинг отличается от традиционной охраны природы?",
+                "options": [
+                  "Он игнорирует животных",
+                  "Он принимает непредсказуемость, а не фиксирует состояние природы",
+                  "Он запрещён законом",
+                  "Он относится только к морям"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что произошло после реинтродукции волков в Йеллоустоуне?",
+                "options": [
+                  "Ничего не изменилось",
+                  "Изменились русла рек из-за поведения травоядных",
+                  "Волки исчезли",
+                  "Реки высохли"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чего опасаются критики ревайлдинга?",
+                "options": [
+                  "Роста туризма",
+                  "Конфликта с сельским хозяйством и землепользованием",
+                  "Снижения биоразнообразия",
+                  "Отсутствия учёных"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l22-p2",
+            "number": 257,
+            "title": "Inverted & Mixed Conditionals (Part 2)",
+            "titleNative": "Инвертированные и смешанные условные предложения · Часть 2",
+            "description": "Formal inversion and mixed-time conditional sentences",
+            "topicId": "c1-l22",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы это произошло, последствия были бы серьёзными.",
+                "en": "Were it to happen, the consequences would be serious."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы она не переехала, они бы всё ещё дружили.",
+                "en": "If she hadn't moved away, they would still be friends."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы у него была лучшая подготовка, он справился бы с задачей.",
+                "en": "If he'd had better training, he'd cope with the task now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не будь этой ошибки, проект был бы завершён вовремя.",
+                "en": "Were it not for that mistake, the project would have finished on time."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Если бы мы вложились раньше, компания процветала бы сегодня.",
+                "en": "Had we invested earlier, the company would be thriving today."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы правила изменились, компания адаптировалась бы.",
+                "en": "Should the rules change, the company would adapt."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Если бы она знала правду, она бы поступила иначе.",
+                "en": "Had she known the truth, she would have acted differently."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Не будь этой ошибки, проект был бы завершён вовремя.",
+                "en": "Were it not for that mistake, the project would have finished on time.",
+                "blankedEn": "Were it not ___ that mistake, the project would have finished on time.",
+                "answer": "for",
+                "options": [
+                  "for",
+                  "of",
+                  "with",
+                  "by"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Если бы это произошло, последствия были бы серьёзными.",
+                    "en": "Were it to happen, the consequences would be serious."
+                  },
+                  {
+                    "ru": "Если бы она не переехала, они бы всё ещё дружили.",
+                    "en": "If she hadn't moved away, they would still be friends."
+                  },
+                  {
+                    "ru": "Не будь этой ошибки, проект был бы завершён вовремя.",
+                    "en": "Were it not for that mistake, the project would have finished on time."
+                  },
+                  {
+                    "ru": "Если бы мы вложились раньше, компания процветала бы сегодня.",
+                    "en": "Had we invested earlier, the company would be thriving today."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l23-p1",
+            "number": 258,
+            "title": "Complex Comparative Structures (Part 1)",
+            "titleNative": "Сложные конструкции сравнения · Часть 1",
+            "description": "Correlative comparatives and reframed comparisons",
+            "topicId": "c1-l23",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Чем больше данных мы собираем, тем яснее становится картина.",
+                "en": "The more data we collect, the clearer the picture becomes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это не столько техническая проблема, сколько проблема коммуникации.",
+                "en": "It's not so much a technical problem as a communication one."
+              },
+              {
+                "type": "listening",
+                "ru": "Результаты оказались гораздо более обнадёживающими, чем мы ожидали.",
+                "en": "The results were far more encouraging than we expected."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Чем раньше мы начнём, тем раньше увидим результаты.",
+                "en": "The sooner we start, the sooner we'll see results."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Чем сложнее вопрос, тем важнее ясность.",
+                "en": "The more complex the question, the more important clarity becomes."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это не столько вопрос денег, сколько вопрос времени.",
+                "en": "It's not so much a matter of money as of time."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Её вклад был значительно весомее, чем чей-либо ещё.",
+                "en": "Her contribution was considerably greater than anyone else's."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Чем больше данных мы собираем, тем яснее становится картина.",
+                "en": "The more data we collect, the clearer the picture becomes.",
+                "blankedEn": "The more data we collect, the ___ the picture becomes.",
+                "answer": "clearer",
+                "options": [
+                  "clearer",
+                  "clear",
+                  "clearly",
+                  "clearest"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Чем больше данных мы собираем, тем яснее становится картина.",
+                    "en": "The more data we collect, the clearer the picture becomes."
+                  },
+                  {
+                    "ru": "Это не столько техническая проблема, сколько проблема коммуникации.",
+                    "en": "It's not so much a technical problem as a communication one."
+                  },
+                  {
+                    "ru": "Результаты оказались гораздо более обнадёживающими, чем мы ожидали.",
+                    "en": "The results were far more encouraging than we expected."
+                  },
+                  {
+                    "ru": "Чем раньше мы начнём, тем раньше увидим результаты.",
+                    "en": "The sooner we start, the sooner we'll see results."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l23-p2",
+            "number": 259,
+            "title": "Complex Comparative Structures (Part 2)",
+            "titleNative": "Сложные конструкции сравнения · Часть 2",
+            "description": "Correlative comparatives and reframed comparisons",
+            "topicId": "c1-l23",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Чем дольше мы ждём, тем дороже обойдётся решение.",
+                "en": "The longer we wait, the more expensive the solution becomes."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Дело не столько в бюджете, сколько в приоритетах.",
+                "en": "It's not so much about the budget as about priorities."
+              },
+              {
+                "type": "listening",
+                "ru": "Второй вариант оказался значительно практичнее первого.",
+                "en": "The second option turned out to be far more practical than the first."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Чем меньше команда, тем быстрее решения.",
+                "en": "The smaller the team, the faster the decisions."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Проблема не столько в технологии, сколько в подготовке людей.",
+                "en": "The problem lies not so much in the technology as in people's training."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Чем выше риск, тем выше должна быть и награда.",
+                "en": "The higher the risk, the greater the reward should be."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Итоговая цифра оказалась гораздо ниже, чем прогнозировалось.",
+                "en": "The final figure turned out to be considerably lower than forecast."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Чем меньше команда, тем быстрее решения.",
+                "en": "The smaller the team, the faster the decisions.",
+                "blankedEn": "The smaller the team, the ___ the decisions.",
+                "answer": "faster",
+                "options": [
+                  "faster",
+                  "fast",
+                  "fastest",
+                  "fastly"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Чем дольше мы ждём, тем дороже обойдётся решение.",
+                    "en": "The longer we wait, the more expensive the solution becomes."
+                  },
+                  {
+                    "ru": "Дело не столько в бюджете, сколько в приоритетах.",
+                    "en": "It's not so much about the budget as about priorities."
+                  },
+                  {
+                    "ru": "Второй вариант оказался значительно практичнее первого.",
+                    "en": "The second option turned out to be far more practical than the first."
+                  },
+                  {
+                    "ru": "Чем выше риск, тем выше должна быть и награда.",
+                    "en": "The higher the risk, the greater the reward should be."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l24-p1",
+            "number": 260,
+            "title": "Emphasis with Do-Support and So/Such (Part 1)",
+            "titleNative": "Эмфаза с do-support и so/such · Часть 1",
+            "description": "Emphatic do and fronted so/such for dramatic effect",
+            "topicId": "c1-l24",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я же тебя предупреждала о рисках.",
+                "en": "I did warn you about the risks."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Её презентация была настолько убедительной, что совет одобрил её немедленно.",
+                "en": "So compelling was her presentation that the board approved it immediately."
+              },
+              {
+                "type": "listening",
+                "ru": "Давление было настолько сильным, что несколько человек уволились.",
+                "en": "Such was the pressure that several people quit."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы действительно ценим ваше терпение.",
+                "en": "We do appreciate your patience."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он действительно предупреждал нас о рисках.",
+                "en": "He did warn us about the risks."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Настолько неожиданными были результаты, что все замолчали.",
+                "en": "So unexpected were the results that everyone fell silent."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Хаос был настолько велик, что заседание отменили.",
+                "en": "Such was the chaos that the meeting was cancelled."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я же тебя предупреждала о рисках.",
+                "en": "I did warn you about the risks.",
+                "blankedEn": "I ___ warn you about the risks.",
+                "answer": "did",
+                "options": [
+                  "did",
+                  "do",
+                  "was",
+                  "have"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я же тебя предупреждала о рисках.",
+                    "en": "I did warn you about the risks."
+                  },
+                  {
+                    "ru": "Её презентация была настолько убедительной, что совет одобрил её немедленно.",
+                    "en": "So compelling was her presentation that the board approved it immediately."
+                  },
+                  {
+                    "ru": "Давление было настолько сильным, что несколько человек уволились.",
+                    "en": "Such was the pressure that several people quit."
+                  },
+                  {
+                    "ru": "Настолько неожиданными были результаты, что все замолчали.",
+                    "en": "So unexpected were the results that everyone fell silent."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-16",
+            "number": 261,
+            "title": "The Currency of Attention",
+            "titleNative": "Валюта под названием внимание",
+            "description": "О том, как человеческое внимание стало ценным ресурсом в цифровой экономике.",
+            "readingPassage": {
+              "context": "О том, как человеческое внимание стало ценным ресурсом в цифровой экономике.",
+              "paragraphs": [
+                {
+                  "en": "In the digital economy, attention has become a resource as valuable as money itself.",
+                  "ru": "В цифровой экономике внимание стало таким же ценным ресурсом, как и сами деньги."
+                },
+                {
+                  "en": "Platforms compete fiercely for the finite minutes people are willing to spend scrolling, watching, and clicking.",
+                  "ru": "Платформы яростно конкурируют за то ограниченное количество минут, которое люди готовы потратить на пролистывание, просмотр и клики."
+                },
+                {
+                  "en": "Every notification, autoplay video, and infinite scroll is engineered with this competition in mind.",
+                  "ru": "Каждое уведомление, автовоспроизведение видео и бесконечная лента спроектированы с учётом именно этой конкуренции."
+                },
+                {
+                  "en": "Critics describe this as an extraction economy, harvesting a resource users rarely realize they are giving away.",
+                  "ru": "Критики называют это «экономикой извлечения», добывающей ресурс, который пользователи редко осознают, что отдают."
+                },
+                {
+                  "en": "Unlike money, attention cannot be saved, only spent, which makes it a uniquely fragile resource.",
+                  "ru": "В отличие от денег, внимание нельзя накопить — его можно только потратить, что делает его уникально хрупким ресурсом."
+                },
+                {
+                  "en": "Some technologists have begun designing products around the opposite principle: time well spent rather than time spent.",
+                  "ru": "Некоторые технологи начали проектировать продукты вокруг противоположного принципа: не просто потраченное время, а время, потраченное с пользой."
+                },
+                {
+                  "en": "Whether such alternatives can survive against attention-maximizing competitors remains an open question.",
+                  "ru": "Смогут ли такие альтернативы выжить в конкуренции с продуктами, максимизирующими захват внимания, остаётся открытым вопросом."
+                },
+                {
+                  "en": "How society ultimately values attention may prove just as consequential as how it values money.",
+                  "ru": "То, как общество в конечном счёте оценит внимание, может оказаться столь же значимым, как и то, как оно оценивает деньги."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Чем стало внимание в цифровой экономике?",
+                "options": [
+                  "Бесполезным ресурсом",
+                  "Ресурсом, ценным как деньги",
+                  "Неограниченным ресурсом",
+                  "Юридическим термином"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Почему внимание называют уникально хрупким ресурсом?",
+                "options": [
+                  "Потому что его можно накопить",
+                  "Потому что его нельзя накопить, только потратить",
+                  "Потому что оно бесконечно",
+                  "Потому что оно не имеет ценности"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Вокруг какого принципа некоторые технологи начали проектировать продукты?",
+                "options": [
+                  "Максимизации времени в приложении",
+                  "Времени, потраченного с пользой",
+                  "Полного отказа от уведомлений",
+                  "Увеличения рекламы"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l24-p2",
+            "number": 262,
+            "title": "Emphasis with Do-Support and So/Such (Part 2)",
+            "titleNative": "Эмфаза с do-support и so/such · Часть 2",
+            "description": "Emphatic do and fronted so/such for dramatic effect",
+            "topicId": "c1-l24",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мы действительно рассмотрели все варианты.",
+                "en": "We did consider every option."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Настолько сильным было её влияние, что все прислушались.",
+                "en": "So powerful was her influence that everyone listened."
+              },
+              {
+                "type": "listening",
+                "ru": "Разочарование было настолько велико, что многие ушли.",
+                "en": "Such was the disappointment that many left."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он действительно заслуживает этого повышения.",
+                "en": "He does deserve that promotion."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Настолько убедительны были доказательства, что суд согласился немедленно.",
+                "en": "So convincing was the evidence that the court agreed at once."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Успех был настолько неожиданным, что никто не был готов.",
+                "en": "Such was the success that no one was prepared."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мы действительно ценим вашу поддержку.",
+                "en": "We do value your support."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он действительно заслуживает этого повышения.",
+                "en": "He does deserve that promotion.",
+                "blankedEn": "He ___ deserve that promotion.",
+                "answer": "does",
+                "options": [
+                  "does",
+                  "did",
+                  "is",
+                  "was"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Мы действительно рассмотрели все варианты.",
+                    "en": "We did consider every option."
+                  },
+                  {
+                    "ru": "Настолько сильным было её влияние, что все прислушались.",
+                    "en": "So powerful was her influence that everyone listened."
+                  },
+                  {
+                    "ru": "Разочарование было настолько велико, что многие ушли.",
+                    "en": "Such was the disappointment that many left."
+                  },
+                  {
+                    "ru": "Настолько убедительны были доказательства, что суд согласился немедленно.",
+                    "en": "So convincing was the evidence that the court agreed at once."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l25-p1",
+            "number": 263,
+            "title": "Advanced Passive & Causative Constructions (Part 1)",
+            "titleNative": "Продвинутый пассив и каузативные конструкции · Часть 1",
+            "description": "Distancing passive reports and arranged-action causatives",
+            "topicId": "c1-l25",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Считается, что задержка была вызвана проблемой у поставщика.",
+                "en": "The delay is believed to have been caused by a supplier issue."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Говорят, что генеральный директор рассматривает возможность отставки.",
+                "en": "The CEO is said to be considering resignation."
+              },
+              {
+                "type": "listening",
+                "ru": "Мы поручили внешнему юристу проверить контракт.",
+                "en": "We had the contract reviewed by an outside lawyer."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Они заказывают перевод отчёта на три языка.",
+                "en": "They're getting the report translated into three languages."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Считается, что новая политика повысила эффективность.",
+                "en": "The new policy is thought to have improved efficiency."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы сделали ремонт офиса подрядной компанией.",
+                "en": "We had the office renovated by a contractor."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Полагают, что решение будет объявлено на следующей неделе.",
+                "en": "The decision is expected to be announced next week."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Считается, что задержка была вызвана проблемой у поставщика.",
+                "en": "The delay is believed to have been caused by a supplier issue.",
+                "blankedEn": "The delay is believed to ___ been caused by a supplier issue.",
+                "answer": "have",
+                "options": [
+                  "have",
+                  "has",
+                  "had",
+                  "having"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Считается, что задержка была вызвана проблемой у поставщика.",
+                    "en": "The delay is believed to have been caused by a supplier issue."
+                  },
+                  {
+                    "ru": "Говорят, что генеральный директор рассматривает возможность отставки.",
+                    "en": "The CEO is said to be considering resignation."
+                  },
+                  {
+                    "ru": "Мы поручили внешнему юристу проверить контракт.",
+                    "en": "We had the contract reviewed by an outside lawyer."
+                  },
+                  {
+                    "ru": "Считается, что новая политика повысила эффективность.",
+                    "en": "The new policy is thought to have improved efficiency."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l25-p2",
+            "number": 264,
+            "title": "Advanced Passive & Causative Constructions (Part 2)",
+            "titleNative": "Продвинутый пассив и каузативные конструкции · Часть 2",
+            "description": "Distancing passive reports and arranged-action causatives",
+            "topicId": "c1-l25",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Продукт считается одним из лучших на рынке.",
+                "en": "The product is regarded as one of the best on the market."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы заказали установку новой системы у специалистов.",
+                "en": "We had the new system installed by specialists."
+              },
+              {
+                "type": "listening",
+                "ru": "Полагают, что цены вырастут в следующем квартале.",
+                "en": "Prices are expected to rise next quarter."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Компания якобы скрывала истинные затраты.",
+                "en": "The company is alleged to have concealed the true costs."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мы сделали визы, оформленные агентством.",
+                "en": "We had our visas arranged by an agency."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Считается, что реформа принесла положительные результаты.",
+                "en": "The reform is believed to have produced positive results."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Дом, как говорят, был построен более века назад.",
+                "en": "The house is said to have been built over a century ago."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Компания якобы скрывала истинные затраты.",
+                "en": "The company is alleged to have concealed the true costs.",
+                "blankedEn": "The company is ___ to have concealed the true costs.",
+                "answer": "alleged",
+                "options": [
+                  "alleged",
+                  "said",
+                  "told",
+                  "spoken"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Продукт считается одним из лучших на рынке.",
+                    "en": "The product is regarded as one of the best on the market."
+                  },
+                  {
+                    "ru": "Мы заказали установку новой системы у специалистов.",
+                    "en": "We had the new system installed by specialists."
+                  },
+                  {
+                    "ru": "Компания якобы скрывала истинные затраты.",
+                    "en": "The company is alleged to have concealed the true costs."
+                  },
+                  {
+                    "ru": "Дом, как говорят, был построен более века назад.",
+                    "en": "The house is said to have been built over a century ago."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -63757,6 +65179,202 @@
             "sp": "Marat",
             "en": "Formally, we'd say: could we postpone the meeting until Thursday?",
             "ru": "Формально мы бы сказали: не могли бы мы перенести встречу на четверг?"
+          }
+        ]
+      },
+      "c1-l19": {
+        "title": "Professional Collocations & Idiom",
+        "pattern": "touch base / move the needle / low-hanging fruit / on the same page — workplace collocations",
+        "explanation": "Профессиональный английский изобилует устойчивыми словосочетаниями — «touch base», «move the needle», «low-hanging fruit», «on the same page», — которые невозможно понять, переводя слово за словом: их значение закреплено за всей фразой целиком, а не за отдельными компонентами. Такие коллокации нужно заучивать именно как готовые блоки, потому что замена даже одного слова («touch a base» вместо «touch base») звучит для носителя языка неестественно, хотя формально грамматика не нарушена.",
+        "fact": "Корпусные исследования показывают, что подобные устойчивые словосочетания составляют огромную долю реальной профессиональной речи — гораздо больше, чем принято думать, ориентируясь только на отдельные слова из учебников. Носитель языка мгновенно замечает малейшее отклонение от привычной коллокации, даже если не может сформулировать правило, которое было нарушено — это чувство приходит исключительно из накопленного опыта восприятия языка.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Let's touch base again once the numbers are in.",
+            "ru": "Давай снова созвонимся, как только будут цифры."
+          },
+          {
+            "sp": "Marat",
+            "en": "Sure, but I don't think this will move the needle much.",
+            "ru": "Конечно, но не думаю, что это сильно изменит ситуацию."
+          },
+          {
+            "sp": "Anna",
+            "en": "At least it's low-hanging fruit — quick and easy to fix.",
+            "ru": "По крайней мере, это простая задача — быстро и легко исправить."
+          },
+          {
+            "sp": "Marat",
+            "en": "Agreed. Let's make sure everyone's on the same page before we start.",
+            "ru": "Согласен. Давай убедимся, что все на одной волне, прежде чем начинать."
+          }
+        ]
+      },
+      "c1-l20": {
+        "title": "Inversion after Negative Adverbials",
+        "pattern": "Not only did... / Rarely have... / Under no circumstances should... — inverted word order for emphasis",
+        "explanation": "Вынесение отрицательного или ограничивающего наречия в начало предложения (not only, rarely, seldom, under no circumstances, no sooner...than, little did) вызывает инверсию подлежащего и вспомогательного глагола, как в вопросе: «Not only did the plan fail» вместо нейтрального «The plan not only failed». Эта инверсия добавляет высказыванию риторическую весомость и характерна именно для формальной, убедительной или литературной речи.",
+        "fact": "В повседневной устной речи такая инверсия почти не встречается — носители языка приберегают её для моментов, когда хотят звучать особенно драматично или официально, например в публичных выступлениях, судебных документах или газетных заголовках. Именно поэтому чрезмерное использование инверсии в непринуждённой беседе может звучать неестественно напыщенно, тогда как в письменном аргументативном тексте она воспринимается как признак уверенного владения языком.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Not only did the plan fail, it made the situation worse.",
+            "ru": "План не только провалился, но и усугубил ситуацию."
+          },
+          {
+            "sp": "Marat",
+            "en": "Rarely have I seen such a poorly managed rollout.",
+            "ru": "Редко я видел настолько плохо организованный запуск."
+          },
+          {
+            "sp": "Anna",
+            "en": "Under no circumstances should we repeat that mistake.",
+            "ru": "Ни при каких обстоятельствах мы не должны повторить эту ошибку."
+          },
+          {
+            "sp": "Marat",
+            "en": "No sooner had we fixed one issue than another appeared.",
+            "ru": "Едва мы устранили одну проблему, как появилась другая."
+          }
+        ]
+      },
+      "c1-l21": {
+        "title": "Ellipsis and Substitution",
+        "pattern": "She can, and so can I. / He said he would, but didn't. — omitting or replacing repeated elements",
+        "explanation": "Эллипсис (пропуск слов, которые легко восстановить из контекста) и замещение (замена повторяющегося слова на do/so/one) позволяют формальной и разговорной речи избегать неуклюжих повторов: вместо «She can swim, and I can swim too» носитель скажет «She can, and so can I», опираясь на вспомогательный глагол, который «держит» опущенный смысл. Это не небрежность, а экономная, отточенная конструкция, типичная для беглой речи.",
+        "fact": "Английский язык особенно сильно опирается именно на вспомогательные глаголы как опору для эллипсиса — конструкции вроде «I hope so» или «neither do I» невозможно буквально перевести на многие языки, где для этой цели пришлось бы повторить весь глагол целиком. Эта особенность делает вспомогательные глаголы одним из самых нагруженных грамматически элементов английского синтаксиса.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "She finished the report before I did.",
+            "ru": "Она закончила отчёт раньше, чем я."
+          },
+          {
+            "sp": "Marat",
+            "en": "I meant to review it, but haven't had time.",
+            "ru": "Я собирался его проверить, но не было времени."
+          },
+          {
+            "sp": "Anna",
+            "en": "Do you think the plan will work? I hope so.",
+            "ru": "Думаешь, план сработает? Надеюсь, что да."
+          },
+          {
+            "sp": "Marat",
+            "en": "He said he'd call, but he didn't.",
+            "ru": "Он сказал, что позвонит, но не позвонил."
+          }
+        ]
+      },
+      "c1-l22": {
+        "title": "Inverted & Mixed Conditionals",
+        "pattern": "Had I known... / Were it to happen... / If she'd studied harder, she would be... — inversion and mixed time frames",
+        "explanation": "В формальной письменной речи условное «if» часто опускается, а подлежащее и вспомогательный глагол меняются местами: «Had I known, I would have acted» вместо «If I had known...». Смешанные условные предложения, в свою очередь, объединяют разные временные пласты в одном высказывании: «If she had studied harder, she would be a doctor now» связывает причину в прошлом с результатом в настоящем, отражая реальную сложность причинно-следственных связей в жизни.",
+        "fact": "Инверсия в условных предложениях исторически ассоциируется с юридическим и академическим письмом, где она добавляет тексту весомость и формальность, тогда как в устной речи носители почти всегда предпочтут более простое «if». Смешанные условные, напротив, встречаются постоянно в живой речи — просто потому, что причины и следствия в реальной жизни редко аккуратно укладываются в один и тот же временной план.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Had I known about the delay, I would have rescheduled.",
+            "ru": "Если бы я знала о задержке, я бы перенесла встречу."
+          },
+          {
+            "sp": "Marat",
+            "en": "Were the budget to increase, we could hire more staff.",
+            "ru": "Если бы бюджет увеличился, мы могли бы нанять больше сотрудников."
+          },
+          {
+            "sp": "Anna",
+            "en": "If she had studied harder, she would be a doctor now.",
+            "ru": "Если бы она усерднее училась, она была бы сейчас врачом."
+          },
+          {
+            "sp": "Marat",
+            "en": "If he hadn't left early, he'd still have his old job.",
+            "ru": "Если бы он не ушёл раньше времени, у него всё ещё была бы его прежняя работа."
+          }
+        ]
+      },
+      "c1-l23": {
+        "title": "Complex Comparative Structures",
+        "pattern": "the more..., the more... / not so much X as Y / far more X than Y — nuanced comparison",
+        "explanation": "За пределами простого «-er/more» английский располагает более тонкими инструментами сравнения: коррелятивная конструкция «the more..., the more...» связывает два процесса, растущих параллельно, «not so much X as Y» не столько ранжирует два понятия, сколько переопределяет саму категорию явления, а «far/considerably more X than Y» усиливает степень различия. Эти структуры позволяют выражать не просто «больше/меньше», а сложные логические отношения между идеями.",
+        "fact": "Коррелятивные сравнительные конструкции существуют в английском ещё со времён древнеанглийского языка и структурно родственны похожим парным союзам во многих языках, однако именно современный вариант «the more..., the more...» стал одним из самых узнаваемых риторических приёмов английского языка — от философских рассуждений до рекламных слоганов.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "The more data we collect, the clearer the picture becomes.",
+            "ru": "Чем больше данных мы собираем, тем яснее становится картина."
+          },
+          {
+            "sp": "Marat",
+            "en": "It's not so much a technical problem as a communication one.",
+            "ru": "Это не столько техническая проблема, сколько проблема коммуникации."
+          },
+          {
+            "sp": "Anna",
+            "en": "The results were far more encouraging than we expected.",
+            "ru": "Результаты оказались гораздо более обнадёживающими, чем мы ожидали."
+          },
+          {
+            "sp": "Marat",
+            "en": "The sooner we start, the sooner we'll see results.",
+            "ru": "Чем раньше мы начнём, тем раньше увидим результаты."
+          }
+        ]
+      },
+      "c1-l24": {
+        "title": "Emphasis with Do-Support and So/Such",
+        "pattern": "I did tell you. / So convincing was her argument that... / Such was the impact that... — emphatic structures",
+        "explanation": "Эмфатическое «do/did» подчёркивает истинность действия, особенно вопреки сомнению или отрицанию собеседника: «I did warn you» звучит как прямое опровержение подразумеваемого «you didn't warn me». Вынесенные вперёд конструкции «so + прилагательное» и «such + существительное» («So compelling was her argument that...», «Such was the chaos that...») усиливают драматизм высказывания и типичны для письменного повествования и аргументации.",
+        "fact": "Эмфатическое do — один из старейших сохранившихся способов использования вспомогательного «do» в английском языке, восходящий к эпохе, когда оно свободно применялось почти во всех утвердительных предложениях; со временем эта функция сузилась именно до подчёркнутого утверждения. Конструкции с вынесенным вперёд so/such, напротив, воспринимаются как отчётливо литературный, приподнятый стиль и редко звучат в непринуждённой беседе.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "I did warn you about the risks.",
+            "ru": "Я же тебя предупреждала о рисках."
+          },
+          {
+            "sp": "Marat",
+            "en": "So compelling was her presentation that the board approved it immediately.",
+            "ru": "Её презентация была настолько убедительной, что совет одобрил её немедленно."
+          },
+          {
+            "sp": "Anna",
+            "en": "Such was the pressure that several people quit that month.",
+            "ru": "Давление было настолько сильным, что в том месяце несколько человек уволились."
+          },
+          {
+            "sp": "Marat",
+            "en": "We do appreciate your patience through all this.",
+            "ru": "Мы действительно ценим ваше терпение во всём этом."
+          }
+        ]
+      },
+      "c1-l25": {
+        "title": "Advanced Passive & Causative Constructions",
+        "pattern": "is said to be / is believed to have / had the report rewritten — distancing passives & causatives",
+        "explanation": "Конструкции вида «is said to be», «is believed to have caused», «is alleged to have» позволяют передать утверждение, дистанцируясь от его источника и не беря на себя ответственность за его истинность — незаменимый приём в журналистике и дипломатичной речи. Каузативные конструкции («have/get something done») описывают действие, организованное говорящим, но выполненное кем-то другим: «We had the contract reviewed» подчёркивает, что проверку провёл не сам говорящий, а нанятый специалист.",
+        "fact": "Обороты «is said to» и «is believed to» особенно характерны для новостных заголовков именно потому, что позволяют журналисту сообщить о заявлении, не подтверждая и не опровергая его напрямую — это ключевой инструмент нейтральной подачи спорной информации. Каузативная конструкция «have something done», в свою очередь, исторически развилась из более общей идеи «заставить что-то произойти» и со временем сузилась именно до значения организованной, а не лично выполненной работы.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "The delay is believed to have been caused by a supplier issue.",
+            "ru": "Считается, что задержка была вызвана проблемой у поставщика."
+          },
+          {
+            "sp": "Marat",
+            "en": "The CEO is said to be considering resignation.",
+            "ru": "Говорят, что генеральный директор рассматривает возможность отставки."
+          },
+          {
+            "sp": "Anna",
+            "en": "We had the contract reviewed by an outside lawyer.",
+            "ru": "Мы поручили внешнему юристу проверить контракт."
+          },
+          {
+            "sp": "Marat",
+            "en": "They're getting the report translated into three languages.",
+            "ru": "Они заказывают перевод отчёта на три языка."
           }
         ]
       }
