@@ -10,6 +10,24 @@
   const ADVANCE_DELAY_CORRECT = 900;
   const ADVANCE_DELAY_WRONG = 2500;
 
+  // A small shared icon set (currentColor throughout, so each one just
+  // inherits whatever color its container already sets) used in place of
+  // emoji across the app -- emoji render inconsistently across
+  // platforms/fonts, these don't.
+  const ICON_CHECK = `<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M5 12.5l4.3 4.3L19 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+  const ICON_CHECK_BIG = `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 12.5l5.5 5.5L20 6.5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+  const ICON_X_BIG = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>`;
+  const ICON_LOCK = `<svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><rect x="5" y="11" width="14" height="9" rx="2.2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 11V7.6a4 4 0 018 0V11" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>`;
+  const ICON_BOOK = `<svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M12 5.5c-1.6-1.2-3.8-1.8-6.5-1.8v13.6c2.7 0 4.9.6 6.5 1.8m0-13.6c1.6-1.2 3.8-1.8 6.5-1.8v13.6c-2.7 0-4.9.6-6.5 1.8m0-13.6v13.6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+  const ICON_FLAG = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M6.5 3v18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M6.5 4.2h10.5l-2.8 3.8 2.8 3.8H6.5z" fill="currentColor" opacity="0.9"/></svg>`;
+  const ICON_SPEAKER = `<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" style="vertical-align:-2px"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16.5 9a3.5 3.5 0 010 6M19 6.5a7 7 0 010 11" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`;
+  const ICON_STOP = `<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" style="vertical-align:-2px"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"/></svg>`;
+  const ICON_SLOW = `<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 12a8 8 0 1116 0 8 8 0 01-16 0z" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 8v4l2.6 2.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.5 12h1.5M20 12h1.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="1 2.4"/></svg>`;
+  const ICON_HINT = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.6 10.8c.6.45 1.1 1.1 1.1 1.95V16h5v-.25c0-.85.5-1.5 1.1-1.95A6 6 0 0012 3z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+  const ICON_MAN = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><circle cx="12" cy="7" r="3.4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4.5 20c1.4-3.6 4.4-5.5 7.5-5.5s6.1 1.9 7.5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`;
+  const ICON_WOMAN = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><circle cx="12" cy="6.5" r="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 9.7v5.3M9 13h6M8 20l4-5 4 5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+  const ICON_CLOUD = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><path d="M7 18a4 4 0 01-.5-7.97A5 5 0 0116.9 9.1 3.5 3.5 0 0116.5 16H7z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>`;
+
   // Mobile Safari keeps a tapped <button> focused, which leaves the
   // browser's focus outline stuck on the last-tapped tile/option even
   // though the user just touched it, not navigated with a keyboard.
@@ -505,9 +523,10 @@
     return `
       <div class="feedback ${correct ? "correct" : "incorrect"}">
         <div class="feedback-main">
-          ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Прослушать произношение" aria-label="Прослушать произношение">🔊</button>` : ""}
+          <span class="feedback-icon">${correct ? ICON_CHECK_BIG : ICON_X_BIG}</span>
+          ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Прослушать произношение" aria-label="Прослушать произношение">${ICON_SPEAKER}</button>` : ""}
           <div>
-            <div class="feedback-text">${correct ? "Верно! ✓" : "Не совсем"}</div>
+            <div class="feedback-text">${correct ? "Верно!" : "Не совсем"}</div>
             <div class="feedback-answer">${answerText}</div>
           </div>
         </div>
@@ -568,7 +587,7 @@
     const pct = Math.round((session.index / session.total) * 100);
     screenEl.innerHTML = `
       <div class="lesson-bar">
-        <button class="exit-btn" id="exitBtn">&times;</button>
+        <button class="exit-btn" id="exitBtn" aria-label="Выйти из урока"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
         <div class="progress-track"><div class="progress-fill" style="width:${pct}%"></div></div>
         ${session.mode !== "lesson" ? '<span class="infinity-badge">&infin;</span>' : ""}
       </div>
@@ -631,8 +650,8 @@
         ${context}
         <div class="passage-controls">
           <button class="translit-toggle" id="passageToggle">Показать перевод</button>
-          <button class="passage-listen-btn" id="passageVoiceToggle" title="Сменить голос" aria-label="Сменить голос диктора">${isMale ? "👨 Мужской" : "👩 Женский"}</button>
-          <button class="passage-listen-btn" id="passageListenBtn" title="Слушать текст" aria-label="Слушать текст">🔊 Слушать</button>
+          <button class="passage-listen-btn" id="passageVoiceToggle" title="Сменить голос" aria-label="Сменить голос диктора">${isMale ? `${ICON_MAN} Мужской` : `${ICON_WOMAN} Женский`}</button>
+          <button class="passage-listen-btn" id="passageListenBtn" title="Слушать текст" aria-label="Слушать текст">${ICON_SPEAKER} Слушать</button>
         </div>
         ${rows}
       </details>
@@ -665,7 +684,7 @@
     window.speechSynthesis.cancel();
     if (_currentBundledAudio) { _currentBundledAudio.pause(); _currentBundledAudio = null; }
     _passagePlaying = false;
-    if (btn) btn.textContent = "🔊 Слушать";
+    if (btn) btn.innerHTML = `${ICON_SPEAKER} Слушать`;
     lineEls.forEach(l => l.classList.remove("speaking"));
   }
 
@@ -676,7 +695,7 @@
       if (_passagePlaying) stopPassagePlayback(document.getElementById("passageListenBtn"), Array.from(document.querySelectorAll(".passage-line")));
       const next = passageVoiceGender() === "male" ? "female" : "male";
       localStorage.setItem(PASSAGE_VOICE_KEY, next);
-      btn.textContent = next === "male" ? "👨 Мужской" : "👩 Женский";
+      btn.innerHTML = next === "male" ? `${ICON_MAN} Мужской` : `${ICON_WOMAN} Женский`;
     });
   }
 
@@ -690,12 +709,12 @@
       if (soundMuted) return;
       if ("speechSynthesis" in window) window.speechSynthesis.cancel();
       _passagePlaying = true;
-      btn.textContent = "⏹ Стоп";
+      btn.innerHTML = `${ICON_STOP} Стоп`;
       const token = ++_passageToken;
       let i = 0;
       function step(waitMs) {
         if (token !== _passageToken || i >= paragraphs.length) {
-          if (token === _passageToken) { _passagePlaying = false; btn.textContent = "🔊 Слушать"; }
+          if (token === _passageToken) { _passagePlaying = false; btn.innerHTML = `${ICON_SPEAKER} Слушать`; }
           lineEls.forEach(l => l.classList.remove("speaking"));
           return;
         }
@@ -741,10 +760,14 @@
     });
   }
 
+  const OPTION_LETTERS = ["A", "B", "C", "D", "E", "F"];
+  function optionBtn(opt, attr, i) {
+    return `<button class="option" ${attr}><span class="option-letter">${OPTION_LETTERS[i] || i + 1}</span><span class="option-text">${opt}</span></button>`;
+  }
   function renderComprehension(ex) {
     const lesson = ex._sourceLesson;
     const options = ex.options.map((opt, i) =>
-      `<button class="option" data-i="${i}">${opt}</button>`
+      optionBtn(opt, `data-i="${i}"`, i)
     ).join("");
 
     renderLessonChrome(`
@@ -840,7 +863,7 @@
         <div class="prompt-kicker"><span>Выбери перевод</span></div>
         <div class="prompt-native">${ex.ru}</div>
         <div class="options" id="options">
-          ${options.map((opt, i) => `<button class="option" data-i="${i}">${opt}</button>`).join("")}
+          ${options.map((opt, i) => optionBtn(opt, `data-i="${i}"`, i)).join("")}
         </div>
       </div>
     `);
@@ -937,7 +960,7 @@
           <input class="type-answer-input" id="typeInput" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Введите перевод на английском..." />
           <button class="type-submit-btn" id="typeSubmitBtn" type="submit" disabled>Проверить</button>
           <div class="hint-row">
-            <button type="button" class="hint-btn" id="hintBtn">💡 Подсказка</button>
+            <button type="button" class="hint-btn" id="hintBtn">${ICON_HINT} Подсказка</button>
             <div class="hint-text" id="hintText"></div>
           </div>
           <div class="type-answer-hint">Небольшие опечатки — это нормально, система их учитывает.</div>
@@ -991,9 +1014,9 @@
       <div class="audio-stage${big ? " audio-stage-lg" : ""}">
         <button class="listen-play-btn" id="listenPlayBtn" type="button" aria-label="Слушать">
           <span class="audio-rings"><span></span><span></span><span></span></span>
-          <span class="audio-icon">🔊</span>
+          <span class="audio-icon">${ICON_SPEAKER}</span>
         </button>
-        <button class="listen-slow-btn" id="listenSlowBtn" type="button" title="Медленно" aria-label="Слушать медленно">🐢</button>
+        <button class="listen-slow-btn" id="listenSlowBtn" type="button" title="Медленно" aria-label="Слушать медленно">${ICON_SLOW}</button>
       </div>
     `;
   }
@@ -1069,7 +1092,7 @@
         <div class="prompt-kicker"><span>Послушай и выбери перевод</span></div>
         ${audioStageHtml(true)}
         <div class="options" id="options">
-          ${options.map((opt, i) => `<button class="option" data-i="${i}">${opt}</button>`).join("")}
+          ${options.map((opt, i) => optionBtn(opt, `data-i="${i}"`, i)).join("")}
         </div>
       </div>
     `);
@@ -1167,7 +1190,7 @@
         <div class="prompt-native">${ex.ru}</div>
         <div class="fill-blank-sentence">${ex.blankedEn}</div>
         <div class="options" id="options">
-          ${options.map((opt, i) => `<button class="option" data-word="${opt}">${opt}</button>`).join("")}
+          ${options.map((opt, i) => optionBtn(opt, `data-word="${opt}"`, i)).join("")}
         </div>
       </div>
     `);
@@ -1355,6 +1378,10 @@
   // Each level gets its own roadmap: lessons as round nodes running bottom
   // (lesson 1) to top (last lesson), like climbing toward the level's peak.
   // Completing the level unlocks a "next level" node above the last lesson.
+  // Opens on a featured "continue where you left off" card for wherever
+  // you actually are, with the rest of the level laid out below as a real
+  // index -- no path, no circles, nothing to climb. Replaces the old
+  // circle-and-rail trail entirely.
   function renderLevelRoadmap() {
     const totalLessons = flatLessons.length;
     const doneLessons = flatLessons.filter(l => progress.completedLessons.includes(l.id)).length;
@@ -1369,38 +1396,62 @@
     const levelLessons = flatLessons.filter(l => l.levelId === level.id);
     const levelDone = levelLessons.filter(l => progress.completedLessons.includes(l.id)).length;
     const levelComplete = levelLessons.length > 0 && levelDone === levelLessons.length;
-    const railPct = levelLessons.length ? Math.round((levelDone / levelLessons.length) * 100) : 0;
 
-    // A calm vertical trail instead of a computed winding road: one plain
-    // CSS line (no JS geometry, no SVG) with rows gently alternating indent
-    // for rhythm. Reads top (lesson 1) to bottom (last lesson), so there's
-    // nothing to "jump to" — the current lesson just scrolls into view.
-    let rowsHtml = "";
-    let currentAssigned = false;
-    levelLessons.forEach((lesson, i) => {
+    let currentLesson = null;
+    for (const lesson of levelLessons) {
       const flatIndex = flatLessons.indexOf(lesson);
-      const unlocked = isLessonUnlocked(flatIndex);
       const done = progress.completedLessons.includes(lesson.id);
-      const isCurrent = unlocked && !done && !currentAssigned;
-      if (isCurrent) currentAssigned = true;
-      const isReading = !!lesson.readingPassage;
-      rowsHtml += `
-        <div class="trail-row">
-          <button class="trail-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""} ${isReading ? "reading" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
-            ${done ? "✓" : !unlocked ? "🔒" : isReading ? "📖" : lesson.number}
-          </button>
-          <div class="trail-info"><span class="trail-title">${lesson.title}</span><span class="trail-title-native">${lesson.titleNative || ""}</span></div>
+      if (!done && isLessonUnlocked(flatIndex)) { currentLesson = lesson; break; }
+    }
+
+    let heroHtml = "";
+    if (currentLesson) {
+      const isReading = !!currentLesson.readingPassage;
+      heroHtml = `
+        <div class="chapter-hero">
+          <div class="chapter-hero-eyebrow">Продолжить с этого места</div>
+          <div class="chapter-hero-main">
+            <div class="chapter-hero-num">${isReading ? ICON_BOOK : currentLesson.number}</div>
+            <div class="chapter-hero-text">
+              <h3>${currentLesson.title}</h3>
+              ${currentLesson.titleNative ? `<span class="chapter-hero-native">${currentLesson.titleNative}</span>` : ""}
+            </div>
+          </div>
+          <button class="primary-btn" id="heroStartBtn" data-lesson="${currentLesson.id}">Начать урок</button>
         </div>
       `;
-    });
-    if (levelComplete && nextLevel) {
-      rowsHtml += `
-        <div class="trail-row">
-          <button class="trail-node trail-next-node" id="nextLevelBtn" aria-label="Следующий уровень">🏁</button>
-          <div class="trail-info"><span class="trail-title">Уровень пройден!</span><span class="trail-title-native">Следующий: ${nextLevel.badge}</span></div>
+    } else if (levelComplete) {
+      heroHtml = `
+        <div class="chapter-hero chapter-hero--complete">
+          <div class="chapter-hero-eyebrow">Уровень пройден</div>
+          <div class="chapter-hero-main">
+            <div class="chapter-hero-num">${ICON_FLAG}</div>
+            <div class="chapter-hero-text">
+              <h3>Все уроки этого уровня завершены.</h3>
+              ${nextLevel ? `<span class="chapter-hero-native">Дальше: ${nextLevel.badge} — ${nextLevel.label}</span>` : `<span class="chapter-hero-native">Новые уровни уже готовятся.</span>`}
+            </div>
+          </div>
+          ${nextLevel ? `<button class="primary-btn" id="heroNextLevelBtn">Начать ${nextLevel.badge}</button>` : ""}
         </div>
       `;
     }
+
+    const indexRowsHtml = levelLessons.map(lesson => {
+      const flatIndex = flatLessons.indexOf(lesson);
+      const unlocked = isLessonUnlocked(flatIndex);
+      const done = progress.completedLessons.includes(lesson.id);
+      const isCurrent = !!currentLesson && lesson.id === currentLesson.id;
+      const isReading = !!lesson.readingPassage;
+      const stateClass = done ? "done" : isCurrent ? "current" : unlocked ? "unlocked" : "locked";
+      const status = done ? ICON_CHECK : isCurrent ? `<span class="index-dot"></span>` : !unlocked ? ICON_LOCK : isReading ? ICON_BOOK : "";
+      return `
+        <button class="chapter-index-row ${stateClass}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"}>
+          <span class="index-num">${lesson.number}</span>
+          <span class="index-text"><span class="index-title">${lesson.title}</span><span class="index-native">${lesson.titleNative || ""}</span></span>
+          <span class="index-status">${status}</span>
+        </button>
+      `;
+    }).join("");
 
     screenEl.innerHTML = `
       <div class="level-progress-card">
@@ -1422,9 +1473,10 @@
       </div>
       ${!levelLessons.length
         ? `<div class="level-locked-note">Уроки уровня ${level.badge} уже готовятся и скоро появятся здесь.</div>`
-        : `<div class="trail-wrap">
-            <div class="trail-rail"><div class="trail-rail-fill" style="height:${railPct}%"></div></div>
-            <div class="trail-list" id="roadmapEl">${rowsHtml}</div>
+        : `${heroHtml}
+           <div class="chapter-index-wrap">
+             <div class="chapter-index-label">Все уроки &middot; ${level.badge}</div>
+             <div class="chapter-index">${indexRowsHtml}</div>
            </div>`
       }
     `;
@@ -1439,23 +1491,27 @@
       currentLevelId = nextLevel.id;
       renderLevelRoadmap();
     });
-    const nextLevelBtn = document.getElementById("nextLevelBtn");
-    if (nextLevelBtn) {
-      nextLevelBtn.addEventListener("click", () => {
+    const heroNextLevelBtn = document.getElementById("heroNextLevelBtn");
+    if (heroNextLevelBtn) {
+      heroNextLevelBtn.addEventListener("click", () => {
         if (!nextLevel) return;
         currentLevelId = nextLevel.id;
         renderLevelRoadmap();
       });
     }
-    screenEl.querySelectorAll(".trail-node:not(.locked)").forEach(node => {
-      node.addEventListener("click", () => {
-        const lesson = flatLessons.find(l => l.id === node.dataset.lesson);
+    const heroStartBtn = document.getElementById("heroStartBtn");
+    if (heroStartBtn) {
+      heroStartBtn.addEventListener("click", () => {
+        const lesson = flatLessons.find(l => l.id === heroStartBtn.dataset.lesson);
+        if (lesson) startLesson(lesson);
+      });
+    }
+    screenEl.querySelectorAll(".chapter-index-row:not(:disabled)").forEach(row => {
+      row.addEventListener("click", () => {
+        const lesson = flatLessons.find(l => l.id === row.dataset.lesson);
         if (lesson) startLesson(lesson);
       });
     });
-
-    const target = screenEl.querySelector(".trail-node.current") || screenEl.querySelector(".trail-node.unlocked");
-    if (target) requestAnimationFrame(() => target.scrollIntoView({ block: "center", behavior: "auto" }));
   }
 
   // ---------- vocabulary track ----------
@@ -1485,7 +1541,7 @@
                   <span class="vocab-icon">${set.icon || "📘"}</span>
                   <span class="vocab-title">${set.title}</span>
                   <span class="vocab-title-native">${set.titleNative || ""}</span>
-                  ${done ? '<span class="vocab-done-check">✓</span>' : ""}
+                  ${done ? `<span class="vocab-done-check">${ICON_CHECK}</span>` : ""}
                 </button>`;
             }).join("")}
           </div>
@@ -1567,7 +1623,7 @@
         <div class="prompt-kicker"><span>Выбери перевод</span></div>
         <div class="prompt-native">${q.ru}</div>
         <div class="options" id="options">
-          ${options.map((opt, i) => `<button class="option" data-i="${i}">${opt}</button>`).join("")}
+          ${options.map((opt, i) => optionBtn(opt, `data-i="${i}"`, i)).join("")}
         </div>
       </div>
     `;
