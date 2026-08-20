@@ -141,6 +141,21 @@ button.stat:hover { color: var(--flow); }
 .level-progress-info .label { font-size: 0.82rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 2px; }
 .level-progress-info .count { font-family: var(--font-display); font-size: 1rem; font-weight: 600; margin-top: 4px; }
 
+.mistakes-reminder {
+  width: 100%; display: flex; align-items: center; gap: 12px;
+  background: var(--coral-wash); border: 1px solid var(--coral); border-radius: 12px;
+  padding: 12px 16px; margin-bottom: 18px; cursor: pointer; text-align: left;
+  font-family: var(--font-body); color: var(--ink); transition: opacity 0.12s ease;
+}
+.mistakes-reminder:hover { opacity: 0.88; }
+.mistakes-reminder-icon { flex-shrink: 0; color: var(--coral); display: flex; }
+.mistakes-reminder-text { flex: 1; font-size: 0.88rem; min-width: 0; }
+.mistakes-reminder-text strong { color: var(--coral); font-family: var(--font-mono); }
+.mistakes-reminder-cta {
+  flex-shrink: 0; font-size: 0.78rem; font-weight: 700; color: var(--coral);
+  text-transform: uppercase; letter-spacing: 0.03em;
+}
+
 /* ---------- level roadmap ---------- */
 .roadmap-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
 .roadmap-arrow {
@@ -441,7 +456,12 @@ button.stat:hover { color: var(--flow); }
 .passage-ru { font-size: 0.85rem; color: var(--ink-soft); font-style: italic; margin: 0; }
 .passage-ru.hidden { display: none; }
 
-.feedback { position: fixed; left: 0; right: 0; bottom: 0; padding: 18px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; box-shadow: 0 -4px 16px var(--shadow); }
+.feedback {
+  position: fixed; left: 0; right: 0; bottom: 0; padding: 18px 20px;
+  display: flex; flex-direction: column; gap: 10px;
+  max-height: 60vh; overflow-y: auto; box-shadow: 0 -4px 16px var(--shadow);
+}
+.feedback-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .feedback-main { display: flex; align-items: center; gap: 12px; min-width: 0; }
 .feedback-main .speak-btn { flex-shrink: 0; }
 .feedback-icon {
@@ -460,7 +480,20 @@ button.stat:hover { color: var(--flow); }
 .feedback.correct .feedback-text { color: var(--flow); }
 .feedback.incorrect .feedback-text { color: var(--coral); }
 .feedback-answer { font-size: 0.85rem; color: var(--ink-soft); margin-top: 2px; }
-.feedback-next-hint { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-soft); }
+.feedback-next-hint { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-soft); flex-shrink: 0; }
+.feedback-why-btn {
+  background: none; border: none; padding: 0; margin-top: 6px;
+  font-family: var(--font-body); font-size: 0.78rem; font-weight: 600;
+  color: var(--coral); cursor: pointer; display: inline-flex; align-items: center; gap: 3px;
+  text-decoration: underline; text-underline-offset: 2px;
+}
+.feedback-why-btn:hover { opacity: 0.75; }
+.feedback-explain {
+  border-top: 1px solid var(--border); padding-top: 10px;
+  font-size: 0.85rem; line-height: 1.55; color: var(--ink);
+}
+.feedback-explain p { margin: 0; }
+.feedback-explain.hidden { display: none; }
 
 /* ---------- summary ---------- */
 .summary { text-align: center; padding: 40px 20px; }

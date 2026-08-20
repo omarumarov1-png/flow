@@ -27,6 +27,18 @@
   const ICON_MAN = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><circle cx="12" cy="7" r="3.4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4.5 20c1.4-3.6 4.4-5.5 7.5-5.5s6.1 1.9 7.5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`;
   const ICON_WOMAN = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><circle cx="12" cy="6.5" r="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 9.7v5.3M9 13h6M8 20l4-5 4 5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
   const ICON_CLOUD = `<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" style="vertical-align:-2px"><path d="M7 18a4 4 0 01-.5-7.97A5 5 0 0116.9 9.1 3.5 3.5 0 0116.5 16H7z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>`;
+  const ICON_CHEVRON_DOWN = `<svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true" style="vertical-align:-1px"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+  const ICON_MISTAKES = `<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M9 9l6 6M15 9l-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>`;
+
+  // Russian has three plural forms depending on the last digit/last two
+  // digits of the count (1 ошибка, 2-4 ошибки, 5+/11-14 ошибок) -- this
+  // covers that instead of hardcoding a single plural form.
+  function pluralRu(n, one, few, many) {
+    const mod10 = n % 10, mod100 = n % 100;
+    if (mod10 === 1 && mod100 !== 11) return one;
+    if (mod10 >= 2 && mod10 <= 4 && !(mod100 >= 12 && mod100 <= 14)) return few;
+    return many;
+  }
 
   // Mobile Safari keeps a tapped <button> focused, which leaves the
   // browser's focus outline stuck on the last-tapped tile/option even
@@ -507,7 +519,8 @@
       playIncorrectSound();
       if (session) session.mistakes++;
       if (!progress.missedBank.some(m => m.ru === ex.ru && m.en === ex.en)) {
-        progress.missedBank.unshift({ ru: ex.ru, en: ex.en });
+        const topicId = ex.topicId || (ex._sourceLesson && ex._sourceLesson.topicId);
+        progress.missedBank.unshift({ ru: ex.ru, en: ex.en, topicId });
         progress.missedBank = progress.missedBank.slice(0, MAX_MISSED);
       }
     }
@@ -515,22 +528,41 @@
     refreshTopStats();
   }
 
+  // Resolves the grammar topic behind whatever exercise is currently on
+  // screen -- works both for live lessons (topicId lives on _sourceLesson)
+  // and mistake-review replays (topicId is snapshotted directly onto the
+  // missedBank entry in afterAnswer, since review items have no
+  // _sourceLesson of their own).
+  function currentTopic() {
+    if (!session) return null;
+    const item = session.queue[session.index];
+    const ex = item && item.ex;
+    if (!ex) return null;
+    const topicId = ex.topicId || (ex._sourceLesson && ex._sourceLesson.topicId);
+    return (topicId && course.grammarTopics && course.grammarTopics[topicId]) || null;
+  }
+
   // showSpeak defaults true (most exercises show English answer text worth
   // replaying) — comprehension and matching pass false, since their
   // feedback text is Russian (or a plain UI string) and was showing a
   // speaker icon that wireFeedbackReplay() was never actually wired up for.
   function renderFeedback(correct, answerText, showSpeak = true) {
+    const topic = !correct ? currentTopic() : null;
     return `
       <div class="feedback ${correct ? "correct" : "incorrect"}">
-        <div class="feedback-main">
-          <span class="feedback-icon">${correct ? ICON_CHECK_BIG : ICON_X_BIG}</span>
-          ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Прослушать произношение" aria-label="Прослушать произношение">${ICON_SPEAKER}</button>` : ""}
-          <div>
-            <div class="feedback-text">${correct ? "Верно!" : "Не совсем"}</div>
-            <div class="feedback-answer">${answerText}</div>
+        <div class="feedback-row">
+          <div class="feedback-main">
+            <span class="feedback-icon">${correct ? ICON_CHECK_BIG : ICON_X_BIG}</span>
+            ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Прослушать произношение" aria-label="Прослушать произношение">${ICON_SPEAKER}</button>` : ""}
+            <div>
+              <div class="feedback-text">${correct ? "Верно!" : "Не совсем"}</div>
+              <div class="feedback-answer">${answerText}</div>
+              ${topic ? `<button class="feedback-why-btn" id="feedbackWhyBtn" type="button">Почему? ${ICON_CHEVRON_DOWN}</button>` : ""}
+            </div>
           </div>
+          <div class="feedback-next-hint">${session && session.queue.length > 1 ? "→ Enter" : "Готово"}</div>
         </div>
-        <div class="feedback-next-hint">${session && session.queue.length > 1 ? "→ Enter" : "Готово"}</div>
+        ${topic ? `<div class="feedback-explain hidden" id="feedbackExplain"><p>${topic.explanation}</p></div>` : ""}
       </div>
     `;
   }
@@ -538,6 +570,18 @@
     const btn = document.getElementById("feedbackSpeakBtn");
     if (btn) btn.addEventListener("click", () => speak(text));
   }
+  // Delegated (not wired per-renderFeedback call) since two call sites
+  // (comprehension, matching) skip wireFeedbackReplay entirely when
+  // showSpeak is false -- this way the "Почему?" toggle works everywhere
+  // renderFeedback's explanation block can appear, with a single listener.
+  document.addEventListener("click", e => {
+    const whyBtn = e.target.closest && e.target.closest("#feedbackWhyBtn");
+    if (!whyBtn) return;
+    cancelAdvance();
+    const explain = document.getElementById("feedbackExplain");
+    if (explain) explain.classList.remove("hidden");
+    whyBtn.remove();
+  });
 
   function cancelAdvance() {
     if (advanceTimer) { clearTimeout(advanceTimer); advanceTimer = null; }
@@ -1453,6 +1497,17 @@
       `;
     }).join("");
 
+    const mistakesCount = progress.missedBank.length;
+    const mistakesReminderHtml = mistakesCount > 0 ? `
+      <button class="mistakes-reminder" id="mistakesReminderBtn">
+        <span class="mistakes-reminder-icon">${ICON_MISTAKES}</span>
+        <span class="mistakes-reminder-text">
+          <strong>${mistakesCount}</strong> ${pluralRu(mistakesCount, "ошибка", "ошибки", "ошибок")} ${pluralRu(mistakesCount, "ждёт", "ждут", "ждут")} повторения
+        </span>
+        <span class="mistakes-reminder-cta">Повторить</span>
+      </button>
+    ` : "";
+
     screenEl.innerHTML = `
       <div class="level-progress-card">
         <div class="waveform">${waveformBars(overallPct)}</div>
@@ -1462,6 +1517,7 @@
           <div class="count">${doneLessons} / ${totalLessons} уроков</div>
         </div>
       </div>
+      ${mistakesReminderHtml}
       <div class="roadmap-header">
         <button class="roadmap-arrow" id="prevLevelBtn" ${prevLevel ? "" : "disabled"} aria-label="Предыдущий уровень">‹</button>
         <div class="roadmap-level-info">
@@ -1491,6 +1547,13 @@
       currentLevelId = nextLevel.id;
       renderLevelRoadmap();
     });
+    const mistakesReminderBtn = document.getElementById("mistakesReminderBtn");
+    if (mistakesReminderBtn) {
+      mistakesReminderBtn.addEventListener("click", () => {
+        cancelAdvance();
+        startReview();
+      });
+    }
     const heroNextLevelBtn = document.getElementById("heroNextLevelBtn");
     if (heroNextLevelBtn) {
       heroNextLevelBtn.addEventListener("click", () => {
