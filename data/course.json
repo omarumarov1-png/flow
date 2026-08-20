@@ -41828,6 +41828,3875 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "b2-l13-p1",
+            "number": 187,
+            "title": "Reported Speech — Tenses That Don't Backshift (Part 1)",
+            "titleNative": "Косвенная речь: время без сдвига · Часть 1",
+            "description": "Когда время не нужно сдвигать назад",
+            "topicId": "b2-l13",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Она сказала, что работает в университете.",
+                "en": "She said she works at the university."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она сказала, что всё ещё живёт в центре?",
+                "en": "Did she say she still lives downtown?"
+              },
+              {
+                "type": "listening",
+                "ru": "Она упомянула, что цены там растут.",
+                "en": "She mentioned that prices there are rising."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Этот факт не изменился.",
+                "en": "That fact hasn't changed."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он сказал, что вода кипит при ста градусах.",
+                "en": "He said that water boils at a hundred degrees."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Учитель сказал, что практика важна для обучения.",
+                "en": "The teacher said that practice is important for learning."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Она сказала, что работает в университете.",
+                "en": "She said she works at the university.",
+                "blankedEn": "She said she ___ at the university.",
+                "answer": "works",
+                "options": [
+                  "works",
+                  "worked",
+                  "working",
+                  "work"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l13-p2",
+            "number": 188,
+            "title": "Reported Speech — Tenses That Don't Backshift (Part 2)",
+            "titleNative": "Косвенная речь: время без сдвига · Часть 2",
+            "description": "Больше практики без сдвига времени",
+            "topicId": "b2-l13",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Он сказал, что всё ещё интересуется музыкой.",
+                "en": "He said he's still interested in music."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она заметила, что английский язык постоянно меняется.",
+                "en": "She noted that the English language is always changing."
+              },
+              {
+                "type": "listening",
+                "ru": "Директор сказал, что наша команда сильная.",
+                "en": "The director said our team is strong."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он объяснил, что Земля вращается вокруг своей оси.",
+                "en": "He explained that the Earth rotates on its axis."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она сказала, что всё ещё любит рисовать.",
+                "en": "She said she still loves painting."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Он сказал, что вода кипит при ста градусах.",
+                    "en": "He said that water boils at a hundred degrees."
+                  },
+                  {
+                    "ru": "Учитель сказал, что практика важна для обучения.",
+                    "en": "The teacher said that practice is important for learning."
+                  },
+                  {
+                    "ru": "Он сказал, что всё ещё интересуется музыкой.",
+                    "en": "He said he's still interested in music."
+                  },
+                  {
+                    "ru": "Она заметила, что английский язык постоянно меняется.",
+                    "en": "She noted that the English language is always changing."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он объяснил, что Земля вращается вокруг своей оси.",
+                "en": "He explained that the Earth rotates on its axis.",
+                "blankedEn": "He explained that the Earth ___ on its axis.",
+                "answer": "rotates",
+                "options": [
+                  "rotates",
+                  "rotated",
+                  "rotating",
+                  "rotate"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l14-p1",
+            "number": 189,
+            "title": "Modal Combinations — Must Be / Should Be / Could Be (Part 1)",
+            "titleNative": "Модальные комбинации о настоящем · Часть 1",
+            "description": "Must be, should be, could be",
+            "topicId": "b2-l14",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Свет горит, значит, он, должно быть, дома.",
+                "en": "The lights are on, so he must be home."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Встреча, наверное, скоро закончится.",
+                "en": "The meeting should be finishing soon."
+              },
+              {
+                "type": "listening",
+                "ru": "Возможно, она затянется дольше запланированного.",
+                "en": "It could be later than planned."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Такие вещи часто затягиваются.",
+                "en": "These things often run over."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он, должно быть, очень занят на этой неделе.",
+                "en": "He must be very busy this week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она, наверное, уже в офисе.",
+                "en": "She should be at the office by now."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Свет горит, значит, он, должно быть, дома.",
+                "en": "The lights are on, so he must be home.",
+                "blankedEn": "The lights are on, so he ___ be home.",
+                "answer": "must",
+                "options": [
+                  "must",
+                  "should",
+                  "could",
+                  "might"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-9",
+            "number": 190,
+            "title": "What Was Said in the Interview",
+            "titleNative": "Что было сказано на интервью",
+            "description": "Статья, пересказывающая содержание интервью с учёным.",
+            "readingPassage": {
+              "context": "Статья, пересказывающая содержание интервью с учёным.",
+              "paragraphs": [
+                {
+                  "en": "In the interview, the scientist made several interesting points.",
+                  "ru": "В интервью учёный высказал несколько интересных мыслей."
+                },
+                {
+                  "en": "She said that climate change remains a pressing issue.",
+                  "ru": "Она сказала, что изменение климата остаётся насущной проблемой."
+                },
+                {
+                  "en": "She mentioned that renewable energy is becoming more affordable.",
+                  "ru": "Она упомянула, что возобновляемая энергия становится доступнее."
+                },
+                {
+                  "en": "Presumably, this trend will continue over the next decade.",
+                  "ru": "Предположительно, эта тенденция продолжится в следующее десятилетие."
+                },
+                {
+                  "en": "Apparently, several countries are investing heavily in solar power.",
+                  "ru": "Судя по всему, несколько стран активно инвестируют в солнечную энергию."
+                },
+                {
+                  "en": "She also noted that public awareness has increased significantly.",
+                  "ru": "Она также отметила, что осведомлённость общественности значительно выросла."
+                },
+                {
+                  "en": "Evidently, more people are changing their daily habits.",
+                  "ru": "Очевидно, всё больше людей меняют свои повседневные привычки."
+                },
+                {
+                  "en": "The interview ended with a hopeful message about the future.",
+                  "ru": "Интервью закончилось обнадёживающим посланием о будущем."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что сказала учёная про изменение климата?",
+                "options": [
+                  "Что это не проблема",
+                  "Что это остаётся насущной проблемой",
+                  "Что она не уверена",
+                  "Что проблема решена"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что становится доступнее?",
+                "options": [
+                  "Ископаемое топливо",
+                  "Возобновляемая энергия",
+                  "Продукты питания",
+                  "Транспорт"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончилось интервью?",
+                "options": [
+                  "Пессимистично",
+                  "Обнадёживающим посланием",
+                  "Без вывода",
+                  "С критикой"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l14-p2",
+            "number": 191,
+            "title": "Modal Combinations — Must Be / Should Be / Could Be (Part 2)",
+            "titleNative": "Модальные комбинации о настоящем · Часть 2",
+            "description": "Больше практики с модальными комбинациями",
+            "topicId": "b2-l14",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Это, должно быть, ошибка в системе.",
+                "en": "This must be a system error."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Отчёт, наверное, уже готов.",
+                "en": "The report should be ready by now."
+              },
+              {
+                "type": "listening",
+                "ru": "Возможно, это связано с новой политикой.",
+                "en": "It could be related to the new policy."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Она, должно быть, очень устала после перелёта.",
+                "en": "She must be exhausted after the flight."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ответ, наверное, где-то в документах.",
+                "en": "The answer should be somewhere in the documents."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Он, должно быть, очень занят на этой неделе.",
+                    "en": "He must be very busy this week."
+                  },
+                  {
+                    "ru": "Она, наверное, уже в офисе.",
+                    "en": "She should be at the office by now."
+                  },
+                  {
+                    "ru": "Это, должно быть, ошибка в системе.",
+                    "en": "This must be a system error."
+                  },
+                  {
+                    "ru": "Отчёт, наверное, уже готов.",
+                    "en": "The report should be ready by now."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Возможно, это связано с новой политикой.",
+                "en": "It could be related to the new policy.",
+                "blankedEn": "It ___ be related to the new policy.",
+                "answer": "could",
+                "options": [
+                  "could",
+                  "must",
+                  "should",
+                  "will"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l15-p1",
+            "number": 192,
+            "title": "Conversational Discourse Markers (Part 1)",
+            "titleNative": "Разговорные маркеры речи · Часть 1",
+            "description": "Anyway, actually, by the way",
+            "topicId": "b2-l15",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "В общем, вернёмся к тому, что мы обсуждали.",
+                "en": "Anyway, back to what we were discussing."
+              },
+              {
+                "type": "word-bank",
+                "ru": "На самом деле, мне кажется, срок изменился.",
+                "en": "Actually, I think the deadline changed."
+              },
+              {
+                "type": "listening",
+                "ru": "Кстати, ты видел новый офис?",
+                "en": "By the way, did you see the new office space?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ещё нет, но слышал, что он отличный.",
+                "en": "Not yet, but I've heard it's great."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "На самом деле, я согласен с тобой.",
+                "en": "Actually, I agree with you."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В общем, давайте продолжим завтра.",
+                "en": "Anyway, let's continue tomorrow."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "На самом деле, мне кажется, срок изменился.",
+                "en": "Actually, I think the deadline changed.",
+                "blankedEn": "___, I think the deadline changed.",
+                "answer": "Actually",
+                "options": [
+                  "Actually",
+                  "Anyway",
+                  "Meanwhile",
+                  "However"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l15-p2",
+            "number": 193,
+            "title": "Conversational Discourse Markers (Part 2)",
+            "titleNative": "Разговорные маркеры речи · Часть 2",
+            "description": "Больше практики с разговорными маркерами",
+            "topicId": "b2-l15",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Кстати, я забыл упомянуть кое-что важное.",
+                "en": "By the way, I forgot to mention something important."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В общем, это не такая уж большая проблема.",
+                "en": "Anyway, it's not that big a problem."
+              },
+              {
+                "type": "listening",
+                "ru": "На самом деле, всё оказалось проще, чем мы думали.",
+                "en": "Actually, it turned out simpler than we thought."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Кстати, спасибо за помощь на прошлой неделе.",
+                "en": "By the way, thanks for the help last week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В общем, давайте перейдём к следующему пункту.",
+                "en": "Anyway, let's move on to the next point."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "На самом деле, я согласен с тобой.",
+                    "en": "Actually, I agree with you."
+                  },
+                  {
+                    "ru": "В общем, давайте продолжим завтра.",
+                    "en": "Anyway, let's continue tomorrow."
+                  },
+                  {
+                    "ru": "Кстати, я забыл упомянуть кое-что важное.",
+                    "en": "By the way, I forgot to mention something important."
+                  },
+                  {
+                    "ru": "В общем, это не такая уж большая проблема.",
+                    "en": "Anyway, it's not that big a problem."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Кстати, спасибо за помощь на прошлой неделе.",
+                "en": "By the way, thanks for the help last week.",
+                "blankedEn": "___ the way, thanks for the help last week.",
+                "answer": "By",
+                "options": [
+                  "By",
+                  "In",
+                  "On",
+                  "At"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-10",
+            "number": 194,
+            "title": "A Puzzling Situation",
+            "titleNative": "Загадочная ситуация",
+            "description": "Рассказ о загадочной ситуации, разрешённой с помощью логических выводов.",
+            "readingPassage": {
+              "context": "Рассказ о загадочной ситуации, разрешённой с помощью логических выводов.",
+              "paragraphs": [
+                {
+                  "en": "The office was empty when Karim arrived that morning.",
+                  "ru": "Когда Карим пришёл тем утром, офис был пуст."
+                },
+                {
+                  "en": "The computer was still on, so someone must be around.",
+                  "ru": "Компьютер всё ещё был включён, значит, кто-то, должно быть, рядом."
+                },
+                {
+                  "en": "He should be back soon, Karim thought about his colleague.",
+                  "ru": "Он, наверное, скоро вернётся, — подумал Карим о коллеге."
+                },
+                {
+                  "en": "Apparently, there had been an early meeting nobody told him about.",
+                  "ru": "Судя по всему, была ранняя встреча, о которой ему никто не сказал."
+                },
+                {
+                  "en": "This could be a communication problem in the team, he realized.",
+                  "ru": "Это может быть проблема коммуникации в команде, понял он."
+                },
+                {
+                  "en": "Evidently, the schedule had changed without proper notice.",
+                  "ru": "Очевидно, расписание изменилось без должного уведомления."
+                },
+                {
+                  "en": "He decided to raise the issue at the next team meeting.",
+                  "ru": "Он решил поднять этот вопрос на следующей встрече команды."
+                },
+                {
+                  "en": "The more he thought about it, the more important it seemed.",
+                  "ru": "Чем больше он об этом думал, тем важнее это казалось."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что заметил Карим сразу?",
+                "options": [
+                  "Все были на местах",
+                  "Компьютер был включён, но офис пуст",
+                  "Дверь была заперта",
+                  "Свет был выключен"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что понял Карим?",
+                "options": [
+                  "Что это была шутка",
+                  "Что это может быть проблема коммуникации",
+                  "Что все уволились",
+                  "Ничего не понял"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что решил сделать Карим?",
+                "options": [
+                  "Промолчать",
+                  "Поднять вопрос на встрече команды",
+                  "Уйти домой",
+                  "Пожаловаться начальству письменно"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l16-p1",
+            "number": 195,
+            "title": "Advanced Conditionals — Even If, As Long As, Only If (Part 1)",
+            "titleNative": "Продвинутые условия · Часть 1",
+            "description": "Even if, as long as, only if",
+            "topicId": "b2-l16",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Даже если пойдёт дождь, мероприятие продолжится.",
+                "en": "Even if it rains, the event will continue."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пока у нас есть палатка, всё будет в порядке.",
+                "en": "As long as we have a tent, we'll be fine."
+              },
+              {
+                "type": "listening",
+                "ru": "Я отменю только в случае серьёзной бури.",
+                "en": "I'll only cancel if there's a serious storm."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Звучит как разумный план.",
+                "en": "That sounds like a reasonable plan."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Даже если это будет сложно, мы попробуем.",
+                "en": "Even if it's difficult, we'll try."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я расскажу тебе, только если ты пообещаешь молчать.",
+                "en": "I'll tell you only if you promise to keep quiet."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Даже если пойдёт дождь, мероприятие продолжится.",
+                "en": "Even if it rains, the event will continue.",
+                "blankedEn": "___ if it rains, the event will continue.",
+                "answer": "Even",
+                "options": [
+                  "Even",
+                  "Only",
+                  "Unless",
+                  "Although"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l16-p2",
+            "number": 196,
+            "title": "Advanced Conditionals — Even If, As Long As, Only If (Part 2)",
+            "titleNative": "Продвинутые условия · Часть 2",
+            "description": "Больше практики с продвинутыми условиями",
+            "topicId": "b2-l16",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Даже если ты опоздаешь, мы подождём тебя.",
+                "en": "Even if you're late, we'll wait for you."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пока цены остаются стабильными, спрос будет расти.",
+                "en": "As long as prices remain stable, demand will grow."
+              },
+              {
+                "type": "listening",
+                "ru": "Только если у нас будет достаточно данных, мы сможем принять решение.",
+                "en": "Only if we have enough data can we make a decision."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Даже если это стоит дорого, оно того стоит.",
+                "en": "Even if it costs a lot, it's worth it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Пока все согласны, план сработает.",
+                "en": "As long as everyone agrees, the plan will work."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Даже если это будет сложно, мы попробуем.",
+                    "en": "Even if it's difficult, we'll try."
+                  },
+                  {
+                    "ru": "Я расскажу тебе, только если ты пообещаешь молчать.",
+                    "en": "I'll tell you only if you promise to keep quiet."
+                  },
+                  {
+                    "ru": "Даже если ты опоздаешь, мы подождём тебя.",
+                    "en": "Even if you're late, we'll wait for you."
+                  },
+                  {
+                    "ru": "Пока цены остаются стабильными, спрос будет расти.",
+                    "en": "As long as prices remain stable, demand will grow."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Только если у нас будет достаточно данных, мы сможем принять решение.",
+                "en": "Only if we have enough data can we make a decision.",
+                "blankedEn": "Only if we have enough data ___ we make a decision.",
+                "answer": "can",
+                "options": [
+                  "can",
+                  "we can",
+                  "could",
+                  "will"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l17-p1",
+            "number": 197,
+            "title": "Reduced Relative Clauses (Part 1)",
+            "titleNative": "Сокращённые определительные предложения · Часть 1",
+            "description": "Who is/was + participle → participle alone",
+            "topicId": "b2-l17",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Женщина, стоящая у двери, — наша новая коллега.",
+                "en": "The woman standing by the door is our new colleague."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это она работает над маркетинговым проектом?",
+                "en": "Is she the one working on the marketing project?"
+              },
+              {
+                "type": "listening",
+                "ru": "Отчёт, поданный вчера, был её.",
+                "en": "The report submitted yesterday was hers."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он был очень хорошо написан.",
+                "en": "It was very well written."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Люди, работающие в этом здании, очень дружелюбные.",
+                "en": "The people working in this building are very friendly."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Продукты, произведённые в этой стране, высокого качества.",
+                "en": "Products manufactured in this country are high quality."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Женщина, стоящая у двери, — наша новая коллега.",
+                "en": "The woman standing by the door is our new colleague.",
+                "blankedEn": "The woman ___ by the door is our new colleague.",
+                "answer": "standing",
+                "options": [
+                  "standing",
+                  "stands",
+                  "stood",
+                  "stand"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-11",
+            "number": 198,
+            "title": "The Art of Softening Bad News",
+            "titleNative": "Искусство смягчения плохих новостей",
+            "description": "Статья о том, как деликатно сообщать неприятные новости на работе.",
+            "readingPassage": {
+              "context": "Статья о том, как деликатно сообщать неприятные новости на работе.",
+              "paragraphs": [
+                {
+                  "en": "Delivering bad news at work requires careful communication.",
+                  "ru": "Сообщение плохих новостей на работе требует деликатного общения."
+                },
+                {
+                  "en": "Managers often soften their message using specific language.",
+                  "ru": "Менеджеры часто смягчают своё сообщение с помощью особой лексики."
+                },
+                {
+                  "en": "Instead of saying \"this failed,\" they might say it was somewhat below expectations.",
+                  "ru": "Вместо «это провалилось» они могут сказать, что это было несколько ниже ожиданий."
+                },
+                {
+                  "en": "The more direct the criticism, the more defensive people tend to become.",
+                  "ru": "Чем прямее критика, тем более защитно люди обычно себя ведут."
+                },
+                {
+                  "en": "Reduced clauses are also common, keeping sentences short and clear.",
+                  "ru": "Сокращённые предложения тоже распространены, они делают фразы короткими и понятными."
+                },
+                {
+                  "en": "For example: \"The results, presented yesterday, need improvement.\"",
+                  "ru": "Например: «Результаты, представленные вчера, нуждаются в улучшении»."
+                },
+                {
+                  "en": "This approach reduces tension while still communicating the facts.",
+                  "ru": "Такой подход снижает напряжение, но при этом всё ещё сообщает факты."
+                },
+                {
+                  "en": "Good communicators balance honesty with sensitivity.",
+                  "ru": "Хорошие коммуникаторы уравновешивают честность с деликатностью."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что делают менеджеры с плохими новостями?",
+                "options": [
+                  "Скрывают их",
+                  "Смягчают своё сообщение",
+                  "Ничего не сообщают",
+                  "Кричат об этом"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что происходит при прямой критике?",
+                "options": [
+                  "Люди становятся спокойнее",
+                  "Люди становятся более защитными",
+                  "Ничего не меняется",
+                  "Люди сразу соглашаются"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что балансируют хорошие коммуникаторы?",
+                "options": [
+                  "Скорость и качество",
+                  "Честность и деликатность",
+                  "Цену и время",
+                  "Работу и отдых"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l17-p2",
+            "number": 199,
+            "title": "Reduced Relative Clauses (Part 2)",
+            "titleNative": "Сокращённые определительные предложения · Часть 2",
+            "description": "Больше практики с сокращёнными предложениями",
+            "topicId": "b2-l17",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Дом, построенный в прошлом году, уже продан.",
+                "en": "The house built last year has already been sold."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Дети, играющие в парке, счастливо смеются.",
+                "en": "The children playing in the park are laughing happily."
+              },
+              {
+                "type": "listening",
+                "ru": "Компания, основанная в 2005 году, теперь международная.",
+                "en": "The company founded in 2005 is now international."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Данные, собранные исследователями, очень ценные.",
+                "en": "The data collected by the researchers is very valuable."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Книга, написанная моим другом, стала бестселлером.",
+                "en": "The book written by my friend became a bestseller."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Люди, работающие в этом здании, очень дружелюбные.",
+                    "en": "The people working in this building are very friendly."
+                  },
+                  {
+                    "ru": "Продукты, произведённые в этой стране, высокого качества.",
+                    "en": "Products manufactured in this country are high quality."
+                  },
+                  {
+                    "ru": "Дом, построенный в прошлом году, уже продан.",
+                    "en": "The house built last year has already been sold."
+                  },
+                  {
+                    "ru": "Дети, играющие в парке, счастливо смеются.",
+                    "en": "The children playing in the park are laughing happily."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Данные, собранные исследователями, очень ценные.",
+                "en": "The data collected by the researchers is very valuable.",
+                "blankedEn": "The data ___ by the researchers is very valuable.",
+                "answer": "collected",
+                "options": [
+                  "collected",
+                  "collecting",
+                  "collects",
+                  "collect"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l18-p1",
+            "number": 200,
+            "title": "The More... The More (Part 1)",
+            "titleNative": "Конструкция the more... the more · Часть 1",
+            "description": "The + comparative, the + comparative",
+            "topicId": "b2-l18",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Чем больше практикуешься, тем лучше становишься.",
+                "en": "The more you practice, the better you get."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Чем усерднее я работаю, тем более уставшим себя чувствую.",
+                "en": "The harder I work, the more tired I feel."
+              },
+              {
+                "type": "listening",
+                "ru": "Чем раньше мы начнём, тем раньше закончим.",
+                "en": "The sooner we start, the sooner we'll finish."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давай начнём сейчас.",
+                "en": "Let's begin now."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Чем больше денег у него, тем более щедрым он становится.",
+                "en": "The more money he has, the more generous he becomes."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Чем старше я становлюсь, тем мудрее я себя чувствую.",
+                "en": "The older I get, the wiser I feel."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Чем больше практикуешься, тем лучше становишься.",
+                "en": "The more you practice, the better you get.",
+                "blankedEn": "The more you practice, ___ better you get.",
+                "answer": "the",
+                "options": [
+                  "the",
+                  "than",
+                  "so",
+                  "and"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l18-p2",
+            "number": 201,
+            "title": "The More... The More (Part 2)",
+            "titleNative": "Конструкция the more... the more · Часть 2",
+            "description": "Больше практики с the more... the more",
+            "topicId": "b2-l18",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Чем больше людей знают об этом, тем лучше.",
+                "en": "The more people know about this, the better."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Чем дольше мы ждём, тем сложнее становится решение.",
+                "en": "The longer we wait, the harder the decision becomes."
+              },
+              {
+                "type": "listening",
+                "ru": "Чем ниже цена, тем выше спрос.",
+                "en": "The lower the price, the higher the demand."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Чем больше я читаю, тем больше я хочу знать.",
+                "en": "The more I read, the more I want to know."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Чем быстрее ты едешь, тем опаснее это становится.",
+                "en": "The faster you drive, the more dangerous it becomes."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Чем больше денег у него, тем более щедрым он становится.",
+                    "en": "The more money he has, the more generous he becomes."
+                  },
+                  {
+                    "ru": "Чем старше я становлюсь, тем мудрее я себя чувствую.",
+                    "en": "The older I get, the wiser I feel."
+                  },
+                  {
+                    "ru": "Чем больше людей знают об этом, тем лучше.",
+                    "en": "The more people know about this, the better."
+                  },
+                  {
+                    "ru": "Чем дольше мы ждём, тем сложнее становится решение.",
+                    "en": "The longer we wait, the harder the decision becomes."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Чем ниже цена, тем выше спрос.",
+                "en": "The lower the price, the higher the demand.",
+                "blankedEn": "The lower the price, ___ higher the demand.",
+                "answer": "the",
+                "options": [
+                  "the",
+                  "than",
+                  "so",
+                  "then"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-12",
+            "number": 202,
+            "title": "The More You Give, The More You Learn",
+            "titleNative": "Чем больше отдаёшь, тем больше учишься",
+            "description": "История о волонтёре, который многому научился, помогая другим.",
+            "readingPassage": {
+              "context": "История о волонтёре, который многому научился, помогая другим.",
+              "paragraphs": [
+                {
+                  "en": "Aziz started volunteering at a local shelter two years ago.",
+                  "ru": "Азиз начал волонтёрить в местном приюте два года назад."
+                },
+                {
+                  "en": "At first, he wasn't sure what to expect.",
+                  "ru": "Сначала он не знал, чего ожидать."
+                },
+                {
+                  "en": "The more time he spent there, the more he understood the challenges people faced.",
+                  "ru": "Чем больше времени он там проводил, тем лучше он понимал трудности, с которыми сталкиваются люди."
+                },
+                {
+                  "en": "He no longer saw the work as just a task on a list.",
+                  "ru": "Он больше не воспринимал эту работу просто как пункт в списке дел."
+                },
+                {
+                  "en": "Once he built relationships with the people there, everything changed.",
+                  "ru": "Как только он выстроил отношения с людьми там, всё изменилось."
+                },
+                {
+                  "en": "By the time he had volunteered for a year, he felt truly connected.",
+                  "ru": "К тому времени, как он проволонтёрил год, он почувствовал настоящую связь."
+                },
+                {
+                  "en": "He realized that helping others had also helped him grow.",
+                  "ru": "Он понял, что помощь другим также помогла ему самому вырасти."
+                },
+                {
+                  "en": "This experience, he says, changed his perspective on life completely.",
+                  "ru": "Этот опыт, по его словам, полностью изменил его взгляд на жизнь."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Когда Азиз начал волонтёрить?",
+                "options": [
+                  "Год назад",
+                  "Два года назад",
+                  "Пять лет назад",
+                  "Недавно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что произошло, когда он выстроил отношения с людьми?",
+                "options": [
+                  "Ничего не изменилось",
+                  "Всё изменилось",
+                  "Он ушёл из приюта",
+                  "Стало сложнее"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как этот опыт повлиял на Азиза?",
+                "options": [
+                  "Никак не повлиял",
+                  "Изменил его взгляд на жизнь",
+                  "Заставил его пожалеть об этом",
+                  "Сделал его уставшим"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l19-p1",
+            "number": 203,
+            "title": "Softening Statements — Sort Of, Kind Of, Somewhat (Part 1)",
+            "titleNative": "Смягчение высказываний · Часть 1",
+            "description": "Sort of, kind of, somewhat",
+            "topicId": "b2-l19",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как прошло собеседование?",
+                "en": "How was the interview?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Честно говоря, было довольно напряжно.",
+                "en": "It was sort of stressful, to be honest."
+              },
+              {
+                "type": "listening",
+                "ru": "Вопросы были вроде как сложными?",
+                "en": "Were the questions kind of difficult?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В целом, думаю, всё прошло нормально.",
+                "en": "I think it went okay overall."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Результаты были несколько разочаровывающими.",
+                "en": "The results were somewhat disappointing."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это вроде как сложная ситуация.",
+                "en": "It's kind of a complicated situation."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Результаты были несколько разочаровывающими.",
+                "en": "The results were somewhat disappointing.",
+                "blankedEn": "The results were ___ disappointing.",
+                "answer": "somewhat",
+                "options": [
+                  "somewhat",
+                  "sort",
+                  "kind",
+                  "quite much"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l19-p2",
+            "number": 204,
+            "title": "Softening Statements — Sort Of, Kind Of, Somewhat (Part 2)",
+            "titleNative": "Смягчение высказываний · Часть 2",
+            "description": "Больше практики со смягчением высказываний",
+            "topicId": "b2-l19",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Погода сегодня немного странная.",
+                "en": "The weather is kind of strange today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Проект несколько отстаёт от графика.",
+                "en": "The project is somewhat behind schedule."
+              },
+              {
+                "type": "listening",
+                "ru": "Это вроде как трудно объяснить.",
+                "en": "It's sort of hard to explain."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Отзывы были несколько смешанными.",
+                "en": "The feedback was somewhat mixed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я вроде как согласен с этой идеей.",
+                "en": "I sort of agree with this idea."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Результаты были несколько разочаровывающими.",
+                    "en": "The results were somewhat disappointing."
+                  },
+                  {
+                    "ru": "Это вроде как сложная ситуация.",
+                    "en": "It's kind of a complicated situation."
+                  },
+                  {
+                    "ru": "Погода сегодня немного странная.",
+                    "en": "The weather is kind of strange today."
+                  },
+                  {
+                    "ru": "Проект несколько отстаёт от графика.",
+                    "en": "The project is somewhat behind schedule."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я вроде как согласен с этой идеей.",
+                "en": "I sort of agree with this idea.",
+                "blankedEn": "I sort ___ agree with this idea.",
+                "answer": "of",
+                "options": [
+                  "of",
+                  "for",
+                  "on",
+                  "with"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l20-p1",
+            "number": 205,
+            "title": "Assumptions & Appearances — Presumably, Apparently, Evidently (Part 1)",
+            "titleNative": "Предположения: presumably, apparently, evidently · Часть 1",
+            "description": "Разница между предположением и очевидным фактом",
+            "topicId": "b2-l20",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Предположительно, рейс будет вовремя.",
+                "en": "Presumably, the flight will be on time."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Судя по всему, утром была задержка.",
+                "en": "Apparently, there was a delay this morning."
+              },
+              {
+                "type": "listening",
+                "ru": "Очевидно, погода стала причиной проблемы.",
+                "en": "Evidently, the weather caused the problem."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давай проверим статус перед выездом.",
+                "en": "Let's check the status before we leave."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Предположительно, они уже знают новости.",
+                "en": "Presumably, they already know the news."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Очевидно, кто-то забыл закрыть дверь.",
+                "en": "Evidently, someone forgot to close the door."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Судя по всему, утром была задержка.",
+                "en": "Apparently, there was a delay this morning.",
+                "blankedEn": "___, there was a delay this morning.",
+                "answer": "Apparently",
+                "options": [
+                  "Apparently",
+                  "Presumably",
+                  "Evidently",
+                  "Certainly"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-13",
+            "number": 206,
+            "title": "Presumably Late Again",
+            "titleNative": "Предположительно, снова опоздает",
+            "description": "Юмористическая история о коллеге, известном постоянными опозданиями.",
+            "readingPassage": {
+              "context": "Юмористическая история о коллеге, известном постоянными опозданиями.",
+              "paragraphs": [
+                {
+                  "en": "Everyone at the office knew Sardor's reputation.",
+                  "ru": "Все в офисе знали репутацию Сардора."
+                },
+                {
+                  "en": "Presumably, he would be late for the meeting again.",
+                  "ru": "Предположительно, он снова опоздает на встречу."
+                },
+                {
+                  "en": "By the time he usually arrived, others had already discussed the main points.",
+                  "ru": "К тому времени, когда он обычно приходил, остальные уже обсудили основные пункты."
+                },
+                {
+                  "en": "Apparently, he always had a good excuse ready.",
+                  "ru": "Судя по всему, у него всегда был готов хороший предлог."
+                },
+                {
+                  "en": "Once, he blamed traffic; another time, a broken alarm clock.",
+                  "ru": "Однажды он винил пробки; в другой раз — сломанный будильник."
+                },
+                {
+                  "en": "This time, evidently, something had actually changed.",
+                  "ru": "На этот раз, судя по всему, что-то действительно изменилось."
+                },
+                {
+                  "en": "He arrived five minutes early, surprising everyone.",
+                  "ru": "Он пришёл на пять минут раньше, удивив всех."
+                },
+                {
+                  "en": "He should have done this years ago, his colleagues joked.",
+                  "ru": "Ему следовало сделать это ещё много лет назад, — шутили коллеги."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какую репутацию имел Сардор?",
+                "options": [
+                  "Пунктуального человека",
+                  "Человека, который всегда опаздывает",
+                  "Отличного оратора",
+                  "Строгого начальника"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что обычно делал Сардор?",
+                "options": [
+                  "Приходил рано",
+                  "Находил оправдания опозданиям",
+                  "Не приходил вообще",
+                  "Извинялся заранее"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что случилось на этот раз?",
+                "options": [
+                  "Он снова опоздал",
+                  "Он пришёл на пять минут раньше",
+                  "Его уволили",
+                  "Он не пришёл"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l20-p2",
+            "number": 207,
+            "title": "Assumptions & Appearances — Presumably, Apparently, Evidently (Part 2)",
+            "titleNative": "Предположения: presumably, apparently, evidently · Часть 2",
+            "description": "Больше практики с предположениями",
+            "topicId": "b2-l20",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Предположительно, встреча состоится в понедельник.",
+                "en": "Presumably, the meeting will take place on Monday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Судя по всему, он уже переехал в другой город.",
+                "en": "Apparently, he has already moved to another city."
+              },
+              {
+                "type": "listening",
+                "ru": "Очевидно, кто-то использовал компьютер после меня.",
+                "en": "Evidently, someone used the computer after me."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Предположительно, цены поднимутся в следующем месяце.",
+                "en": "Presumably, prices will rise next month."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Судя по всему, план изменился в последнюю минуту.",
+                "en": "Apparently, the plan changed at the last minute."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Предположительно, они уже знают новости.",
+                    "en": "Presumably, they already know the news."
+                  },
+                  {
+                    "ru": "Очевидно, кто-то забыл закрыть дверь.",
+                    "en": "Evidently, someone forgot to close the door."
+                  },
+                  {
+                    "ru": "Предположительно, встреча состоится в понедельник.",
+                    "en": "Presumably, the meeting will take place on Monday."
+                  },
+                  {
+                    "ru": "Судя по всему, он уже переехал в другой город.",
+                    "en": "Apparently, he has already moved to another city."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Очевидно, кто-то использовал компьютер после меня.",
+                "en": "Evidently, someone used the computer after me.",
+                "blankedEn": "___, someone used the computer after me.",
+                "answer": "Evidently",
+                "options": [
+                  "Evidently",
+                  "Presumably",
+                  "Hopefully",
+                  "Naturally"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l21-p1",
+            "number": 208,
+            "title": "Advanced Time Reference — By the Time, Once, No Longer (Part 1)",
+            "titleNative": "Продвинутые выражения времени · Часть 1",
+            "description": "By the time, once, no longer",
+            "topicId": "b2-l21",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "К тому времени как ты приедешь, я закончу готовить.",
+                "en": "By the time you arrive, I'll have finished cooking."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как только ужин будет готов, давай позовём остальных.",
+                "en": "Once dinner is ready, let's call the others."
+              },
+              {
+                "type": "listening",
+                "ru": "Я больше не готовлю без музыки.",
+                "en": "I no longer cook without music playing."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это объясняет отличную атмосферу здесь!",
+                "en": "That explains the great atmosphere in here!"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "К тому времени как фильм закончится, будет уже полночь.",
+                "en": "By the time the film ends, it will be midnight."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Как только вы получите подтверждение, дайте нам знать.",
+                "en": "Once you receive the confirmation, let us know."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я больше не готовлю без музыки.",
+                "en": "I no longer cook without music playing.",
+                "blankedEn": "I ___ cook without music playing.",
+                "answer": "no longer",
+                "options": [
+                  "no longer",
+                  "not longer",
+                  "no more",
+                  "anymore not"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l21-p2",
+            "number": 209,
+            "title": "Advanced Time Reference — By the Time, Once, No Longer (Part 2)",
+            "titleNative": "Продвинутые выражения времени · Часть 2",
+            "description": "Больше практики с выражениями времени",
+            "topicId": "b2-l21",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "К тому времени как мы приземлимся, будет уже темно.",
+                "en": "By the time we land, it will already be dark."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как только договор подписан, работа может начинаться.",
+                "en": "Once the contract is signed, the work can begin."
+              },
+              {
+                "type": "listening",
+                "ru": "Компания больше не работает в этом здании.",
+                "en": "The company no longer operates in this building."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "К тому времени как экзамен начнётся, ты уже всё повторишь.",
+                "en": "By the time the exam starts, you'll have reviewed everything."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я больше не боюсь публичных выступлений.",
+                "en": "I no longer feel afraid of public speaking."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "К тому времени как фильм закончится, будет уже полночь.",
+                    "en": "By the time the film ends, it will be midnight."
+                  },
+                  {
+                    "ru": "Как только вы получите подтверждение, дайте нам знать.",
+                    "en": "Once you receive the confirmation, let us know."
+                  },
+                  {
+                    "ru": "К тому времени как мы приземлимся, будет уже темно.",
+                    "en": "By the time we land, it will already be dark."
+                  },
+                  {
+                    "ru": "Как только договор подписан, работа может начинаться.",
+                    "en": "Once the contract is signed, the work can begin."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Компания больше не работает в этом здании.",
+                "en": "The company no longer operates in this building.",
+                "blankedEn": "The company no ___ operates in this building.",
+                "answer": "longer",
+                "options": [
+                  "longer",
+                  "more",
+                  "further",
+                  "later"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-14",
+            "number": 210,
+            "title": "Reduced to the Essentials",
+            "titleNative": "Сведено к самому важному",
+            "description": "Статья о журналистском стиле письма и использовании сокращённых конструкций.",
+            "readingPassage": {
+              "context": "Статья о журналистском стиле письма и использовании сокращённых конструкций.",
+              "paragraphs": [
+                {
+                  "en": "Good journalism often relies on concise, clear sentences.",
+                  "ru": "Хорошая журналистика часто опирается на краткие, ясные предложения."
+                },
+                {
+                  "en": "Writers frequently use reduced clauses to save space.",
+                  "ru": "Авторы часто используют сокращённые предложения, чтобы экономить место."
+                },
+                {
+                  "en": "For example: \"The report, published Monday, revealed new data.\"",
+                  "ru": "Например: «Отчёт, опубликованный в понедельник, раскрыл новые данные»."
+                },
+                {
+                  "en": "This is shorter than \"The report, which was published Monday.\"",
+                  "ru": "Это короче, чем «Отчёт, который был опубликован в понедельник»."
+                },
+                {
+                  "en": "The more concise the writing, the easier it is to read quickly.",
+                  "ru": "Чем лаконичнее текст, тем легче его быстро читать."
+                },
+                {
+                  "en": "Journalists also use noun phrases with multiple modifiers.",
+                  "ru": "Журналисты также используют именные группы с несколькими определениями."
+                },
+                {
+                  "en": "A phrase like \"a highly controversial new policy\" packs a lot of meaning into few words.",
+                  "ru": "Фраза вроде «крайне спорная новая политика» вмещает много смысла в несколько слов."
+                },
+                {
+                  "en": "This style has become standard across most modern news outlets.",
+                  "ru": "Этот стиль стал стандартом для большинства современных новостных изданий."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "На что опирается хорошая журналистика?",
+                "options": [
+                  "На длинные предложения",
+                  "На краткие, ясные предложения",
+                  "На сложные слова",
+                  "На много деталей"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Зачем используют сокращённые предложения?",
+                "options": [
+                  "Чтобы усложнить текст",
+                  "Чтобы экономить место",
+                  "Случайно",
+                  "Чтобы запутать читателя"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что делает лаконичный текст?",
+                "options": [
+                  "Труднее читать",
+                  "Легче читать быстро",
+                  "Никак не влияет",
+                  "Делает текст длиннее"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l22-p1",
+            "number": 211,
+            "title": "Regret About Others — He Should Have... (Part 1)",
+            "titleNative": "Сожаление о чужих поступках · Часть 1",
+            "description": "Should have / shouldn't have о других людях",
+            "topicId": "b2-l22",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ему следовало сказать нам об изменении раньше.",
+                "en": "He should have told us about the change sooner."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне кажется, ей не стоило принимать это решение одной.",
+                "en": "I think she shouldn't have made that decision alone."
+              },
+              {
+                "type": "listening",
+                "ru": "Им следовало спросить наше мнение.",
+                "en": "They should have asked for our input."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Теперь уже поздно, но мы усвоили урок.",
+                "en": "It's too late now, but we've learned a lesson."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Она не должна была так на него кричать.",
+                "en": "She shouldn't have shouted at him like that."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Они должны были предупредить нас заранее.",
+                "en": "They should have warned us in advance."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Ему следовало сказать нам об изменении раньше.",
+                "en": "He should have told us about the change sooner.",
+                "blankedEn": "He should ___ told us about the change sooner.",
+                "answer": "have",
+                "options": [
+                  "have",
+                  "had",
+                  "has",
+                  "of"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l22-p2",
+            "number": 212,
+            "title": "Regret About Others — He Should Have... (Part 2)",
+            "titleNative": "Сожаление о чужих поступках · Часть 2",
+            "description": "Больше практики с should have о других",
+            "topicId": "b2-l22",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Компании следовало отреагировать быстрее.",
+                "en": "The company should have reacted faster."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Правительству не стоило игнорировать эти предупреждения.",
+                "en": "The government shouldn't have ignored these warnings."
+              },
+              {
+                "type": "listening",
+                "ru": "Учителю следовало объяснить это более подробно.",
+                "en": "The teacher should have explained this in more detail."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Им не стоило принимать это решение без консультаций.",
+                "en": "They shouldn't have made this decision without consulting."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ей следовало проверить факты перед публикацией.",
+                "en": "She should have checked the facts before publishing."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Она не должна была так на него кричать.",
+                    "en": "She shouldn't have shouted at him like that."
+                  },
+                  {
+                    "ru": "Они должны были предупредить нас заранее.",
+                    "en": "They should have warned us in advance."
+                  },
+                  {
+                    "ru": "Компании следовало отреагировать быстрее.",
+                    "en": "The company should have reacted faster."
+                  },
+                  {
+                    "ru": "Правительству не стоило игнорировать эти предупреждения.",
+                    "en": "The government shouldn't have ignored these warnings."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Ей следовало проверить факты перед публикацией.",
+                "en": "She should have checked the facts before publishing.",
+                "blankedEn": "She should have checked the facts before ___.",
+                "answer": "publishing",
+                "options": [
+                  "publishing",
+                  "publish",
+                  "published",
+                  "publishes"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l23-p1",
+            "number": 213,
+            "title": "Noun Phrases with Multiple Modifiers (Part 1)",
+            "titleNative": "Именные группы с несколькими определениями · Часть 1",
+            "description": "Несколько прилагательных перед существительным",
+            "topicId": "b2-l23",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Расскажите об идеальном кандидате на эту роль.",
+                "en": "Tell me about the ideal candidate for this role."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Нам нужен высококвалифицированный консультант с международными клиентами.",
+                "en": "We need a highly experienced consultant with international clients."
+              },
+              {
+                "type": "listening",
+                "ru": "Требуются ли конкретные технические навыки?",
+                "en": "Any specific technical skills required?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кто-то с сильной базой в анализе данных.",
+                "en": "Someone with a strong background in data analysis."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Это был долгий, утомительный рабочий день.",
+                "en": "It was a long, exhausting workday."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она умная, творческая молодая художница.",
+                "en": "She's a smart, creative young artist."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Нам нужен высококвалифицированный консультант с международными клиентами.",
+                "en": "We need a highly experienced consultant with international clients.",
+                "blankedEn": "We need a highly experienced consultant ___ international clients.",
+                "answer": "with",
+                "options": [
+                  "with",
+                  "of",
+                  "for",
+                  "in"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l23-p2",
+            "number": 214,
+            "title": "Noun Phrases with Multiple Modifiers (Part 2)",
+            "titleNative": "Именные группы с несколькими определениями · Часть 2",
+            "description": "Больше практики со сложными именными группами",
+            "topicId": "b2-l23",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Это была небольшая, но очень прибыльная компания.",
+                "en": "It was a small but highly profitable company."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы наняли молодого, амбициозного дизайнера с отличным портфолио.",
+                "en": "We hired a young, ambitious designer with an excellent portfolio."
+              },
+              {
+                "type": "listening",
+                "ru": "Он опытный преподаватель с большим количеством публикаций.",
+                "en": "He's an experienced teacher with a large number of publications."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "У нас есть надёжный, доступный по цене поставщик.",
+                "en": "We have a reliable, affordable supplier."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это красивое старое здание в центре города.",
+                "en": "It's a beautiful old building in the city center."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Это был долгий, утомительный рабочий день.",
+                    "en": "It was a long, exhausting workday."
+                  },
+                  {
+                    "ru": "Она умная, творческая молодая художница.",
+                    "en": "She's a smart, creative young artist."
+                  },
+                  {
+                    "ru": "Это была небольшая, но очень прибыльная компания.",
+                    "en": "It was a small but highly profitable company."
+                  },
+                  {
+                    "ru": "Мы наняли молодого, амбициозного дизайнера с отличным портфолио.",
+                    "en": "We hired a young, ambitious designer with an excellent portfolio."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это красивое старое здание в центре города.",
+                "en": "It's a beautiful old building in the city center.",
+                "blankedEn": "It's a beautiful ___ building in the city center.",
+                "answer": "old",
+                "options": [
+                  "old",
+                  "olds",
+                  "older",
+                  "oldest"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-15",
+            "number": 215,
+            "title": "A Decision Best Left Unmade",
+            "titleNative": "Решение, которое лучше было не принимать",
+            "description": "История о поспешном деловом решении и его последствиях.",
+            "readingPassage": {
+              "context": "История о поспешном деловом решении и его последствиях.",
+              "paragraphs": [
+                {
+                  "en": "The company decided to launch the product without enough testing.",
+                  "ru": "Компания решила запустить продукт без достаточного тестирования."
+                },
+                {
+                  "en": "Even if the timeline was tight, this was a risky choice.",
+                  "ru": "Даже если сроки были сжатыми, это был рискованный выбор."
+                },
+                {
+                  "en": "They should have waited another month, some employees felt.",
+                  "ru": "Некоторые сотрудники считали, что им следовало подождать ещё месяц."
+                },
+                {
+                  "en": "Apparently, customer complaints started arriving within days.",
+                  "ru": "Судя по всему, жалобы клиентов начали поступать уже через несколько дней."
+                },
+                {
+                  "en": "This must be related to the rushed release, the team concluded.",
+                  "ru": "Это, должно быть, связано с поспешным выпуском, — заключила команда."
+                },
+                {
+                  "en": "As long as they fixed the issues quickly, the damage could be limited.",
+                  "ru": "Пока они быстро устраняли проблемы, ущерб можно было ограничить."
+                },
+                {
+                  "en": "The more they investigated, the clearer the mistake became.",
+                  "ru": "Чем больше они расследовали, тем яснее становилась ошибка."
+                },
+                {
+                  "en": "They learned a valuable lesson about the cost of rushing decisions.",
+                  "ru": "Они усвоили ценный урок о цене поспешных решений."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что решила сделать компания?",
+                "options": [
+                  "Отложить запуск",
+                  "Запустить продукт без достаточного тестирования",
+                  "Отменить продукт",
+                  "Продать компанию"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что начало происходить через несколько дней?",
+                "options": [
+                  "Продажи выросли",
+                  "Начали поступать жалобы клиентов",
+                  "Ничего не изменилось",
+                  "Продукт стал популярным"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какой урок усвоила команда?",
+                "options": [
+                  "Что нужно спешить всегда",
+                  "О цене поспешных решений",
+                  "Что тестирование не важно",
+                  "Ничего не усвоили"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-16",
+            "number": 216,
+            "title": "An Ideal Candidate",
+            "titleNative": "Идеальный кандидат",
+            "description": "История о поиске подходящего кандидата на важную должность.",
+            "readingPassage": {
+              "context": "История о поиске подходящего кандидата на важную должность.",
+              "paragraphs": [
+                {
+                  "en": "The company was looking for a highly skilled financial analyst.",
+                  "ru": "Компания искала высококвалифицированного финансового аналитика."
+                },
+                {
+                  "en": "They wanted someone with strong analytical thinking and clear communication.",
+                  "ru": "Им нужен был человек с сильным аналитическим мышлением и ясной коммуникацией."
+                },
+                {
+                  "en": "Dozens of candidates applied for the demanding position.",
+                  "ru": "На эту требовательную позицию подали заявки десятки кандидатов."
+                },
+                {
+                  "en": "The more interviews the panel conducted, the clearer their preferences became.",
+                  "ru": "Чем больше собеседований проводила комиссия, тем яснее становились их предпочтения."
+                },
+                {
+                  "en": "One candidate, presumably nervous, gave somewhat vague answers.",
+                  "ru": "Один кандидат, предположительно нервничавший, давал несколько расплывчатые ответы."
+                },
+                {
+                  "en": "Another, evidently well prepared, impressed everyone in the room.",
+                  "ru": "Другой, очевидно хорошо подготовленный, впечатлил всех присутствующих."
+                },
+                {
+                  "en": "By the time the process ended, the choice was obvious.",
+                  "ru": "К тому времени, как процесс завершился, выбор был очевиден."
+                },
+                {
+                  "en": "They hired the candidate who had shown both skill and confidence.",
+                  "ru": "Они наняли кандидата, который показал и мастерство, и уверенность."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Кого искала компания?",
+                "options": [
+                  "Маркетолога",
+                  "Финансового аналитика",
+                  "Юриста",
+                  "Инженера"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как вёл себя один из кандидатов?",
+                "options": [
+                  "Уверенно",
+                  "Нервничал, давал расплывчатые ответы",
+                  "Опоздал",
+                  "Не пришёл"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Кого наняли в итоге?",
+                "options": [
+                  "Того, кто нервничал",
+                  "Того, кто показал мастерство и уверенность",
+                  "Никого не наняли",
+                  "Двух кандидатов сразу"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l24-p1",
+            "number": 217,
+            "title": "Linking — Whereas, Whilst, Given That (Part 1)",
+            "titleNative": "Связки: whereas, whilst, given that · Часть 1",
+            "description": "Формальные связки контраста и причины",
+            "topicId": "b2-l24",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Она предпочитает утро, тогда как он — вечер.",
+                "en": "She prefers mornings, whereas he prefers evenings."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотя это правда, они всё же хорошо работают вместе.",
+                "en": "Whilst that's true, they still work well together."
+              },
+              {
+                "type": "listening",
+                "ru": "Учитывая, что срок близок, давайте завершим план.",
+                "en": "Given that the deadline is close, let's finalize the plan."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Нам не стоит терять больше времени.",
+                "en": "We shouldn't waste any more time."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Продажи выросли, тогда как расходы остались прежними.",
+                "en": "Sales increased, whereas costs stayed the same."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Учитывая обстоятельства, решение было разумным.",
+                "en": "Given the circumstances, the decision was reasonable."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Она предпочитает утро, тогда как он — вечер.",
+                "en": "She prefers mornings, whereas he prefers evenings.",
+                "blankedEn": "She prefers mornings, ___ he prefers evenings.",
+                "answer": "whereas",
+                "options": [
+                  "whereas",
+                  "because",
+                  "since",
+                  "although"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l24-p2",
+            "number": 218,
+            "title": "Linking — Whereas, Whilst, Given That (Part 2)",
+            "titleNative": "Связки: whereas, whilst, given that · Часть 2",
+            "description": "Больше практики с формальными связками",
+            "topicId": "b2-l24",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Восточная часть города современная, тогда как западная — историческая.",
+                "en": "The east side of the city is modern, whereas the west is historic."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Хотя цены выросли, спрос остаётся высоким.",
+                "en": "Whilst prices have risen, demand remains high."
+              },
+              {
+                "type": "listening",
+                "ru": "Учитывая рост населения, нужны новые школы.",
+                "en": "Given that the population is growing, new schools are needed."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он оптимист, тогда как она более осторожна.",
+                "en": "He's an optimist, whereas she's more cautious."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Учитывая имеющиеся данные, вывод кажется верным.",
+                "en": "Given the available data, the conclusion seems correct."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Продажи выросли, тогда как расходы остались прежними.",
+                    "en": "Sales increased, whereas costs stayed the same."
+                  },
+                  {
+                    "ru": "Учитывая обстоятельства, решение было разумным.",
+                    "en": "Given the circumstances, the decision was reasonable."
+                  },
+                  {
+                    "ru": "Восточная часть города современная, тогда как западная — историческая.",
+                    "en": "The east side of the city is modern, whereas the west is historic."
+                  },
+                  {
+                    "ru": "Хотя цены выросли, спрос остаётся высоким.",
+                    "en": "Whilst prices have risen, demand remains high."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Учитывая рост населения, нужны новые школы.",
+                "en": "Given that the population is growing, new schools are needed.",
+                "blankedEn": "___ that the population is growing, new schools are needed.",
+                "answer": "Given",
+                "options": [
+                  "Given",
+                  "Whereas",
+                  "Whilst",
+                  "Despite"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l25-p1",
+            "number": 219,
+            "title": "Speculation & Probability (Part 1)",
+            "titleNative": "Формальное предположение и вероятность · Часть 1",
+            "description": "It's conceivable that / there's a chance that",
+            "topicId": "b2-l25",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Можно предположить, что рынок восстановится к весне.",
+                "en": "It's conceivable that the market will recover by spring."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Есть вероятность, что это произойдёт раньше.",
+                "en": "There's a chance that could happen sooner."
+              },
+              {
+                "type": "listening",
+                "ru": "Учитывая тенденции, это крайне маловероятно.",
+                "en": "It's highly unlikely, given the current trends."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давайте будем осторожны в любом случае.",
+                "en": "Let's stay cautious either way."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Можно предположить, что цены снова вырастут.",
+                "en": "It's conceivable that prices will rise again."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Есть небольшая вероятность, что план изменится.",
+                "en": "There's a small chance that the plan will change."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Можно предположить, что рынок восстановится к весне.",
+                "en": "It's conceivable that the market will recover by spring.",
+                "blankedEn": "It's ___ that the market will recover by spring.",
+                "answer": "conceivable",
+                "options": [
+                  "conceivable",
+                  "conceive",
+                  "conceiving",
+                  "concept"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-17",
+            "number": 220,
+            "title": "Two Approaches to Leadership",
+            "titleNative": "Два подхода к руководству",
+            "description": "Статья, сравнивающая два разных стиля управления.",
+            "readingPassage": {
+              "context": "Статья, сравнивающая два разных стиля управления.",
+              "paragraphs": [
+                {
+                  "en": "Leadership styles vary greatly across organizations.",
+                  "ru": "Стили руководства сильно различаются в разных организациях."
+                },
+                {
+                  "en": "One manager prefers strict control, whereas another favors flexibility.",
+                  "ru": "Один менеджер предпочитает строгий контроль, тогда как другой отдаёт предпочтение гибкости."
+                },
+                {
+                  "en": "Given that employees value autonomy, the flexible approach often works better.",
+                  "ru": "Учитывая, что сотрудники ценят самостоятельность, гибкий подход часто работает лучше."
+                },
+                {
+                  "en": "Whilst strict control can produce quick results, it may reduce creativity.",
+                  "ru": "Хотя строгий контроль может давать быстрые результаты, он может снижать креативность."
+                },
+                {
+                  "en": "What matters most, researchers suggest, is trust between leaders and teams.",
+                  "ru": "Исследователи предполагают, что важнее всего — это доверие между руководителями и командами."
+                },
+                {
+                  "en": "It is clear that no single style works for every situation.",
+                  "ru": "Очевидно, что ни один стиль не подходит для всех ситуаций."
+                },
+                {
+                  "en": "The best leaders adapt owing to the needs of their team.",
+                  "ru": "Лучшие руководители адаптируются в зависимости от потребностей своей команды."
+                },
+                {
+                  "en": "Undoubtedly, self-awareness is a key leadership quality.",
+                  "ru": "Несомненно, самоосознанность — ключевое качество лидера."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что предпочитает первый менеджер?",
+                "options": [
+                  "Гибкость",
+                  "Строгий контроль",
+                  "Ничего конкретного",
+                  "Отсутствие правил"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению исследователей, важнее всего?",
+                "options": [
+                  "Скорость",
+                  "Доверие между руководителями и командами",
+                  "Деньги",
+                  "Опыт"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какая ключевая черта лидерства упомянута в конце?",
+                "options": [
+                  "Строгость",
+                  "Самоосознанность",
+                  "Богатство",
+                  "Молчаливость"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l25-p2",
+            "number": 221,
+            "title": "Speculation & Probability (Part 2)",
+            "titleNative": "Формальное предположение и вероятность · Часть 2",
+            "description": "Больше практики с формальной вероятностью",
+            "topicId": "b2-l25",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Есть вероятность, что переговоры провалятся.",
+                "en": "There's a chance that the negotiations will fail."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно предположить, что спрос вырастет летом.",
+                "en": "It's conceivable that demand will rise in summer."
+              },
+              {
+                "type": "listening",
+                "ru": "Крайне маловероятно, что закон изменится в этом году.",
+                "en": "It's highly unlikely that the law will change this year."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Есть небольшая вероятность успеха.",
+                "en": "There's a slight chance of success."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можно предположить, что технология изменит эту отрасль.",
+                "en": "It's conceivable that the technology will transform this industry."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Можно предположить, что цены снова вырастут.",
+                    "en": "It's conceivable that prices will rise again."
+                  },
+                  {
+                    "ru": "Есть небольшая вероятность, что план изменится.",
+                    "en": "There's a small chance that the plan will change."
+                  },
+                  {
+                    "ru": "Есть вероятность, что переговоры провалятся.",
+                    "en": "There's a chance that the negotiations will fail."
+                  },
+                  {
+                    "ru": "Можно предположить, что спрос вырастет летом.",
+                    "en": "It's conceivable that demand will rise in summer."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Есть небольшая вероятность успеха.",
+                "en": "There's a slight chance of success.",
+                "blankedEn": "There's a slight ___ of success.",
+                "answer": "chance",
+                "options": [
+                  "chance",
+                  "possibility of",
+                  "probable",
+                  "likely"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l26-p1",
+            "number": 222,
+            "title": "Understatement — Not Bad, Not Exactly, Rather (Part 1)",
+            "titleNative": "Преуменьшение: not bad, not exactly, rather · Часть 1",
+            "description": "Британский стиль преуменьшения",
+            "topicId": "b2-l26",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как прошёл концерт?",
+                "en": "How was the concert?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "На самом деле совсем неплохо — это было потрясающе!",
+                "en": "Not bad at all, actually — it was incredible!"
+              },
+              {
+                "type": "listening",
+                "ru": "Билеты были отнюдь не дешёвыми.",
+                "en": "The tickets weren't exactly cheap."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Оно того стоило.",
+                "en": "It was rather worth it."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Погода сегодня довольно неприятная.",
+                "en": "The weather is rather unpleasant today."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это было отнюдь не просто.",
+                "en": "It wasn't exactly easy."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Оно того стоило.",
+                "en": "It was rather worth it.",
+                "blankedEn": "It was ___ worth it.",
+                "answer": "rather",
+                "options": [
+                  "rather",
+                  "very much",
+                  "quite so",
+                  "so much"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l26-p2",
+            "number": 223,
+            "title": "Understatement — Not Bad, Not Exactly, Rather (Part 2)",
+            "titleNative": "Преуменьшение: not bad, not exactly, rather · Часть 2",
+            "description": "Больше практики с преуменьшением",
+            "topicId": "b2-l26",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Результаты неплохие для первой попытки.",
+                "en": "The results aren't bad for a first attempt."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это отнюдь не идеальное решение.",
+                "en": "This isn't exactly a perfect solution."
+              },
+              {
+                "type": "listening",
+                "ru": "Проект оказался довольно сложным.",
+                "en": "The project turned out to be rather complicated."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он был довольно впечатлён презентацией.",
+                "en": "He was rather impressed by the presentation."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это, конечно, не было лёгкой задачей.",
+                "en": "It certainly wasn't exactly an easy task."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Погода сегодня довольно неприятная.",
+                    "en": "The weather is rather unpleasant today."
+                  },
+                  {
+                    "ru": "Это было отнюдь не просто.",
+                    "en": "It wasn't exactly easy."
+                  },
+                  {
+                    "ru": "Результаты неплохие для первой попытки.",
+                    "en": "The results aren't bad for a first attempt."
+                  },
+                  {
+                    "ru": "Это отнюдь не идеальное решение.",
+                    "en": "This isn't exactly a perfect solution."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он был довольно впечатлён презентацией.",
+                "en": "He was rather impressed by the presentation.",
+                "blankedEn": "He was ___ impressed by the presentation.",
+                "answer": "rather",
+                "options": [
+                  "rather",
+                  "not bad",
+                  "exactly",
+                  "quite so"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-18",
+            "number": 224,
+            "title": "The Chance of Rain",
+            "titleNative": "Вероятность дождя",
+            "description": "История о том, как неопределённый прогноз погоды повлиял на планы мероприятия.",
+            "readingPassage": {
+              "context": "История о том, как неопределённый прогноз погоды повлиял на планы мероприятия.",
+              "paragraphs": [
+                {
+                  "en": "The outdoor festival was planned for Saturday.",
+                  "ru": "Уличный фестиваль был запланирован на субботу."
+                },
+                {
+                  "en": "There's a chance that it might rain, the forecast said.",
+                  "ru": "Согласно прогнозу, есть вероятность, что пойдёт дождь."
+                },
+                {
+                  "en": "It's conceivable that the event would need to move indoors.",
+                  "ru": "Можно предположить, что мероприятие придётся перенести в помещение."
+                },
+                {
+                  "en": "Organizers should have prepared a backup plan earlier.",
+                  "ru": "Организаторам следовало подготовить запасной план раньше."
+                },
+                {
+                  "en": "Apart from the weather concern, everything else was ready.",
+                  "ru": "Помимо беспокойства о погоде, всё остальное было готово."
+                },
+                {
+                  "en": "By Friday evening, it was highly unlikely that rain would come.",
+                  "ru": "К вечеру пятницы стало крайне маловероятно, что пойдёт дождь."
+                },
+                {
+                  "en": "Owing to the clear skies, the festival proceeded outdoors as planned.",
+                  "ru": "Из-за ясного неба фестиваль прошёл на улице, как и планировалось."
+                },
+                {
+                  "en": "Everyone was rather relieved that the weather cooperated.",
+                  "ru": "Все были довольно рады, что погода не подвела."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что говорил прогноз погоды?",
+                "options": [
+                  "Что будет солнечно",
+                  "Что есть вероятность дождя",
+                  "Что будет снег",
+                  "Ничего не говорил"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что должны были сделать организаторы раньше?",
+                "options": [
+                  "Отменить фестиваль",
+                  "Подготовить запасной план",
+                  "Купить зонты",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как прошёл фестиваль в итоге?",
+                "options": [
+                  "Был отменён",
+                  "Прошёл на улице, как и планировалось",
+                  "Перенесли в помещение",
+                  "Прошёл под дождём"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l27-p1",
+            "number": 225,
+            "title": "Choosing Words by Formality (Part 1)",
+            "titleNative": "Выбор слов по формальности · Часть 1",
+            "description": "Обычная и формальная лексика",
+            "topicId": "b2-l27",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "В этом отчёте используйте «obtain» вместо «get».",
+                "en": "In this report, use \"obtain\" instead of \"get.\""
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мне также заменить «buy» на «purchase»?",
+                "en": "Should I also change \"buy\" to \"purchase\"?"
+              },
+              {
+                "type": "listening",
+                "ru": "«Start» должно стать «commence».",
+                "en": "\"Start\" should become \"commence.\""
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я пересмотрю весь документ.",
+                "en": "I'll revise the whole document."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мы получили результаты вчера.",
+                "en": "We obtained the results yesterday."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Конференция начнётся в девять утра.",
+                "en": "The conference will commence at nine a.m."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы получили результаты вчера.",
+                "en": "We obtained the results yesterday.",
+                "blankedEn": "We ___ the results yesterday.",
+                "answer": "obtained",
+                "options": [
+                  "obtained",
+                  "got",
+                  "found",
+                  "took"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l27-p2",
+            "number": 226,
+            "title": "Choosing Words by Formality (Part 2)",
+            "titleNative": "Выбор слов по формальности · Часть 2",
+            "description": "Больше практики с выбором лексики",
+            "topicId": "b2-l27",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Компания приобрела нового поставщика.",
+                "en": "The company purchased a new supplier."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы обнаружили ошибку в отчёте.",
+                "en": "We discovered an error in the report."
+              },
+              {
+                "type": "listening",
+                "ru": "Комитет рассмотрит заявку в следующем месяце.",
+                "en": "The committee will consider the application next month."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Проект завершится к концу года.",
+                "en": "The project will conclude by the end of the year."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы приобрели новое оборудование.",
+                "en": "We acquired new equipment."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Мы получили результаты вчера.",
+                    "en": "We obtained the results yesterday."
+                  },
+                  {
+                    "ru": "Конференция начнётся в девять утра.",
+                    "en": "The conference will commence at nine a.m."
+                  },
+                  {
+                    "ru": "Компания приобрела нового поставщика.",
+                    "en": "The company purchased a new supplier."
+                  },
+                  {
+                    "ru": "Мы обнаружили ошибку в отчёте.",
+                    "en": "We discovered an error in the report."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Проект завершится к концу года.",
+                "en": "The project will conclude by the end of the year.",
+                "blankedEn": "The project will ___ by the end of the year.",
+                "answer": "conclude",
+                "options": [
+                  "conclude",
+                  "finish",
+                  "end up",
+                  "stop"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l28-p1",
+            "number": 227,
+            "title": "Passive Reporting Structures — It Is Said / It Is Believed (Part 1)",
+            "titleNative": "Пассивные конструкции сообщения · Часть 1",
+            "description": "It is said that... / subject + is said to...",
+            "topicId": "b2-l28",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Говорят, что замок населён призраками.",
+                "en": "It is said that the castle is haunted."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Считается, что зданию 500 лет.",
+                "en": "The building is believed to be 500 years old."
+              },
+              {
+                "type": "listening",
+                "ru": "Сообщается, что здесь когда-то жил король.",
+                "en": "It is reported that a king once lived here."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Какая увлекательная история!",
+                "en": "That's fascinating history!"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Считается, что этот художник был гением.",
+                "en": "The artist is believed to have been a genius."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Говорят, что компания скоро расширится.",
+                "en": "It is said that the company will expand soon."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Считается, что зданию 500 лет.",
+                "en": "The building is believed to be 500 years old.",
+                "blankedEn": "The building is believed ___ be 500 years old.",
+                "answer": "to",
+                "options": [
+                  "to",
+                  "that",
+                  "for",
+                  "of"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-19",
+            "number": 228,
+            "title": "An Understated Achievement",
+            "titleNative": "Скромно преуменьшённое достижение",
+            "description": "История о скромном человеке, чьи достижения были куда значительнее, чем он показывал.",
+            "readingPassage": {
+              "context": "История о скромном человеке, чьи достижения были куда значительнее, чем он показывал.",
+              "paragraphs": [
+                {
+                  "en": "When asked about his research, Professor Aliyev was always modest.",
+                  "ru": "Когда его спрашивали об исследованиях, профессор Алиев всегда был скромен."
+                },
+                {
+                  "en": "\"It's not bad,\" he would say about breakthroughs that amazed his colleagues.",
+                  "ru": "«Неплохо», — говорил он о прорывах, которые поражали его коллег."
+                },
+                {
+                  "en": "His work wasn't exactly small in scope; it changed the entire field.",
+                  "ru": "Его работа была отнюдь не мелкой по масштабу — она изменила всю область."
+                },
+                {
+                  "en": "It is believed to be one of the most important studies of the decade.",
+                  "ru": "Считается, что это одно из важнейших исследований десятилетия."
+                },
+                {
+                  "en": "The more people learned about it, the more impressed they became.",
+                  "ru": "Чем больше люди узнавали о нём, тем сильнее впечатлялись."
+                },
+                {
+                  "en": "What impressed them most was his rather quiet confidence.",
+                  "ru": "Что впечатляло их больше всего — это его довольно тихая уверенность."
+                },
+                {
+                  "en": "There is no doubt that he deserved more recognition than he sought.",
+                  "ru": "Нет сомнений, что он заслуживал больше признания, чем искал."
+                },
+                {
+                  "en": "His humility only made his achievements more remarkable.",
+                  "ru": "Его скромность лишь делала его достижения ещё более выдающимися."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Каким был профессор Алиев?",
+                "options": [
+                  "Хвастливым",
+                  "Скромным",
+                  "Ленивым",
+                  "Грубым"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как он описывал свои прорывы?",
+                "options": [
+                  "\"Это лучшее в мире\"",
+                  "\"Неплохо\"",
+                  "Никак не описывал",
+                  "\"Обычное дело\""
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что впечатляло людей больше всего?",
+                "options": [
+                  "Его богатство",
+                  "Его тихая уверенность",
+                  "Его известность",
+                  "Его возраст"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l28-p2",
+            "number": 229,
+            "title": "Passive Reporting Structures — It Is Said / It Is Believed (Part 2)",
+            "titleNative": "Пассивные конструкции сообщения · Часть 2",
+            "description": "Больше практики с пассивными конструкциями сообщения",
+            "topicId": "b2-l28",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Считается, что эта традиция очень старая.",
+                "en": "This tradition is believed to be very old."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сообщается, что продажи выросли в этом квартале.",
+                "en": "It is reported that sales rose this quarter."
+              },
+              {
+                "type": "listening",
+                "ru": "Полагают, что решение будет принято скоро.",
+                "en": "It is thought that a decision will be made soon."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Считается, что он один из лучших врачей в стране.",
+                "en": "He is considered to be one of the best doctors in the country."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Говорят, что новая система эффективнее старой.",
+                "en": "It is said that the new system is more efficient than the old one."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Считается, что этот художник был гением.",
+                    "en": "The artist is believed to have been a genius."
+                  },
+                  {
+                    "ru": "Говорят, что компания скоро расширится.",
+                    "en": "It is said that the company will expand soon."
+                  },
+                  {
+                    "ru": "Считается, что эта традиция очень старая.",
+                    "en": "This tradition is believed to be very old."
+                  },
+                  {
+                    "ru": "Сообщается, что продажи выросли в этом квартале.",
+                    "en": "It is reported that sales rose this quarter."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Полагают, что решение будет принято скоро.",
+                "en": "It is thought that a decision will be made soon.",
+                "blankedEn": "It is thought that a decision will be ___ soon.",
+                "answer": "made",
+                "options": [
+                  "made",
+                  "make",
+                  "making",
+                  "makes"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l29-p1",
+            "number": 230,
+            "title": "Emphasis Through Word Order (Part 1)",
+            "titleNative": "Эмфаза через порядок слов · Часть 1",
+            "description": "What + clause + is для акцента",
+            "topicId": "b2-l29",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Что важнее всего — это честность в руководстве.",
+                "en": "What matters most is honesty in leadership."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что меня удивило — это то, как быстро всё изменилось.",
+                "en": "What surprised me was how quickly things changed."
+              },
+              {
+                "type": "listening",
+                "ru": "Что нам нужно сейчас — это чёткая стратегия.",
+                "en": "What we need now is a clear strategy."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Полностью согласен.",
+                "en": "I couldn't agree more."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Что я действительно ценю — это твоя честность.",
+                "en": "What I really appreciate is your honesty."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Что нас беспокоит больше всего — это безопасность.",
+                "en": "What concerns us most is safety."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Что важнее всего — это честность в руководстве.",
+                "en": "What matters most is honesty in leadership.",
+                "blankedEn": "What matters most ___ honesty in leadership.",
+                "answer": "is",
+                "options": [
+                  "is",
+                  "was",
+                  "are",
+                  "be"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l29-p2",
+            "number": 231,
+            "title": "Emphasis Through Word Order (Part 2)",
+            "titleNative": "Эмфаза через порядок слов · Часть 2",
+            "description": "Больше практики с эмфазой через порядок слов",
+            "topicId": "b2-l29",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Что впечатлило комитет — это её опыт.",
+                "en": "What impressed the committee was her experience."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что нам действительно нужно — это больше времени.",
+                "en": "What we really need is more time."
+              },
+              {
+                "type": "listening",
+                "ru": "Что беспокоит меня больше всего — это неопределённость.",
+                "en": "What worries me most is the uncertainty."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Что произошло дальше, было совершенно неожиданным.",
+                "en": "What happened next was completely unexpected."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Что удивило учёных — это скорость изменений.",
+                "en": "What surprised the scientists was the speed of the changes."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Что я действительно ценю — это твоя честность.",
+                    "en": "What I really appreciate is your honesty."
+                  },
+                  {
+                    "ru": "Что нас беспокоит больше всего — это безопасность.",
+                    "en": "What concerns us most is safety."
+                  },
+                  {
+                    "ru": "Что впечатлило комитет — это её опыт.",
+                    "en": "What impressed the committee was her experience."
+                  },
+                  {
+                    "ru": "Что нам действительно нужно — это больше времени.",
+                    "en": "What we really need is more time."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Что произошло дальше, было совершенно неожиданным.",
+                "en": "What happened next was completely unexpected.",
+                "blankedEn": "What happened next ___ completely unexpected.",
+                "answer": "was",
+                "options": [
+                  "was",
+                  "is",
+                  "were",
+                  "be"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-20",
+            "number": 232,
+            "title": "Formal Words for a Formal Report",
+            "titleNative": "Формальные слова для формального отчёта",
+            "description": "История о начинающем сотруднике, учившемся писать в деловом стиле.",
+            "readingPassage": {
+              "context": "История о начинающем сотруднике, учившемся писать в деловом стиле.",
+              "paragraphs": [
+                {
+                  "en": "Nargiza's first report at the new job was returned with comments.",
+                  "ru": "Первый отчёт Наргизы на новой работе вернули с комментариями."
+                },
+                {
+                  "en": "Her manager suggested using more formal vocabulary.",
+                  "ru": "Её менеджер предложил использовать более формальную лексику."
+                },
+                {
+                  "en": "Instead of \"get,\" he recommended \"obtain\" or \"acquire.\"",
+                  "ru": "Вместо «get» он рекомендовал «obtain» или «acquire»."
+                },
+                {
+                  "en": "Instead of \"start,\" he suggested \"commence.\"",
+                  "ru": "Вместо «start» он предложил «commence»."
+                },
+                {
+                  "en": "At first, this felt unnatural to Nargiza.",
+                  "ru": "Сначала это казалось Наргизе неестественным."
+                },
+                {
+                  "en": "The more she practiced, the more comfortable it became.",
+                  "ru": "Чем больше она практиковалась, тем комфортнее это становилось."
+                },
+                {
+                  "en": "Given time, formal writing became second nature to her.",
+                  "ru": "Со временем формальное письмо стало для неё второй натурой."
+                },
+                {
+                  "en": "Her next report was praised for its professional tone.",
+                  "ru": "Её следующий отчёт похвалили за профессиональный тон."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что предложил менеджер Наргизе?",
+                "options": [
+                  "Писать короче",
+                  "Использовать более формальную лексику",
+                  "Использовать больше картинок",
+                  "Ничего не менять"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как Наргиза чувствовала себя сначала?",
+                "options": [
+                  "Уверенно",
+                  "Неестественно",
+                  "Ей было всё равно",
+                  "Она гордилась собой"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как оценили её следующий отчёт?",
+                "options": [
+                  "Плохо",
+                  "Похвалили за профессиональный тон",
+                  "Никак не оценили",
+                  "Вернули снова"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l30-p1",
+            "number": 233,
+            "title": "Expressing Certainty in Formal Writing (Part 1)",
+            "titleNative": "Выражение уверенности в формальном письме · Часть 1",
+            "description": "It is clear that / there is no doubt that",
+            "topicId": "b2-l30",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Очевидно, что результаты подтверждают нашу теорию.",
+                "en": "It is clear that the results support our theory."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Нет сомнений, что дополнительные исследования были бы полезны.",
+                "en": "There is no doubt that more research would help."
+              },
+              {
+                "type": "listening",
+                "ru": "Несомненно, это открывает новые вопросы.",
+                "en": "Undoubtedly, this opens up new questions."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я начну работать над следующим этапом.",
+                "en": "I'll start working on the next phase."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Очевидно, что необходимы перемены.",
+                "en": "It is clear that changes are necessary."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Нет сомнений, что этот подход эффективен.",
+                "en": "There is no doubt that this approach is effective."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Очевидно, что результаты подтверждают нашу теорию.",
+                "en": "It is clear that the results support our theory.",
+                "blankedEn": "It is clear ___ the results support our theory.",
+                "answer": "that",
+                "options": [
+                  "that",
+                  "how",
+                  "if",
+                  "what"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l30-p2",
+            "number": 234,
+            "title": "Expressing Certainty in Formal Writing (Part 2)",
+            "titleNative": "Выражение уверенности в формальном письме · Часть 2",
+            "description": "Больше практики с уверенностью в письме",
+            "topicId": "b2-l30",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Несомненно, эта политика повлияет на всех.",
+                "en": "Undoubtedly, this policy will affect everyone."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Очевидно, что рынок меняется быстро.",
+                "en": "It is clear that the market is changing quickly."
+              },
+              {
+                "type": "listening",
+                "ru": "Нет сомнений, что решение было правильным.",
+                "en": "There is no doubt that the decision was correct."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Несомненно, это самое важное открытие этого года.",
+                "en": "Undoubtedly, this is the most important discovery of the year."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Очевидно, что необходим новый подход.",
+                "en": "It is clear that a new approach is needed."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Очевидно, что необходимы перемены.",
+                    "en": "It is clear that changes are necessary."
+                  },
+                  {
+                    "ru": "Нет сомнений, что этот подход эффективен.",
+                    "en": "There is no doubt that this approach is effective."
+                  },
+                  {
+                    "ru": "Несомненно, эта политика повлияет на всех.",
+                    "en": "Undoubtedly, this policy will affect everyone."
+                  },
+                  {
+                    "ru": "Очевидно, что рынок меняется быстро.",
+                    "en": "It is clear that the market is changing quickly."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Нет сомнений, что решение было правильным.",
+                "en": "There is no doubt that the decision was correct.",
+                "blankedEn": "There is no ___ that the decision was correct.",
+                "answer": "doubt",
+                "options": [
+                  "doubt",
+                  "doubting",
+                  "doubtful",
+                  "doubts"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l31-p1",
+            "number": 235,
+            "title": "Talking About Exceptions (Part 1)",
+            "titleNative": "Разговор об исключениях · Часть 1",
+            "description": "Except for, apart from, other than",
+            "topicId": "b2-l31",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "На встречу пришли все, кроме Карима.",
+                "en": "Everyone came to the meeting except for Karim."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Помимо небольшого опоздания, встреча прошла хорошо.",
+                "en": "Apart from being a bit late, the meeting went well."
+              },
+              {
+                "type": "listening",
+                "ru": "У меня нет других планов, кроме как закончить отчёт.",
+                "en": "I have no plans other than finishing this report."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дай знать, если понадобится помощь.",
+                "en": "Let me know if you need any help."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Все выглядели уставшими, кроме неё.",
+                "en": "Everyone looked tired except for her."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Помимо цены, продукт мне понравился.",
+                "en": "Apart from the price, I liked the product."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "На встречу пришли все, кроме Карима.",
+                "en": "Everyone came to the meeting except for Karim.",
+                "blankedEn": "Everyone came to the meeting except ___ Karim.",
+                "answer": "for",
+                "options": [
+                  "for",
+                  "of",
+                  "with",
+                  "from"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-21",
+            "number": 236,
+            "title": "It Is Said to Be True",
+            "titleNative": "Говорят, что это правда",
+            "description": "История о городской легенде и попытках разобраться в её происхождении.",
+            "readingPassage": {
+              "context": "История о городской легенде и попытках разобраться в её происхождении.",
+              "paragraphs": [
+                {
+                  "en": "In the old town, there is a legend about a hidden treasure.",
+                  "ru": "В старом городе есть легенда о спрятанном сокровище."
+                },
+                {
+                  "en": "It is said that a wealthy merchant buried gold centuries ago.",
+                  "ru": "Говорят, что богатый купец закопал золото несколько веков назад."
+                },
+                {
+                  "en": "The story is believed to have started in the seventeenth century.",
+                  "ru": "Считается, что эта история началась в семнадцатом веке."
+                },
+                {
+                  "en": "Many treasure hunters are reported to have searched the area.",
+                  "ru": "Сообщается, что многие искатели сокровищ обыскивали эту местность."
+                },
+                {
+                  "en": "Apparently, no one has ever found anything of value.",
+                  "ru": "Судя по всему, никто никогда не нашёл ничего ценного."
+                },
+                {
+                  "en": "It's conceivable that the legend was invented to attract tourists.",
+                  "ru": "Можно предположить, что легенда была придумана, чтобы привлечь туристов."
+                },
+                {
+                  "en": "Whatever the truth, the story remains a beloved local tradition.",
+                  "ru": "Какой бы ни была правда, эта история остаётся любимой местной традицией."
+                },
+                {
+                  "en": "Owing to its popularity, the town now hosts an annual treasure festival.",
+                  "ru": "Благодаря её популярности город теперь проводит ежегодный фестиваль сокровищ."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём легенда старого города?",
+                "options": [
+                  "О привидении",
+                  "О спрятанном сокровище",
+                  "О короле",
+                  "О войне"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорится об искателях сокровищ?",
+                "options": [
+                  "Все нашли золото",
+                  "Многие искали, но ничего не нашли",
+                  "Никто не искал",
+                  "Их арестовали"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что теперь проводит город?",
+                "options": [
+                  "Ничего",
+                  "Ежегодный фестиваль сокровищ",
+                  "Судебный процесс",
+                  "Раскопки"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l31-p2",
+            "number": 237,
+            "title": "Talking About Exceptions (Part 2)",
+            "titleNative": "Разговор об исключениях · Часть 2",
+            "description": "Больше практики с исключениями",
+            "topicId": "b2-l31",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Все согласились, кроме двух членов команды.",
+                "en": "Everyone agreed except for two team members."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Помимо погоды, поездка была отличной.",
+                "en": "Apart from the weather, the trip was great."
+              },
+              {
+                "type": "listening",
+                "ru": "У меня нет других вариантов, кроме ожидания.",
+                "en": "I have no options other than waiting."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Все магазины закрыты, кроме одного.",
+                "en": "All the shops are closed except for one."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Помимо небольших исправлений, отчёт был готов.",
+                "en": "Apart from a few corrections, the report was ready."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Все выглядели уставшими, кроме неё.",
+                    "en": "Everyone looked tired except for her."
+                  },
+                  {
+                    "ru": "Помимо цены, продукт мне понравился.",
+                    "en": "Apart from the price, I liked the product."
+                  },
+                  {
+                    "ru": "Все согласились, кроме двух членов команды.",
+                    "en": "Everyone agreed except for two team members."
+                  },
+                  {
+                    "ru": "Помимо погоды, поездка была отличной.",
+                    "en": "Apart from the weather, the trip was great."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "У меня нет других вариантов, кроме ожидания.",
+                "en": "I have no options other than waiting.",
+                "blankedEn": "I have no options ___ than waiting.",
+                "answer": "other",
+                "options": [
+                  "other",
+                  "except",
+                  "apart",
+                  "besides"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l32-p1",
+            "number": 238,
+            "title": "Rhetorical & Tag Questions in Argument (Part 1)",
+            "titleNative": "Риторические и разделительные вопросы в аргументации · Часть 1",
+            "description": "Убеждение через вопросы",
+            "topicId": "b2-l32",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Разве не очевидно, что нам нужны перемены?",
+                "en": "Isn't it obvious that we need change?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это же логично, не так ли?",
+                "en": "This makes sense, doesn't it?"
+              },
+              {
+                "type": "listening",
+                "ru": "Кто бы не хотел лучшего будущего для своих детей?",
+                "en": "Who wouldn't want a better future for their children?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давайте действовать сейчас.",
+                "en": "Let's take action now."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Разве это не именно то, чего мы хотели?",
+                "en": "Isn't this exactly what we wanted?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Кто может отрицать важность образования?",
+                "en": "Who can deny the importance of education?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это же логично, не так ли?",
+                "en": "This makes sense, doesn't it?",
+                "blankedEn": "This makes sense, ___ it?",
+                "answer": "doesn't",
+                "options": [
+                  "doesn't",
+                  "isn't",
+                  "does",
+                  "won't"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l32-p2",
+            "number": 239,
+            "title": "Rhetorical & Tag Questions in Argument (Part 2)",
+            "titleNative": "Риторические и разделительные вопросы в аргументации · Часть 2",
+            "description": "Больше практики с риторическими вопросами",
+            "topicId": "b2-l32",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Разве мы не заслуживаем лучшего?",
+                "en": "Don't we deserve better?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это важно, разве нет?",
+                "en": "This matters, doesn't it?"
+              },
+              {
+                "type": "listening",
+                "ru": "Кто станет спорить с такими доказательствами?",
+                "en": "Who would argue with such evidence?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Разве это не стоит того, чтобы попробовать?",
+                "en": "Isn't it worth trying?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы все хотим успеха, не так ли?",
+                "en": "We all want success, don't we?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Разве это не именно то, чего мы хотели?",
+                    "en": "Isn't this exactly what we wanted?"
+                  },
+                  {
+                    "ru": "Кто может отрицать важность образования?",
+                    "en": "Who can deny the importance of education?"
+                  },
+                  {
+                    "ru": "Разве мы не заслуживаем лучшего?",
+                    "en": "Don't we deserve better?"
+                  },
+                  {
+                    "ru": "Это важно, разве нет?",
+                    "en": "This matters, doesn't it?"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы все хотим успеха, не так ли?",
+                "en": "We all want success, don't we?",
+                "blankedEn": "We all want success, don't ___?",
+                "answer": "we",
+                "options": [
+                  "we",
+                  "they",
+                  "us",
+                  "you"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-22",
+            "number": 240,
+            "title": "Every Exception Has a Reason",
+            "titleNative": "У каждого исключения есть причина",
+            "description": "Статья об исключениях из правил на рабочем месте и их обоснованиях.",
+            "readingPassage": {
+              "context": "Статья об исключениях из правил на рабочем месте и их обоснованиях.",
+              "paragraphs": [
+                {
+                  "en": "Most companies have strict attendance policies.",
+                  "ru": "У большинства компаний строгая политика посещаемости."
+                },
+                {
+                  "en": "Except for emergencies, employees are expected to be on time.",
+                  "ru": "За исключением экстренных случаев, сотрудники должны приходить вовремя."
+                },
+                {
+                  "en": "Apart from a few exceptions, this rule applies to everyone.",
+                  "ru": "Помимо нескольких исключений, это правило распространяется на всех."
+                },
+                {
+                  "en": "On account of the pandemic, many companies relaxed these rules.",
+                  "ru": "В связи с пандемией многие компании смягчили эти правила."
+                },
+                {
+                  "en": "It is clear that flexibility became increasingly important.",
+                  "ru": "Очевидно, что гибкость становилась всё более важной."
+                },
+                {
+                  "en": "Owing to positive results, many companies kept the flexible policies.",
+                  "ru": "Благодаря положительным результатам многие компании сохранили гибкую политику."
+                },
+                {
+                  "en": "What surprised managers was how productivity actually improved.",
+                  "ru": "Что удивило менеджеров — это то, как на самом деле выросла продуктивность."
+                },
+                {
+                  "en": "This experience changed how many businesses think about rules.",
+                  "ru": "Этот опыт изменил то, как многие компании думают о правилах."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какая политика у большинства компаний?",
+                "options": [
+                  "Гибкая",
+                  "Строгая политика посещаемости",
+                  "Отсутствие правил",
+                  "Только удалённая работа"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что произошло из-за пандемии?",
+                "options": [
+                  "Правила стали строже",
+                  "Многие компании смягчили правила",
+                  "Ничего не изменилось",
+                  "Все компании закрылись"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что удивило менеджеров?",
+                "options": [
+                  "Падение продуктивности",
+                  "Рост продуктивности",
+                  "Увольнения",
+                  "Жалобы сотрудников"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "b2-l33-p1",
+            "number": 241,
+            "title": "Describing Cause with Nouns — Owing To, On Account Of (Part 1)",
+            "titleNative": "Причина через существительное: owing to, on account of · Часть 1",
+            "description": "Owing to / on account of + noun",
+            "topicId": "b2-l33",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Из-за шторма сегодня все рейсы отменены.",
+                "en": "Owing to the storm, all flights are canceled today."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В связи с отменой, нам вернут деньги?",
+                "en": "On account of the cancellation, will we get a refund?"
+              },
+              {
+                "type": "listening",
+                "ru": "Учитывая обстоятельства, возврат средств произойдёт автоматически.",
+                "en": "Owing to the circumstances, refunds are automatic."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Спасибо за понятное объяснение.",
+                "en": "Thank you for the clear explanation."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Из-за нехватки времени встреча была сокращена.",
+                "en": "Owing to a lack of time, the meeting was shortened."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Из-за технических проблем сайт был недоступен.",
+                "en": "On account of technical issues, the site was unavailable."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Из-за шторма сегодня все рейсы отменены.",
+                "en": "Owing to the storm, all flights are canceled today.",
+                "blankedEn": "___ to the storm, all flights are canceled today.",
+                "answer": "Owing",
+                "options": [
+                  "Owing",
+                  "Due",
+                  "Because",
+                  "Since"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l33-p2",
+            "number": 242,
+            "title": "Describing Cause with Nouns — Owing To, On Account Of (Part 2)",
+            "titleNative": "Причина через существительное: owing to, on account of · Часть 2",
+            "description": "Больше практики с owing to / on account of",
+            "topicId": "b2-l33",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Из-за нового регламента процесс изменился.",
+                "en": "Owing to the new regulation, the process has changed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В связи с ремонтом, магазин временно закрыт.",
+                "en": "On account of renovations, the shop is temporarily closed."
+              },
+              {
+                "type": "listening",
+                "ru": "Из-за высокого спроса цены выросли.",
+                "en": "Owing to high demand, prices have increased."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "В связи с плохой погодой мероприятие перенесли.",
+                "en": "On account of bad weather, the event was postponed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Из-за задержек проект отстаёт от графика.",
+                "en": "Owing to the delays, the project is behind schedule."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Из-за нехватки времени встреча была сокращена.",
+                    "en": "Owing to a lack of time, the meeting was shortened."
+                  },
+                  {
+                    "ru": "Из-за технических проблем сайт был недоступен.",
+                    "en": "On account of technical issues, the site was unavailable."
+                  },
+                  {
+                    "ru": "Из-за нового регламента процесс изменился.",
+                    "en": "Owing to the new regulation, the process has changed."
+                  },
+                  {
+                    "ru": "В связи с ремонтом, магазин временно закрыт.",
+                    "en": "On account of renovations, the shop is temporarily closed."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В связи с плохой погодой мероприятие перенесли.",
+                "en": "On account of bad weather, the event was postponed.",
+                "blankedEn": "On account ___ bad weather, the event was postponed.",
+                "answer": "of",
+                "options": [
+                  "of",
+                  "to",
+                  "for",
+                  "with"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l34-p1",
+            "number": 243,
+            "title": "Review — A Nuanced Discussion (Part 1)",
+            "titleNative": "Повторение: тонкое обсуждение · Часть 1",
+            "description": "Hedging + formal connectors + speculation + emphasis",
+            "topicId": "b2-l34",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Очевидно, что ситуация несколько сложная.",
+                "en": "It is clear that the situation is somewhat complex."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Тогда как прошлый год был стабильным, этот год отличается.",
+                "en": "Whereas last year was stable, this year is different."
+              },
+              {
+                "type": "listening",
+                "ru": "Что беспокоит меня больше всего — это неопределённость впереди.",
+                "en": "What worries me most is the uncertainty ahead."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Давайте спланируем несколько сценариев.",
+                "en": "Let's plan for several scenarios."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Есть вероятность, что рынок стабилизируется.",
+                "en": "There's a chance that the market will stabilize."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Учитывая обстоятельства, наш план кажется разумным.",
+                "en": "Given the circumstances, our plan seems reasonable."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Тогда как прошлый год был стабильным, этот год отличается.",
+                "en": "Whereas last year was stable, this year is different.",
+                "blankedEn": "___ last year was stable, this year is different.",
+                "answer": "Whereas",
+                "options": [
+                  "Whereas",
+                  "Because",
+                  "Since",
+                  "Although not"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-l34-p2",
+            "number": 244,
+            "title": "Review — A Nuanced Discussion (Part 2)",
+            "titleNative": "Повторение: тонкое обсуждение · Часть 2",
+            "description": "Финальная практика для уровня B2",
+            "topicId": "b2-l34",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Несомненно, нам нужен более гибкий подход.",
+                "en": "Undoubtedly, we need a more flexible approach."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Помимо нескольких деталей, план готов.",
+                "en": "Apart from a few details, the plan is ready."
+              },
+              {
+                "type": "listening",
+                "ru": "Из-за неопределённости мы должны действовать осторожно.",
+                "en": "Owing to the uncertainty, we should act cautiously."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Чем больше вариантов мы рассмотрим, тем лучше будет решение.",
+                "en": "The more options we consider, the better the decision will be."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Разве это не именно та стратегия, которую мы обсуждали?",
+                "en": "Isn't this exactly the strategy we discussed?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Есть вероятность, что рынок стабилизируется.",
+                    "en": "There's a chance that the market will stabilize."
+                  },
+                  {
+                    "ru": "Учитывая обстоятельства, наш план кажется разумным.",
+                    "en": "Given the circumstances, our plan seems reasonable."
+                  },
+                  {
+                    "ru": "Несомненно, нам нужен более гибкий подход.",
+                    "en": "Undoubtedly, we need a more flexible approach."
+                  },
+                  {
+                    "ru": "Помимо нескольких деталей, план готов.",
+                    "en": "Apart from a few details, the plan is ready."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Из-за неопределённости мы должны действовать осторожно.",
+                "en": "Owing to the uncertainty, we should act cautiously.",
+                "blankedEn": "___ to the uncertainty, we should act cautiously.",
+                "answer": "Owing",
+                "options": [
+                  "Owing",
+                  "Because",
+                  "Whereas",
+                  "Given"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "b2-reading-23",
+            "number": 245,
+            "title": "A Question Worth Asking",
+            "titleNative": "Вопрос, который стоит задать",
+            "description": "Статья о силе риторических вопросов в публичных выступлениях.",
+            "readingPassage": {
+              "context": "Статья о силе риторических вопросов в публичных выступлениях.",
+              "paragraphs": [
+                {
+                  "en": "Great speakers often use rhetorical questions to engage their audience.",
+                  "ru": "Великие ораторы часто используют риторические вопросы, чтобы вовлечь аудиторию."
+                },
+                {
+                  "en": "\"Isn't it time for a change?\" is more powerful than a simple statement.",
+                  "ru": "«Разве не пора для перемен?» звучит сильнее, чем простое утверждение."
+                },
+                {
+                  "en": "This makes sense, doesn't it? The audience feels involved.",
+                  "ru": "Это же логично, не так ли? Аудитория чувствует свою вовлечённость."
+                },
+                {
+                  "en": "What research shows is that questions activate deeper thinking.",
+                  "ru": "Исследования показывают, что вопросы активируют более глубокое мышление."
+                },
+                {
+                  "en": "The more a speaker asks, the more the audience reflects.",
+                  "ru": "Чем больше оратор спрашивает, тем больше аудитория размышляет."
+                },
+                {
+                  "en": "Given that attention spans are short, this technique is valuable.",
+                  "ru": "Учитывая, что концентрация внимания коротка, эта техника ценна."
+                },
+                {
+                  "en": "Undoubtedly, the best speeches balance facts with emotional appeal.",
+                  "ru": "Несомненно, лучшие речи сочетают факты с эмоциональным воздействием."
+                },
+                {
+                  "en": "Who wouldn't want to master such a persuasive skill?",
+                  "ru": "Кто бы не хотел овладеть таким убедительным навыком?"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что используют великие ораторы?",
+                "options": [
+                  "Только статистику",
+                  "Риторические вопросы",
+                  "Длинные паузы",
+                  "Громкий голос"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что показывают исследования?",
+                "options": [
+                  "Что вопросы бесполезны",
+                  "Что вопросы активируют более глубокое мышление",
+                  "Что аудитория не слушает",
+                  "Ничего конкретного"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что балансируют лучшие речи?",
+                "options": [
+                  "Только эмоции",
+                  "Факты с эмоциональным воздействием",
+                  "Только факты",
+                  "Юмор и серьёзность"
+                ],
+                "answerIndex": 1
+              }
+            ]
           }
         ]
       },
@@ -53477,6 +57346,622 @@
             "sp": "Employee",
             "en": "I'd recommend reviewing our workflow next week.",
             "ru": "Я бы рекомендовал пересмотреть наш рабочий процесс на следующей неделе."
+          }
+        ]
+      },
+      "b2-l13": {
+        "title": "Reported Speech — Tenses That Don't Backshift",
+        "pattern": "no backshift for general truths / still-true statements",
+        "explanation": "При передаче чужих слов время обычно сдвигается назад (present → past), но если факт по-прежнему верен или это универсальная истина, время можно оставить без изменений: «She said the Earth orbits the Sun» — не обязательно менять на «orbited».",
+        "fact": "Носители языка интуитивно решают, нужно ли сдвигать время, основываясь на том, актуальна ли информация сейчас — это одно из немногих правил репортед-спич, где строгая грамматика уступает место здравому смыслу говорящего.",
+        "dialogue": [
+          {
+            "sp": "Karim",
+            "en": "She said she works at the university.",
+            "ru": "Она сказала, что работает в университете."
+          },
+          {
+            "sp": "Dilnoza",
+            "en": "Did she say she still lives downtown?",
+            "ru": "Она сказала, что всё ещё живёт в центре?"
+          },
+          {
+            "sp": "Karim",
+            "en": "Yes, and she mentioned that prices there are rising.",
+            "ru": "Да, и она упомянула, что цены там растут."
+          },
+          {
+            "sp": "Dilnoza",
+            "en": "That fact hasn't changed, unfortunately.",
+            "ru": "Этот факт, к сожалению, не изменился."
+          }
+        ]
+      },
+      "b2-l14": {
+        "title": "Modal Combinations — Must Be / Should Be / Could Be",
+        "pattern": "must be (certain, present) · should be (expected) · could be (possible)",
+        "explanation": "Для рассуждений о настоящем моменте используем: «must be» (должно быть — высокая уверенность), «should be» (наверное, ожидаемо — не абсолютная гарантия), «could be» (возможно — низкая уверенность). Все три выражают степень вероятности сейчас, а не в прошлом.",
+        "fact": "Разница между «must be» и «should be» тонкая: «must be» строится на прямых доказательствах («the light is on, he must be home»), а «should be» — на логическом ожидании из привычного порядка вещей («the train should be here by now, based on the schedule»).",
+        "dialogue": [
+          {
+            "sp": "Farrukh",
+            "en": "The lights are on, so he must be home.",
+            "ru": "Свет горит, значит, он, должно быть, дома."
+          },
+          {
+            "sp": "Nilufar",
+            "en": "The meeting should be finishing soon, based on the schedule.",
+            "ru": "Судя по расписанию, встреча, наверное, скоро закончится."
+          },
+          {
+            "sp": "Farrukh",
+            "en": "It could be later than planned, though.",
+            "ru": "Хотя, возможно, она затянется дольше запланированного."
+          },
+          {
+            "sp": "Nilufar",
+            "en": "True, these things often run over.",
+            "ru": "Верно, такие вещи часто затягиваются."
+          }
+        ]
+      },
+      "b2-l15": {
+        "title": "Conversational Discourse Markers",
+        "pattern": "Anyway, ... / Actually, ... / By the way, ...",
+        "explanation": "Разговорные маркеры структурируют речь: «anyway» возвращает к теме после отступления, «actually» вводит уточнение или неожиданный факт, «by the way» вводит новую, не связанную напрямую тему. Они делают речь более естественной и плавной.",
+        "fact": "«Anyway» одно из самых частых слов в неформальной устной английской речи именно потому, что разговоры редко идут линейно — оно даёт говорящему возможность элегантно «вернуться на трассу» после отступления от темы.",
+        "dialogue": [
+          {
+            "sp": "Aziza",
+            "en": "Anyway, back to what we were discussing.",
+            "ru": "В общем, вернёмся к тому, что мы обсуждали."
+          },
+          {
+            "sp": "Bekzod",
+            "en": "Actually, I think the deadline changed.",
+            "ru": "На самом деле, мне кажется, срок изменился."
+          },
+          {
+            "sp": "Aziza",
+            "en": "By the way, did you see the new office space?",
+            "ru": "Кстати, ты видел новый офис?"
+          },
+          {
+            "sp": "Bekzod",
+            "en": "Not yet, but I've heard it's great.",
+            "ru": "Ещё нет, но слышал, что он отличный."
+          }
+        ]
+      },
+      "b2-l16": {
+        "title": "Advanced Conditionals — Even If, As Long As, Only If",
+        "pattern": "even if (regardless) · as long as (on condition) · only if (strict condition)",
+        "explanation": "«Even if» показывает, что результат не изменится независимо от условия: «Even if it rains, we'll go» (даже если пойдёт дождь, мы поедем). «Only if» — строгое условие: «I'll come only if you invite me too» (я приду, только если ты тоже пригласишь).",
+        "fact": "«Only if» в начале предложения требует инверсии: «Only if you ask will I tell you» — эта инверсия делает условие звучать более выразительным и категоричным, характерным для более формального или литературного стиля.",
+        "dialogue": [
+          {
+            "sp": "Sabina",
+            "en": "Even if it rains, the event will continue.",
+            "ru": "Даже если пойдёт дождь, мероприятие продолжится."
+          },
+          {
+            "sp": "Otabek",
+            "en": "As long as we have a tent, we'll be fine.",
+            "ru": "Пока у нас есть палатка, всё будет в порядке."
+          },
+          {
+            "sp": "Sabina",
+            "en": "I'll only cancel if there's a serious storm.",
+            "ru": "Я отменю только в случае серьёзной бури."
+          },
+          {
+            "sp": "Otabek",
+            "en": "That sounds like a reasonable plan.",
+            "ru": "Звучит как разумный план."
+          }
+        ]
+      },
+      "b2-l17": {
+        "title": "Reduced Relative Clauses",
+        "pattern": "who/which is/was + past participle → past participle alone",
+        "explanation": "Придаточные предложения с «who/which is/was» часто сокращаются, убирая местоимение и «be»: «The man who is standing there» → «The man standing there» (человек, стоящий там). С пассивом: «The letter which was sent» → «The letter sent».",
+        "fact": "Сокращённые определительные предложения делают речь более компактной и характерны для более продвинутого письменного и устного стиля — они особенно распространены в новостных заголовках и академических текстах, где важна краткость.",
+        "dialogue": [
+          {
+            "sp": "Dilrabo",
+            "en": "The woman standing by the door is our new colleague.",
+            "ru": "Женщина, стоящая у двери, — наша новая коллега."
+          },
+          {
+            "sp": "Sherzod",
+            "en": "Is she the one working on the marketing project?",
+            "ru": "Это она работает над маркетинговым проектом?"
+          },
+          {
+            "sp": "Dilrabo",
+            "en": "Yes, the report submitted yesterday was hers.",
+            "ru": "Да, отчёт, поданный вчера, был её."
+          },
+          {
+            "sp": "Sherzod",
+            "en": "It was impressive, very well written.",
+            "ru": "Впечатляюще, очень хорошо написан."
+          }
+        ]
+      },
+      "b2-l18": {
+        "title": "The More... The More",
+        "pattern": "The + comparative + clause, the + comparative + clause",
+        "explanation": "Эта конструкция показывает, что два процесса меняются одновременно и пропорционально: «The more you practice, the better you get» (чем больше практикуешься, тем лучше становишься). Обе части предложения начинаются с «the» + сравнительная степень.",
+        "fact": "Эта структура — редкий пример в английском, где придаточное предложение начинается с определённого артикля «the» вместо обычного союза — исторически это восходит к древнеанглийскому инструментальному падежу, обозначавшему меру.",
+        "dialogue": [
+          {
+            "sp": "Malika",
+            "en": "The more you practice, the better you get.",
+            "ru": "Чем больше практикуешься, тем лучше становишься."
+          },
+          {
+            "sp": "Farrukh",
+            "en": "The harder I work, the more tired I feel.",
+            "ru": "Чем усерднее я работаю, тем более уставшим себя чувствую."
+          },
+          {
+            "sp": "Malika",
+            "en": "The sooner we start, the sooner we'll finish.",
+            "ru": "Чем раньше мы начнём, тем раньше закончим."
+          },
+          {
+            "sp": "Farrukh",
+            "en": "That's true, let's begin now.",
+            "ru": "Это правда, давай начнём сейчас."
+          }
+        ]
+      },
+      "b2-l19": {
+        "title": "Softening Statements — Sort Of, Kind Of, Somewhat",
+        "pattern": "sort of / kind of (informal) · somewhat (formal) + adjective/verb",
+        "explanation": "Чтобы смягчить утверждение и сделать его менее категоричным, используем: «sort of» и «kind of» в разговорной речи («It's sort of complicated»), и «somewhat» в более формальном стиле («The results were somewhat disappointing»).",
+        "fact": "«Sort of» и «kind of» настолько распространены в разговорном английском, что часто сокращаются до «sorta» и «kinda» в неформальной речи — хотя на письме такое написание считается очень неформальным и почти никогда не используется в деловых текстах.",
+        "dialogue": [
+          {
+            "sp": "Rustam",
+            "en": "How was the interview?",
+            "ru": "Как прошло собеседование?"
+          },
+          {
+            "sp": "Aziza",
+            "en": "It was sort of stressful, to be honest.",
+            "ru": "Честно говоря, было довольно напряжно."
+          },
+          {
+            "sp": "Rustam",
+            "en": "Were the questions kind of difficult?",
+            "ru": "Вопросы были вроде как сложными?"
+          },
+          {
+            "sp": "Aziza",
+            "en": "Somewhat, but I think it went okay overall.",
+            "ru": "В некоторой степени, но в целом, думаю, всё прошло нормально."
+          }
+        ]
+      },
+      "b2-l20": {
+        "title": "Assumptions & Appearances — Presumably, Apparently, Evidently",
+        "pattern": "presumably (assumed) · apparently (heard/seen, uncertain) · evidently (based on evidence)",
+        "explanation": "«Presumably» показывает разумное предположение говорящего («Presumably, he'll be there»). «Apparently» вводит информацию, которую говорящий слышал, но не подтвердил лично («Apparently, she moved to London»). «Evidently» опирается на видимые доказательства.",
+        "fact": "«Apparently» часто несёт лёгкий оттенок сомнения или дистанцирования говорящего от источника информации — это способ передать факт, не беря на себя полную ответственность за его достоверность.",
+        "dialogue": [
+          {
+            "sp": "Nodira",
+            "en": "Presumably, the flight will be on time.",
+            "ru": "Предположительно, рейс будет вовремя."
+          },
+          {
+            "sp": "Elmira",
+            "en": "Apparently, there was a delay this morning.",
+            "ru": "Судя по всему, утром была задержка."
+          },
+          {
+            "sp": "Nodira",
+            "en": "Evidently, the weather caused the problem.",
+            "ru": "Очевидно, погода стала причиной проблемы."
+          },
+          {
+            "sp": "Elmira",
+            "en": "Let's check the status before we leave.",
+            "ru": "Давай проверим статус перед выездом."
+          }
+        ]
+      },
+      "b2-l21": {
+        "title": "Advanced Time Reference — By the Time, Once, No Longer",
+        "pattern": "by the time + clause · once + clause · no longer + verb",
+        "explanation": "«By the time» указывает на момент, к которому что-то уже произойдёт: «By the time you arrive, I'll have finished» (к тому времени как ты приедешь, я закончу). «Once» означает «как только»: «Once you finish, call me». «No longer» — «больше не»: «I no longer live there».",
+        "fact": "После «by the time» и «once», говоря о будущем, часто используется Present Perfect или Future Perfect, а не просто future simple — это подчёркивает завершённость одного действия перед началом другого.",
+        "dialogue": [
+          {
+            "sp": "Karim",
+            "en": "By the time you arrive, I'll have finished cooking.",
+            "ru": "К тому времени как ты приедешь, я закончу готовить."
+          },
+          {
+            "sp": "Lola",
+            "en": "Once dinner is ready, let's call the others.",
+            "ru": "Как только ужин будет готов, давай позовём остальных."
+          },
+          {
+            "sp": "Karim",
+            "en": "I no longer cook without music playing.",
+            "ru": "Я больше не готовлю без музыки."
+          },
+          {
+            "sp": "Lola",
+            "en": "That explains the great atmosphere in here!",
+            "ru": "Это объясняет отличную атмосферу здесь!"
+          }
+        ]
+      },
+      "b2-l22": {
+        "title": "Regret About Others — He Should Have...",
+        "pattern": "he/she/they should have / shouldn't have + past participle (judging others' past)",
+        "explanation": "Мы можем использовать «should have» не только о себе, но и чтобы судить действия других людей: «He should have called earlier» (ему следовало позвонить раньше — критика чужого поступка). Тон может быть критичным или сочувственным в зависимости от контекста.",
+        "fact": "Использование «should have» о чужих поступках требует осторожности в разговоре — оно может звучать как осуждение, поэтому носители часто смягчают его словами «I think» или «maybe», чтобы не показаться слишком критичными.",
+        "dialogue": [
+          {
+            "sp": "Zulfiya",
+            "en": "He should have told us about the change sooner.",
+            "ru": "Ему следовало сказать нам об изменении раньше."
+          },
+          {
+            "sp": "Timur",
+            "en": "I think she shouldn't have made that decision alone.",
+            "ru": "Мне кажется, ей не стоило принимать это решение в одиночку."
+          },
+          {
+            "sp": "Zulfiya",
+            "en": "They should have asked for our input.",
+            "ru": "Им следовало спросить наше мнение."
+          },
+          {
+            "sp": "Timur",
+            "en": "Well, it's too late now, but we've learned a lesson.",
+            "ru": "Что ж, теперь уже поздно, но мы усвоили урок."
+          }
+        ]
+      },
+      "b2-l23": {
+        "title": "Noun Phrases with Multiple Modifiers",
+        "pattern": "adjective + adjective + noun + prepositional phrase",
+        "explanation": "Более сложные именные группы объединяют несколько прилагательных и уточняющую фразу: «a highly experienced consultant with international clients» (высококвалифицированный консультант с международными клиентами). Порядок прилагательных и точность деталей делают речь более информативной.",
+        "fact": "В английском при накоплении нескольких прилагательных перед существительным действует негласный порядок (мнение, размер, возраст, форма, цвет, происхождение, материал), который носители соблюдают интуитивно, даже не зная этого правила осознанно.",
+        "dialogue": [
+          {
+            "sp": "Interviewer",
+            "en": "Tell me about the ideal candidate for this role.",
+            "ru": "Расскажите об идеальном кандидате на эту роль."
+          },
+          {
+            "sp": "Manager",
+            "en": "We need a highly experienced consultant with international clients.",
+            "ru": "Нам нужен высококвалифицированный консультант с международными клиентами."
+          },
+          {
+            "sp": "Interviewer",
+            "en": "Any specific technical skills required?",
+            "ru": "Требуются ли какие-то конкретные технические навыки?"
+          },
+          {
+            "sp": "Manager",
+            "en": "Yes, someone with a strong background in data analysis.",
+            "ru": "Да, кто-то с сильной базой в анализе данных."
+          }
+        ]
+      },
+      "b2-l24": {
+        "title": "Linking — Whereas, Whilst, Given That",
+        "pattern": "whereas/whilst (contrast) · given that (reason, formal)",
+        "explanation": "«Whereas» и «whilst» вводят контраст в формальном стиле: «She prefers mornings, whereas he prefers evenings» (она предпочитает утро, тогда как он — вечер). «Given that» вводит причину: «Given that prices rose, sales fell» (учитывая, что цены выросли, продажи упали).",
+        "fact": "«Whilst» — преимущественно британский вариант, тогда как «while» используется повсеместно; в значении контраста «whilst» звучит немного более формально и книжно, чем обычное «while» в этом же значении.",
+        "dialogue": [
+          {
+            "sp": "Farida",
+            "en": "She prefers mornings, whereas he prefers evenings.",
+            "ru": "Она предпочитает утро, тогда как он — вечер."
+          },
+          {
+            "sp": "Behruz",
+            "en": "Whilst that's true, they still work well together.",
+            "ru": "Хотя это правда, они всё же хорошо работают вместе."
+          },
+          {
+            "sp": "Farida",
+            "en": "Given that the deadline is close, let's finalize the plan.",
+            "ru": "Учитывая, что срок близок, давайте завершим план."
+          },
+          {
+            "sp": "Behruz",
+            "en": "Agreed, we shouldn't waste any more time.",
+            "ru": "Согласен, нам не стоит терять больше времени."
+          }
+        ]
+      },
+      "b2-l25": {
+        "title": "Speculation & Probability",
+        "pattern": "It's conceivable that... / There's a chance that... / It's unlikely that...",
+        "explanation": "Для формального выражения вероятности используем: «It's conceivable that...» (можно предположить, что...), «There's a chance that...» (есть вероятность, что...), «It's highly unlikely that...» (крайне маловероятно, что...).",
+        "fact": "«Conceivable» происходит от глагола «conceive» (задумать, представить) — буквально «то, что можно себе представить». Это делает фразу немного более осторожной, чем прямое утверждение вероятности.",
+        "dialogue": [
+          {
+            "sp": "Analyst",
+            "en": "It's conceivable that the market will recover by spring.",
+            "ru": "Можно предположить, что рынок восстановится к весне."
+          },
+          {
+            "sp": "Investor",
+            "en": "There's a chance that could happen sooner.",
+            "ru": "Есть вероятность, что это произойдёт раньше."
+          },
+          {
+            "sp": "Analyst",
+            "en": "It's highly unlikely, given the current trends.",
+            "ru": "Учитывая нынешние тенденции, это крайне маловероятно."
+          },
+          {
+            "sp": "Investor",
+            "en": "Let's stay cautious either way.",
+            "ru": "В любом случае давайте будем осторожны."
+          }
+        ]
+      },
+      "b2-l26": {
+        "title": "Understatement — Not Bad, Not Exactly, Rather",
+        "pattern": "not bad (good) · not exactly (definitely not) · rather + adjective",
+        "explanation": "Преуменьшение — типичный британский стиль речи: «Not bad» может означать «отлично» (при правильной интонации). «Not exactly» смягчает отрицание: «It's not exactly cheap» (это отнюдь не дёшево — то есть дорого). «Rather» усиливает мягко: «rather impressive».",
+        "fact": "Преуменьшение (understatement) считается характерной чертой британского юмора и вежливости — сказать «not bad» о чём-то потрясающем или «a bit chilly» о ледяном холоде — способ избежать излишней эмоциональности в речи.",
+        "dialogue": [
+          {
+            "sp": "James",
+            "en": "How was the concert?",
+            "ru": "Как прошёл концерт?"
+          },
+          {
+            "sp": "Emily",
+            "en": "Not bad at all, actually — it was incredible!",
+            "ru": "На самом деле совсем неплохо — это было потрясающе!"
+          },
+          {
+            "sp": "James",
+            "en": "The tickets weren't exactly cheap, though.",
+            "ru": "Хотя билеты были отнюдь не дешёвыми."
+          },
+          {
+            "sp": "Emily",
+            "en": "True, but it was rather worth it.",
+            "ru": "Правда, но оно того стоило."
+          }
+        ]
+      },
+      "b2-l27": {
+        "title": "Choosing Words by Formality",
+        "pattern": "everyday word ↔ elevated/formal equivalent",
+        "explanation": "Многие идеи можно выразить и обычным, и более формальным словом: «get» → «obtain», «buy» → «purchase», «start» → «commence», «find out» → «discover». Выбор зависит от контекста: письма и презентации требуют более формальной лексики.",
+        "fact": "Многие «формальные» английские слова происходят из латыни и французского (через нормандское завоевание 1066 года), тогда как их простые синонимы — из германских корней. Именно поэтому в английском часто есть две версии одного и того же слова разного «регистра».",
+        "dialogue": [
+          {
+            "sp": "Editor",
+            "en": "In this report, use \"obtain\" instead of \"get.\"",
+            "ru": "В этом отчёте используйте «obtain» вместо «get»."
+          },
+          {
+            "sp": "Writer",
+            "en": "Should I also change \"buy\" to \"purchase\"?",
+            "ru": "Мне также заменить «buy» на «purchase»?"
+          },
+          {
+            "sp": "Editor",
+            "en": "Yes, and \"start\" should become \"commence.\"",
+            "ru": "Да, и «start» должно стать «commence»."
+          },
+          {
+            "sp": "Writer",
+            "en": "Got it, I'll revise the whole document.",
+            "ru": "Понял, я пересмотрю весь документ."
+          }
+        ]
+      },
+      "b2-l28": {
+        "title": "Passive Reporting Structures — It Is Said / It Is Believed",
+        "pattern": "It is said/believed/thought/reported that... · Subject + is said/believed + to-infinitive",
+        "explanation": "Для сообщения общепринятого мнения без указания источника: «It is said that the castle is haunted» (говорят, что замок населён призраками), или «The castle is said to be haunted» (говорят, замок населён призраками) — второй вариант более компактный.",
+        "fact": "Эта конструкция часто используется в новостях и научных текстах именно потому, что позволяет сообщить информацию, не беря на себя ответственность за её точность — источник остаётся неопределённым («it is said», а не «John said»).",
+        "dialogue": [
+          {
+            "sp": "Guide",
+            "en": "It is said that the castle is haunted.",
+            "ru": "Говорят, что замок населён призраками."
+          },
+          {
+            "sp": "Tourist",
+            "en": "The building is believed to be 500 years old.",
+            "ru": "Считается, что зданию 500 лет."
+          },
+          {
+            "sp": "Guide",
+            "en": "It is reported that a king once lived here.",
+            "ru": "Сообщается, что здесь когда-то жил король."
+          },
+          {
+            "sp": "Tourist",
+            "en": "That's fascinating history!",
+            "ru": "Какая увлекательная история!"
+          }
+        ]
+      },
+      "b2-l29": {
+        "title": "Emphasis Through Word Order",
+        "pattern": "fronting key information / What + clause + is ...",
+        "explanation": "Перестановка слов может выделить важную информацию: «Money isn't everything» → «Everything isn't money» звучит неестественно, но «What matters most is honesty» (что важнее всего — это честность) выносит ключевую идею в начало для акцента.",
+        "fact": "Вынесение важной информации в начало предложения через конструкции с «what» — распространённый приём в публичных выступлениях и эссе, потому что первое место в предложении естественно привлекает больше внимания слушателя.",
+        "dialogue": [
+          {
+            "sp": "Speaker",
+            "en": "What matters most is honesty in leadership.",
+            "ru": "Что важнее всего — это честность в руководстве."
+          },
+          {
+            "sp": "Listener",
+            "en": "What surprised me was how quickly things changed.",
+            "ru": "Что меня удивило — это то, как быстро всё изменилось."
+          },
+          {
+            "sp": "Speaker",
+            "en": "What we need now is a clear strategy.",
+            "ru": "Что нам нужно сейчас — это чёткая стратегия."
+          },
+          {
+            "sp": "Listener",
+            "en": "I couldn't agree more.",
+            "ru": "Полностью согласен."
+          }
+        ]
+      },
+      "b2-l30": {
+        "title": "Expressing Certainty in Formal Writing",
+        "pattern": "It is clear that... / There is no doubt that... / Undoubtedly, ...",
+        "explanation": "В формальном письме уверенность выражают так: «It is clear that the results support our theory» (очевидно, что результаты подтверждают нашу теорию), «There is no doubt that...» (нет сомнений, что...), «Undoubtedly, ...» (несомненно, ...).",
+        "fact": "В академических текстах прямые утверждения уверенности используются реже, чем можно подумать — авторы часто предпочитают более осторожные формулировки («the evidence suggests»), оставляя абсолютную уверенность только для самых надёжных выводов.",
+        "dialogue": [
+          {
+            "sp": "Professor",
+            "en": "It is clear that the results support our theory.",
+            "ru": "Очевидно, что результаты подтверждают нашу теорию."
+          },
+          {
+            "sp": "Student",
+            "en": "There is no doubt that more research would help though.",
+            "ru": "Хотя нет сомнений, что дополнительные исследования были бы полезны."
+          },
+          {
+            "sp": "Professor",
+            "en": "Undoubtedly, this opens up new questions.",
+            "ru": "Несомненно, это открывает новые вопросы."
+          },
+          {
+            "sp": "Student",
+            "en": "I'll start working on the next phase.",
+            "ru": "Я начну работать над следующим этапом."
+          }
+        ]
+      },
+      "b2-l31": {
+        "title": "Talking About Exceptions",
+        "pattern": "except for / apart from / other than + noun",
+        "explanation": "Чтобы указать исключение, используем: «except for» (кроме, за исключением), «apart from» (помимо), «other than» (кроме, иное чем). Все три похожи по значению, но «apart from» часто добавляет, а не исключает: «Apart from being late, he did well» (помимо опоздания, он справился хорошо).",
+        "fact": "«Other than» часто используется в отрицательных предложениях: «I have no plans other than resting» (у меня нет других планов, кроме отдыха) — эта конструкция особенно распространена, когда речь идёт об отсутствии альтернатив.",
+        "dialogue": [
+          {
+            "sp": "Zarina",
+            "en": "Everyone came to the meeting except for Karim.",
+            "ru": "На встречу пришли все, кроме Карима."
+          },
+          {
+            "sp": "Ilkhom",
+            "en": "Apart from being a bit late, the meeting went well.",
+            "ru": "Помимо небольшого опоздания, встреча прошла хорошо."
+          },
+          {
+            "sp": "Zarina",
+            "en": "I have no other plans other than finishing this report.",
+            "ru": "У меня нет других планов, кроме как закончить этот отчёт."
+          },
+          {
+            "sp": "Ilkhom",
+            "en": "Let me know if you need any help with it.",
+            "ru": "Дай знать, если понадобится помощь."
+          }
+        ]
+      },
+      "b2-l32": {
+        "title": "Rhetorical & Tag Questions in Argument",
+        "pattern": "rhetorical question (no answer expected) · tag question for persuasion",
+        "explanation": "Риторические вопросы не требуют ответа, а подчёркивают мысль: «Isn't it obvious that we need change?» (разве не очевидно, что нам нужны перемены?). Разделительные вопросы в аргументации усиливают убеждение: «This makes sense, doesn't it?».",
+        "fact": "Риторические вопросы — мощный инструмент убеждения, потому что заставляют слушателя мысленно ответить самому, создавая иллюзию, что он сам пришёл к выводу говорящего, а не просто согласился с чужим мнением.",
+        "dialogue": [
+          {
+            "sp": "Speaker",
+            "en": "Isn't it obvious that we need change?",
+            "ru": "Разве не очевидно, что нам нужны перемены?"
+          },
+          {
+            "sp": "Audience",
+            "en": "This makes sense, doesn't it?",
+            "ru": "Это же логично, не так ли?"
+          },
+          {
+            "sp": "Speaker",
+            "en": "Who wouldn't want a better future for their children?",
+            "ru": "Кто бы не хотел лучшего будущего для своих детей?"
+          },
+          {
+            "sp": "Audience",
+            "en": "Exactly, so let's take action now.",
+            "ru": "Именно, поэтому давайте действовать сейчас."
+          }
+        ]
+      },
+      "b2-l33": {
+        "title": "Describing Cause with Nouns — Owing To, On Account Of",
+        "pattern": "owing to / on account of + noun phrase",
+        "explanation": "Эти формальные выражения причины требуют существительного, а не целого предложения: «Owing to the storm, flights were canceled» (из-за шторма рейсы отменили), «On account of low funding, the project was delayed» (из-за недостатка финансирования проект задержался).",
+        "fact": "«Owing to» часто путают с «due to», но исторически грамматики советовали использовать «due to» только после «to be» («The delay was due to weather»), тогда как «owing to» можно ставить в любом месте предложения без ограничений.",
+        "dialogue": [
+          {
+            "sp": "Announcer",
+            "en": "Owing to the storm, all flights are canceled today.",
+            "ru": "Из-за шторма сегодня все рейсы отменены."
+          },
+          {
+            "sp": "Passenger",
+            "en": "On account of the cancellation, will we get a refund?",
+            "ru": "В связи с отменой, нам вернут деньги?"
+          },
+          {
+            "sp": "Announcer",
+            "en": "Yes, owing to the circumstances, refunds are automatic.",
+            "ru": "Да, учитывая обстоятельства, возврат средств произойдёт автоматически."
+          },
+          {
+            "sp": "Passenger",
+            "en": "Thank you for the clear explanation.",
+            "ru": "Спасибо за понятное объяснение."
+          }
+        ]
+      },
+      "b2-l34": {
+        "title": "Review — A Nuanced Discussion",
+        "pattern": "mixed review: hedging, formal connectors, speculation, emphasis",
+        "explanation": "Этот финальный обзорный урок B2 объединяет смягчение, формальные связки, предположения и эмфазу — все инструменты, необходимые для тонкого, многогранного обсуждения сложной темы, характерного для уровня B2.",
+        "fact": "На уровне B2 способность гибко переключаться между регистрами — от разговорного смягчения до формальной аргументации — в рамках одного разговора считается одним из ключевых признаков приближения к свободному владению языком.",
+        "dialogue": [
+          {
+            "sp": "Analyst",
+            "en": "It is clear that the situation is somewhat complex.",
+            "ru": "Очевидно, что ситуация несколько сложная."
+          },
+          {
+            "sp": "Director",
+            "en": "Whereas last year was stable, this year is different.",
+            "ru": "Тогда как прошлый год был стабильным, этот год отличается."
+          },
+          {
+            "sp": "Analyst",
+            "en": "What worries me most is the uncertainty ahead.",
+            "ru": "Что беспокоит меня больше всего — это неопределённость впереди."
+          },
+          {
+            "sp": "Director",
+            "en": "Given that, let's plan for several scenarios.",
+            "ru": "Учитывая это, давайте спланируем несколько сценариев."
           }
         ]
       }
