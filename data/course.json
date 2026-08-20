@@ -54386,6 +54386,1428 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "c1-l12-p1",
+            "number": 229,
+            "title": "Advanced Cohesion & Textual Flow (Part 1)",
+            "titleNative": "Продвинутые связки и плавность текста · Часть 1",
+            "description": "Linking ideas precisely across sentences and paragraphs",
+            "topicId": "c1-l12",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Более того, спрос вырос на двадцать процентов.",
+                "en": "Moreover, demand rose by twenty percent."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По той же логике, второй эксперимент дал такой же результат.",
+                "en": "By the same token, the second experiment yielded the same result."
+              },
+              {
+                "type": "listening",
+                "ru": "При этом нам стоит проверить данные ещё раз.",
+                "en": "That said, we should double-check the data."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Учитывая это, я бы отложил запуск.",
+                "en": "With this in mind, I would postpone the launch."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "В том же духе, второй квартал показал рост.",
+                "en": "In a similar vein, the second quarter showed growth."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Кстати говоря, отчёт вышел вчера.",
+                "en": "On a related note, the report came out yesterday."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "И всё же нам нужно больше данных.",
+                "en": "Having said that, we need more data."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Более того, результаты оказались статистически значимыми.",
+                "en": "Moreover, the results turned out to be statistically significant.",
+                "blankedEn": "___, the results turned out to be statistically significant.",
+                "answer": "Moreover",
+                "options": [
+                  "Moreover",
+                  "However",
+                  "Because",
+                  "Unless"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Более того, спрос вырос на двадцать процентов.",
+                    "en": "Moreover, demand rose by twenty percent."
+                  },
+                  {
+                    "ru": "По той же логике, второй эксперимент дал такой же результат.",
+                    "en": "By the same token, the second experiment yielded the same result."
+                  },
+                  {
+                    "ru": "При этом нам стоит проверить данные ещё раз.",
+                    "en": "That said, we should double-check the data."
+                  },
+                  {
+                    "ru": "В том же духе, второй квартал показал рост.",
+                    "en": "In a similar vein, the second quarter showed growth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l12-p2",
+            "number": 230,
+            "title": "Advanced Cohesion & Textual Flow (Part 2)",
+            "titleNative": "Продвинутые связки и плавность текста · Часть 2",
+            "description": "Linking ideas precisely across sentences and paragraphs",
+            "topicId": "c1-l12",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Напротив, продажи в этом регионе упали.",
+                "en": "Conversely, sales fell in that region."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Точно так же, второй филиал показал слабые результаты.",
+                "en": "Likewise, the second branch underperformed."
+              },
+              {
+                "type": "listening",
+                "ru": "В свете этого, стратегию стоит пересмотреть.",
+                "en": "In light of this, the strategy should be reconsidered."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Учитывая всё это, решение кажется разумным.",
+                "en": "All things considered, the decision seems reasonable."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Правда, признаться, мы недооценили риски.",
+                "en": "Admittedly, we underestimated the risks."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тем не менее, проект продолжается по графику.",
+                "en": "Nevertheless, the project remains on schedule."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Само собой разумеется, отчёт должен быть точным.",
+                "en": "Needless to say, the report must be accurate."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Учитывая всё это, решение кажется разумным.",
+                "en": "All things considered, the decision seems reasonable.",
+                "blankedEn": "All things ___, the decision seems reasonable.",
+                "answer": "considered",
+                "options": [
+                  "considered",
+                  "considering",
+                  "consider",
+                  "considers"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Напротив, продажи в этом регионе упали.",
+                    "en": "Conversely, sales fell in that region."
+                  },
+                  {
+                    "ru": "Точно так же, второй филиал показал слабые результаты.",
+                    "en": "Likewise, the second branch underperformed."
+                  },
+                  {
+                    "ru": "В свете этого, стратегию стоит пересмотреть.",
+                    "en": "In light of this, the strategy should be reconsidered."
+                  },
+                  {
+                    "ru": "Правда, признаться, мы недооценили риски.",
+                    "en": "Admittedly, we underestimated the risks."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-9",
+            "number": 231,
+            "title": "The Ethics of Artificial Intelligence",
+            "titleNative": "Этика искусственного интеллекта",
+            "description": "О моральных вопросах, связанных с развитием искусственного интеллекта.",
+            "readingPassage": {
+              "context": "О моральных вопросах, связанных с развитием искусственного интеллекта.",
+              "paragraphs": [
+                {
+                  "en": "Artificial intelligence increasingly makes decisions that once required human judgment.",
+                  "ru": "Искусственный интеллект всё чаще принимает решения, которые раньше требовали человеческого суждения."
+                },
+                {
+                  "en": "From medical diagnoses to loan approvals, algorithms now shape outcomes that affect people's lives directly.",
+                  "ru": "От медицинских диагнозов до одобрения кредитов — алгоритмы теперь формируют результаты, напрямую влияющие на жизнь людей."
+                },
+                {
+                  "en": "Proponents argue that machines can be more consistent and less biased than tired, distracted humans.",
+                  "ru": "Сторонники утверждают, что машины могут быть более последовательными и менее предвзятыми, чем уставшие, отвлекающиеся люди."
+                },
+                {
+                  "en": "Critics counter that algorithms merely inherit the biases embedded in their training data.",
+                  "ru": "Критики возражают, что алгоритмы просто наследуют предвзятости, заложенные в данных, на которых они обучены."
+                },
+                {
+                  "en": "The question of accountability becomes murky when a decision emerges from a system no single person fully understands.",
+                  "ru": "Вопрос ответственности становится неясным, когда решение исходит из системы, которую полностью не понимает ни один отдельный человек."
+                },
+                {
+                  "en": "Some governments have begun drafting regulations requiring transparency in automated decision-making.",
+                  "ru": "Некоторые правительства уже начали разрабатывать нормы, требующие прозрачности в автоматизированном принятии решений."
+                },
+                {
+                  "en": "Others worry that overregulation could stifle innovation before its benefits are fully realized.",
+                  "ru": "Другие опасаются, что чрезмерное регулирование может задушить инновации ещё до того, как будут полностью реализованы их преимущества."
+                },
+                {
+                  "en": "Striking the right balance may prove to be one of the defining challenges of this century.",
+                  "ru": "Найти верный баланс, возможно, станет одной из определяющих задач этого столетия."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению критиков, наследуют алгоритмы?",
+                "options": [
+                  "Человеческую интуицию",
+                  "Предвзятости из обучающих данных",
+                  "Полную объективность",
+                  "Юридическую ответственность"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Почему вопрос ответственности становится неясным?",
+                "options": [
+                  "Потому что нет законов",
+                  "Потому что решение исходит из системы, которую никто полностью не понимает",
+                  "Потому что машины никогда не ошибаются",
+                  "Потому что люди не используют ИИ"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чего опасаются противники чрезмерного регулирования?",
+                "options": [
+                  "Роста прозрачности",
+                  "Того, что оно задушит инновации",
+                  "Снижения точности алгоритмов",
+                  "Увеличения затрат на медицину"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l13-p1",
+            "number": 232,
+            "title": "Cleft Sentences & Fronting (Part 1)",
+            "titleNative": "Расщеплённые предложения и вынесение вперёд · Часть 1",
+            "description": "It-clefts, wh-clefts, and fronting for emphasis",
+            "topicId": "c1-l13",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Именно финансовый отдел выдвинул возражение.",
+                "en": "It was the finance team that raised the objection."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Именно скорость решения удивила всех.",
+                "en": "It was the speed of the decision that surprised everyone."
+              },
+              {
+                "type": "listening",
+                "ru": "Не бюджет их беспокоил, а сроки.",
+                "en": "It wasn't the budget that worried them, it was the timeline."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Именно она предложила это решение.",
+                "en": "It was she who proposed the solution."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Именно тогда всё изменилось.",
+                "en": "It was then that everything changed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Именно из-за задержки мы потеряли клиента.",
+                "en": "It was the delay that cost us the client."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Что удивило меня, так это то, как быстро они уступили.",
+                "en": "What surprised me was how quickly they backed down."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Именно финансовый отдел выдвинул возражение.",
+                "en": "It was the finance team that raised the objection.",
+                "blankedEn": "It ___ the finance team that raised the objection.",
+                "answer": "was",
+                "options": [
+                  "was",
+                  "is",
+                  "did",
+                  "has"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Именно финансовый отдел выдвинул возражение.",
+                    "en": "It was the finance team that raised the objection."
+                  },
+                  {
+                    "ru": "Именно скорость решения удивила всех.",
+                    "en": "It was the speed of the decision that surprised everyone."
+                  },
+                  {
+                    "ru": "Не бюджет их беспокоил, а сроки.",
+                    "en": "It wasn't the budget that worried them, it was the timeline."
+                  },
+                  {
+                    "ru": "Именно тогда всё изменилось.",
+                    "en": "It was then that everything changed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l13-p2",
+            "number": 233,
+            "title": "Cleft Sentences & Fronting (Part 2)",
+            "titleNative": "Расщеплённые предложения и вынесение вперёд · Часть 2",
+            "description": "It-clefts, wh-clefts, and fronting for emphasis",
+            "topicId": "c1-l13",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Что действительно важно, так это качество данных.",
+                "en": "What really matters is the quality of the data."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Никогда я не видел таких быстрых переговоров.",
+                "en": "Never had I seen such a fast negotiation."
+              },
+              {
+                "type": "listening",
+                "ru": "Только потом мы поняли всю серьёзность ошибки.",
+                "en": "Only later did we realize the full seriousness of the mistake."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Едва мы вошли, как зазвонил телефон.",
+                "en": "Hardly had we entered when the phone rang."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Что мне нужно, так это чёткий план.",
+                "en": "What I need is a clear plan."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ни разу она не опоздала на встречу.",
+                "en": "Not once did she arrive late for a meeting."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Именно тогда родилась эта идея.",
+                "en": "It was at that moment that the idea was born."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Никогда я не видел таких быстрых переговоров.",
+                "en": "Never had I seen such a fast negotiation.",
+                "blankedEn": "Never ___ I seen such a fast negotiation.",
+                "answer": "had",
+                "options": [
+                  "had",
+                  "have",
+                  "did",
+                  "was"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Что действительно важно, так это качество данных.",
+                    "en": "What really matters is the quality of the data."
+                  },
+                  {
+                    "ru": "Никогда я не видел таких быстрых переговоров.",
+                    "en": "Never had I seen such a fast negotiation."
+                  },
+                  {
+                    "ru": "Только потом мы поняли всю серьёзность ошибки.",
+                    "en": "Only later did we realize the full seriousness of the mistake."
+                  },
+                  {
+                    "ru": "Что мне нужно, так это чёткий план.",
+                    "en": "What I need is a clear plan."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l14-p1",
+            "number": 234,
+            "title": "Hedging and Academic Caution (Part 1)",
+            "titleNative": "Хеджирование и академическая осторожность · Часть 1",
+            "description": "Softening claims with academic caution and precision",
+            "topicId": "c1-l14",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Похоже, что политика оказала определённое влияние.",
+                "en": "It would seem that the policy had some effect."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно поспорить, что и другие факторы сыграли роль.",
+                "en": "Arguably, other factors played a role too."
+              },
+              {
+                "type": "listening",
+                "ru": "Данные могут указывать на корреляцию.",
+                "en": "The data may suggest a correlation."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В какой-то мере это объясняет результат.",
+                "en": "To some extent, this accounts for the result."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Есть основания полагать, что эффект временный.",
+                "en": "There is reason to believe the effect is temporary."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Судя по всему, спрос начинает снижаться.",
+                "en": "It appears that demand is beginning to decline."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Нельзя исключать, что здесь замешаны другие переменные.",
+                "en": "It cannot be ruled out that other variables are involved."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Похоже, что политика оказала определённое влияние.",
+                "en": "It would seem that the policy had some effect.",
+                "blankedEn": "It would ___ that the policy had some effect.",
+                "answer": "seem",
+                "options": [
+                  "seem",
+                  "look",
+                  "sound",
+                  "feel"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Похоже, что политика оказала определённое влияние.",
+                    "en": "It would seem that the policy had some effect."
+                  },
+                  {
+                    "ru": "Можно поспорить, что и другие факторы сыграли роль.",
+                    "en": "Arguably, other factors played a role too."
+                  },
+                  {
+                    "ru": "Данные могут указывать на корреляцию.",
+                    "en": "The data may suggest a correlation."
+                  },
+                  {
+                    "ru": "Есть основания полагать, что эффект временный.",
+                    "en": "There is reason to believe the effect is temporary."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-10",
+            "number": 235,
+            "title": "The Architecture of Memory",
+            "titleNative": "Архитектура памяти",
+            "description": "О том, как устроена человеческая память и почему воспоминания меняются со временем.",
+            "readingPassage": {
+              "context": "О том, как устроена человеческая память и почему воспоминания меняются со временем.",
+              "paragraphs": [
+                {
+                  "en": "Memory does not work like a video recording that can be replayed exactly as it happened.",
+                  "ru": "Память не работает как видеозапись, которую можно воспроизвести в точности такой, какой она была."
+                },
+                {
+                  "en": "Each time a memory is recalled, it is, in a sense, reconstructed rather than simply retrieved.",
+                  "ru": "Каждый раз, когда воспоминание всплывает, оно в некотором смысле не просто извлекается, а заново собирается."
+                },
+                {
+                  "en": "This reconstruction leaves memories vulnerable to subtle distortion by later experiences and suggestions.",
+                  "ru": "Эта пересборка делает воспоминания уязвимыми к незаметному искажению под влиянием более поздних переживаний и внушений."
+                },
+                {
+                  "en": "Eyewitness testimony, once considered highly reliable, is now known to be surprisingly malleable.",
+                  "ru": "Показания очевидцев, которые раньше считались весьма надёжными, теперь, как известно, на удивление легко поддаются искажению."
+                },
+                {
+                  "en": "Researchers have shown that entirely false memories can be implanted through repeated suggestion.",
+                  "ru": "Исследователи показали, что совершенно ложные воспоминания можно внедрить через повторяющиеся внушения."
+                },
+                {
+                  "en": "Yet this same flexibility allows the brain to update outdated information and integrate new knowledge.",
+                  "ru": "Тем не менее именно эта гибкость позволяет мозгу обновлять устаревшую информацию и включать в себя новые знания."
+                },
+                {
+                  "en": "Emotional intensity tends to make memories feel more vivid, though not necessarily more accurate.",
+                  "ru": "Эмоциональная насыщенность обычно делает воспоминания более яркими, хотя не обязательно более точными."
+                },
+                {
+                  "en": "Understanding this malleability has significant implications for courtrooms, therapy, and everyday disputes about the past.",
+                  "ru": "Понимание этой изменчивости имеет серьёзные последствия для судов, терапии и повседневных споров о прошлом."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Как память работает согласно тексту?",
+                "options": [
+                  "Как точная видеозапись",
+                  "Она каждый раз заново пересобирается",
+                  "Она никогда не меняется",
+                  "Она хранится в одном месте мозга"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что показали исследователи о ложных воспоминаниях?",
+                "options": [
+                  "Их невозможно создать",
+                  "Их можно внедрить через повторяющиеся внушения",
+                  "Они всегда точны",
+                  "Они появляются только у детей"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какое значение имеет изменчивость памяти, по тексту?",
+                "options": [
+                  "Никакого",
+                  "Последствия для судов, терапии и споров о прошлом",
+                  "Только для медицины",
+                  "Она делает суды более точными"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l14-p2",
+            "number": 236,
+            "title": "Hedging and Academic Caution (Part 2)",
+            "titleNative": "Хеджирование и академическая осторожность · Часть 2",
+            "description": "Softening claims with academic caution and precision",
+            "topicId": "c1-l14",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "По-видимому, ситуация постепенно улучшается.",
+                "en": "Apparently, the situation is gradually improving."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Строго говоря, это не совсем точное сравнение.",
+                "en": "Strictly speaking, this isn't quite an accurate comparison."
+              },
+              {
+                "type": "listening",
+                "ru": "В целом можно сказать, что план сработал.",
+                "en": "On the whole, one might say the plan worked."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Насколько нам известно, других инцидентов не было.",
+                "en": "As far as we can tell, there have been no other incidents."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Есть вероятность, что цифры немного завышены.",
+                "en": "There is a possibility that the figures are somewhat inflated."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Похоже, здесь мы имеем дело с исключением.",
+                "en": "It seems we are dealing with an exception here."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "По всей видимости, причина кроется в другом.",
+                "en": "In all likelihood, the cause lies elsewhere."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Насколько нам известно, других инцидентов не было.",
+                "en": "As far as we can tell, there have been no other incidents.",
+                "blankedEn": "As far as we can ___, there have been no other incidents.",
+                "answer": "tell",
+                "options": [
+                  "tell",
+                  "say",
+                  "know",
+                  "speak"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "По-видимому, ситуация постепенно улучшается.",
+                    "en": "Apparently, the situation is gradually improving."
+                  },
+                  {
+                    "ru": "Строго говоря, это не совсем точное сравнение.",
+                    "en": "Strictly speaking, this isn't quite an accurate comparison."
+                  },
+                  {
+                    "ru": "В целом можно сказать, что план сработал.",
+                    "en": "On the whole, one might say the plan worked."
+                  },
+                  {
+                    "ru": "Есть вероятность, что цифры немного завышены.",
+                    "en": "There is a possibility that the figures are somewhat inflated."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l15-p1",
+            "number": 237,
+            "title": "Layered Modality & Nuanced Certainty (Part 1)",
+            "titleNative": "Многослойная модальность и тонкие оттенки уверенности · Часть 1",
+            "description": "Stacking modal verbs for precise degrees of certainty about past and future",
+            "topicId": "c1-l15",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Она вполне могла пропустить письмо.",
+                "en": "She might well have missed the email."
+              },
+              {
+                "type": "word-bank",
+                "ru": "К этому моменту им уже следовало получить ответ.",
+                "en": "They should by now have received our reply."
+              },
+              {
+                "type": "listening",
+                "ru": "Он никак не мог одобрить это, не прочитав.",
+                "en": "He can't possibly have approved this without reading it."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он наверняка хотя бы просмотрел документ.",
+                "en": "He must have at least skimmed the document."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "К концу года они, вероятно, уже завершат проект.",
+                "en": "By the end of the year, they will probably have finished the project."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ей, должно быть, было нелегко принять это решение.",
+                "en": "It must have been difficult for her to make that decision."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Возможно, они уже уехали к этому времени.",
+                "en": "They may well have left by now."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он никак не мог одобрить это, не прочитав.",
+                "en": "He can't possibly have approved this without reading it.",
+                "blankedEn": "He can't possibly ___ approved this without reading it.",
+                "answer": "have",
+                "options": [
+                  "have",
+                  "has",
+                  "had",
+                  "having"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Она вполне могла пропустить письмо.",
+                    "en": "She might well have missed the email."
+                  },
+                  {
+                    "ru": "К этому моменту им уже следовало получить ответ.",
+                    "en": "They should by now have received our reply."
+                  },
+                  {
+                    "ru": "Он никак не мог одобрить это, не прочитав.",
+                    "en": "He can't possibly have approved this without reading it."
+                  },
+                  {
+                    "ru": "Возможно, они уже уехали к этому времени.",
+                    "en": "They may well have left by now."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l15-p2",
+            "number": 238,
+            "title": "Layered Modality & Nuanced Certainty (Part 2)",
+            "titleNative": "Многослойная модальность и тонкие оттенки уверенности · Часть 2",
+            "description": "Stacking modal verbs for precise degrees of certainty about past and future",
+            "topicId": "c1-l15",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "К пятнице отчёт должен быть уже готов.",
+                "en": "By Friday, the report should already have been finished."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Возможно, она сама не осознавала последствий.",
+                "en": "She may not have realized the consequences herself."
+              },
+              {
+                "type": "listening",
+                "ru": "Они, наверное, работали над этим всю ночь.",
+                "en": "They must have been working on this all night."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вряд ли он мог забыть о таком важном звонке.",
+                "en": "He could hardly have forgotten such an important call."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "К тому времени она уже должна была уйти на пенсию.",
+                "en": "By that time, she should already have retired."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не может быть, чтобы они не знали о риске.",
+                "en": "They can't not have known about the risk."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Возможно, ему следовало бы сказать об этом раньше.",
+                "en": "He might well have mentioned it sooner."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Они, наверное, работали над этим всю ночь.",
+                "en": "They must have been working on this all night.",
+                "blankedEn": "They must have been ___ on this all night.",
+                "answer": "working",
+                "options": [
+                  "working",
+                  "worked",
+                  "work",
+                  "works"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "К пятнице отчёт должен быть уже готов.",
+                    "en": "By Friday, the report should already have been finished."
+                  },
+                  {
+                    "ru": "Возможно, она сама не осознавала последствий.",
+                    "en": "She may not have realized the consequences herself."
+                  },
+                  {
+                    "ru": "Они, наверное, работали над этим всю ночь.",
+                    "en": "They must have been working on this all night."
+                  },
+                  {
+                    "ru": "Вряд ли он мог забыть о таком важном звонке.",
+                    "en": "He could hardly have forgotten such an important call."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-11",
+            "number": 239,
+            "title": "Borrowed Time: Debt and Modern Economies",
+            "titleNative": "Взятое взаймы время: долг и современные экономики",
+            "description": "Об экономической роли долга в современном обществе.",
+            "readingPassage": {
+              "context": "Об экономической роли долга в современном обществе.",
+              "paragraphs": [
+                {
+                  "en": "Debt has become so woven into modern economies that its absence would be almost unimaginable.",
+                  "ru": "Долг настолько глубоко вплетён в современные экономики, что его отсутствие было бы почти немыслимо."
+                },
+                {
+                  "en": "Governments borrow to fund infrastructure, businesses borrow to expand, and households borrow to buy homes.",
+                  "ru": "Правительства занимают деньги для финансирования инфраструктуры, компании — для расширения, а домохозяйства — для покупки жилья."
+                },
+                {
+                  "en": "In moderation, debt can accelerate growth that would otherwise take decades to achieve through savings alone.",
+                  "ru": "В умеренных масштабах долг может ускорить рост, для достижения которого одними накоплениями потребовались бы десятилетия."
+                },
+                {
+                  "en": "Excessive borrowing, however, can leave economies dangerously exposed to shifts in interest rates.",
+                  "ru": "Чрезмерные же займы могут оставить экономику опасно уязвимой перед изменениями процентных ставок."
+                },
+                {
+                  "en": "The 2008 financial crisis demonstrated how interconnected debt can amplify a localized problem into a global one.",
+                  "ru": "Финансовый кризис 2008 года показал, как взаимосвязанный долг способен превратить локальную проблему в глобальную."
+                },
+                {
+                  "en": "Economists continue to debate what constitutes a sustainable level of debt relative to national income.",
+                  "ru": "Экономисты до сих пор спорят о том, что можно считать устойчивым уровнем долга по отношению к национальному доходу."
+                },
+                {
+                  "en": "Younger generations in many countries now carry student debt that shapes decisions for decades afterward.",
+                  "ru": "Молодое поколение во многих странах теперь несёт студенческий долг, который определяет решения на десятилетия вперёд."
+                },
+                {
+                  "en": "Whether debt is a tool or a trap often depends less on its size than on how wisely it is managed.",
+                  "ru": "Является ли долг инструментом или ловушкой, часто зависит не столько от его размера, сколько от того, насколько разумно им управляют."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что может ускорить умеренный долг?",
+                "options": [
+                  "Инфляцию",
+                  "Рост, для которого иначе потребовались бы десятилетия",
+                  "Только банкротство",
+                  "Снижение зарплат"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что показал кризис 2008 года?",
+                "options": [
+                  "Что долг безопасен",
+                  "Как взаимосвязанный долг превращает локальную проблему в глобальную",
+                  "Что банки не нужны",
+                  "Что долг всегда полезен"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "От чего, по мнению текста, часто зависит, является ли долг инструментом или ловушкой?",
+                "options": [
+                  "Только от размера",
+                  "От того, насколько разумно им управляют",
+                  "От возраста заёмщика",
+                  "От страны"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l16-p1",
+            "number": 240,
+            "title": "Advanced Reported Speech & Reporting Verbs (Part 1)",
+            "titleNative": "Продвинутая косвенная речь и глаголы передачи слов · Часть 1",
+            "description": "Precise reporting verbs that carry attitude and certainty",
+            "topicId": "c1-l16",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Генеральный директор признал, что запуск был неудачным.",
+                "en": "The CEO conceded that the rollout had been mishandled."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она продолжила утверждать, что команде не хватало ресурсов.",
+                "en": "She went on to argue that the team lacked resources."
+              },
+              {
+                "type": "listening",
+                "ru": "Он намекнул, что грядут дальнейшие изменения.",
+                "en": "He hinted that further changes were coming."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он настаивал, что стратегия была верной.",
+                "en": "He maintained that the strategy was sound."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Она подразумевала, что решение уже принято.",
+                "en": "She implied that the decision had already been made."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Представитель компании отрицал, что произошла утечка данных.",
+                "en": "The company spokesperson denied that a data breach had occurred."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Он признался, что недооценил сложность проекта.",
+                "en": "He admitted that he had underestimated the project's complexity."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Она подразумевала, что решение уже принято.",
+                "en": "She implied that the decision had already been made.",
+                "blankedEn": "She ___ that the decision had already been made.",
+                "answer": "implied",
+                "options": [
+                  "implied",
+                  "said",
+                  "told",
+                  "spoke"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Генеральный директор признал, что запуск был неудачным.",
+                    "en": "The CEO conceded that the rollout had been mishandled."
+                  },
+                  {
+                    "ru": "Он намекнул, что грядут дальнейшие изменения.",
+                    "en": "He hinted that further changes were coming."
+                  },
+                  {
+                    "ru": "Он настаивал, что стратегия была верной.",
+                    "en": "He maintained that the strategy was sound."
+                  },
+                  {
+                    "ru": "Она подразумевала, что решение уже принято.",
+                    "en": "She implied that the decision had already been made."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l16-p2",
+            "number": 241,
+            "title": "Advanced Reported Speech & Reporting Verbs (Part 2)",
+            "titleNative": "Продвинутая косвенная речь и глаголы передачи слов · Часть 2",
+            "description": "Precise reporting verbs that carry attitude and certainty",
+            "topicId": "c1-l16",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Аналитик отметил, что рынок стал более волатильным.",
+                "en": "The analyst observed that the market had become more volatile."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она утверждала, что цифры были искажены.",
+                "en": "She claimed that the figures had been distorted."
+              },
+              {
+                "type": "listening",
+                "ru": "Свидетель настаивал на том, что видел всё своими глазами.",
+                "en": "The witness insisted that he had seen everything with his own eyes."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Комиссия пришла к выводу, что процедура была соблюдена.",
+                "en": "The committee concluded that the procedure had been followed."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он предположил, что причина кроется глубже.",
+                "en": "He suggested that the cause lay deeper."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она возразила, что данные ещё не окончательны.",
+                "en": "She objected that the data was not yet final."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Пресс-секретарь подтвердил, что переговоры продолжаются.",
+                "en": "The spokesperson confirmed that talks were continuing."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Свидетель настаивал на том, что видел всё своими глазами.",
+                "en": "The witness insisted that he had seen everything with his own eyes.",
+                "blankedEn": "The witness ___ that he had seen everything with his own eyes.",
+                "answer": "insisted",
+                "options": [
+                  "insisted",
+                  "said",
+                  "told",
+                  "spoke"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Аналитик отметил, что рынок стал более волатильным.",
+                    "en": "The analyst observed that the market had become more volatile."
+                  },
+                  {
+                    "ru": "Она утверждала, что цифры были искажены.",
+                    "en": "She claimed that the figures had been distorted."
+                  },
+                  {
+                    "ru": "Комиссия пришла к выводу, что процедура была соблюдена.",
+                    "en": "The committee concluded that the procedure had been followed."
+                  },
+                  {
+                    "ru": "Пресс-секретарь подтвердил, что переговоры продолжаются.",
+                    "en": "The spokesperson confirmed that talks were continuing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l17-p1",
+            "number": 242,
+            "title": "Absolute Constructions & Participle Clauses (Part 1)",
+            "titleNative": "Абсолютные конструкции и причастные обороты · Часть 1",
+            "description": "Compact noun + participle clauses in formal writing",
+            "topicId": "c1-l17",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Поскольку дедлайн приближался, все остались допоздна.",
+                "en": "With the deadline approaching, everyone stayed late."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Поскольку бюджет был исчерпан, проект приостановили.",
+                "en": "Its budget exhausted, the project was put on hold."
+              },
+              {
+                "type": "listening",
+                "ru": "Закончив отчёт, она наконец ушла из офиса.",
+                "en": "The report finished, she finally left the office."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если позволит погода, мы возобновим строительство.",
+                "en": "Weather permitting, we'll resume construction."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Учитывая все обстоятельства, решение кажется разумным.",
+                "en": "All things considered, the decision seems reasonable."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Все двери были закрыты, здание казалось пустым.",
+                "en": "All the doors closed, the building seemed empty."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Не имея других вариантов, она согласилась на предложение.",
+                "en": "Having no other options, she accepted the offer."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Поскольку дедлайн приближался, все остались допоздна.",
+                "en": "With the deadline approaching, everyone stayed late.",
+                "blankedEn": "With the deadline ___, everyone stayed late.",
+                "answer": "approaching",
+                "options": [
+                  "approaching",
+                  "approached",
+                  "approach",
+                  "approaches"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Поскольку дедлайн приближался, все остались допоздна.",
+                    "en": "With the deadline approaching, everyone stayed late."
+                  },
+                  {
+                    "ru": "Поскольку бюджет был исчерпан, проект приостановили.",
+                    "en": "Its budget exhausted, the project was put on hold."
+                  },
+                  {
+                    "ru": "Закончив отчёт, она наконец ушла из офиса.",
+                    "en": "The report finished, she finally left the office."
+                  },
+                  {
+                    "ru": "Если позволит погода, мы возобновим строительство.",
+                    "en": "Weather permitting, we'll resume construction."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-12",
+            "number": 243,
+            "title": "The Myth of Multitasking",
+            "titleNative": "Миф о многозадачности",
+            "description": "О том, почему человеческий мозг плохо справляется с одновременным выполнением нескольких задач.",
+            "readingPassage": {
+              "context": "О том, почему человеческий мозг плохо справляется с одновременным выполнением нескольких задач.",
+              "paragraphs": [
+                {
+                  "en": "Multitasking is often presented as a valuable professional skill, yet cognitive science tells a different story.",
+                  "ru": "Многозадачность часто преподносят как ценный профессиональный навык, однако когнитивная наука говорит об обратном."
+                },
+                {
+                  "en": "What feels like doing two things at once is usually the brain rapidly switching attention back and forth.",
+                  "ru": "То, что ощущается как выполнение двух дел одновременно, на самом деле обычно является быстрым переключением внимания мозга туда-сюда."
+                },
+                {
+                  "en": "Each switch carries a small cognitive cost, known as the switching penalty, which accumulates over a task.",
+                  "ru": "Каждое такое переключение несёт небольшую когнитивную издержку — так называемый «штраф за переключение» — которая накапливается в течение задачи."
+                },
+                {
+                  "en": "Studies have found that heavy multitaskers often perform worse on tests of focused attention than occasional multitaskers.",
+                  "ru": "Исследования показали, что люди, часто практикующие многозадачность, нередко хуже справляются с тестами на сосредоточенное внимание, чем те, кто прибегает к ней редко."
+                },
+                {
+                  "en": "Interruptions, even brief ones, can take considerable time to fully recover from in terms of concentration.",
+                  "ru": "Даже короткие прерывания могут требовать значительного времени для полного восстановления концентрации."
+                },
+                {
+                  "en": "Some tasks, particularly highly automatic ones like walking, can be combined with others without much cost.",
+                  "ru": "Некоторые задачи, особенно сильно автоматизированные, вроде ходьбы, можно совмещать с другими практически без потерь."
+                },
+                {
+                  "en": "Genuinely complex tasks, by contrast, suffer significantly when attention is divided.",
+                  "ru": "По-настоящему сложные задачи, напротив, серьёзно страдают, когда внимание разделено."
+                },
+                {
+                  "en": "Recognizing this, many high performers deliberately structure their day around single-tasking rather than multitasking.",
+                  "ru": "Осознавая это, многие продуктивные люди намеренно выстраивают свой день вокруг однозадачности, а не многозадачности."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что на самом деле происходит, когда человек 'многозадачит'?",
+                "options": [
+                  "Мозг выполняет оба дела одновременно",
+                  "Мозг быстро переключает внимание между задачами",
+                  "Мозг отключается",
+                  "Ничего особенного"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что показали исследования об активных многозадачниках?",
+                "options": [
+                  "Они лучше справляются с фокусировкой",
+                  "Они часто хуже справляются с тестами на сосредоточенное внимание",
+                  "У них нет издержек переключения",
+                  "Они экономят время"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какие задачи можно совмещать почти без потерь?",
+                "options": [
+                  "Любые сложные задачи",
+                  "Сильно автоматизированные задачи, вроде ходьбы",
+                  "Только умственные задачи",
+                  "Никакие"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l17-p2",
+            "number": 244,
+            "title": "Absolute Constructions & Participle Clauses (Part 2)",
+            "titleNative": "Абсолютные конструкции и причастные обороты · Часть 2",
+            "description": "Compact noun + participle clauses in formal writing",
+            "topicId": "c1-l17",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Все места были заняты, поэтому мы стояли.",
+                "en": "All the seats being taken, we had to stand."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Контракт подписан, обе стороны могут двигаться дальше.",
+                "en": "The contract signed, both parties can move forward."
+              },
+              {
+                "type": "listening",
+                "ru": "Учитывая новые данные, мы пересмотрели прогноз.",
+                "en": "The new data taken into account, we revised the forecast."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Работа завершена, команда наконец смогла отдохнуть.",
+                "en": "The work completed, the team could finally rest."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "При прочих равных условиях мы бы выбрали первый вариант.",
+                "en": "All else being equal, we would choose the first option."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не найдя ответа, он обратился за помощью к коллеге.",
+                "en": "Finding no answer, he turned to a colleague for help."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Его аргумент отвергнут, он замолчал.",
+                "en": "His argument rejected, he fell silent."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "При прочих равных условиях мы бы выбрали первый вариант.",
+                "en": "All else being equal, we would choose the first option.",
+                "blankedEn": "All else being ___, we would choose the first option.",
+                "answer": "equal",
+                "options": [
+                  "equal",
+                  "equally",
+                  "equals",
+                  "equality"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Все места были заняты, поэтому мы стояли.",
+                    "en": "All the seats being taken, we had to stand."
+                  },
+                  {
+                    "ru": "Контракт подписан, обе стороны могут двигаться дальше.",
+                    "en": "The contract signed, both parties can move forward."
+                  },
+                  {
+                    "ru": "Работа завершена, команда наконец смогла отдохнуть.",
+                    "en": "The work completed, the team could finally rest."
+                  },
+                  {
+                    "ru": "При прочих равных условиях мы бы выбрали первый вариант.",
+                    "en": "All else being equal, we would choose the first option."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l18-p1",
+            "number": 245,
+            "title": "Formal Register & Paraphrase (Part 1)",
+            "titleNative": "Официальный регистр и перефразирование · Часть 1",
+            "description": "Latinate formal equivalents for everyday phrasal verbs",
+            "topicId": "c1-l18",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Нам нужно выяснить, кто санкционировал платёж.",
+                "en": "We need to ascertain who authorized the payment."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Могли бы мы отложить встречу до четверга?",
+                "en": "Could we postpone the meeting until Thursday?"
+              },
+              {
+                "type": "listening",
+                "ru": "Компания приобрела значительный объём нового оборудования.",
+                "en": "The company acquired a substantial amount of new equipment."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Просьба заполнить форму перед подачей заявки.",
+                "en": "Please complete the form prior to submitting your application."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мы получили значительное количество отзывов клиентов.",
+                "en": "We received a considerable amount of customer feedback."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Просим вас связаться с нами при первой возможности.",
+                "en": "Please contact us at your earliest convenience."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Совет директоров решил отложить рассмотрение вопроса.",
+                "en": "The board resolved to defer consideration of the matter."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Нам нужно выяснить, кто санкционировал платёж.",
+                "en": "We need to ascertain who authorized the payment.",
+                "blankedEn": "We need to ___ who authorized the payment.",
+                "answer": "ascertain",
+                "options": [
+                  "ascertain",
+                  "find",
+                  "get",
+                  "see"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Нам нужно выяснить, кто санкционировал платёж.",
+                    "en": "We need to ascertain who authorized the payment."
+                  },
+                  {
+                    "ru": "Могли бы мы отложить встречу до четверга?",
+                    "en": "Could we postpone the meeting until Thursday?"
+                  },
+                  {
+                    "ru": "Компания приобрела значительный объём нового оборудования.",
+                    "en": "The company acquired a substantial amount of new equipment."
+                  },
+                  {
+                    "ru": "Мы получили значительное количество отзывов клиентов.",
+                    "en": "We received a considerable amount of customer feedback."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l18-p2",
+            "number": 246,
+            "title": "Formal Register & Paraphrase (Part 2)",
+            "titleNative": "Официальный регистр и перефразирование · Часть 2",
+            "description": "Latinate formal equivalents for everyday phrasal verbs",
+            "topicId": "c1-l18",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Просим прощения за возникшие неудобства.",
+                "en": "We apologize for any inconvenience caused."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Заявка была отклонена ввиду отсутствия документов.",
+                "en": "The application was declined owing to missing documentation."
+              },
+              {
+                "type": "listening",
+                "ru": "Настоящим уведомляем вас об изменении условий.",
+                "en": "We hereby inform you of a change in terms."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Просим предоставить дополнительную информацию по данному вопросу.",
+                "en": "Please provide further information regarding this matter."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Компания обязуется выполнить условия соглашения.",
+                "en": "The company undertakes to fulfil the terms of the agreement."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы стремимся урегулировать этот вопрос как можно скорее.",
+                "en": "We aim to resolve this matter as promptly as possible."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Просим считать данное письмо официальным уведомлением.",
+                "en": "Please regard this letter as formal notice."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Компания обязуется выполнить условия соглашения.",
+                "en": "The company undertakes to fulfil the terms of the agreement.",
+                "blankedEn": "The company ___ to fulfil the terms of the agreement.",
+                "answer": "undertakes",
+                "options": [
+                  "undertakes",
+                  "promises",
+                  "says",
+                  "tells"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Просим прощения за возникшие неудобства.",
+                    "en": "We apologize for any inconvenience caused."
+                  },
+                  {
+                    "ru": "Заявка была отклонена ввиду отсутствия документов.",
+                    "en": "The application was declined owing to missing documentation."
+                  },
+                  {
+                    "ru": "Настоящим уведомляем вас об изменении условий.",
+                    "en": "We hereby inform you of a change in terms."
+                  },
+                  {
+                    "ru": "Компания обязуется выполнить условия соглашения.",
+                    "en": "The company undertakes to fulfil the terms of the agreement."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -62139,6 +63561,202 @@
             "sp": "Critic",
             "en": "Whatever we decide, we should act soon.",
             "ru": "Что бы мы ни решили, нам стоит действовать скоро."
+          }
+        ]
+      },
+      "c1-l12": {
+        "title": "Advanced Cohesion & Textual Flow",
+        "pattern": "moreover / by the same token / that said / with this in mind — precise linking across sentences",
+        "explanation": "Продвинутые тексты и монологи связывают идеи не только союзами and/but/so, но и целым арсеналом связок, каждая из которых несёт свой точный логический оттенок: «moreover» добавляет усиливающий аргумент, «by the same token» переносит логику предыдущей мысли на новую ситуацию, «that said» вводит оговорку, не отменяя сказанное, а «with this in mind» связывает вывод с ранее упомянутым фактом. Выбор правильной связки сигнализирует слушателю, как именно новая мысль соотносится с предыдущей — усиливает её, ограничивает или служит следствием.",
+        "fact": "Исследования восприятия текста показывают, что опытные читатели используют такие связующие слова как ориентиры, предсказывая по ним характер следующего предложения ещё до того, как дочитают его до конца. Именно поэтому тексты с богатым набором связок воспринимаются более гладкими даже при той же сложности словаря — мозг тратит меньше усилий на реконструкцию связи между мыслями.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "The results were, moreover, statistically significant across every subgroup.",
+            "ru": "Более того, результаты оказались статистически значимыми во всех подгруппах."
+          },
+          {
+            "sp": "Marat",
+            "en": "By the same token, the effect held even in the smallest sample.",
+            "ru": "По той же логике, эффект сохранился даже в самой маленькой выборке."
+          },
+          {
+            "sp": "Anna",
+            "en": "That said, we should be cautious about generalizing too far.",
+            "ru": "При этом нам стоит быть осторожными с чрезмерными обобщениями."
+          },
+          {
+            "sp": "Marat",
+            "en": "With this in mind, I'd recommend a follow-up study.",
+            "ru": "Учитывая это, я бы порекомендовал последующее исследование."
+          }
+        ]
+      },
+      "c1-l13": {
+        "title": "Cleft Sentences & Fronting",
+        "pattern": "It was X that... / What matters is... / Never had... — reordering to emphasize one element",
+        "explanation": "Cleft-конструкции («it-cleft»: It was the manager who signed the contract; «wh-cleft»: What surprised everyone was the speed of the decision) искусственно выдвигают на первый план тот элемент предложения, который говорящий хочет подчеркнуть, разбивая простое утверждение на две части. Fronting (вынесение дополнения или обстоятельства в начало: «Never had she seen such chaos») выполняет похожую функцию, но за счёт изменения обычного порядка слов, а не добавления «it» или «what». Оба приёма превращают нейтральное утверждение в отточенное, риторически выразительное высказывание.",
+        "fact": "Cleft-предложения встречаются в устной английской речи значительно чаще, чем принято думать — носители языка используют их не столько для формального стиля, сколько для управления вниманием слушателя в реальном времени, интуитивно выделяя самую новую или спорную часть информации. Лингвисты называют это «информационной структурой» предложения: одна и та же пропозиция может звучать совершенно по-разному в зависимости от того, что вынесено на первый план.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "It was the finance team that raised the objection, not marketing.",
+            "ru": "Именно финансовый отдел выдвинул возражение, а не маркетинг."
+          },
+          {
+            "sp": "Marat",
+            "en": "What surprised me was how quickly they backed down.",
+            "ru": "Что меня удивило, так это то, как быстро они уступили."
+          },
+          {
+            "sp": "Anna",
+            "en": "It wasn't the budget that worried them, it was the timeline.",
+            "ru": "Их беспокоил не бюджет, а сроки."
+          },
+          {
+            "sp": "Marat",
+            "en": "Never had I seen a negotiation shift so fast.",
+            "ru": "Никогда я не видел, чтобы переговоры менялись так быстро."
+          }
+        ]
+      },
+      "c1-l14": {
+        "title": "Hedging and Academic Caution",
+        "pattern": "it would seem that / arguably / to some extent / there is reason to believe — softening claims",
+        "explanation": "Академическая и профессиональная речь редко утверждает что-либо категорично: вместо «this proves» говорящий скажет «this would seem to suggest», вместо «X is true» — «X appears to be the case, at least to some extent». Такое хеджирование — не признак неуверенности, а признак интеллектуальной строгости: оно явно отделяет то, что подтверждено данными, от того, что является интерпретацией, оставляя пространство для иной точки зрения.",
+        "fact": "В научных статьях плотность хеджирующих выражений может достигать нескольких на предложение — настолько это центральная черта академического регистра. Интересно, что чрезмерное хеджирование воспринимается так же негативно, как и его полное отсутствие: опытные авторы уравновешивают уверенность и осторожность, смягчая именно те утверждения, которые действительно спорны, и оставляя бесспорные факты без смягчения.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "It would seem that the policy had some effect on turnover.",
+            "ru": "Похоже, что политика оказала определённое влияние на текучесть кадров."
+          },
+          {
+            "sp": "Marat",
+            "en": "Arguably, other factors contributed as well.",
+            "ru": "Можно поспорить, что свою роль сыграли и другие факторы."
+          },
+          {
+            "sp": "Anna",
+            "en": "The data may suggest a correlation, though not necessarily causation.",
+            "ru": "Данные могут указывать на корреляцию, хотя не обязательно на причинно-следственную связь."
+          },
+          {
+            "sp": "Marat",
+            "en": "To some extent, yes, but I'd want a larger sample before concluding anything.",
+            "ru": "В какой-то мере да, но я бы хотел выборку побольше, прежде чем делать выводы."
+          }
+        ]
+      },
+      "c1-l15": {
+        "title": "Layered Modality & Nuanced Certainty",
+        "pattern": "might well have / should by now have / can't possibly have — stacking modals for precise certainty",
+        "explanation": "Продвинутые говорящие комбинируют модальные глаголы с перфектным и длительным видом, чтобы выразить очень точные оттенки уверенности о прошлом, настоящем и будущем: «she might well have known» (вероятно, но не точно, знала), «they should by now have finished» (ожидание, что к этому моменту событие уже произошло), «he can't possibly have said that» (уверенное отрицание). Такие «многослойные» модальные конструкции невозможно заменить одним простым словом — именно в этом их ценность для точной, нюансированной аргументации.",
+        "fact": "Модальные глаголы в английском не имеют собственных перфектных или будущих форм, поэтому вся эта точность достигается исключительно через сочетание модального глагола с инфинитивом have + причастие — крошечная грамматическая деталь, которая тем не менее позволяет выразить огромный диапазон эпистемических нюансов, для которых во многих языках потребовалось бы целое отдельное предложение.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "She might well have missed the email; it was buried in a long thread.",
+            "ru": "Она вполне могла пропустить письмо — оно затерялось в длинной переписке."
+          },
+          {
+            "sp": "Marat",
+            "en": "They should by now have received our reply, though.",
+            "ru": "Тем не менее, к этому моменту им уже следовало получить наш ответ."
+          },
+          {
+            "sp": "Anna",
+            "en": "He can't possibly have approved this without reading it.",
+            "ru": "Он никак не мог одобрить это, не прочитав."
+          },
+          {
+            "sp": "Marat",
+            "en": "Well, he must have skimmed it at least, or he wouldn't have signed.",
+            "ru": "Ну, он наверняка хотя бы просмотрел, иначе не подписал бы."
+          }
+        ]
+      },
+      "c1-l16": {
+        "title": "Advanced Reported Speech & Reporting Verbs",
+        "pattern": "implied that... / went on to argue that... / conceded that... — precise verbs beyond 'said'",
+        "explanation": "На продвинутом уровне пересказ чужих слов редко ограничивается нейтральным «said»: выбор глагола — implied, conceded, insisted, went on to argue, hinted, maintained — сам по себе передаёт отношение говорящего к сказанному и его уверенность в этом. «She conceded that the plan had flaws» показывает неохотное согласие, а «she insisted that the plan had flaws» — настойчивое утверждение; смысл предложения меняется полностью, хотя пересказываемое содержание то же самое.",
+        "fact": "В журналистике и академическом письме выбор reporting verb часто становится предметом отдельного анализа: один и тот же комментарий политика может быть представлен как «claimed» (с оттенком сомнения) или «explained» (нейтрально, с доверием), и читатель формирует своё отношение к сказанному в значительной степени через этот единственный глагол, даже не осознавая этого.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "The CEO conceded that the rollout had been mishandled.",
+            "ru": "Генеральный директор признал, что запуск был проведён неудачно."
+          },
+          {
+            "sp": "Marat",
+            "en": "She went on to argue that the team lacked resources, though.",
+            "ru": "При этом она продолжила утверждать, что команде не хватало ресурсов."
+          },
+          {
+            "sp": "Anna",
+            "en": "He hinted that further changes were coming.",
+            "ru": "Он намекнул, что грядут дальнейшие изменения."
+          },
+          {
+            "sp": "Marat",
+            "en": "But he maintained that the core strategy was sound.",
+            "ru": "Но он настаивал, что основная стратегия была верной."
+          }
+        ]
+      },
+      "c1-l17": {
+        "title": "Absolute Constructions & Participle Clauses",
+        "pattern": "With the deadline approaching, ... / Its budget exhausted, ... — noun + participle, no repeated subject",
+        "explanation": "Абсолютные конструкции (noun + participle) позволяют присоединить дополнительное обстоятельство к предложению без союза и без повторения подлежащего: «With the deadline approaching, the team worked through the weekend» или «Its funding cut, the project was quietly shelved». Такие конструкции особенно ценятся в письменном формальном стиле за компактность — они упаковывают причину, время или сопутствующее обстоятельство в несколько слов вместо целого придаточного предложения.",
+        "fact": "Абсолютные конструкции исторически восходят к латинскому «ablative absolute» и вошли в английский через академическую и юридическую традицию письма — именно поэтому они звучат подчёркнуто формально и почти никогда не встречаются в разговорной речи, где носители почти всегда предпочтут полноценное придаточное предложение с союзом.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "With the deadline approaching, everyone stayed late.",
+            "ru": "Поскольку дедлайн приближался, все остались допоздна."
+          },
+          {
+            "sp": "Marat",
+            "en": "Its budget exhausted, the project was put on hold.",
+            "ru": "Поскольку бюджет был исчерпан, проект приостановили."
+          },
+          {
+            "sp": "Anna",
+            "en": "The report finished, she finally left the office.",
+            "ru": "Закончив отчёт, она наконец ушла из офиса."
+          },
+          {
+            "sp": "Marat",
+            "en": "Weather permitting, we'll resume construction next week.",
+            "ru": "Если позволит погода, мы возобновим строительство на следующей неделе."
+          }
+        ]
+      },
+      "c1-l18": {
+        "title": "Formal Register & Paraphrase",
+        "pattern": "informal get/find out/a lot of → formal obtain/ascertain/a considerable amount of",
+        "explanation": "Формальный регистр систематически заменяет фразовые глаголы и разговорную лексику на латинизированные, однословные эквиваленты: «find out» становится «ascertain», «get» — «obtain» или «acquire», «a lot of» — «a considerable/substantial amount of», «put off» — «postpone». Эта замена происходит не хаотично, а системно — практически каждый распространённый фразовый глагол имеет свой формальный однословный аналог, и владение этими парами позволяет мгновенно поднимать или понижать регистр текста.",
+        "fact": "Такая двойная лексическая система в английском — результат исторического наслоения: германские фразовые глаголы («find out», «put off») существовали в языке ещё до нормандского завоевания, тогда как латинизированные однословные аналоги («ascertain», «postpone») пришли через французский после 1066 года и с тех пор ассоциируются с образованностью и официальностью, хотя по смыслу зачастую полностью взаимозаменяемы.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "We need to find out who authorized the payment.",
+            "ru": "Нам нужно выяснить, кто санкционировал платёж."
+          },
+          {
+            "sp": "Marat",
+            "en": "In formal terms, we need to ascertain who authorized it.",
+            "ru": "В формальном варианте: нам нужно установить, кто это санкционировал."
+          },
+          {
+            "sp": "Anna",
+            "en": "Can we put off the meeting until Thursday?",
+            "ru": "Можем мы отложить встречу до четверга?"
+          },
+          {
+            "sp": "Marat",
+            "en": "Formally, we'd say: could we postpone the meeting until Thursday?",
+            "ru": "Формально мы бы сказали: не могли бы мы перенести встречу на четверг?"
           }
         ]
       }
