@@ -57230,6 +57230,1507 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "c1-reading-17",
+            "number": 265,
+            "title": "Diplomacy in the Digital Age",
+            "titleNative": "Дипломатия в цифровую эпоху",
+            "description": "О том, как цифровые технологии меняют традиционную дипломатию.",
+            "readingPassage": {
+              "context": "О том, как цифровые технологии меняют традиционную дипломатию.",
+              "paragraphs": [
+                {
+                  "en": "Diplomacy has traditionally relied on private, carefully worded exchanges between officials.",
+                  "ru": "Дипломатия традиционно опиралась на частные, тщательно сформулированные обмены между официальными лицами."
+                },
+                {
+                  "en": "Social media has upended this model by making statements instantly public and permanent.",
+                  "ru": "Социальные сети перевернули эту модель, сделав заявления мгновенно публичными и постоянными."
+                },
+                {
+                  "en": "A single tweet can now trigger a diplomatic incident that once would have unfolded gradually behind closed doors.",
+                  "ru": "Один-единственный твит теперь может спровоцировать дипломатический инцидент, который раньше разворачивался бы постепенно за закрытыми дверями."
+                },
+                {
+                  "en": "Officials must weigh the benefit of direct public communication against the loss of room to maneuver privately.",
+                  "ru": "Чиновникам приходится взвешивать выгоду прямого публичного общения против потери пространства для приватного манёвра."
+                },
+                {
+                  "en": "Once a position is stated publicly, backing down can carry a steep political cost.",
+                  "ru": "Как только позиция заявлена публично, отступление от неё может обойтись серьёзными политическими издержками."
+                },
+                {
+                  "en": "Some diplomats have adapted by using vague, deliberately ambiguous language even in public statements.",
+                  "ru": "Некоторые дипломаты приспособились, используя расплывчатые, намеренно двусмысленные формулировки даже в публичных заявлениях."
+                },
+                {
+                  "en": "Others argue that transparency ultimately strengthens accountability, despite the new risks it introduces.",
+                  "ru": "Другие утверждают, что прозрачность в конечном счёте укрепляет подотчётность, несмотря на новые риски, которые она несёт."
+                },
+                {
+                  "en": "How diplomacy adapts to this permanent public record may reshape international relations for decades.",
+                  "ru": "То, как дипломатия адаптируется к этой постоянной публичной летописи, может изменить международные отношения на десятилетия вперёд."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Как социальные сети изменили традиционную дипломатию?",
+                "options": [
+                  "Сделали её более закрытой",
+                  "Сделали заявления мгновенно публичными и постоянными",
+                  "Отменили дипломатию",
+                  "Ничего не изменили"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что может произойти, как только позиция заявлена публично?",
+                "options": [
+                  "Ничего особенного",
+                  "Отступление может обойтись серьёзными политическими издержками",
+                  "Она автоматически становится законом",
+                  "Она забывается через день"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как некоторые дипломаты приспособились к новой реальности?",
+                "options": [
+                  "Полностью отказались от заявлений",
+                  "Используют расплывчатые, двусмысленные формулировки",
+                  "Перестали пользоваться соцсетями",
+                  "Публикуют всё анонимно"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l26-p1",
+            "number": 266,
+            "title": "Metadiscourse & Argument Signposting (Part 1)",
+            "titleNative": "Метадискурс и разметка аргументации · Часть 1",
+            "description": "Signposting language that organizes an extended argument",
+            "topicId": "c1-l26",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Во-первых, давайте рассмотрим финансовые последствия.",
+                "en": "Firstly, let's consider the financial implications."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Переходя теперь к технической стороне, здесь есть реальные ограничения.",
+                "en": "Turning now to the technical side, there are real constraints."
+              },
+              {
+                "type": "listening",
+                "ru": "Иными словами, у нас просто нет бюджета.",
+                "en": "To put it another way, we simply don't have the budget."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Подводя итог, нам нужно больше времени.",
+                "en": "In summary, we need more time."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Чтобы проиллюстрировать это, приведу пример.",
+                "en": "To illustrate this point, let me give an example."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Возвращаясь к главному вопросу, что мы решаем?",
+                "en": "Returning to the main question, what are we deciding?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Наконец, стоит упомянуть один риск.",
+                "en": "Finally, it's worth mentioning one risk."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Во-первых, давайте рассмотрим финансовые последствия.",
+                "en": "Firstly, let's consider the financial implications.",
+                "blankedEn": "___, let's consider the financial implications.",
+                "answer": "Firstly",
+                "options": [
+                  "Firstly",
+                  "First",
+                  "One",
+                  "Initial"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Во-первых, давайте рассмотрим финансовые последствия.",
+                    "en": "Firstly, let's consider the financial implications."
+                  },
+                  {
+                    "ru": "Переходя теперь к технической стороне, здесь есть реальные ограничения.",
+                    "en": "Turning now to the technical side, there are real constraints."
+                  },
+                  {
+                    "ru": "Иными словами, у нас просто нет бюджета.",
+                    "en": "To put it another way, we simply don't have the budget."
+                  },
+                  {
+                    "ru": "Чтобы проиллюстрировать это, приведу пример.",
+                    "en": "To illustrate this point, let me give an example."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l26-p2",
+            "number": 267,
+            "title": "Metadiscourse & Argument Signposting (Part 2)",
+            "titleNative": "Метадискурс и разметка аргументации · Часть 2",
+            "description": "Signposting language that organizes an extended argument",
+            "topicId": "c1-l26",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "С другой стороны, есть и преимущества.",
+                "en": "On the other hand, there are advantages too."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Как уже упоминалось, бюджет ограничен.",
+                "en": "As mentioned earlier, the budget is limited."
+              },
+              {
+                "type": "listening",
+                "ru": "Переходя к следующему пункту, обсудим сроки.",
+                "en": "Moving on to the next point, let's discuss timelines."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Короче говоря, план требует пересмотра.",
+                "en": "In short, the plan needs revising."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Стоит отметить, что данные неполные.",
+                "en": "It's worth noting that the data is incomplete."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Как станет ясно далее, решение было верным.",
+                "en": "As will become clear later, the decision was correct."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Прежде чем продолжить, уточним терминологию.",
+                "en": "Before proceeding, let's clarify the terminology."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Стоит отметить, что данные неполные.",
+                "en": "It's worth noting that the data is incomplete.",
+                "blankedEn": "It's worth ___ that the data is incomplete.",
+                "answer": "noting",
+                "options": [
+                  "noting",
+                  "note",
+                  "noted",
+                  "notes"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "С другой стороны, есть и преимущества.",
+                    "en": "On the other hand, there are advantages too."
+                  },
+                  {
+                    "ru": "Как уже упоминалось, бюджет ограничен.",
+                    "en": "As mentioned earlier, the budget is limited."
+                  },
+                  {
+                    "ru": "Переходя к следующему пункту, обсудим сроки.",
+                    "en": "Moving on to the next point, let's discuss timelines."
+                  },
+                  {
+                    "ru": "Прежде чем продолжить, уточним терминологию.",
+                    "en": "Before proceeding, let's clarify the terminology."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l27-p1",
+            "number": 268,
+            "title": "The Subjunctive in Formal English (Part 1)",
+            "titleNative": "Сослагательное наклонение в официальной речи · Часть 1",
+            "description": "The mandative subjunctive after suggestion and necessity verbs",
+            "topicId": "c1-l27",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Крайне важно, чтобы её немедленно проинформировали.",
+                "en": "It is essential that she be informed immediately."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я предлагаю, чтобы он лично присутствовал на встрече.",
+                "en": "I suggest he attend the meeting in person."
+              },
+              {
+                "type": "listening",
+                "ru": "Совет рекомендует пересмотреть политику.",
+                "en": "The board recommends that the policy be revised."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Крайне важно, чтобы завтра все были вовремя.",
+                "en": "It's vital that everyone be on time tomorrow."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он настоял, чтобы контракт был подписан немедленно.",
+                "en": "He insisted that the contract be signed at once."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Необходимо, чтобы каждый участник прочитал отчёт.",
+                "en": "It is necessary that every participant read the report."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Она потребовала, чтобы решение было пересмотрено.",
+                "en": "She demanded that the decision be reconsidered."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Крайне важно, чтобы её немедленно проинформировали.",
+                "en": "It is essential that she be informed immediately.",
+                "blankedEn": "It is essential that she ___ informed immediately.",
+                "answer": "be",
+                "options": [
+                  "be",
+                  "is",
+                  "was",
+                  "being"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Крайне важно, чтобы её немедленно проинформировали.",
+                    "en": "It is essential that she be informed immediately."
+                  },
+                  {
+                    "ru": "Я предлагаю, чтобы он лично присутствовал на встрече.",
+                    "en": "I suggest he attend the meeting in person."
+                  },
+                  {
+                    "ru": "Совет рекомендует пересмотреть политику.",
+                    "en": "The board recommends that the policy be revised."
+                  },
+                  {
+                    "ru": "Он настоял, чтобы контракт был подписан немедленно.",
+                    "en": "He insisted that the contract be signed at once."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l27-p2",
+            "number": 269,
+            "title": "The Subjunctive in Formal English (Part 2)",
+            "titleNative": "Сослагательное наклонение в официальной речи · Часть 2",
+            "description": "The mandative subjunctive after suggestion and necessity verbs",
+            "topicId": "c1-l27",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Рекомендуется, чтобы каждый сотрудник прошёл обучение.",
+                "en": "It is recommended that every employee undergo training."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Важно, чтобы отчёт был точным.",
+                "en": "It is important that the report be accurate."
+              },
+              {
+                "type": "listening",
+                "ru": "Он предложил, чтобы встречу перенесли.",
+                "en": "He proposed that the meeting be postponed."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Требуется, чтобы кандидат имел опыт работы.",
+                "en": "It is required that the candidate have relevant experience."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Она настаивала, чтобы к делу отнеслись серьёзно.",
+                "en": "She insisted that the matter be taken seriously."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Желательно, чтобы все документы были поданы вовремя.",
+                "en": "It is desirable that all documents be submitted on time."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Важно, чтобы каждый голос был услышан.",
+                "en": "It is important that every voice be heard."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Требуется, чтобы кандидат имел опыт работы.",
+                "en": "It is required that the candidate have relevant experience.",
+                "blankedEn": "It is required that the candidate ___ relevant experience.",
+                "answer": "have",
+                "options": [
+                  "have",
+                  "has",
+                  "had",
+                  "having"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Рекомендуется, чтобы каждый сотрудник прошёл обучение.",
+                    "en": "It is recommended that every employee undergo training."
+                  },
+                  {
+                    "ru": "Важно, чтобы отчёт был точным.",
+                    "en": "It is important that the report be accurate."
+                  },
+                  {
+                    "ru": "Он предложил, чтобы встречу перенесли.",
+                    "en": "He proposed that the meeting be postponed."
+                  },
+                  {
+                    "ru": "Важно, чтобы каждый голос был услышан.",
+                    "en": "It is important that every voice be heard."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-18",
+            "number": 270,
+            "title": "Ghost Writers: Authorship in the AI Era",
+            "titleNative": "Незримые авторы: авторство в эпоху ИИ",
+            "description": "О том, как искусственный интеллект меняет представления об авторстве и творчестве.",
+            "readingPassage": {
+              "context": "О том, как искусственный интеллект меняет представления об авторстве и творчестве.",
+              "paragraphs": [
+                {
+                  "en": "The question of who counts as an author has never been entirely straightforward.",
+                  "ru": "Вопрос о том, кого считать автором, никогда не был вполне однозначным."
+                },
+                {
+                  "en": "Ghostwriters, editors, and collaborators have long shaped texts credited to a single name.",
+                  "ru": "Литературные негры, редакторы и соавторы долгое время формировали тексты, приписываемые одному имени."
+                },
+                {
+                  "en": "Artificial intelligence has pushed this ambiguity to an entirely new level.",
+                  "ru": "Искусственный интеллект вывел эту неоднозначность на совершенно новый уровень."
+                },
+                {
+                  "en": "When a machine generates a substantial portion of a text, it becomes unclear who, if anyone, deserves credit.",
+                  "ru": "Когда машина создаёт значительную часть текста, становится неясно, кому — и заслуживает ли вообще кто-то — должно принадлежать авторство."
+                },
+                {
+                  "en": "Publishers and universities are scrambling to draft policies that didn't need to exist a decade ago.",
+                  "ru": "Издательства и университеты спешно разрабатывают правила, которые ещё десять лет назад были попросту не нужны."
+                },
+                {
+                  "en": "Some argue that AI is simply a tool, no different in principle from a word processor or a thesaurus.",
+                  "ru": "Некоторые утверждают, что ИИ — это всего лишь инструмент, в принципе не отличающийся от текстового редактора или тезауруса."
+                },
+                {
+                  "en": "Others insist that generating original phrasing crosses a meaningful threshold that mere tools do not.",
+                  "ru": "Другие настаивают, что генерация оригинальных формулировок пересекает значимую границу, которую обычные инструменты не пересекают."
+                },
+                {
+                  "en": "The debate ultimately touches something deeper: what we actually mean when we call a piece of writing original.",
+                  "ru": "В конечном счёте эта дискуссия затрагивает нечто более глубокое: что мы на самом деле имеем в виду, называя текст оригинальным."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Кто издавна формировал тексты, приписываемые одному имени?",
+                "options": [
+                  "Только сами авторы",
+                  "Литературные негры, редакторы и соавторы",
+                  "Издатели",
+                  "Читатели"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что стало неясным, когда машина создаёт значительную часть текста?",
+                "options": [
+                  "Жанр текста",
+                  "Кому должно принадлежать авторство",
+                  "Длина текста",
+                  "Цена книги"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по мнению текста, затрагивает эта дискуссия в конечном счёте?",
+                "options": [
+                  "Только юридические вопросы",
+                  "Что мы имеем в виду под оригинальностью текста",
+                  "Цены на книги",
+                  "Скорость письма"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l28-p1",
+            "number": 271,
+            "title": "Advanced Quantifiers in Argumentation (Part 1)",
+            "titleNative": "Продвинутые квантификаторы в аргументации · Часть 1",
+            "description": "Precise, calibrated ways of expressing scale in argument",
+            "topicId": "c1-l28",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Значительная доля респондентов не согласилась.",
+                "en": "A considerable proportion of respondents disagreed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Но отнюдь не все — лишь чуть больше половины.",
+                "en": "By no means all of them, though — just over half."
+              },
+              {
+                "type": "listening",
+                "ru": "Подавляющее большинство всё же поддерживает политику.",
+                "en": "The vast majority still support the policy."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Лишь горстка людей активно выступила против.",
+                "en": "Only a mere handful actively opposed it."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Незначительное меньшинство выразило серьёзные опасения.",
+                "en": "A small minority expressed serious concerns."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Подавляющее большинство исследований подтверждает эту связь.",
+                "en": "The overwhelming majority of studies confirm this link."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Лишь ничтожная доля бюджета была потрачена впустую.",
+                "en": "Only a negligible fraction of the budget was wasted."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Значительная доля респондентов не согласилась.",
+                "en": "A considerable proportion of respondents disagreed.",
+                "blankedEn": "A considerable ___ of respondents disagreed.",
+                "answer": "proportion",
+                "options": [
+                  "proportion",
+                  "amount",
+                  "number",
+                  "portion"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Значительная доля респондентов не согласилась.",
+                    "en": "A considerable proportion of respondents disagreed."
+                  },
+                  {
+                    "ru": "Подавляющее большинство всё же поддерживает политику.",
+                    "en": "The vast majority still support the policy."
+                  },
+                  {
+                    "ru": "Незначительное меньшинство выразило серьёзные опасения.",
+                    "en": "A small minority expressed serious concerns."
+                  },
+                  {
+                    "ru": "Лишь ничтожная доля бюджета была потрачена впустую.",
+                    "en": "Only a negligible fraction of the budget was wasted."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l28-p2",
+            "number": 272,
+            "title": "Advanced Quantifiers in Argumentation (Part 2)",
+            "titleNative": "Продвинутые квантификаторы в аргументации · Часть 2",
+            "description": "Precise, calibrated ways of expressing scale in argument",
+            "topicId": "c1-l28",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Практически все участники согласились с выводами.",
+                "en": "Virtually all participants agreed with the findings."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Значительное число компаний уже перешло на новую систему.",
+                "en": "A significant number of companies have already switched to the new system."
+              },
+              {
+                "type": "listening",
+                "ru": "Лишь немногие смогли позволить себе такой риск.",
+                "en": "Only a select few could afford such a risk."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Подавляющее большинство отзывов было положительным.",
+                "en": "The overwhelming majority of the feedback was positive."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Заметная часть бюджета уходит на маркетинг.",
+                "en": "A notable share of the budget goes toward marketing."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Едва ли не все сотрудники поддержали изменения.",
+                "en": "Almost without exception, employees supported the change."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Крошечная доля клиентов подала жалобу.",
+                "en": "A tiny fraction of customers filed a complaint."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Практически все участники согласились с выводами.",
+                "en": "Virtually all participants agreed with the findings.",
+                "blankedEn": "___ all participants agreed with the findings.",
+                "answer": "Virtually",
+                "options": [
+                  "Virtually",
+                  "Actually",
+                  "Usually",
+                  "Hardly"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Практически все участники согласились с выводами.",
+                    "en": "Virtually all participants agreed with the findings."
+                  },
+                  {
+                    "ru": "Значительное число компаний уже перешло на новую систему.",
+                    "en": "A significant number of companies have already switched to the new system."
+                  },
+                  {
+                    "ru": "Подавляющее большинство отзывов было положительным.",
+                    "en": "The overwhelming majority of the feedback was positive."
+                  },
+                  {
+                    "ru": "Крошечная доля клиентов подала жалобу.",
+                    "en": "A tiny fraction of customers filed a complaint."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l29-p1",
+            "number": 273,
+            "title": "Euphemism & Diplomatic Language (Part 1)",
+            "titleNative": "Эвфемизмы и дипломатичная речь · Часть 1",
+            "description": "Softening unpleasant realities with tactful phrasing",
+            "topicId": "c1-l29",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я слышала, что на прошлой неделе трёх человек уволили.",
+                "en": "I heard three people were let go last week."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Один из них сейчас без работы.",
+                "en": "One of them is between jobs now."
+              },
+              {
+                "type": "listening",
+                "ru": "Отчёт был, скажем так, не совсем честным.",
+                "en": "The report was, let's say, economical with the truth."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Проект, мягко говоря, не совсем оправдал ожидания.",
+                "en": "The project didn't quite meet expectations, to put it mildly."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Его бабушка скончалась на прошлой неделе.",
+                "en": "His grandmother passed away last week."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Компания провела оптимизацию штата.",
+                "en": "The company underwent some downsizing."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Скажем так, встреча прошла не идеально.",
+                "en": "Let's just say the meeting didn't go perfectly."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я слышала, что на прошлой неделе трёх человек уволили.",
+                "en": "I heard three people were let go last week.",
+                "blankedEn": "I heard three people were let ___ last week.",
+                "answer": "go",
+                "options": [
+                  "go",
+                  "off",
+                  "out",
+                  "down"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я слышала, что на прошлой неделе трёх человек уволили.",
+                    "en": "I heard three people were let go last week."
+                  },
+                  {
+                    "ru": "Один из них сейчас без работы.",
+                    "en": "One of them is between jobs now."
+                  },
+                  {
+                    "ru": "Его бабушка скончалась на прошлой неделе.",
+                    "en": "His grandmother passed away last week."
+                  },
+                  {
+                    "ru": "Компания провела оптимизацию штата.",
+                    "en": "The company underwent some downsizing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-19",
+            "number": 274,
+            "title": "The Loneliness Epidemic",
+            "titleNative": "Эпидемия одиночества",
+            "description": "О растущей проблеме одиночества в современном обществе и её последствиях для здоровья.",
+            "readingPassage": {
+              "context": "О растущей проблеме одиночества в современном обществе и её последствиях для здоровья.",
+              "paragraphs": [
+                {
+                  "en": "Public health officials in several countries have begun describing loneliness as an epidemic in its own right.",
+                  "ru": "Представители здравоохранения в нескольких странах начали описывать одиночество как самостоятельную эпидемию."
+                },
+                {
+                  "en": "The comparison is not merely rhetorical; chronic loneliness carries measurable health risks comparable to smoking.",
+                  "ru": "Это сравнение не просто риторическое: хроническое одиночество несёт измеримые риски для здоровья, сопоставимые с курением."
+                },
+                {
+                  "en": "Paradoxically, this trend has intensified even as people remain more digitally connected than ever before.",
+                  "ru": "Как ни парадоксально, эта тенденция усиливается даже несмотря на то, что люди сейчас более связаны в цифровом плане, чем когда-либо прежде."
+                },
+                {
+                  "en": "Researchers distinguish between social isolation, an objective lack of contact, and loneliness, a subjective feeling.",
+                  "ru": "Исследователи различают социальную изоляцию — объективное отсутствие контактов — и одиночество как субъективное ощущение."
+                },
+                {
+                  "en": "It is entirely possible to be surrounded by people and still feel profoundly alone.",
+                  "ru": "Вполне возможно быть окружённым людьми и при этом чувствовать себя глубоко одиноким."
+                },
+                {
+                  "en": "Certain groups, including the elderly and young adults, appear especially vulnerable to this feeling.",
+                  "ru": "Некоторые группы, включая пожилых людей и молодых взрослых, оказываются особенно уязвимыми к этому чувству."
+                },
+                {
+                  "en": "Some countries have appointed dedicated ministers to address loneliness as a matter of public policy.",
+                  "ru": "Некоторые страны назначили специальных министров для решения проблемы одиночества как вопроса государственной политики."
+                },
+                {
+                  "en": "Rebuilding a genuine sense of connection may require rethinking how communities and cities are designed, not just individual behavior.",
+                  "ru": "Восстановление подлинного чувства связи может потребовать переосмысления того, как устроены сообщества и города, а не только изменения индивидуального поведения."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "С чем сравнивают риски хронического одиночества для здоровья?",
+                "options": [
+                  "С отдыхом",
+                  "С курением",
+                  "С физическими упражнениями",
+                  "Ни с чем не сравнивают"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "В чём разница между социальной изоляцией и одиночеством по тексту?",
+                "options": [
+                  "Это одно и то же",
+                  "Изоляция объективна, одиночество субъективно",
+                  "Одиночество объективно, изоляция субъективна",
+                  "Разницы нет вообще"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что может потребоваться для восстановления чувства связи, по тексту?",
+                "options": [
+                  "Только личные усилия",
+                  "Переосмысление устройства сообществ и городов",
+                  "Запрет социальных сетей",
+                  "Ничего не требуется"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l29-p2",
+            "number": 275,
+            "title": "Euphemism & Diplomatic Language (Part 2)",
+            "titleNative": "Эвфемизмы и дипломатичная речь · Часть 2",
+            "description": "Softening unpleasant realities with tactful phrasing",
+            "topicId": "c1-l29",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Его слова были, мягко говоря, не совсем точными.",
+                "en": "His words were, to put it gently, not entirely accurate."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Компания переживает временные трудности.",
+                "en": "The company is going through a rough patch."
+              },
+              {
+                "type": "listening",
+                "ru": "Он сейчас находится между проектами.",
+                "en": "He's currently between projects."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Результаты, честно говоря, разочаровали.",
+                "en": "The results, frankly speaking, were disappointing."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Скажем так, не все данные были достоверными.",
+                "en": "Let's say not all the data was reliable."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она предпочла остаться неупомянутой в отчёте.",
+                "en": "She preferred to remain unmentioned in the report."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Его уволили, хотя официально это назвали реструктуризацией.",
+                "en": "He was dismissed, though officially it was called restructuring."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Компания переживает временные трудности.",
+                "en": "The company is going through a rough patch.",
+                "blankedEn": "The company is going through a rough ___.",
+                "answer": "patch",
+                "options": [
+                  "patch",
+                  "spot",
+                  "time",
+                  "piece"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Его слова были, мягко говоря, не совсем точными.",
+                    "en": "His words were, to put it gently, not entirely accurate."
+                  },
+                  {
+                    "ru": "Компания переживает временные трудности.",
+                    "en": "The company is going through a rough patch."
+                  },
+                  {
+                    "ru": "Он сейчас находится между проектами.",
+                    "en": "He's currently between projects."
+                  },
+                  {
+                    "ru": "Его уволили, хотя официально это назвали реструктуризацией.",
+                    "en": "He was dismissed, though officially it was called restructuring."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l30-p1",
+            "number": 276,
+            "title": "Parentheticals and Appositives (Part 1)",
+            "titleNative": "Вставные конструкции и приложения · Часть 1",
+            "description": "Inserted extra information without breaking the main clause",
+            "topicId": "c1-l30",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Её наставник, бывший судья, не согласился с решением.",
+                "en": "Her mentor, a former judge, disagreed with the ruling."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Отчёт, каким бы несовершенным он ни был, всё же повлиял на политику.",
+                "en": "The report — flawed as it was — still shaped policy."
+              },
+              {
+                "type": "listening",
+                "ru": "Компания (основанная всего два года назад) уже прибыльна.",
+                "en": "The company (founded just two years ago) is already profitable."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Его аргумент, каким бы убедительным он ни был, игнорировал данные.",
+                "en": "His argument, however persuasive, ignored the data."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Директор, человек редкой выдержки, не потерял самообладания.",
+                "en": "The director, a man of rare composure, kept his cool."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Новый закон — при всех его недостатках — решил давнюю проблему.",
+                "en": "The new law — for all its flaws — solved a longstanding problem."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Её коллега, опытный аналитик, заметил ошибку сразу.",
+                "en": "Her colleague, a seasoned analyst, spotted the error immediately."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Её наставник, бывший судья, не согласился с решением.",
+                "en": "Her mentor, a former judge, disagreed with the ruling.",
+                "blankedEn": "Her mentor, a former ___, disagreed with the ruling.",
+                "answer": "judge",
+                "options": [
+                  "judge",
+                  "judged",
+                  "judging",
+                  "judgment"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Её наставник, бывший судья, не согласился с решением.",
+                    "en": "Her mentor, a former judge, disagreed with the ruling."
+                  },
+                  {
+                    "ru": "Компания (основанная всего два года назад) уже прибыльна.",
+                    "en": "The company (founded just two years ago) is already profitable."
+                  },
+                  {
+                    "ru": "Директор, человек редкой выдержки, не потерял самообладания.",
+                    "en": "The director, a man of rare composure, kept his cool."
+                  },
+                  {
+                    "ru": "Её коллега, опытный аналитик, заметил ошибку сразу.",
+                    "en": "Her colleague, a seasoned analyst, spotted the error immediately."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l30-p2",
+            "number": 277,
+            "title": "Parentheticals and Appositives (Part 2)",
+            "titleNative": "Вставные конструкции и приложения · Часть 2",
+            "description": "Inserted extra information without breaking the main clause",
+            "topicId": "c1-l30",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Отчёт (опубликованный только вчера) уже вызвал споры.",
+                "en": "The report (published only yesterday) has already caused controversy."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Данные, хотя и неполные, всё же указывают на тенденцию.",
+                "en": "The data, incomplete as it is, still points to a trend."
+              },
+              {
+                "type": "listening",
+                "ru": "Профессор, автор трёх книг по теме, выступил с критикой.",
+                "en": "The professor, the author of three books on the subject, offered criticism."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "План, при всей его амбициозности, оказался осуществимым.",
+                "en": "The plan, for all its ambition, proved achievable."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Клиент, обычно очень терпеливый, на этот раз возмутился.",
+                "en": "The client, usually very patient, was outraged this time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Здание — памятник архитектуры девятнадцатого века — было отреставрировано.",
+                "en": "The building — a nineteenth-century architectural landmark — was restored."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Компания, лидер отрасли, неожиданно объявила об убытках.",
+                "en": "The company, an industry leader, unexpectedly announced losses."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Данные, хотя и неполные, всё же указывают на тенденцию.",
+                "en": "The data, incomplete as it is, still points to a trend.",
+                "blankedEn": "The data, incomplete as it ___, still points to a trend.",
+                "answer": "is",
+                "options": [
+                  "is",
+                  "was",
+                  "be",
+                  "are"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Отчёт (опубликованный только вчера) уже вызвал споры.",
+                    "en": "The report (published only yesterday) has already caused controversy."
+                  },
+                  {
+                    "ru": "Данные, хотя и неполные, всё же указывают на тенденцию.",
+                    "en": "The data, incomplete as it is, still points to a trend."
+                  },
+                  {
+                    "ru": "Профессор, автор трёх книг по теме, выступил с критикой.",
+                    "en": "The professor, the author of three books on the subject, offered criticism."
+                  },
+                  {
+                    "ru": "Компания, лидер отрасли, неожиданно объявила об убытках.",
+                    "en": "The company, an industry leader, unexpectedly announced losses."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l31-p1",
+            "number": 278,
+            "title": "Nuanced Future Reference (Part 1)",
+            "titleNative": "Тонкие оттенки выражения будущего · Часть 1",
+            "description": "Layered forms for expressing future and later-known events",
+            "topicId": "c1-l31",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "К июню следующего года она проработает здесь уже десять лет.",
+                "en": "By next June, she will have been working here for a decade."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он и не подозревал, что ему суждено стать следующим генеральным директором.",
+                "en": "He had no idea he was to become the company's next CEO."
+              },
+              {
+                "type": "listening",
+                "ru": "Поставка должна прибыть в четверг.",
+                "en": "The shipment is due to arrive on Thursday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Компания рискует потерять очень многое, если сделка сорвётся.",
+                "en": "The company stands to lose a great deal if the deal falls through."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "К концу проекта команда проработает вместе почти год.",
+                "en": "By the end of the project, the team will have been working together for almost a year."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Никто не знал, что этой встрече суждено изменить всё.",
+                "en": "No one knew that this meeting was to change everything."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Переговоры должны завершиться к пятнице.",
+                "en": "The negotiations are due to conclude by Friday."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "К июню следующего года она проработает здесь уже десять лет.",
+                "en": "By next June, she will have been working here for a decade.",
+                "blankedEn": "By next June, she will have been ___ here for a decade.",
+                "answer": "working",
+                "options": [
+                  "working",
+                  "worked",
+                  "work",
+                  "works"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "К июню следующего года она проработает здесь уже десять лет.",
+                    "en": "By next June, she will have been working here for a decade."
+                  },
+                  {
+                    "ru": "Он и не подозревал, что ему суждено стать следующим генеральным директором.",
+                    "en": "He had no idea he was to become the company's next CEO."
+                  },
+                  {
+                    "ru": "Поставка должна прибыть в четверг.",
+                    "en": "The shipment is due to arrive on Thursday."
+                  },
+                  {
+                    "ru": "Переговоры должны завершиться к пятнице.",
+                    "en": "The negotiations are due to conclude by Friday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-20",
+            "number": 279,
+            "title": "The Economics of Happiness",
+            "titleNative": "Экономика счастья",
+            "description": "О сложных отношениях между доходом и субъективным благополучием.",
+            "readingPassage": {
+              "context": "О сложных отношениях между доходом и субъективным благополучием.",
+              "paragraphs": [
+                {
+                  "en": "For decades, economists assumed that rising income would straightforwardly translate into greater happiness.",
+                  "ru": "На протяжении десятилетий экономисты полагали, что рост дохода прямо приведёт к росту счастья."
+                },
+                {
+                  "en": "Research has since revealed a far more complicated relationship between money and well-being.",
+                  "ru": "С тех пор исследования выявили гораздо более сложные отношения между деньгами и благополучием."
+                },
+                {
+                  "en": "Beyond a certain income threshold, additional earnings appear to yield diminishing returns in reported happiness.",
+                  "ru": "После определённого порога дохода дополнительный заработок, по-видимому, даёт всё меньшую отдачу в плане субъективного счастья."
+                },
+                {
+                  "en": "Relative income, how one's earnings compare to peers, often matters more than the absolute amount earned.",
+                  "ru": "Относительный доход — то, как заработок соотносится с доходом окружающих — часто имеет большее значение, чем абсолютная сумма заработка."
+                },
+                {
+                  "en": "How money is spent also plays a significant role, with experiences generally outperforming possessions.",
+                  "ru": "Существенную роль играет и то, как тратятся деньги: впечатления, как правило, приносят больше удовлетворения, чем вещи."
+                },
+                {
+                  "en": "Spending on others has been shown, somewhat counterintuitively, to boost happiness more than spending on oneself.",
+                  "ru": "Как ни удивительно, траты на других, как показали исследования, повышают уровень счастья сильнее, чем траты на себя."
+                },
+                {
+                  "en": "These findings have prompted some governments to consider well-being alongside GDP when evaluating national progress.",
+                  "ru": "Эти выводы побудили некоторые правительства учитывать благополучие наряду с ВВП при оценке национального прогресса."
+                },
+                {
+                  "en": "Ultimately, the data suggests that how income is used matters as much as how much of it there is.",
+                  "ru": "В конечном счёте данные говорят о том, что то, как используется доход, важно не меньше, чем сам его размер."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что происходит с дополнительным доходом после определённого порога, по тексту?",
+                "options": [
+                  "Он резко повышает счастье",
+                  "Он даёт всё меньшую отдачу в плане счастья",
+                  "Он не влияет вообще",
+                  "Он снижает счастье линейно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что часто важнее абсолютного дохода, по тексту?",
+                "options": [
+                  "Возраст человека",
+                  "Относительный доход по сравнению с окружающими",
+                  "Место проживания",
+                  "Профессия"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что показали исследования о тратах на других?",
+                "options": [
+                  "Они снижают счастье",
+                  "Они повышают счастье сильнее, чем траты на себя",
+                  "Они не влияют на счастье",
+                  "Их вообще не изучали"
+                ],
+                "answerIndex": 1
+              }
+            ]
+          },
+          {
+            "id": "c1-l31-p2",
+            "number": 280,
+            "title": "Nuanced Future Reference (Part 2)",
+            "titleNative": "Тонкие оттенки выражения будущего · Часть 2",
+            "description": "Layered forms for expressing future and later-known events",
+            "topicId": "c1-l31",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Инвесторы стоят выиграть, если акции вырастут.",
+                "en": "The investors stand to gain if the shares rise."
+              },
+              {
+                "type": "word-bank",
+                "ru": "К моменту запуска команда проработает над проектом два года.",
+                "en": "By the time of launch, the team will have been working on the project for two years."
+              },
+              {
+                "type": "listening",
+                "ru": "Тогда никто не знал, что решение окажется судьбоносным.",
+                "en": "No one knew at the time that the decision was to prove pivotal."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Новая система должна заработать к концу месяца.",
+                "en": "The new system is due to go live by the end of the month."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Компания рискует потерять свою долю рынка.",
+                "en": "The company stands to lose its market share."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он и представить не мог, что эта случайная встреча изменит его карьеру.",
+                "en": "He couldn't have imagined that this chance encounter was to change his career."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "К следующему году они проработают вместе уже пять лет.",
+                "en": "By next year, they will have been working together for five years."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Инвесторы стоят выиграть, если акции вырастут.",
+                "en": "The investors stand to gain if the shares rise.",
+                "blankedEn": "The investors stand to ___ if the shares rise.",
+                "answer": "gain",
+                "options": [
+                  "gain",
+                  "gaining",
+                  "gains",
+                  "gained"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Инвесторы стоят выиграть, если акции вырастут.",
+                    "en": "The investors stand to gain if the shares rise."
+                  },
+                  {
+                    "ru": "Тогда никто не знал, что решение окажется судьбоносным.",
+                    "en": "No one knew at the time that the decision was to prove pivotal."
+                  },
+                  {
+                    "ru": "Новая система должна заработать к концу месяца.",
+                    "en": "The new system is due to go live by the end of the month."
+                  },
+                  {
+                    "ru": "Компания рискует потерять свою долю рынка.",
+                    "en": "The company stands to lose its market share."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l32-p1",
+            "number": 281,
+            "title": "Nominal Relative & Concessive Clauses (Part 1)",
+            "titleNative": "Именные относительные и уступительные придаточные · Часть 1",
+            "description": "Whoever/whatever/wherever clauses and no-matter-how concession",
+            "topicId": "c1-l32",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Кто бы ни был ответственен, он понесёт ответственность.",
+                "en": "Whoever is responsible will be held accountable."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Каким бы ни был результат, мы примем решение комитета.",
+                "en": "Whatever the outcome, we'll accept the committee's decision."
+              },
+              {
+                "type": "listening",
+                "ru": "Как бы усердно мы ни старались, некоторый риск всегда остаётся.",
+                "en": "No matter how hard we try, some risk always remains."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Куда бы ты ни поехал, эта репутация будет следовать за тобой.",
+                "en": "Wherever you go, that reputation will follow you."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Кто бы ни принял это решение, ему придётся объясниться.",
+                "en": "Whoever made this decision will have to explain it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Какой бы вариант вы ни выбрали, риски остаются.",
+                "en": "Whichever option you choose, the risks remain."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Что бы ни случилось, мы будем готовы.",
+                "en": "Whatever happens, we'll be ready."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Кто бы ни был ответственен, он понесёт ответственность.",
+                "en": "Whoever is responsible will be held accountable.",
+                "blankedEn": "___ is responsible will be held accountable.",
+                "answer": "Whoever",
+                "options": [
+                  "Whoever",
+                  "Whatever",
+                  "Whichever",
+                  "Whenever"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Кто бы ни был ответственен, он понесёт ответственность.",
+                    "en": "Whoever is responsible will be held accountable."
+                  },
+                  {
+                    "ru": "Каким бы ни был результат, мы примем решение комитета.",
+                    "en": "Whatever the outcome, we'll accept the committee's decision."
+                  },
+                  {
+                    "ru": "Как бы усердно мы ни старались, некоторый риск всегда остаётся.",
+                    "en": "No matter how hard we try, some risk always remains."
+                  },
+                  {
+                    "ru": "Что бы ни случилось, мы будем готовы.",
+                    "en": "Whatever happens, we'll be ready."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-l32-p2",
+            "number": 282,
+            "title": "Nominal Relative & Concessive Clauses (Part 2)",
+            "titleNative": "Именные относительные и уступительные придаточные · Часть 2",
+            "description": "Whoever/whatever/wherever clauses and no-matter-how concession",
+            "topicId": "c1-l32",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как бы вы ни объясняли это, цифры не сходятся.",
+                "en": "However you explain it, the numbers don't add up."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что бы они ни решили, мы поддержим их выбор.",
+                "en": "Whatever they decide, we will support their choice."
+              },
+              {
+                "type": "listening",
+                "ru": "Где бы она ни работала, её ценили за профессионализм.",
+                "en": "Wherever she worked, she was valued for her professionalism."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сколько бы ни стоило решение, безопасность важнее.",
+                "en": "No matter how much it costs, safety comes first."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Кто бы ни звонил, скажи, что я перезвоню.",
+                "en": "Whoever calls, tell them I'll call back."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Каким бы трудным ни был путь, мы не сдадимся.",
+                "en": "However difficult the path, we won't give up."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Что бы ни произошло дальше, план остаётся в силе.",
+                "en": "Whatever happens next, the plan stands."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Как бы вы ни объясняли это, цифры не сходятся.",
+                "en": "However you explain it, the numbers don't add up.",
+                "blankedEn": "___ you explain it, the numbers don't add up.",
+                "answer": "However",
+                "options": [
+                  "However",
+                  "Whatever",
+                  "Whoever",
+                  "Wherever"
+                ]
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Как бы вы ни объясняли это, цифры не сходятся.",
+                    "en": "However you explain it, the numbers don't add up."
+                  },
+                  {
+                    "ru": "Где бы она ни работала, её ценили за профессионализм.",
+                    "en": "Wherever she worked, she was valued for her professionalism."
+                  },
+                  {
+                    "ru": "Сколько бы ни стоило решение, безопасность важнее.",
+                    "en": "No matter how much it costs, safety comes first."
+                  },
+                  {
+                    "ru": "Что бы ни произошло дальше, план остаётся в силе.",
+                    "en": "Whatever happens next, the plan stands."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c1-reading-21",
+            "number": 283,
+            "title": "The Return of Craftsmanship",
+            "titleNative": "Возвращение ремесленничества",
+            "description": "О возрождающемся интересе к ручному труду и мастерству в эпоху массового производства.",
+            "readingPassage": {
+              "context": "О возрождающемся интересе к ручному труду и мастерству в эпоху массового производства.",
+              "paragraphs": [
+                {
+                  "en": "For much of the twentieth century, mass production steadily displaced traditional craftsmanship.",
+                  "ru": "На протяжении большей части двадцатого века массовое производство неуклонно вытесняло традиционное ремесло."
+                },
+                {
+                  "en": "Handmade goods came to be seen as a quaint relic rather than a practical choice.",
+                  "ru": "Изделия ручной работы стали восприниматься скорее как причудливая реликвия, чем как практичный выбор."
+                },
+                {
+                  "en": "In recent years, however, interest in artisanal and handcrafted products has notably revived.",
+                  "ru": "Однако в последние годы интерес к авторским и ручным изделиям заметно возродился."
+                },
+                {
+                  "en": "Consumers increasingly cite authenticity and durability as reasons for choosing handmade over mass-produced items.",
+                  "ru": "Потребители всё чаще называют подлинность и долговечность причинами, по которым выбирают ручную работу вместо массового производства."
+                },
+                {
+                  "en": "Some see this trend as a reaction against the disposability that defines so much of modern consumer culture.",
+                  "ru": "Некоторые видят в этой тенденции реакцию на одноразовость, которая определяет значительную часть современной потребительской культуры."
+                },
+                {
+                  "en": "Digital platforms have paradoxically enabled this revival, connecting small-scale artisans directly with global buyers.",
+                  "ru": "Как ни парадоксально, именно цифровые платформы способствовали этому возрождению, напрямую связав мелких мастеров с покупателями по всему миру."
+                },
+                {
+                  "en": "Craftsmanship now occupies an unusual position, prized precisely because it resists the efficiency that technology otherwise demands.",
+                  "ru": "Ремесло теперь занимает необычное положение, ценимое именно за то, что оно сопротивляется той эффективности, которую в остальном требует технология."
+                },
+                {
+                  "en": "Whether this revival remains a niche preference or reshapes broader consumption habits is still an open question.",
+                  "ru": "Останется ли это возрождение нишевым предпочтением или изменит более широкие потребительские привычки — всё ещё открытый вопрос."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что происходило с традиционным ремеслом в двадцатом веке?",
+                "options": [
+                  "Оно стремительно росло",
+                  "Массовое производство неуклонно его вытесняло",
+                  "Оно исчезло полностью",
+                  "Ничего не менялось"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какие причины потребители называют для выбора ручной работы?",
+                "options": [
+                  "Низкую цену",
+                  "Подлинность и долговечность",
+                  "Скорость производства",
+                  "Моду"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, как ни парадоксально, способствовало возрождению ремесленничества?",
+                "options": [
+                  "Запрет массового производства",
+                  "Цифровые платформы",
+                  "Государственные субсидии",
+                  "Снижение спроса"
+                ],
+                "answerIndex": 1
+              }
+            ]
           }
         ]
       }
@@ -65375,6 +66876,202 @@
             "sp": "Marat",
             "en": "They're getting the report translated into three languages.",
             "ru": "Они заказывают перевод отчёта на три языка."
+          }
+        ]
+      },
+      "c1-l26": {
+        "title": "Metadiscourse & Argument Signposting",
+        "pattern": "firstly / to illustrate / to put it another way / in summary — guiding the listener through an argument",
+        "explanation": "Метадискурс — это язык, который не добавляет новое содержание, а организует уже сказанное для слушателя: «firstly», «turning now to», «to put it another way», «in summary» указывают, где в аргументации находится говорящий и куда он движется дальше. В развёрнутой академической или профессиональной речи такая разметка критически важна: без неё слушателю приходится самому реконструировать структуру аргумента, что резко увеличивает когнитивную нагрузку.",
+        "fact": "Исследователи академического письма отдельно изучают плотность и расположение метадискурсивных маркеров, поскольку и их избыток, и полное отсутствие мешают восприятию: избыток звучит механически и снисходительно, а отсутствие оставляет слушателя без ориентиров. Опытные говорящие расставляют такие маркеры именно в ключевых структурных точках — при смене темы, подведении итога или переходе к примеру, — а не через каждое предложение.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Firstly, let's consider the financial implications.",
+            "ru": "Во-первых, давайте рассмотрим финансовые последствия."
+          },
+          {
+            "sp": "Marat",
+            "en": "Turning now to the technical side, there are real constraints.",
+            "ru": "Переходя теперь к технической стороне, здесь есть реальные ограничения."
+          },
+          {
+            "sp": "Anna",
+            "en": "To put it another way, we simply don't have the budget.",
+            "ru": "Иными словами, у нас просто нет бюджета."
+          },
+          {
+            "sp": "Marat",
+            "en": "In summary, we need more time before deciding.",
+            "ru": "Подводя итог, нам нужно больше времени, прежде чем принимать решение."
+          }
+        ]
+      },
+      "c1-l27": {
+        "title": "The Subjunctive in Formal English",
+        "pattern": "It is essential that she be informed. / I suggest he attend the meeting. — mandative subjunctive",
+        "explanation": "После глаголов и прилагательных, выражающих необходимость, предложение или требование (suggest, insist, essential, important, recommend), формальный английский использует «повелительное» сослагательное наклонение — базовую форму глагола независимо от подлежащего: «It is essential that she be informed» вместо «is informed». Такая форма подчёркивает, что действие ещё не произошло, а лишь требуется или предлагается.",
+        "fact": "Сослагательное наклонение — один из последних остатков некогда гораздо более богатой системы глагольных наклонений в английском языке, и его судьба заметно различается по обе стороны Атлантики: американский формальный английский свободно использует голую форму сослагательного наклонения («that she be informed»), тогда как британский чаще вставляет «should» («that she should be informed»), особенно в разговорной речи.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "It is essential that she be informed immediately.",
+            "ru": "Крайне важно, чтобы её немедленно проинформировали."
+          },
+          {
+            "sp": "Marat",
+            "en": "I suggest he attend the meeting in person.",
+            "ru": "Я предлагаю, чтобы он лично присутствовал на встрече."
+          },
+          {
+            "sp": "Anna",
+            "en": "The board recommends that the policy be revised.",
+            "ru": "Совет рекомендует пересмотреть политику."
+          },
+          {
+            "sp": "Marat",
+            "en": "It's vital that everyone be on time tomorrow.",
+            "ru": "Крайне важно, чтобы завтра все были вовремя."
+          }
+        ]
+      },
+      "c1-l28": {
+        "title": "Advanced Quantifiers in Argumentation",
+        "pattern": "a considerable proportion of / by no means all / the vast majority of / a mere handful — precise scale",
+        "explanation": "За пределами расплывчатых «many/some/a lot» академическая аргументация использует точно откалиброванные квантификаторы: «a considerable proportion of» подразумевает заметную, но не подавляющую долю, «by no means all» прямо предупреждает от чрезмерного обобщения, «the vast majority of» и «a mere handful of» задают противоположные полюса шкалы. Выбор конкретного квантификатора — это, по сути, точное заявление о масштабе явления, а не просто стилистическое украшение.",
+        "fact": "Руководства по академическому письму отдельно предостерегают от расплывчатых слов вроде «a lot of» или «many», поскольку неточная количественная оценка — одна из самых частых претензий рецензентов к аргументации: утверждение «многие исследования подтверждают X» гораздо слабее, чем «подавляющее большинство исследований, за исключением горстки устаревших работ, подтверждает X».",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "A considerable proportion of respondents disagreed.",
+            "ru": "Значительная доля респондентов не согласилась."
+          },
+          {
+            "sp": "Marat",
+            "en": "By no means all of them, though — just over half.",
+            "ru": "Но отнюдь не все — лишь чуть больше половины."
+          },
+          {
+            "sp": "Anna",
+            "en": "The vast majority still support the policy overall.",
+            "ru": "Подавляющее большинство всё же поддерживает политику в целом."
+          },
+          {
+            "sp": "Marat",
+            "en": "Only a mere handful actively opposed it.",
+            "ru": "Лишь горстка людей активно выступила против."
+          }
+        ]
+      },
+      "c1-l29": {
+        "title": "Euphemism & Diplomatic Language",
+        "pattern": "let go / pass away / between jobs / economical with the truth — softening blunt realities",
+        "explanation": "Эвфемизмы и дипломатичные обороты смягчают неприятные или деликатные факты, не искажая их по сути: «let go» вместо «fired», «pass away» вместо «die», «between jobs» вместо «unemployed», «economical with the truth» вместо «lying». Такая лексика — не уклонение от правды, а социальная смазка, позволяющая сообщить трудную новость, сохранив лицо и достоинство обеих сторон разговора.",
+        "fact": "Эвфемизм существует во всех языках, однако англоязычная профессиональная культура выработала особенно богатый словарь именно вокруг потери работы и неудачи — от «downsizing» до «letting someone go» — что отражает культурное неприятие прямого разговора о плохих новостях в рабочем контексте, в отличие от более прямолинейных культур делового общения.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "I heard three people were let go last week.",
+            "ru": "Я слышала, что на прошлой неделе трёх человек уволили."
+          },
+          {
+            "sp": "Marat",
+            "en": "Yes, unfortunately. One of them is between jobs now.",
+            "ru": "Да, к сожалению. Один из них сейчас без работы."
+          },
+          {
+            "sp": "Anna",
+            "en": "The report was, let's say, economical with the truth.",
+            "ru": "Отчёт был, скажем так, не совсем честным."
+          },
+          {
+            "sp": "Marat",
+            "en": "The project didn't quite meet expectations, to put it mildly.",
+            "ru": "Проект, мягко говоря, не совсем оправдал ожидания."
+          }
+        ]
+      },
+      "c1-l30": {
+        "title": "Parentheticals and Appositives",
+        "pattern": "The report — flawed as it was — still shaped policy. / Her mentor, a former judge, disagreed.",
+        "explanation": "Вставные конструкции (выделенные тире, запятыми или скобками) и приложения (именная группа, переименовывающая другое существительное) добавляют дополнительную, не обязательную для понимания главной мысли информацию прямо внутри предложения, не разрывая его течения: «Her mentor, a former judge, disagreed» вводит приложение, поясняющее, кто такой наставник, а «The report — flawed as it was — still shaped policy» вставляет уступительную ремарку через тире.",
+        "fact": "Выбор пунктуации для такой вставки — запятые, тире или скобки — сам по себе меняет её вес: тире привлекают к вставленной информации больше внимания, тогда как скобки и запятые, наоборот, подают её как второстепенную деталь. Опытные авторы сознательно выбирают между этими вариантами, чтобы управлять тем, насколько заметной должна казаться вставка на фоне основного предложения.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Her mentor, a former judge, disagreed with the ruling.",
+            "ru": "Её наставник, бывший судья, не согласился с решением."
+          },
+          {
+            "sp": "Marat",
+            "en": "The report — flawed as it was — still shaped policy.",
+            "ru": "Отчёт, каким бы несовершенным он ни был, всё же повлиял на политику."
+          },
+          {
+            "sp": "Anna",
+            "en": "The company (founded just two years ago) is already profitable.",
+            "ru": "Компания (основанная всего два года назад) уже прибыльна."
+          },
+          {
+            "sp": "Marat",
+            "en": "His argument, however persuasive, ignored the data.",
+            "ru": "Его аргумент, каким бы убедительным он ни был, игнорировал данные."
+          }
+        ]
+      },
+      "c1-l31": {
+        "title": "Nuanced Future Reference",
+        "pattern": "will have been working / was to become / is due to / stands to — layered ways to express the future",
+        "explanation": "За пределами will/going to английский располагает более тонкими способами говорить о будущем: future perfect continuous («will have been working») показывает длительность действия к определённому моменту, «future in the past» («was to become») описывает то, что позже оказалось правдой, «is due to» указывает на запланированность, а «stands to» передаёт вероятную выгоду или потерю. Каждая форма задаёт свою, отличную от других, связь между настоящим моментом речи и будущим или позднее ставшим известным событием.",
+        "fact": "«Future in the past» — излюбленный приём биографического и исторического повествования: он позволяет автору из более ранней точки истории заранее намекнуть на исход, который читателю уже известен («He had no idea he was to become president»), создавая эффект драматической иронии, невозможный при простом прошедшем времени.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "By next June, she will have been working here for a decade.",
+            "ru": "К июню следующего года она проработает здесь уже десять лет."
+          },
+          {
+            "sp": "Marat",
+            "en": "He had no idea he was to become the company's next CEO.",
+            "ru": "Он и не подозревал, что ему суждено стать следующим генеральным директором компании."
+          },
+          {
+            "sp": "Anna",
+            "en": "The shipment is due to arrive on Thursday.",
+            "ru": "Поставка должна прибыть в четверг."
+          },
+          {
+            "sp": "Marat",
+            "en": "The company stands to lose a great deal if the deal falls through.",
+            "ru": "Компания рискует потерять очень многое, если сделка сорвётся."
+          }
+        ]
+      },
+      "c1-l32": {
+        "title": "Nominal Relative & Concessive Clauses",
+        "pattern": "Whoever is responsible... / Whatever the outcome... / No matter how hard we try... — open-ended clauses",
+        "explanation": "Придаточные, начинающиеся с whoever, whatever, whichever, wherever, могут сами выступать подлежащим или дополнением предложения (именные относительные придаточные): «Whoever is responsible will be held accountable» — всё это придаточное и есть подлежащее главного предложения. Уступительный вариант с «no matter how/what/who» утверждает, что нечто остаётся верным независимо от того, как меняются условия: «No matter how hard we try, some risk always remains».",
+        "fact": "Формы на -ever восходят к неопределённым местоимениям древнеанглийского языка и остаются необычайно продуктивными в современном английском именно для построения всеохватных, безусловных утверждений — их особенно часто можно встретить в юридических формулировках, философских рассуждениях и мотивационной риторике, где важно исключить любые исключения из общего правила.",
+        "dialogue": [
+          {
+            "sp": "Anna",
+            "en": "Whoever is responsible will be held accountable.",
+            "ru": "Кто бы ни был ответственен, он понесёт ответственность."
+          },
+          {
+            "sp": "Marat",
+            "en": "Whatever the outcome, we'll accept the committee's decision.",
+            "ru": "Каким бы ни был результат, мы примем решение комитета."
+          },
+          {
+            "sp": "Anna",
+            "en": "No matter how hard we try, some risk always remains.",
+            "ru": "Как бы усердно мы ни старались, некоторый риск всегда остаётся."
+          },
+          {
+            "sp": "Marat",
+            "en": "Wherever you go, that reputation will follow you.",
+            "ru": "Куда бы ты ни поехал, эта репутация будет следовать за тобой."
           }
         ]
       }
