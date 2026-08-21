@@ -25731,6 +25731,1298 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "a2-l61-p1",
+            "title": "Weather Forecast — Talking About Tomorrow (Part 1)",
+            "titleNative": "Прогноз погоды · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l61",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Завтра будет дождь.",
+                "en": "It's going to rain tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Прогноз говорит, что будет солнечно.",
+                "en": "The forecast says it will be sunny."
+              },
+              {
+                "type": "listening",
+                "ru": "Позже может пойти снег.",
+                "en": "It might snow later."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Сегодня очень ветрено.",
+                "en": "It's very windy today."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Возьми зонт, на всякий случай.",
+                "en": "Take an umbrella, just in case."
+              },
+              {
+                "type": "type-answer",
+                "ru": "На выходных будет тепло.",
+                "en": "It will be warm this weekend."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Прогноз говорит, что будет солнечно.",
+                "en": "The forecast says it will be sunny.",
+                "blankedEn": "The forecast ___ it will be sunny.",
+                "answer": "says",
+                "options": [
+                  "says",
+                  "say",
+                  "said",
+                  "saying"
+                ]
+              }
+            ],
+            "number": 207
+          },
+          {
+            "id": "a2-l61-p2",
+            "title": "Weather Forecast — Talking About Tomorrow (Part 2)",
+            "titleNative": "Прогноз погоды · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l61",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Небо сегодня очень облачное.",
+                "en": "The sky is very cloudy today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Гроза начнётся вечером.",
+                "en": "There will be a storm in the evening."
+              },
+              {
+                "type": "listening",
+                "ru": "Какая завтра будет температура?",
+                "en": "What will the temperature be tomorrow?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "На следующей неделе похолодает.",
+                "en": "It will get colder next week."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Надеюсь, будет хорошая погода.",
+                "en": "I hope the weather will be nice."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Завтра будет дождь.",
+                    "en": "It's going to rain tomorrow."
+                  },
+                  {
+                    "ru": "Позже может пойти снег.",
+                    "en": "It might snow later."
+                  },
+                  {
+                    "ru": "Сегодня очень ветрено.",
+                    "en": "It's very windy today."
+                  },
+                  {
+                    "ru": "На выходных будет тепло.",
+                    "en": "It will be warm this weekend."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "На следующей неделе похолодает.",
+                "en": "It will get colder next week.",
+                "blankedEn": "It will get ___ next week.",
+                "answer": "colder",
+                "options": [
+                  "colder",
+                  "cold",
+                  "coldest",
+                  "cool"
+                ]
+              }
+            ],
+            "number": 208
+          },
+          {
+            "id": "a2-l62-p1",
+            "title": "At the Pharmacy (Part 1)",
+            "titleNative": "В аптеке · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l62",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "У вас есть что-нибудь от головной боли?",
+                "en": "Do you have anything for a headache?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сколько раз в день мне принимать это?",
+                "en": "How many times a day should I take this?"
+              },
+              {
+                "type": "listening",
+                "ru": "Это продаётся без рецепта?",
+                "en": "Is this available without a prescription?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У вас есть что-нибудь от простуды?",
+                "en": "Do you have anything for a cold?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Принимайте это после еды.",
+                "en": "Take this after meals."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Есть ли у этого лекарства побочные эффекты?",
+                "en": "Does this medicine have any side effects?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это продаётся без рецепта?",
+                "en": "Is this available without a prescription?",
+                "blankedEn": "Is this available without a ___?",
+                "answer": "prescription",
+                "options": [
+                  "prescription",
+                  "recipe",
+                  "note",
+                  "letter"
+                ]
+              }
+            ],
+            "number": 209
+          },
+          {
+            "id": "a2-l62-p2",
+            "title": "At the Pharmacy (Part 2)",
+            "titleNative": "В аптеке · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l62",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "У меня аллергия на некоторые лекарства.",
+                "en": "I'm allergic to some medicines."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Этот сироп от кашля очень эффективен.",
+                "en": "This cough syrup is very effective."
+              },
+              {
+                "type": "listening",
+                "ru": "Держите лекарство в прохладном месте.",
+                "en": "Keep the medicine in a cool place."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можно мне пластырь, пожалуйста?",
+                "en": "Can I have a band-aid, please?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Срок годности истёк.",
+                "en": "The expiration date has passed."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "У вас есть что-нибудь от головной боли?",
+                    "en": "Do you have anything for a headache?"
+                  },
+                  {
+                    "ru": "Сколько раз в день мне принимать это?",
+                    "en": "How many times a day should I take this?"
+                  },
+                  {
+                    "ru": "У меня аллергия на некоторые лекарства.",
+                    "en": "I'm allergic to some medicines."
+                  },
+                  {
+                    "ru": "Срок годности истёк.",
+                    "en": "The expiration date has passed."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "У меня аллергия на некоторые лекарства.",
+                "en": "I'm allergic to some medicines.",
+                "blankedEn": "I'm ___ to some medicines.",
+                "answer": "allergic",
+                "options": [
+                  "allergic",
+                  "allergy",
+                  "allergics",
+                  "allergen"
+                ]
+              }
+            ],
+            "number": 210
+          },
+          {
+            "id": "a2-reading-40",
+            "title": "Renting My First Apartment",
+            "titleNative": "Аренда первой квартиры",
+            "description": "Короткий рассказ об аренде квартиры.",
+            "readingPassage": {
+              "context": "Короткий рассказ об аренде квартиры.",
+              "paragraphs": [
+                {
+                  "en": "Dana just moved to a new city for work.",
+                  "ru": "Дана только что переехала в новый город из-за работы."
+                },
+                {
+                  "en": "She spent a week looking for an apartment.",
+                  "ru": "Она провела неделю в поисках квартиры."
+                },
+                {
+                  "en": "\"I'm looking for a two-bedroom apartment near the city center,\" she told the agent.",
+                  "ru": "«Я ищу двухкомнатную квартиру рядом с центром города», — сказала она агенту."
+                },
+                {
+                  "en": "The agent showed her three different places.",
+                  "ru": "Агент показал ей три разных места."
+                },
+                {
+                  "en": "Dana liked the second one — it was furnished and had a nice view.",
+                  "ru": "Дане понравился второй вариант — с мебелью и красивым видом."
+                },
+                {
+                  "en": "\"How much is the rent, and is the deposit refundable?\" she asked.",
+                  "ru": "«Сколько стоит аренда и возвращается ли залог?» — спросила она."
+                },
+                {
+                  "en": "The rent was reasonable, and yes, the deposit was refundable.",
+                  "ru": "Аренда была недорогой, и залог действительно возвращался."
+                },
+                {
+                  "en": "Dana signed the lease the same day and moved in a week later.",
+                  "ru": "Дана подписала договор в тот же день и заехала через неделю."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что искала Дана?",
+                "options": [
+                  "Дом",
+                  "Двухкомнатную квартиру",
+                  "Студию",
+                  "Общежитие"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько квартир показал агент?",
+                "options": [
+                  "Одну",
+                  "Две",
+                  "Три",
+                  "Четыре"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Была ли аренда с мебелью?",
+                "options": [
+                  "Нет",
+                  "Да",
+                  "Не сказано",
+                  "Только кухня"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 211
+          },
+          {
+            "id": "a2-l63-p1",
+            "title": "Renting an Apartment — Basics (Part 1)",
+            "titleNative": "Аренда квартиры · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l63",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я ищу двухкомнатную квартиру.",
+                "en": "I'm looking for a two-bedroom apartment."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сколько стоит аренда?",
+                "en": "How much is the rent?"
+              },
+              {
+                "type": "listening",
+                "ru": "Залог возвращается?",
+                "en": "Is the deposit refundable?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Коммунальные услуги включены?",
+                "en": "Are utilities included?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Когда можно заехать?",
+                "en": "When can I move in?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Договор аренды на один год.",
+                "en": "The lease is for one year."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Сколько стоит аренда?",
+                "en": "How much is the rent?",
+                "blankedEn": "How much is the ___?",
+                "answer": "rent",
+                "options": [
+                  "rent",
+                  "rental",
+                  "rents",
+                  "renting"
+                ]
+              }
+            ],
+            "number": 212
+          },
+          {
+            "id": "a2-l63-p2",
+            "title": "Renting an Apartment — Basics (Part 2)",
+            "titleNative": "Аренда квартиры · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l63",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Арендодатель живёт по соседству.",
+                "en": "The landlord lives next door."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В квартире есть мебель?",
+                "en": "Is the apartment furnished?"
+              },
+              {
+                "type": "listening",
+                "ru": "Мне нужно подписать договор завтра.",
+                "en": "I need to sign the lease tomorrow."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Есть ли парковка рядом с домом?",
+                "en": "Is there parking near the building?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Квартира на пятом этаже.",
+                "en": "The apartment is on the fifth floor."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я ищу двухкомнатную квартиру.",
+                    "en": "I'm looking for a two-bedroom apartment."
+                  },
+                  {
+                    "ru": "Сколько стоит аренда?",
+                    "en": "How much is the rent?"
+                  },
+                  {
+                    "ru": "Залог возвращается?",
+                    "en": "Is the deposit refundable?"
+                  },
+                  {
+                    "ru": "Арендодатель живёт по соседству.",
+                    "en": "The landlord lives next door."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В квартире есть мебель?",
+                "en": "Is the apartment furnished?",
+                "blankedEn": "Is the apartment ___?",
+                "answer": "furnished",
+                "options": [
+                  "furnished",
+                  "furniture",
+                  "furnish",
+                  "furnishing"
+                ]
+              }
+            ],
+            "number": 213
+          },
+          {
+            "id": "a2-l64-p1",
+            "title": "Online Shopping & Deliveries (Part 1)",
+            "titleNative": "Онлайн-покупки · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l64",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы хотел отследить свой заказ.",
+                "en": "I'd like to track my order."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Когда это доставят?",
+                "en": "When will it be delivered?"
+              },
+              {
+                "type": "listening",
+                "ru": "Можно мне вернуть этот товар?",
+                "en": "Can I return this item?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мой заказ уже доставляется.",
+                "en": "My order is being delivered."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Доставка бесплатная?",
+                "en": "Is the delivery free?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я получу деньги обратно за возврат?",
+                "en": "Will I get a refund for the return?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я бы хотел отследить свой заказ.",
+                "en": "I'd like to track my order.",
+                "blankedEn": "I'd like to ___ my order.",
+                "answer": "track",
+                "options": [
+                  "track",
+                  "trace",
+                  "follow",
+                  "check"
+                ]
+              }
+            ],
+            "number": 214
+          },
+          {
+            "id": "a2-l64-p2",
+            "title": "Online Shopping & Deliveries (Part 2)",
+            "titleNative": "Онлайн-покупки · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l64",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Товар пришёл повреждённым.",
+                "en": "The item arrived damaged."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Курьер приедет сегодня вечером.",
+                "en": "The courier will come this evening."
+              },
+              {
+                "type": "listening",
+                "ru": "Я оплатил заказ картой.",
+                "en": "I paid for the order with a card."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Сколько дней занимает доставка?",
+                "en": "How many days does the delivery take?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Ваш заказ был отправлен сегодня.",
+                "en": "Your order was shipped today."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я бы хотел отследить свой заказ.",
+                    "en": "I'd like to track my order."
+                  },
+                  {
+                    "ru": "Когда это доставят?",
+                    "en": "When will it be delivered?"
+                  },
+                  {
+                    "ru": "Товар пришёл повреждённым.",
+                    "en": "The item arrived damaged."
+                  },
+                  {
+                    "ru": "Курьер приедет сегодня вечером.",
+                    "en": "The courier will come this evening."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Товар пришёл повреждённым.",
+                "en": "The item arrived damaged.",
+                "blankedEn": "The item arrived ___.",
+                "answer": "damaged",
+                "options": [
+                  "damaged",
+                  "damage",
+                  "damaging",
+                  "damages"
+                ]
+              }
+            ],
+            "number": 215
+          },
+          {
+            "id": "a2-reading-41",
+            "title": "A Bad Wi-Fi Day",
+            "titleNative": "День с плохим Wi-Fi",
+            "description": "Короткий рассказ о проблемах с техникой.",
+            "readingPassage": {
+              "context": "Короткий рассказ о проблемах с техникой.",
+              "paragraphs": [
+                {
+                  "en": "Yerlan was working from home when his Wi-Fi stopped working.",
+                  "ru": "Ерлан работал из дома, когда его Wi-Fi перестал работать."
+                },
+                {
+                  "en": "\"My laptop isn't connecting to the internet,\" he said to his roommate.",
+                  "ru": "«Мой ноутбук не подключается к интернету», — сказал он соседу."
+                },
+                {
+                  "en": "\"Try restarting the router,\" his roommate suggested.",
+                  "ru": "«Попробуй перезагрузить роутер», — предложил сосед."
+                },
+                {
+                  "en": "Yerlan restarted it, but the problem continued.",
+                  "ru": "Ерлан перезагрузил его, но проблема осталась."
+                },
+                {
+                  "en": "He called the internet company for help.",
+                  "ru": "Он позвонил в интернет-компанию за помощью."
+                },
+                {
+                  "en": "\"There's a problem in your area,\" the support agent explained.",
+                  "ru": "«В вашем районе есть проблема», — объяснил сотрудник поддержки."
+                },
+                {
+                  "en": "\"It should be fixed within two hours,\" she added.",
+                  "ru": "«Это должно исправиться в течение двух часов», — добавила она."
+                },
+                {
+                  "en": "Yerlan decided to take a coffee break while he waited.",
+                  "ru": "Ерлан решил сделать перерыв на кофе, пока ждал."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что перестало работать?",
+                "options": [
+                  "Телефон",
+                  "Wi-Fi",
+                  "Компьютер",
+                  "Принтер"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что посоветовал сосед?",
+                "options": [
+                  "Купить новый роутер",
+                  "Перезагрузить роутер",
+                  "Позвонить другу",
+                  "Пойти в кафе"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Через сколько всё должно исправиться?",
+                "options": [
+                  "Час",
+                  "Два часа",
+                  "День",
+                  "Неделю"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 216
+          },
+          {
+            "id": "a2-l65-p1",
+            "title": "Social Media — Basic Vocabulary (Part 1)",
+            "titleNative": "Социальные сети · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l65",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я опубликовал фото.",
+                "en": "I posted a photo."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Ей понравился мой комментарий.",
+                "en": "She liked my comment."
+              },
+              {
+                "type": "listening",
+                "ru": "Не забудь подписаться на меня.",
+                "en": "Don't forget to follow me."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он поделился моим постом.",
+                "en": "He shared my post."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Я загружаю новое видео.",
+                "en": "I'm uploading a new video."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У неё много подписчиков.",
+                "en": "She has a lot of followers."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Ей понравился мой комментарий.",
+                "en": "She liked my comment.",
+                "blankedEn": "She ___ my comment.",
+                "answer": "liked",
+                "options": [
+                  "liked",
+                  "likes",
+                  "like",
+                  "liking"
+                ]
+              }
+            ],
+            "number": 217
+          },
+          {
+            "id": "a2-l65-p2",
+            "title": "Social Media — Basic Vocabulary (Part 2)",
+            "titleNative": "Социальные сети · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l65",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я редко проверяю соцсети по утрам.",
+                "en": "I rarely check social media in the morning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это видео стало вирусным.",
+                "en": "This video went viral."
+              },
+              {
+                "type": "listening",
+                "ru": "Оставь комментарий под постом.",
+                "en": "Leave a comment under the post."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я заблокировал этого пользователя.",
+                "en": "I blocked that user."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Она обновила свой профиль.",
+                "en": "She updated her profile."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я опубликовал фото.",
+                    "en": "I posted a photo."
+                  },
+                  {
+                    "ru": "Не забудь подписаться на меня.",
+                    "en": "Don't forget to follow me."
+                  },
+                  {
+                    "ru": "Он поделился моим постом.",
+                    "en": "He shared my post."
+                  },
+                  {
+                    "ru": "У неё много подписчиков.",
+                    "en": "She has a lot of followers."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это видео стало вирусным.",
+                "en": "This video went viral.",
+                "blankedEn": "This video went ___.",
+                "answer": "viral",
+                "options": [
+                  "viral",
+                  "virus",
+                  "virally",
+                  "viraling"
+                ]
+              }
+            ],
+            "number": 218
+          },
+          {
+            "id": "a2-l66-p1",
+            "title": "Have To vs Must — Obligation (Part 1)",
+            "titleNative": "Обязанность: have to и must · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l66",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужно работать завтра.",
+                "en": "I have to work tomorrow."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Вы должны пристегнуть ремень безопасности.",
+                "en": "You must wear a seatbelt."
+              },
+              {
+                "type": "listening",
+                "ru": "Нам не нужно спешить.",
+                "en": "We don't have to hurry."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты не должен приходить, если не хочешь.",
+                "en": "You don't have to come if you don't want to."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Здесь нельзя курить.",
+                "en": "You mustn't smoke here."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне приходится вставать рано каждый день.",
+                "en": "I have to get up early every day."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Вы должны пристегнуть ремень безопасности.",
+                "en": "You must wear a seatbelt.",
+                "blankedEn": "You ___ wear a seatbelt.",
+                "answer": "must",
+                "options": [
+                  "must",
+                  "should",
+                  "can",
+                  "may"
+                ]
+              }
+            ],
+            "number": 219
+          },
+          {
+            "id": "a2-l66-p2",
+            "title": "Have To vs Must — Obligation (Part 2)",
+            "titleNative": "Обязанность: have to и must · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l66",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Нам нужно закончить проект к пятнице.",
+                "en": "We have to finish the project by Friday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тебе не обязательно платить сейчас.",
+                "en": "You don't have to pay now."
+              },
+              {
+                "type": "listening",
+                "ru": "Все сотрудники должны носить бейджи.",
+                "en": "All employees must wear badges."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вам нельзя парковаться здесь.",
+                "en": "You mustn't park here."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мне пришлось отменить встречу.",
+                "en": "I had to cancel the meeting."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Мне нужно работать завтра.",
+                    "en": "I have to work tomorrow."
+                  },
+                  {
+                    "ru": "Вы должны пристегнуть ремень.",
+                    "en": "You must wear a seatbelt."
+                  },
+                  {
+                    "ru": "Нам не нужно спешить.",
+                    "en": "We don't have to hurry."
+                  },
+                  {
+                    "ru": "Здесь нельзя курить.",
+                    "en": "You mustn't smoke here."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мне пришлось отменить встречу.",
+                "en": "I had to cancel the meeting.",
+                "blankedEn": "I ___ to cancel the meeting.",
+                "answer": "had",
+                "options": [
+                  "had",
+                  "have",
+                  "has",
+                  "having"
+                ]
+              }
+            ],
+            "number": 220
+          },
+          {
+            "id": "a2-reading-42",
+            "title": "Going Green at the Office",
+            "titleNative": "Экологичный офис",
+            "description": "Короткий рассказ об экологичных привычках на работе.",
+            "readingPassage": {
+              "context": "Короткий рассказ об экологичных привычках на работе.",
+              "paragraphs": [
+                {
+                  "en": "Our office decided to become more environmentally friendly this year.",
+                  "ru": "В этом году наш офис решил стать более экологичным."
+                },
+                {
+                  "en": "\"We should recycle more paper and plastic,\" the manager said.",
+                  "ru": "«Нам стоит больше перерабатывать бумагу и пластик», — сказал менеджер."
+                },
+                {
+                  "en": "They put recycling bins in every room.",
+                  "ru": "Они поставили контейнеры для переработки в каждой комнате."
+                },
+                {
+                  "en": "\"Let's also save energy by turning off lights and computers,\" she added.",
+                  "ru": "«Давайте также экономить энергию, выключая свет и компьютеры», — добавила она."
+                },
+                {
+                  "en": "Many employees started bringing their own reusable cups.",
+                  "ru": "Многие сотрудники начали приносить свои многоразовые чашки."
+                },
+                {
+                  "en": "The company also stopped buying plastic bottles for meetings.",
+                  "ru": "Компания также перестала покупать пластиковые бутылки для совещаний."
+                },
+                {
+                  "en": "\"Small actions can make a big difference,\" the manager reminded everyone.",
+                  "ru": "«Маленькие действия могут иметь большое значение», — напомнил менеджер."
+                },
+                {
+                  "en": "After three months, the office was already using much less plastic.",
+                  "ru": "Через три месяца офис уже использовал намного меньше пластика."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что поставили в каждой комнате?",
+                "options": [
+                  "Растения",
+                  "Контейнеры для переработки",
+                  "Кулеры",
+                  "Плакаты"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что стали приносить сотрудники?",
+                "options": [
+                  "Свои обеды",
+                  "Свои многоразовые чашки",
+                  "Свои книги",
+                  "Свои растения"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что произошло через три месяца?",
+                "options": [
+                  "Ничего не изменилось",
+                  "Стали использовать меньше пластика",
+                  "Офис закрылся",
+                  "Наняли больше людей"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 221
+          },
+          {
+            "id": "a2-l67-p1",
+            "title": "Technology at Home — Basic Vocabulary (Part 1)",
+            "titleNative": "Техника дома · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l67",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мой ноутбук не работает.",
+                "en": "My laptop isn't working."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можете помочь настроить Wi-Fi?",
+                "en": "Can you help me set up the Wi-Fi?"
+              },
+              {
+                "type": "listening",
+                "ru": "Мне нужно зарядить телефон.",
+                "en": "I need to charge my phone."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Экран разбился.",
+                "en": "The screen is broken."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Попробуй перезагрузить компьютер.",
+                "en": "Try restarting the computer."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Батарея почти разряжена.",
+                "en": "The battery is almost dead."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мне нужно зарядить телефон.",
+                "en": "I need to charge my phone.",
+                "blankedEn": "I need to ___ my phone.",
+                "answer": "charge",
+                "options": [
+                  "charge",
+                  "charging",
+                  "charged",
+                  "charges"
+                ]
+              }
+            ],
+            "number": 222
+          },
+          {
+            "id": "a2-l67-p2",
+            "title": "Technology at Home — Basic Vocabulary (Part 2)",
+            "titleNative": "Техника дома · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l67",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Обновление устанавливается прямо сейчас.",
+                "en": "The update is installing right now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня плохое подключение к интернету.",
+                "en": "I have a bad internet connection."
+              },
+              {
+                "type": "listening",
+                "ru": "Забыл пароль от Wi-Fi.",
+                "en": "I forgot the Wi-Fi password."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Приложение постоянно вылетает.",
+                "en": "The app keeps crashing."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мне нужно новое зарядное устройство.",
+                "en": "I need a new charger."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Мой ноутбук не работает.",
+                    "en": "My laptop isn't working."
+                  },
+                  {
+                    "ru": "Мне нужно зарядить телефон.",
+                    "en": "I need to charge my phone."
+                  },
+                  {
+                    "ru": "Экран разбился.",
+                    "en": "The screen is broken."
+                  },
+                  {
+                    "ru": "Приложение постоянно вылетает.",
+                    "en": "The app keeps crashing."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Приложение постоянно вылетает.",
+                "en": "The app keeps crashing.",
+                "blankedEn": "The app keeps ___.",
+                "answer": "crashing",
+                "options": [
+                  "crashing",
+                  "crash",
+                  "crashed",
+                  "crashes"
+                ]
+              }
+            ],
+            "number": 223
+          },
+          {
+            "id": "a2-l68-p1",
+            "title": "Environment — Basic Vocabulary (Part 1)",
+            "titleNative": "Окружающая среда · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l68",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Нам стоит больше перерабатывать.",
+                "en": "We should recycle more."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пластик вреден для окружающей среды.",
+                "en": "Plastic is bad for the environment."
+              },
+              {
+                "type": "listening",
+                "ru": "Давайте экономить энергию.",
+                "en": "Let's save energy."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Загрязнение воздуха — серьёзная проблема.",
+                "en": "Air pollution is a serious problem."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мы должны использовать меньше пластиковых пакетов.",
+                "en": "We should use fewer plastic bags."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Отключай свет, когда выходишь из комнаты.",
+                "en": "Turn off the light when you leave the room."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Пластик вреден для окружающей среды.",
+                "en": "Plastic is bad for the environment.",
+                "blankedEn": "Plastic is bad for the ___.",
+                "answer": "environment",
+                "options": [
+                  "environment",
+                  "environments",
+                  "nature",
+                  "climate"
+                ]
+              }
+            ],
+            "number": 224
+          },
+          {
+            "id": "a2-l68-p2",
+            "title": "Environment — Basic Vocabulary (Part 2)",
+            "titleNative": "Окружающая среда · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l68",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Многие города переходят на электромобили.",
+                "en": "Many cities are switching to electric cars."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы стараемся тратить меньше воды.",
+                "en": "We try to use less water."
+              },
+              {
+                "type": "listening",
+                "ru": "В нашем доме есть контейнеры для переработки.",
+                "en": "Our building has recycling bins."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Изменение климата затрагивает всех.",
+                "en": "Climate change affects everyone."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Маленькие действия могут иметь большое значение.",
+                "en": "Small actions can make a big difference."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Нам стоит больше перерабатывать.",
+                    "en": "We should recycle more."
+                  },
+                  {
+                    "ru": "Давайте экономить энергию.",
+                    "en": "Let's save energy."
+                  },
+                  {
+                    "ru": "Загрязнение воздуха — серьёзная проблема.",
+                    "en": "Air pollution is a serious problem."
+                  },
+                  {
+                    "ru": "Изменение климата затрагивает всех.",
+                    "en": "Climate change affects everyone."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Многие города переходят на электромобили.",
+                "en": "Many cities are switching to electric cars.",
+                "blankedEn": "Many cities are ___ to electric cars.",
+                "answer": "switching",
+                "options": [
+                  "switching",
+                  "switch",
+                  "switched",
+                  "switches"
+                ]
+              }
+            ],
+            "number": 225
+          },
+          {
+            "id": "a2-reading-43",
+            "title": "Rules at the New Job",
+            "titleNative": "Правила на новой работе",
+            "description": "Короткий рассказ о правилах на новой работе.",
+            "readingPassage": {
+              "context": "Короткий рассказ о правилах на новой работе.",
+              "paragraphs": [
+                {
+                  "en": "Bota started a new job at a hospital last week.",
+                  "ru": "Бота начала новую работу в больнице на прошлой неделе."
+                },
+                {
+                  "en": "\"All employees must wear badges,\" her supervisor explained.",
+                  "ru": "«Все сотрудники должны носить бейджи», — объяснил её руководитель."
+                },
+                {
+                  "en": "\"You must wash your hands before entering any room,\" he added.",
+                  "ru": "«Вы должны мыть руки перед входом в любую комнату», — добавил он."
+                },
+                {
+                  "en": "Bota also learned that she doesn't have to work on Sundays.",
+                  "ru": "Бота также узнала, что ей не нужно работать по воскресеньям."
+                },
+                {
+                  "en": "\"You mustn't use your phone during patient visits,\" the supervisor said.",
+                  "ru": "«Вам нельзя пользоваться телефоном во время осмотра пациентов», — сказал руководитель."
+                },
+                {
+                  "en": "There were many rules to remember on her first day.",
+                  "ru": "В её первый день нужно было запомнить много правил."
+                },
+                {
+                  "en": "By the end of the week, the rules felt completely normal.",
+                  "ru": "К концу недели правила уже казались совершенно обычными."
+                },
+                {
+                  "en": "Bota was happy with her new job.",
+                  "ru": "Бота была довольна своей новой работой."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что должны носить все сотрудники?",
+                "options": [
+                  "Форму",
+                  "Бейджи",
+                  "Перчатки",
+                  "Маски"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Когда Боте не нужно работать?",
+                "options": [
+                  "По субботам",
+                  "По воскресеньям",
+                  "По пятницам",
+                  "Каждый день"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что нельзя делать во время осмотра пациентов?",
+                "options": [
+                  "Разговаривать",
+                  "Пользоваться телефоном",
+                  "Сидеть",
+                  "Писать"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 226
           }
         ]
       },
@@ -69798,6 +71090,54 @@
         "pattern": "Review of A1 grammar and vocabulary",
         "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня A1 — приветствия, глагол to be, простое настоящее и прошедшее время, вопросы, повседневные ситуации — чтобы закрепить весь пройденный материал перед переходом на уровень A2.",
         "fact": "Уровень A1 по шкале CEFR соответствует примерно 500–600 часам активного изучения языка с нуля — именно поэтому качественное закрепление базовой грамматики и лексики на этом этапе так важно: почти вся дальнейшая грамматика строится поверх этого фундамента."
+      },
+      "a2-l61": {
+        "title": "Weather Forecast — Talking About Tomorrow",
+        "pattern": "It's going to rain tomorrow. / The forecast says it will be sunny. / It might snow later.",
+        "explanation": "Прогноз погоды сочетает «going to» (для того, что предсказано по видимым признакам или сводке погоды) и «might» (для неуверенного предположения). «The forecast says...» — стандартный способ сослаться на источник прогноза.",
+        "fact": "Синоптики в англоязычных странах часто используют осторожные формулировки вроде «a chance of rain» вместо прямого «it will rain», потому что прогноз погоды по своей природе — вероятность, а не гарантия, и язык это честно отражает."
+      },
+      "a2-l62": {
+        "title": "At the Pharmacy",
+        "pattern": "Do you have anything for a headache? / How many times a day should I take this? / Is this available without a prescription?",
+        "explanation": "В аптеке используются практичные фразы для описания симптома («Do you have anything for...?») и уточнения дозировки («How many times a day...?»). «Over the counter» означает лекарство, которое можно купить без рецепта.",
+        "fact": "«Over the counter» буквально означает «через прилавок» — историческое выражение из эпохи, когда покупатель просто передавал деньги через прилавок аптеки без необходимости показывать рецепт врача."
+      },
+      "a2-l63": {
+        "title": "Renting an Apartment — Basics",
+        "pattern": "I'm looking for a two-bedroom apartment. / How much is the rent? / Is the deposit refundable?",
+        "explanation": "Поиск квартиры для аренды требует специальной лексики: rent (арендная плата), deposit (залог), landlord (арендодатель), lease (договор аренды). Вопрос «Is the deposit refundable?» уточняет, вернут ли залог по окончании аренды.",
+        "fact": "«Two-bedroom apartment» в английском считает именно спальни, а не общее количество комнат — гостиная и кухня в счёт не идут, что иногда сбивает с толку тех, кто привык считать все комнаты квартиры вместе, как это принято в некоторых других языках."
+      },
+      "a2-l64": {
+        "title": "Online Shopping & Deliveries",
+        "pattern": "I'd like to track my order. / When will it be delivered? / Can I return this item?",
+        "explanation": "Онлайн-покупки используют специфичную лексику: track an order (отследить заказ), delivery (доставка), return an item (вернуть товар), refund (возврат денег). Present Continuous описывает статус доставки («Your order is being delivered»).",
+        "fact": "«Track» в значении «отслеживать посылку» происходит от того же корня, что и «track» — след, дорожка, которую оставляет что-то движущееся; отследить посылку буквально означает «идти по её следу» через систему логистики."
+      },
+      "a2-l65": {
+        "title": "Social Media — Basic Vocabulary",
+        "pattern": "I posted a photo. / She liked my comment. / Don't forget to follow me.",
+        "explanation": "Базовая лексика социальных сетей уже прочно вошла в повседневный английский: post (публиковать), like (лайкать), follow (подписываться), comment (комментировать), share (делиться). Многие из этих слов используются и как существительные, и как глаголы.",
+        "fact": "Слово «follow» в контексте соцсетей — относительно новое значение старого слова: буквально «следовать за кем-то» превратилось в «получать обновления от кого-то в ленте», сохранив метафору движения за кем-то, но полностью переосмыслив её в цифровом контексте."
+      },
+      "a2-l66": {
+        "title": "Have To vs Must — Obligation",
+        "pattern": "I have to work tomorrow. / You must wear a seatbelt. / We don't have to hurry.",
+        "explanation": "«Have to» и «must» оба выражают обязанность, но «have to» чаще указывает на внешнее правило («I have to work — my boss said so»), а «must» — на личное убеждение говорящего или строгое правило («You must wear a seatbelt» — закон). «Don't have to» означает необязательность, а не запрет.",
+        "fact": "Путать «don't have to» (необязательно) и «mustn't» (запрещено) — одна из самых частых ошибок на уровне A2-B1, потому что по звучанию они кажутся похожими, но означают почти противоположное: «You don't have to come» (можно не приходить) против «You mustn't come» (нельзя приходить)."
+      },
+      "a2-l67": {
+        "title": "Technology at Home — Basic Vocabulary",
+        "pattern": "My laptop isn't working. / Can you help me set up the Wi-Fi? / I need to charge my phone.",
+        "explanation": "Домашняя техника и технологии в повседневной жизни требуют лексики вроде: charger (зарядное устройство), battery (батарея), Wi-Fi, screen (экран), to update (обновить), to restart (перезагрузить). Present Continuous описывает то, что происходит прямо сейчас: «My phone is charging».",
+        "fact": "«To restart» вашего устройства — универсальный совет технической поддержки по всему миру, независимо от языка: сама идея «выключить и включить снова» стала настолько частым решением проблем, что превратилась почти в культурную шутку в англоязычном интернете."
+      },
+      "a2-l68": {
+        "title": "Environment — Basic Vocabulary",
+        "pattern": "We should recycle more. / Plastic is bad for the environment. / Let's save energy.",
+        "explanation": "Базовая лексика об окружающей среде: recycle (перерабатывать), pollution (загрязнение), environment (окружающая среда), save energy (экономить энергию). «Should» здесь выражает совет или рекомендацию, а не строгую обязанность.",
+        "fact": "Слово «recycle» состоит из приставки «re-» (снова) и «cycle» (цикл, круг) — то есть буквально означает «вернуть в круг» повторного использования, а не просто «выбросить» — эта внутренняя логика слова отражает саму идею замкнутого цикла переработки."
       }
     },
     "vocabularySets": [
