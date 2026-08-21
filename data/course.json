@@ -35498,6 +35498,1621 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "b1-l38-p1",
+            "title": "Negotiating Prices & Deals (Part 1)",
+            "titleNative": "Переговоры о цене · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l38",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Вы могли бы предложить скидку?",
+                "en": "Could you offer a discount?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это немного больше, чем я ожидал.",
+                "en": "That's a bit more than I expected."
+              },
+              {
+                "type": "listening",
+                "ru": "Давайте встретимся посередине.",
+                "en": "Let's meet in the middle."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы можем предложить пять процентов скидки.",
+                "en": "We can offer a five percent discount."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Это наша окончательная цена.",
+                "en": "That's our final price."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можем ли мы договориться о лучших условиях?",
+                "en": "Can we agree on better terms?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Вы могли бы предложить скидку?",
+                "en": "Could you offer a discount?",
+                "blankedEn": "Could you offer a ___?",
+                "answer": "discount",
+                "options": [
+                  "discount",
+                  "deal",
+                  "price",
+                  "offer"
+                ]
+              }
+            ],
+            "number": 194
+          },
+          {
+            "id": "b1-l38-p2",
+            "title": "Negotiating Prices & Deals (Part 2)",
+            "titleNative": "Переговоры о цене · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l38",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я думаю, мы можем договориться.",
+                "en": "I think we can make a deal."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта цена не подлежит обсуждению.",
+                "en": "This price is non-negotiable."
+              },
+              {
+                "type": "listening",
+                "ru": "Что, если мы закажем больше?",
+                "en": "What if we order more?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы согласны на эти условия.",
+                "en": "We agree to these terms."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Давайте обсудим детали контракта.",
+                "en": "Let's discuss the details of the contract."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Вы могли бы предложить скидку?",
+                    "en": "Could you offer a discount?"
+                  },
+                  {
+                    "ru": "Давайте встретимся посередине.",
+                    "en": "Let's meet in the middle."
+                  },
+                  {
+                    "ru": "Это наша окончательная цена.",
+                    "en": "That's our final price."
+                  },
+                  {
+                    "ru": "Мы согласны на эти условия.",
+                    "en": "We agree to these terms."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Эта цена не подлежит обсуждению.",
+                "en": "This price is non-negotiable.",
+                "blankedEn": "This price is ___.",
+                "answer": "non-negotiable",
+                "options": [
+                  "non-negotiable",
+                  "negotiable",
+                  "flexible",
+                  "cheap"
+                ]
+              }
+            ],
+            "number": 195
+          },
+          {
+            "id": "b1-l39-p1",
+            "title": "Describing Skills & Experience (Part 1)",
+            "titleNative": "Навыки и опыт · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l39",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "У меня есть опыт в управлении проектами.",
+                "en": "I have experience in project management."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я умею решать проблемы.",
+                "en": "I'm skilled at problem-solving."
+              },
+              {
+                "type": "listening",
+                "ru": "Я работал с международными командами.",
+                "en": "I've worked with international teams."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня хорошие навыки общения.",
+                "en": "I have good communication skills."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Я быстро учусь новому.",
+                "en": "I learn new things quickly."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У меня пятилетний опыт в маркетинге.",
+                "en": "I have five years of experience in marketing."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я умею решать проблемы.",
+                "en": "I'm skilled at problem-solving.",
+                "blankedEn": "I'm ___ at problem-solving.",
+                "answer": "skilled",
+                "options": [
+                  "skilled",
+                  "skill",
+                  "skills",
+                  "skilling"
+                ]
+              }
+            ],
+            "number": 196
+          },
+          {
+            "id": "b1-l39-p2",
+            "title": "Describing Skills & Experience (Part 2)",
+            "titleNative": "Навыки и опыт · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l39",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я управлял командой из десяти человек.",
+                "en": "I managed a team of ten people."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я отвечал за бюджет проекта.",
+                "en": "I was responsible for the project budget."
+              },
+              {
+                "type": "listening",
+                "ru": "Мои сильные стороны — организация и внимание к деталям.",
+                "en": "My strengths are organization and attention to detail."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я хочу развивать свои навыки дальше.",
+                "en": "I want to develop my skills further."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Расскажите о своём опыте работы.",
+                "en": "Tell me about your work experience."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "У меня есть опыт в управлении проектами.",
+                    "en": "I have experience in project management."
+                  },
+                  {
+                    "ru": "Я умею решать проблемы.",
+                    "en": "I'm skilled at problem-solving."
+                  },
+                  {
+                    "ru": "Я управлял командой из десяти человек.",
+                    "en": "I managed a team of ten people."
+                  },
+                  {
+                    "ru": "Мои сильные стороны — организация.",
+                    "en": "My strengths are organization."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я отвечал за бюджет проекта.",
+                "en": "I was responsible for the project budget.",
+                "blankedEn": "I was ___ for the project budget.",
+                "answer": "responsible",
+                "options": [
+                  "responsible",
+                  "response",
+                  "responsibly",
+                  "responsibility"
+                ]
+              }
+            ],
+            "number": 197
+          },
+          {
+            "id": "b1-reading-26",
+            "title": "Negotiating a Business Deal",
+            "titleNative": "Переговоры о сделке",
+            "description": "Короткий рассказ о деловых переговорах.",
+            "readingPassage": {
+              "context": "Короткий рассказ о деловых переговорах.",
+              "paragraphs": [
+                {
+                  "en": "Karim met with a supplier to discuss a new contract.",
+                  "ru": "Карим встретился с поставщиком, чтобы обсудить новый контракт."
+                },
+                {
+                  "en": "\"That's a bit more than I expected,\" Karim said about the price.",
+                  "ru": "«Это немного больше, чем я ожидал», — сказал Карим о цене."
+                },
+                {
+                  "en": "\"Could you offer a discount for a larger order?\" he asked.",
+                  "ru": "«Не могли бы вы предложить скидку за более крупный заказ?» — спросил он."
+                },
+                {
+                  "en": "The supplier thought for a moment.",
+                  "ru": "Поставщик на мгновение задумался."
+                },
+                {
+                  "en": "\"Let's meet in the middle — I can offer five percent off,\" she said.",
+                  "ru": "«Давайте встретимся посередине — я могу предложить пять процентов скидки», — сказала она."
+                },
+                {
+                  "en": "Karim considered the offer carefully.",
+                  "ru": "Карим внимательно обдумал предложение."
+                },
+                {
+                  "en": "\"That works for us. We agree to these terms,\" he said, smiling.",
+                  "ru": "«Это нам подходит. Мы согласны на эти условия», — сказал он, улыбаясь."
+                },
+                {
+                  "en": "They shook hands and signed the contract that afternoon.",
+                  "ru": "Они пожали друг другу руки и подписали контракт в тот же день."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём Карим договаривался?",
+                "options": [
+                  "О зарплате",
+                  "О контракте с поставщиком",
+                  "О квартире",
+                  "Об отпуске"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какую скидку предложила поставщица?",
+                "options": [
+                  "Десять процентов",
+                  "Пять процентов",
+                  "Ноль",
+                  "Двадцать процентов"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончилась встреча?",
+                "options": [
+                  "Ничем не закончилась",
+                  "Подписанием контракта",
+                  "Ссорой",
+                  "Отменой сделки"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 198
+          },
+          {
+            "id": "b1-l40-p1",
+            "title": "Making Comparisons — Workplace Context (Part 1)",
+            "titleNative": "Сравнения на работе · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l40",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Этот подход более эффективен, чем старый.",
+                "en": "This approach is more efficient than the old one."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По сравнению с прошлым годом, продажи выше.",
+                "en": "Compared to last year, sales are higher."
+              },
+              {
+                "type": "listening",
+                "ru": "Наша команда работает быстрее, чем раньше.",
+                "en": "Our team works faster than before."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Этот план лучше предыдущего.",
+                "en": "This plan is better than the previous one."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "По сравнению с конкурентами, мы дешевле.",
+                "en": "Compared to our competitors, we're cheaper."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Результаты этого квартала намного выше.",
+                "en": "This quarter's results are much higher."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "По сравнению с прошлым годом, продажи выше.",
+                "en": "Compared to last year, sales are higher.",
+                "blankedEn": "___ to last year, sales are higher.",
+                "answer": "Compared",
+                "options": [
+                  "Compared",
+                  "Compare",
+                  "Comparing",
+                  "Comparison"
+                ]
+              }
+            ],
+            "number": 199
+          },
+          {
+            "id": "b1-l40-p2",
+            "title": "Making Comparisons — Workplace Context (Part 2)",
+            "titleNative": "Сравнения на работе · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l40",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Новая система намного удобнее.",
+                "en": "The new system is much more convenient."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Этот метод менее затратный.",
+                "en": "This method is less costly."
+              },
+              {
+                "type": "listening",
+                "ru": "Наши расходы ниже, чем в прошлом году.",
+                "en": "Our expenses are lower than last year."
+              },
+              {
+                "type": "type-answer",
+                "ru": "По сравнению с другими отделами, мы работаем эффективнее.",
+                "en": "Compared to other departments, we work more efficiently."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это самый эффективный подход из всех.",
+                "en": "This is the most efficient approach of all."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Этот подход более эффективен.",
+                    "en": "This approach is more efficient."
+                  },
+                  {
+                    "ru": "По сравнению с прошлым годом.",
+                    "en": "Compared to last year."
+                  },
+                  {
+                    "ru": "Наша команда работает быстрее.",
+                    "en": "Our team works faster."
+                  },
+                  {
+                    "ru": "Наши расходы ниже.",
+                    "en": "Our expenses are lower."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это самый эффективный подход из всех.",
+                "en": "This is the most efficient approach of all.",
+                "blankedEn": "This is the ___ efficient approach of all.",
+                "answer": "most",
+                "options": [
+                  "most",
+                  "more",
+                  "much",
+                  "many"
+                ]
+              }
+            ],
+            "number": 200
+          },
+          {
+            "id": "b1-l41-p1",
+            "title": "Talking About Habits — Tend To, Used To (Part 1)",
+            "titleNative": "Привычки: tend to и used to · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l41",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я обычно проверяю почту с утра.",
+                "en": "I tend to check email first thing in the morning."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Раньше у нас были встречи каждый день.",
+                "en": "We used to have meetings every day."
+              },
+              {
+                "type": "listening",
+                "ru": "Я, как правило, работаю допоздна по пятницам.",
+                "en": "I tend to work late on Fridays."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Раньше я работал в другой компании.",
+                "en": "I used to work at a different company."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он обычно приходит рано.",
+                "en": "He tends to arrive early."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Раньше мы не пользовались этой программой.",
+                "en": "We didn't use to use this program."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Раньше у нас были встречи каждый день.",
+                "en": "We used to have meetings every day.",
+                "blankedEn": "We ___ to have meetings every day.",
+                "answer": "used",
+                "options": [
+                  "used",
+                  "use",
+                  "using",
+                  "uses"
+                ]
+              }
+            ],
+            "number": 201
+          },
+          {
+            "id": "b1-l41-p2",
+            "title": "Talking About Habits — Tend To, Used To (Part 2)",
+            "titleNative": "Привычки: tend to и used to · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l41",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я, как правило, делаю заметки во время встреч.",
+                "en": "I tend to take notes during meetings."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Раньше это здание было заводом.",
+                "en": "This building used to be a factory."
+              },
+              {
+                "type": "listening",
+                "ru": "Команда, как правило, встречается по понедельникам.",
+                "en": "The team tends to meet on Mondays."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Раньше мы работали в офисе каждый день.",
+                "en": "We used to work in the office every day."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Сейчас всё по-другому.",
+                "en": "Things are different now."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я обычно проверяю почту с утра.",
+                    "en": "I tend to check email first thing in the morning."
+                  },
+                  {
+                    "ru": "Раньше у нас были встречи каждый день.",
+                    "en": "We used to have meetings every day."
+                  },
+                  {
+                    "ru": "Он обычно приходит рано.",
+                    "en": "He tends to arrive early."
+                  },
+                  {
+                    "ru": "Сейчас всё по-другому.",
+                    "en": "Things are different now."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Раньше это здание было заводом.",
+                "en": "This building used to be a factory.",
+                "blankedEn": "This building ___ to be a factory.",
+                "answer": "used",
+                "options": [
+                  "used",
+                  "use",
+                  "using",
+                  "uses"
+                ]
+              }
+            ],
+            "number": 202
+          },
+          {
+            "id": "b1-reading-27",
+            "title": "A Job Interview",
+            "titleNative": "Собеседование",
+            "description": "Короткий рассказ о собеседовании на работу.",
+            "readingPassage": {
+              "context": "Короткий рассказ о собеседовании на работу.",
+              "paragraphs": [
+                {
+                  "en": "Aidana was nervous before her job interview.",
+                  "ru": "Айдана нервничала перед собеседованием на работу."
+                },
+                {
+                  "en": "\"Tell me about your work experience,\" the interviewer said.",
+                  "ru": "«Расскажите о своём опыте работы», — сказал интервьюер."
+                },
+                {
+                  "en": "\"I have experience in project management,\" Aidana replied confidently.",
+                  "ru": "«У меня есть опыт в управлении проектами», — уверенно ответила Айдана."
+                },
+                {
+                  "en": "\"I've worked with international teams for three years,\" she added.",
+                  "ru": "«Я работала с международными командами три года», — добавила она."
+                },
+                {
+                  "en": "\"What are your strengths?\" the interviewer asked next.",
+                  "ru": "«Каковы ваши сильные стороны?» — спросил интервьюер дальше."
+                },
+                {
+                  "en": "\"I'm skilled at problem-solving and organization,\" Aidana said.",
+                  "ru": "«Я умею решать проблемы и хорошо организована», — сказала Айдана."
+                },
+                {
+                  "en": "The interviewer smiled and nodded.",
+                  "ru": "Интервьюер улыбнулся и кивнул."
+                },
+                {
+                  "en": "By the end, Aidana felt much more confident.",
+                  "ru": "К концу Айдана почувствовала себя намного увереннее."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько лет Айдана работала с международными командами?",
+                "options": [
+                  "Год",
+                  "Два года",
+                  "Три года",
+                  "Пять лет"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Какие сильные стороны назвала Айдана?",
+                "options": [
+                  "Пунктуальность",
+                  "Решение проблем и организация",
+                  "Креативность",
+                  "Лидерство"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как Айдана себя чувствовала в конце?",
+                "options": [
+                  "Хуже",
+                  "Так же нервно",
+                  "Увереннее",
+                  "Расстроенной"
+                ],
+                "answerIndex": 2
+              }
+            ],
+            "number": 203
+          },
+          {
+            "id": "b1-l42-p1",
+            "title": "Giving Directions — Detailed (Part 1)",
+            "titleNative": "Подробные указания пути · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l42",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Идите прямо, пока не дойдёте до перекрёстка.",
+                "en": "Go straight until you reach the intersection."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Поверните на второй улице налево.",
+                "en": "Take the second turning on the left."
+              },
+              {
+                "type": "listening",
+                "ru": "Здание находится напротив банка.",
+                "en": "The building is opposite the bank."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Пройдите два квартала и поверните направо.",
+                "en": "Walk two blocks and turn right."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Вы не сможете пропустить его.",
+                "en": "You can't miss it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это займёт около десяти минут пешком.",
+                "en": "It'll take about ten minutes on foot."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Идите прямо, пока не дойдёте до перекрёстка.",
+                "en": "Go straight until you reach the intersection.",
+                "blankedEn": "Go straight ___ you reach the intersection.",
+                "answer": "until",
+                "options": [
+                  "until",
+                  "while",
+                  "when",
+                  "before"
+                ]
+              }
+            ],
+            "number": 204
+          },
+          {
+            "id": "b1-l42-p2",
+            "title": "Giving Directions — Detailed (Part 2)",
+            "titleNative": "Подробные указания пути · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l42",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Пройдите мимо парка и поверните налево.",
+                "en": "Pass the park and turn left."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вход находится с задней стороны здания.",
+                "en": "The entrance is at the back of the building."
+              },
+              {
+                "type": "listening",
+                "ru": "Следуйте по этой улице до конца.",
+                "en": "Follow this street to the end."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Извините, я не местный.",
+                "en": "Sorry, I'm not from around here."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Есть ли автобус до туда?",
+                "en": "Is there a bus that goes there?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Идите прямо, пока не дойдёте до перекрёстка.",
+                    "en": "Go straight until you reach the intersection."
+                  },
+                  {
+                    "ru": "Поверните на второй улице налево.",
+                    "en": "Take the second turning on the left."
+                  },
+                  {
+                    "ru": "Здание находится напротив банка.",
+                    "en": "The building is opposite the bank."
+                  },
+                  {
+                    "ru": "Вы не сможете пропустить его.",
+                    "en": "You can't miss it."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Следуйте по этой улице до конца.",
+                "en": "Follow this street to the end.",
+                "blankedEn": "Follow this street to the ___.",
+                "answer": "end",
+                "options": [
+                  "end",
+                  "corner",
+                  "side",
+                  "top"
+                ]
+              }
+            ],
+            "number": 205
+          },
+          {
+            "id": "b1-l43-p1",
+            "title": "Describing a Problem & Proposing a Solution (Part 1)",
+            "titleNative": "Проблема и решение · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l43",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Основная проблема в том, что система устарела.",
+                "en": "The main issue is that the system is outdated."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Одним из возможных решений было бы обновить программу.",
+                "en": "One possible solution would be to update the software."
+              },
+              {
+                "type": "listening",
+                "ru": "Это могло бы помочь исправить ситуацию.",
+                "en": "This could help fix it."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы столкнулись с серьёзной проблемой.",
+                "en": "We've run into a serious problem."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Нам нужно найти долгосрочное решение.",
+                "en": "We need to find a long-term solution."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Проблема, кажется, в коммуникации.",
+                "en": "The problem seems to be communication."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Одним из возможных решений было бы обновить программу.",
+                "en": "One possible solution would be to update the software.",
+                "blankedEn": "One possible solution ___ be to update the software.",
+                "answer": "would",
+                "options": [
+                  "would",
+                  "will",
+                  "could",
+                  "should"
+                ]
+              }
+            ],
+            "number": 206
+          },
+          {
+            "id": "b1-l43-p2",
+            "title": "Describing a Problem & Proposing a Solution (Part 2)",
+            "titleNative": "Проблема и решение · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l43",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Давайте рассмотрим все варианты.",
+                "en": "Let's consider all the options."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Проблема требует немедленного решения.",
+                "en": "The problem requires an immediate solution."
+              },
+              {
+                "type": "listening",
+                "ru": "Одно решение — нанять больше людей.",
+                "en": "One solution is to hire more people."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это лучше, чем ничего не делать.",
+                "en": "It's better than doing nothing."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "У нас есть несколько вариантов решения.",
+                "en": "We have a few possible solutions."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Основная проблема в том, что система устарела.",
+                    "en": "The main issue is that the system is outdated."
+                  },
+                  {
+                    "ru": "Это могло бы помочь исправить ситуацию.",
+                    "en": "This could help fix it."
+                  },
+                  {
+                    "ru": "Нам нужно найти долгосрочное решение.",
+                    "en": "We need to find a long-term solution."
+                  },
+                  {
+                    "ru": "Давайте рассмотрим все варианты.",
+                    "en": "Let's consider all the options."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Проблема требует немедленного решения.",
+                "en": "The problem requires an immediate solution.",
+                "blankedEn": "The problem requires an ___ solution.",
+                "answer": "immediate",
+                "options": [
+                  "immediate",
+                  "immediately",
+                  "immediacy",
+                  "immediates"
+                ]
+              }
+            ],
+            "number": 207
+          },
+          {
+            "id": "b1-reading-28",
+            "title": "A Tight Deadline",
+            "titleNative": "Сжатые сроки",
+            "description": "Короткий рассказ о работе в условиях дедлайна.",
+            "readingPassage": {
+              "context": "Короткий рассказ о работе в условиях дедлайна.",
+              "paragraphs": [
+                {
+                  "en": "\"The deadline is next Friday,\" the manager announced.",
+                  "ru": "«Крайний срок — следующая пятница», — объявил менеджер."
+                },
+                {
+                  "en": "The team looked at each other nervously.",
+                  "ru": "Команда обеспокоенно переглянулась."
+                },
+                {
+                  "en": "\"I'm running out of time,\" said one of the developers.",
+                  "ru": "«У меня заканчивается время», — сказал один из разработчиков."
+                },
+                {
+                  "en": "\"We need to prioritize our tasks,\" the manager suggested.",
+                  "ru": "«Нам нужно расставить приоритеты в задачах», — предложил менеджер."
+                },
+                {
+                  "en": "They made a list of what needed to be done first.",
+                  "ru": "Они составили список того, что нужно сделать в первую очередь."
+                },
+                {
+                  "en": "\"This needs to be a priority,\" the manager said, pointing at the most important task.",
+                  "ru": "«Это должно быть в приоритете», — сказал менеджер, указывая на самую важную задачу."
+                },
+                {
+                  "en": "The team worked hard for the rest of the week.",
+                  "ru": "Команда усердно работала всю оставшуюся неделю."
+                },
+                {
+                  "en": "In the end, they met the deadline with time to spare.",
+                  "ru": "В итоге они уложились в срок с запасом времени."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Когда крайний срок?",
+                "options": [
+                  "В понедельник",
+                  "В следующую пятницу",
+                  "Завтра",
+                  "Через месяц"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что предложил менеджер?",
+                "options": [
+                  "Отменить проект",
+                  "Расставить приоритеты",
+                  "Взять отпуск",
+                  "Нанять больше людей"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончилась история?",
+                "options": [
+                  "Они не успели",
+                  "Они уложились в срок",
+                  "Дедлайн перенесли",
+                  "Проект отменили"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 208
+          },
+          {
+            "id": "b1-l44-p1",
+            "title": "Time Management — Deadlines & Priorities (Part 1)",
+            "titleNative": "Дедлайны и приоритеты · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l44",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Крайний срок — следующая пятница.",
+                "en": "The deadline is next Friday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это должно быть в приоритете.",
+                "en": "This needs to be a priority."
+              },
+              {
+                "type": "listening",
+                "ru": "У меня заканчивается время.",
+                "en": "I'm running out of time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Нам нужно расставить приоритеты в задачах.",
+                "en": "We need to prioritize our tasks."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Дедлайн уже завтра.",
+                "en": "The deadline is already tomorrow."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы уложились в срок.",
+                "en": "We met the deadline."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это должно быть в приоритете.",
+                "en": "This needs to be a priority.",
+                "blankedEn": "This needs to be a ___.",
+                "answer": "priority",
+                "options": [
+                  "priority",
+                  "priorities",
+                  "prior",
+                  "prioritize"
+                ]
+              }
+            ],
+            "number": 209
+          },
+          {
+            "id": "b1-l44-p2",
+            "title": "Time Management — Deadlines & Priorities (Part 2)",
+            "titleNative": "Дедлайны и приоритеты · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l44",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Мы пропустили дедлайн из-за проблем с системой.",
+                "en": "We missed the deadline because of system issues."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У нас не хватает времени на всё.",
+                "en": "We don't have enough time for everything."
+              },
+              {
+                "type": "listening",
+                "ru": "Что должно быть в приоритете сначала?",
+                "en": "What should be the priority first?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Нам нужно продлить срок.",
+                "en": "We need to extend the deadline."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Давайте сосредоточимся на самом важном.",
+                "en": "Let's focus on what matters most."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Крайний срок — следующая пятница.",
+                    "en": "The deadline is next Friday."
+                  },
+                  {
+                    "ru": "У меня заканчивается время.",
+                    "en": "I'm running out of time."
+                  },
+                  {
+                    "ru": "Мы уложились в срок.",
+                    "en": "We met the deadline."
+                  },
+                  {
+                    "ru": "Нам нужно продлить срок.",
+                    "en": "We need to extend the deadline."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы пропустили дедлайн из-за проблем с системой.",
+                "en": "We missed the deadline because of system issues.",
+                "blankedEn": "We ___ the deadline because of system issues.",
+                "answer": "missed",
+                "options": [
+                  "missed",
+                  "miss",
+                  "missing",
+                  "misses"
+                ]
+              }
+            ],
+            "number": 210
+          },
+          {
+            "id": "b1-l45-p1",
+            "title": "Making Predictions — Likely To / Unlikely To (Part 1)",
+            "titleNative": "Прогнозы: likely to и unlikely to · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l45",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Это, вероятно, будет успешным.",
+                "en": "This is likely to succeed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Маловероятно, что мы закончим вовремя.",
+                "en": "It's unlikely that we'll finish on time."
+              },
+              {
+                "type": "listening",
+                "ru": "Есть хороший шанс, что это сработает.",
+                "en": "There's a good chance it will work."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Цены, вероятно, вырастут в следующем году.",
+                "en": "Prices are likely to rise next year."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Маловероятно, что он согласится.",
+                "en": "It's unlikely that he'll agree."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Скорее всего, встреча будет перенесена.",
+                "en": "The meeting is likely to be postponed."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это, вероятно, будет успешным.",
+                "en": "This is likely to succeed.",
+                "blankedEn": "This is ___ to succeed.",
+                "answer": "likely",
+                "options": [
+                  "likely",
+                  "likes",
+                  "like",
+                  "liking"
+                ]
+              }
+            ],
+            "number": 211
+          },
+          {
+            "id": "b1-l45-p2",
+            "title": "Making Predictions — Likely To / Unlikely To (Part 2)",
+            "titleNative": "Прогнозы: likely to и unlikely to · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l45",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Маловероятно, что дождь закончится сегодня.",
+                "en": "It's unlikely that the rain will stop today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Проект, скорее всего, будет завершён к декабрю.",
+                "en": "The project is likely to be finished by December."
+              },
+              {
+                "type": "listening",
+                "ru": "Есть большая вероятность, что мы выиграем.",
+                "en": "There's a high chance we'll win."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Маловероятно, что цены упадут.",
+                "en": "It's unlikely that prices will fall."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Как думаешь, что вероятнее всего произойдёт?",
+                "en": "What do you think is most likely to happen?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Это, вероятно, будет успешным.",
+                    "en": "This is likely to succeed."
+                  },
+                  {
+                    "ru": "Маловероятно, что мы закончим вовремя.",
+                    "en": "It's unlikely that we'll finish on time."
+                  },
+                  {
+                    "ru": "Есть хороший шанс, что это сработает.",
+                    "en": "There's a good chance it will work."
+                  },
+                  {
+                    "ru": "Цены, вероятно, вырастут.",
+                    "en": "Prices are likely to rise."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Маловероятно, что дождь закончится сегодня.",
+                "en": "It's unlikely that the rain will stop today.",
+                "blankedEn": "It's ___ that the rain will stop today.",
+                "answer": "unlikely",
+                "options": [
+                  "unlikely",
+                  "likely",
+                  "unlike",
+                  "likeness"
+                ]
+              }
+            ],
+            "number": 212
+          },
+          {
+            "id": "b1-reading-29",
+            "title": "Asking for Clarification at a Meeting",
+            "titleNative": "Уточнение на совещании",
+            "description": "Короткий рассказ о недопонимании на совещании.",
+            "readingPassage": {
+              "context": "Короткий рассказ о недопонимании на совещании.",
+              "paragraphs": [
+                {
+                  "en": "During the meeting, the manager explained a new process quickly.",
+                  "ru": "Во время совещания менеджер быстро объяснил новый процесс."
+                },
+                {
+                  "en": "Erlan wasn't sure he understood everything.",
+                  "ru": "Ерлан не был уверен, что понял всё."
+                },
+                {
+                  "en": "\"Sorry, I'm not sure I follow,\" he said politely.",
+                  "ru": "«Извините, я не уверен, что понимаю», — вежливо сказал он."
+                },
+                {
+                  "en": "\"Could you clarify what you mean by 'final approval'?\" he asked.",
+                  "ru": "«Не могли бы вы разъяснить, что вы имеете в виду под «окончательным одобрением»?» — спросил он."
+                },
+                {
+                  "en": "The manager smiled and explained it again, more slowly.",
+                  "ru": "Менеджер улыбнулся и объяснил ещё раз, медленнее."
+                },
+                {
+                  "en": "\"So do you mean we need approval before starting?\" Erlan asked.",
+                  "ru": "«Значит, вы имеете в виду, что нам нужно одобрение перед началом?» — спросил Ерлан."
+                },
+                {
+                  "en": "\"Exactly right,\" the manager confirmed.",
+                  "ru": "«Именно так», — подтвердил менеджер."
+                },
+                {
+                  "en": "\"That's clear now, thank you,\" Erlan said, relieved.",
+                  "ru": "«Теперь всё понятно, спасибо», — сказал Ерлан с облегчением."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что не понял Ерлан?",
+                "options": [
+                  "Тему совещания",
+                  "Что значит «окончательное одобрение»",
+                  "Время встречи",
+                  "Имя менеджера"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сделал менеджер?",
+                "options": [
+                  "Разозлился",
+                  "Объяснил медленнее",
+                  "Отменил встречу",
+                  "Промолчал"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как Ерлан себя почувствовал в конце?",
+                "options": [
+                  "Ещё более растерянным",
+                  "С облегчением",
+                  "Разозлённым",
+                  "Равнодушным"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 213
+          },
+          {
+            "id": "b1-l46-p1",
+            "title": "Asking for Clarification (Part 1)",
+            "titleNative": "Просьба о разъяснении · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l46",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Не могли бы вы разъяснить, что вы имеете в виду?",
+                "en": "Could you clarify what you mean?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Извините, я не уверен, что понимаю.",
+                "en": "Sorry, I'm not sure I follow."
+              },
+              {
+                "type": "listening",
+                "ru": "Что именно вы имеете в виду под этим?",
+                "en": "What exactly do you mean by that?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не могли бы вы объяснить это подробнее?",
+                "en": "Could you explain that in more detail?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Я не совсем уловил вашу мысль.",
+                "en": "I didn't quite catch your point."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можете привести пример?",
+                "en": "Can you give an example?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Извините, я не уверен, что понимаю.",
+                "en": "Sorry, I'm not sure I follow.",
+                "blankedEn": "Sorry, I'm not sure I ___.",
+                "answer": "follow",
+                "options": [
+                  "follow",
+                  "understand",
+                  "get",
+                  "know"
+                ]
+              }
+            ],
+            "number": 214
+          },
+          {
+            "id": "b1-l46-p2",
+            "title": "Asking for Clarification (Part 2)",
+            "titleNative": "Просьба о разъяснении · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l46",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Не могли бы вы повторить это другими словами?",
+                "en": "Could you rephrase that?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я хочу убедиться, что правильно понял.",
+                "en": "I want to make sure I understood correctly."
+              },
+              {
+                "type": "listening",
+                "ru": "Так вы имеете в виду, что мы должны подождать?",
+                "en": "So do you mean we should wait?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Простите, можно ещё раз?",
+                "en": "Sorry, could you say that again?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Теперь всё понятно, спасибо.",
+                "en": "That's clear now, thank you."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Не могли бы вы разъяснить, что вы имеете в виду?",
+                    "en": "Could you clarify what you mean?"
+                  },
+                  {
+                    "ru": "Извините, я не уверен, что понимаю.",
+                    "en": "Sorry, I'm not sure I follow."
+                  },
+                  {
+                    "ru": "Что именно вы имеете в виду?",
+                    "en": "What exactly do you mean?"
+                  },
+                  {
+                    "ru": "Теперь всё понятно, спасибо.",
+                    "en": "That's clear now, thank you."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Не могли бы вы повторить это другими словами?",
+                "en": "Could you rephrase that?",
+                "blankedEn": "Could you ___ that?",
+                "answer": "rephrase",
+                "options": [
+                  "rephrase",
+                  "repeat",
+                  "reword",
+                  "retell"
+                ]
+              }
+            ],
+            "number": 215
+          },
+          {
+            "id": "b1-l47-p1",
+            "title": "B1 Review — Everyday Professional Life (Part 1)",
+            "titleNative": "Итоговое повторение B1 · Часть 1",
+            "description": "Новая тема B1",
+            "topicId": "b1-l47",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я работал здесь уже три года.",
+                "en": "I've worked here for three years."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы у меня было больше времени, я бы закончил.",
+                "en": "If I had more time, I would finish."
+              },
+              {
+                "type": "listening",
+                "ru": "Отчёт был написан вчера.",
+                "en": "The report was written yesterday."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он сказал, что придёт позже.",
+                "en": "He said that he would come later."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "У меня есть опыт в управлении проектами.",
+                "en": "I have experience in project management."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Одним из возможных решений было бы это.",
+                "en": "One possible solution would be this."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я работал здесь уже три года.",
+                "en": "I've worked here for three years.",
+                "blankedEn": "I've worked here ___ three years.",
+                "answer": "for",
+                "options": [
+                  "for",
+                  "since",
+                  "during",
+                  "from"
+                ]
+              }
+            ],
+            "number": 216
+          },
+          {
+            "id": "b1-l47-p2",
+            "title": "B1 Review — Everyday Professional Life (Part 2)",
+            "titleNative": "Итоговое повторение B1 · Часть 2",
+            "description": "Новая тема B1",
+            "topicId": "b1-l47",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Не могли бы вы предложить скидку?",
+                "en": "Could you offer a discount?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Крайний срок — следующая пятница.",
+                "en": "The deadline is next Friday."
+              },
+              {
+                "type": "listening",
+                "ru": "Это, вероятно, будет успешным.",
+                "en": "This is likely to succeed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я многому научился на уровне B1.",
+                "en": "I've learned a lot at the B1 level."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Теперь я готов к следующему уровню.",
+                "en": "I'm ready for the next level now."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я работал здесь уже три года.",
+                    "en": "I've worked here for three years."
+                  },
+                  {
+                    "ru": "Если бы у меня было больше времени.",
+                    "en": "If I had more time."
+                  },
+                  {
+                    "ru": "Отчёт был написан вчера.",
+                    "en": "The report was written yesterday."
+                  },
+                  {
+                    "ru": "Я многому научился на уровне B1.",
+                    "en": "I've learned a lot at the B1 level."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Теперь я готов к следующему уровню.",
+                "en": "I'm ready for the next level now.",
+                "blankedEn": "I'm ___ for the next level now.",
+                "answer": "ready",
+                "options": [
+                  "ready",
+                  "read",
+                  "readily",
+                  "readiness"
+                ]
+              }
+            ],
+            "number": 217
+          },
+          {
+            "id": "b1-reading-30",
+            "title": "B1 Journey Complete",
+            "titleNative": "Уровень B1 пройден",
+            "description": "Заключительный рассказ уровня B1.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня B1, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Madina has been learning English for over a year now.",
+                  "ru": "Мадина изучает английский язык уже больше года."
+                },
+                {
+                  "en": "She can now handle real conversations at work.",
+                  "ru": "Теперь она может вести настоящие разговоры на работе."
+                },
+                {
+                  "en": "\"I can negotiate deals, ask for clarification, and explain problems,\" she says proudly.",
+                  "ru": "«Я могу вести переговоры, просить разъяснений и объяснять проблемы», — гордо говорит она."
+                },
+                {
+                  "en": "She's also learned to use the passive voice and reported speech naturally.",
+                  "ru": "Она также научилась естественно использовать страдательный залог и косвенную речь."
+                },
+                {
+                  "en": "\"If I had started earlier, I would already be at B2,\" she jokes.",
+                  "ru": "«Если бы я начала раньше, я была бы уже на уровне B2», — шутит она."
+                },
+                {
+                  "en": "Her colleagues have noticed how much her English has improved.",
+                  "ru": "Её коллеги заметили, насколько улучшился её английский."
+                },
+                {
+                  "en": "\"I'm ready for the next level now,\" Madina says confidently.",
+                  "ru": "«Теперь я готова к следующему уровню», — уверенно говорит Мадина."
+                },
+                {
+                  "en": "Her journey toward fluency continues, one conversation at a time.",
+                  "ru": "Её путь к беглости продолжается, разговор за разговором."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько времени Мадина учит английский?",
+                "options": [
+                  "Полгода",
+                  "Больше года",
+                  "Два месяца",
+                  "Три года"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что Мадина научилась использовать?",
+                "options": [
+                  "Только простые предложения",
+                  "Страдательный залог и косвенную речь",
+                  "Только вопросы",
+                  "Только прошедшее время"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит Мадина в конце?",
+                "options": [
+                  "Она бросает учёбу",
+                  "Она готова к следующему уровню",
+                  "Ей нужен перерыв",
+                  "Она разочарована"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 218
           }
         ]
       },
@@ -72478,6 +74093,66 @@
         "pattern": "Review of A2 grammar and vocabulary",
         "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня A2 — прошедшее время, будущие формы, модальные глаголы, сравнения, повседневные ситуации — чтобы закрепить материал перед переходом на уровень B1.",
         "fact": "Переход с A2 на B1 считается одним из самых заметных скачков в изучении языка: именно на уровне B1 учащиеся впервые могут вести полноценный разговор на абстрактные темы, а не только описывать конкретные факты и повседневные ситуации."
+      },
+      "b1-l38": {
+        "title": "Negotiating Prices & Deals",
+        "pattern": "Could you offer a discount? / That's a bit more than I expected. / Let's meet in the middle.",
+        "explanation": "Переговоры о цене используют вежливые, но настойчивые формулировки: «Could you offer a discount?», «That's a bit more than I expected» — мягкая жалоба на цену без прямого отказа. «Let's meet in the middle» предлагает компромисс.",
+        "fact": "«Meet in the middle» — метафора из мира физического расстояния, перенесённая на переговоры: буквально «встретиться посередине пути» стало означать «найти компромисс», где обе стороны немного уступают."
+      },
+      "b1-l39": {
+        "title": "Describing Skills & Experience",
+        "pattern": "I have experience in... / I'm skilled at... / I've worked with...",
+        "explanation": "Описание навыков и опыта — ключевой навык для собеседований и резюме: «I have experience in project management», «I'm skilled at problem-solving». Present Perfect («I've worked with...») подчёркивает накопленный опыт, а не конкретный момент.",
+        "fact": "В английских резюме принято избегать местоимения «I» в начале каждого предложения («Managed a team of five» вместо «I managed a team of five») — это стилистическое правило, специфичное именно для письменного резюме, а не для устной речи о своём опыте."
+      },
+      "b1-l40": {
+        "title": "Making Comparisons — Workplace Context",
+        "pattern": "This approach is more efficient than the old one. / Compared to last year, sales are higher.",
+        "explanation": "Сравнения в рабочем контексте часто используют «compared to» вместо простого «than»: «Compared to last year, sales are higher» звучит более аналитически, чем «Sales are higher than last year».",
+        "fact": "«Compared to» и «compared with» оба грамматически правильны и означают почти одно и то же, но некоторые стилисты настаивают на тонком различии: «compared to» — для метафорического сходства, «compared with» — для буквального, объективного сопоставления данных, хотя на практике носители языка используют их почти взаимозаменяемо."
+      },
+      "b1-l41": {
+        "title": "Talking About Habits — Tend To, Used To",
+        "pattern": "I tend to check email first thing in the morning. / We used to have meetings every day.",
+        "explanation": "«Tend to» описывает типичное, но не абсолютное поведение в настоящем («I tend to work late on Fridays»), а «used to» — привычку в прошлом, которой больше нет («We used to have meetings every day» — а теперь не проводим).",
+        "fact": "«Tend to» и «used to» иногда путают, потому что оба звучат похоже на «привычку», но «tend to» — это про настоящее время (сейчас так обычно бывает), а «used to» — исключительно про прошлое, которое закончилось."
+      },
+      "b1-l42": {
+        "title": "Giving Directions — Detailed",
+        "pattern": "Go straight until you reach the intersection. / Take the second turning on the left.",
+        "explanation": "Подробные инструкции по направлению используют повелительное наклонение и конкретные ориентиры: «Go straight until you reach the intersection», «Take the second turning on the left». «Until» показывает, до какой точки нужно двигаться.",
+        "fact": "«Turning» в британском английском означает «поворот» как физическое место на дороге («take the second turning»), в то время как в американском английском чаще используют «turn» в том же значении — ещё одно небольшое, но заметное расхождение между вариантами."
+      },
+      "b1-l43": {
+        "title": "Describing a Problem & Proposing a Solution",
+        "pattern": "The main issue is... / One possible solution would be... / This could help fix it.",
+        "explanation": "Структура «проблема → решение» строится по чёткой схеме: сначала называется проблема («The main issue is...»), затем предлагается решение в условном наклонении («One possible solution would be...»), что звучит менее категорично, чем прямое утверждение.",
+        "fact": "Использование «would be» вместо простого «is» при предложении решения («One possible solution would be...») — намеренная грамматическая мягкость: это сигнализирует, что говорящий предлагает вариант для обсуждения, а не навязывает единственно верный ответ."
+      },
+      "b1-l44": {
+        "title": "Time Management — Deadlines & Priorities",
+        "pattern": "The deadline is next Friday. / This needs to be a priority. / I'm running out of time.",
+        "explanation": "Лексика управления временем: deadline (крайний срок), priority (приоритет), to run out of time (не успевать по времени). «This needs to be a priority» использует пассивную конструкцию с модальным «needs to» для мягкого настояния.",
+        "fact": "Слово «deadline» имеет мрачное историческое происхождение — во время Гражданской войны в США так называли черту вокруг тюремного лагеря, за которую заключённым запрещалось заходить под угрозой расстрела; современное «крайний срок» — гораздо более безобидное развитие этого значения."
+      },
+      "b1-l45": {
+        "title": "Making Predictions — Likely To / Unlikely To",
+        "pattern": "This is likely to succeed. / It's unlikely that we'll finish on time. / There's a good chance it will work.",
+        "explanation": "«Likely to» и «unlikely to» выражают степень вероятности более точно, чем простое «will» или «might»: «This is likely to succeed» звучит как обоснованный прогноз, а не гарантия или простая догадка.",
+        "fact": "«Likely» происходит от древнескандинавского слова, означавшего «похожий, подобный» — то есть буквально «вероятный» означало «похожий на то, что произойдёт», сохраняя эту идею сходства с ожидаемым результатом даже в современном употреблении."
+      },
+      "b1-l46": {
+        "title": "Asking for Clarification",
+        "pattern": "Could you clarify what you mean? / Sorry, I'm not sure I follow. / What exactly do you mean by...?",
+        "explanation": "Просьба о разъяснении — важный навык для избежания недопонимания: «Could you clarify what you mean?», «Sorry, I'm not sure I follow» (мягкое признание, что не понял). «What exactly do you mean by...?» уточняет конкретное слово или фразу.",
+        "fact": "«I'm not sure I follow» — типичный пример английской косвенности: вместо прямого «I don't understand» используется более мягкая формулировка, которая перекладывает часть «вины» за непонимание на сложность темы, а не на самого слушателя."
+      },
+      "b1-l47": {
+        "title": "B1 Review — Everyday Professional Life",
+        "pattern": "Review of B1 grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B1 — Present Perfect, условные предложения, страдательный залог, косвенную речь, деловое общение — чтобы закрепить материал перед переходом на уровень B1+.",
+        "fact": "Уровень B1 часто называют «пороговым» (threshold) в системе CEFR — именно на этом уровне учащийся способен самостоятельно путешествовать, работать и решать большинство повседневных задач на изучаемом языке без посторонней помощи."
       }
     },
     "vocabularySets": [
