@@ -62020,6 +62020,1341 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "b2plus-l33-p1",
+            "title": "Advanced Concession — Granted That, That Said (Part 1)",
+            "titleNative": "Продвинутая уступка · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l33",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Признавая, что расходы высоки, выгоды перевешивают их.",
+                "en": "Granted that costs are high, the benefits outweigh them."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Тем не менее, нам следует действовать осторожно.",
+                "en": "That said, we should proceed carefully."
+              },
+              {
+                "type": "listening",
+                "ru": "Признавая риски, план всё же стоит попробовать.",
+                "en": "Granted that there are risks, the plan is still worth trying."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Признаю, что это сложно, но не невозможно.",
+                "en": "Granted, it's difficult, but not impossible."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Тем не менее, есть и позитивные признаки.",
+                "en": "That said, there are positive signs too."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Признавая ограничения, результаты обнадёживают.",
+                "en": "Granted the limitations, the results are encouraging."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Признавая, что расходы высоки, выгоды перевешивают их.",
+                "en": "Granted that costs are high, the benefits outweigh them.",
+                "blankedEn": "___ that costs are high, the benefits outweigh them.",
+                "answer": "Granted",
+                "options": [
+                  "Granted",
+                  "Given",
+                  "Despite",
+                  "Although"
+                ]
+              }
+            ],
+            "number": 263
+          },
+          {
+            "id": "b2plus-l33-p2",
+            "title": "Advanced Concession — Granted That, That Said (Part 2)",
+            "titleNative": "Продвинутая уступка · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l33",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Признавая сложность задачи, команда справилась хорошо.",
+                "en": "Granted the difficulty of the task, the team performed well."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Тем не менее, остаются некоторые вопросы.",
+                "en": "That said, some questions remain."
+              },
+              {
+                "type": "listening",
+                "ru": "Признаю, ситуация далека от идеальной.",
+                "en": "Granted, the situation is far from ideal."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Тем не менее, прогресс очевиден.",
+                "en": "That said, the progress is clear."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Признавая обстоятельства, решение было разумным.",
+                "en": "Granted the circumstances, the decision was reasonable."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Признавая, что расходы высоки.",
+                    "en": "Granted that costs are high."
+                  },
+                  {
+                    "ru": "Тем не менее, нам следует действовать осторожно.",
+                    "en": "That said, we should proceed carefully."
+                  },
+                  {
+                    "ru": "Признаю, это сложно, но не невозможно.",
+                    "en": "Granted, it's difficult, but not impossible."
+                  },
+                  {
+                    "ru": "Тем не менее, остаются некоторые вопросы.",
+                    "en": "That said, some questions remain."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Тем не менее, прогресс очевиден.",
+                "en": "That said, the progress is clear.",
+                "blankedEn": "That ___, the progress is clear.",
+                "answer": "said",
+                "options": [
+                  "said",
+                  "say",
+                  "saying",
+                  "says"
+                ]
+              }
+            ],
+            "number": 264
+          },
+          {
+            "id": "b2plus-l34-p1",
+            "title": "Rhetorical Understatement — Not Entirely Unreasonable (Part 1)",
+            "titleNative": "Риторическое преуменьшение · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l34",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Не совсем безосновательно так думать.",
+                "en": "It's not entirely unreasonable to think that."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В этом что-то есть.",
+                "en": "This isn't without merit."
+              },
+              {
+                "type": "listening",
+                "ru": "Это немалое достижение.",
+                "en": "That's no small achievement."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Идея не лишена смысла.",
+                "en": "The idea isn't without sense."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Это была нелёгкая задача.",
+                "en": "That was no easy task."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не могу сказать, что это неразумно.",
+                "en": "I can't say it's unreasonable."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В этом что-то есть.",
+                "en": "This isn't without merit.",
+                "blankedEn": "This isn't ___ merit.",
+                "answer": "without",
+                "options": [
+                  "without",
+                  "with",
+                  "no",
+                  "some"
+                ]
+              }
+            ],
+            "number": 265
+          },
+          {
+            "id": "b2plus-l34-p2",
+            "title": "Rhetorical Understatement — Not Entirely Unreasonable (Part 2)",
+            "titleNative": "Риторическое преуменьшение · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l34",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Это был немаленький риск.",
+                "en": "That was no small risk."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Такое мнение не совсем безосновательно.",
+                "en": "Such an opinion is not entirely unfounded."
+              },
+              {
+                "type": "listening",
+                "ru": "В этом плане определённо что-то есть.",
+                "en": "This plan certainly isn't without merit."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это было немалое усилие.",
+                "en": "That was no small effort."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Идея не лишена оснований.",
+                "en": "The idea isn't without foundation."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Не совсем безосновательно так думать.",
+                    "en": "It's not entirely unreasonable to think that."
+                  },
+                  {
+                    "ru": "В этом что-то есть.",
+                    "en": "This isn't without merit."
+                  },
+                  {
+                    "ru": "Это немалое достижение.",
+                    "en": "That's no small achievement."
+                  },
+                  {
+                    "ru": "Это был немаленький риск.",
+                    "en": "That was no small risk."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это немалое достижение.",
+                "en": "That's no small achievement.",
+                "blankedEn": "That's no ___ achievement.",
+                "answer": "small",
+                "options": [
+                  "small",
+                  "big",
+                  "tiny",
+                  "large"
+                ]
+              }
+            ],
+            "number": 266
+          },
+          {
+            "id": "b2plus-reading-22",
+            "title": "A Fair Assessment",
+            "titleNative": "Справедливая оценка",
+            "description": "Короткий рассказ о взвешенной оценке проекта.",
+            "readingPassage": {
+              "context": "Короткий рассказ о взвешенной оценке проекта.",
+              "paragraphs": [
+                {
+                  "en": "The committee gathered to review the pilot project.",
+                  "ru": "Комитет собрался для рассмотрения пилотного проекта."
+                },
+                {
+                  "en": "\"Granted that costs are high, the benefits outweigh them,\" the director began.",
+                  "ru": "«Признавая, что расходы высоки, выгоды перевешивают их», — начал директор."
+                },
+                {
+                  "en": "\"That said, we should proceed carefully,\" she added.",
+                  "ru": "«Тем не менее, нам следует действовать осторожно», — добавила она."
+                },
+                {
+                  "en": "One committee member raised concerns about the timeline.",
+                  "ru": "Один из членов комитета выразил обеспокоенность по поводу сроков."
+                },
+                {
+                  "en": "\"This isn't without merit,\" the director responded, acknowledging the concern.",
+                  "ru": "«В этом что-то есть», — ответила директор, признавая обеспокоенность."
+                },
+                {
+                  "en": "\"From this perspective, a phased approach makes more sense,\" she suggested.",
+                  "ru": "«С этой точки зрения, поэтапный подход имеет больше смысла», — предложила она."
+                },
+                {
+                  "en": "The vast majority of the committee agreed with this idea.",
+                  "ru": "Подавляющее большинство комитета согласилось с этой идеей."
+                },
+                {
+                  "en": "They approved a revised, phased version of the project.",
+                  "ru": "Они одобрили пересмотренную, поэтапную версию проекта."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём говорил директор в начале?",
+                "options": [
+                  "О сроках",
+                  "О расходах и выгодах",
+                  "О команде",
+                  "О рисках"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что предложила директор?",
+                "options": [
+                  "Отменить проект",
+                  "Поэтапный подход",
+                  "Удвоить бюджет",
+                  "Ничего не менять"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончилось собрание?",
+                "options": [
+                  "Отказом",
+                  "Одобрением поэтапной версии",
+                  "Переносом решения",
+                  "Ничем не закончилось"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 267
+          },
+          {
+            "id": "b2plus-l35-p1",
+            "title": "Layered Hypotheticals — Had It Not Been For (Part 1)",
+            "titleNative": "Слоистые гипотезы о прошлом · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l35",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы не её помощь, мы бы потерпели неудачу.",
+                "en": "Had it not been for her help, we would have failed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы не задержка, всё было бы готово.",
+                "en": "But for the delay, everything would be finished."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы не поддержка команды, проект бы не состоялся.",
+                "en": "Had it not been for the team's support, the project wouldn't have happened."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы не его совет, я бы совершил ошибку.",
+                "en": "Had it not been for his advice, I would have made a mistake."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Если бы не дождь, мы бы поехали на пикник.",
+                "en": "But for the rain, we would have gone on a picnic."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы не финансирование, план бы провалился.",
+                "en": "Had it not been for the funding, the plan would have failed."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если бы не её помощь, мы бы потерпели неудачу.",
+                "en": "Had it not been for her help, we would have failed.",
+                "blankedEn": "___ it not been for her help, we would have failed.",
+                "answer": "Had",
+                "options": [
+                  "Had",
+                  "Have",
+                  "Has",
+                  "Having"
+                ]
+              }
+            ],
+            "number": 268
+          },
+          {
+            "id": "b2plus-l35-p2",
+            "title": "Layered Hypotheticals — Had It Not Been For (Part 2)",
+            "titleNative": "Слоистые гипотезы о прошлом · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l35",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Если бы не его быстрая реакция, всё было бы хуже.",
+                "en": "Had it not been for his quick reaction, things would have been worse."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы не эта ошибка, мы бы успели вовремя.",
+                "en": "But for this mistake, we would have made it on time."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы не их щедрость, школа бы закрылась.",
+                "en": "Had it not been for their generosity, the school would have closed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы не непогода, полёт бы состоялся.",
+                "en": "Had it not been for the bad weather, the flight would have taken place."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Если бы не эта возможность, я бы не изменил карьеру.",
+                "en": "But for this opportunity, I wouldn't have changed careers."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Если бы не её помощь.",
+                    "en": "Had it not been for her help."
+                  },
+                  {
+                    "ru": "Если бы не задержка.",
+                    "en": "But for the delay."
+                  },
+                  {
+                    "ru": "Если бы не поддержка команды.",
+                    "en": "Had it not been for the team's support."
+                  },
+                  {
+                    "ru": "Если бы не эта возможность.",
+                    "en": "But for this opportunity."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если бы не непогода, полёт бы состоялся.",
+                "en": "Had it not been for the bad weather, the flight would have taken place.",
+                "blankedEn": "Had it not been ___ the bad weather, the flight would have taken place.",
+                "answer": "for",
+                "options": [
+                  "for",
+                  "of",
+                  "by",
+                  "with"
+                ]
+              }
+            ],
+            "number": 269
+          },
+          {
+            "id": "b2plus-l36-p1",
+            "title": "Discourse Cohesion — As Such, In That Sense (Part 1)",
+            "titleNative": "Связность текста · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l36",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "В связи с этим, политику нужно пересмотреть.",
+                "en": "As such, the policy needs revising."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В этом смысле проект был успешным.",
+                "en": "In that sense, the project was a success."
+              },
+              {
+                "type": "listening",
+                "ru": "Как таковой, этот аргумент неубедителен.",
+                "en": "As such, this argument isn't convincing."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В этом смысле мы уже добились цели.",
+                "en": "In that sense, we've already achieved our goal."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Как таковая, проблема требует немедленного внимания.",
+                "en": "As such, the issue requires immediate attention."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В этом смысле план оправдал ожидания.",
+                "en": "In that sense, the plan lived up to expectations."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В связи с этим, политику нужно пересмотреть.",
+                "en": "As such, the policy needs revising.",
+                "blankedEn": "As ___, the policy needs revising.",
+                "answer": "such",
+                "options": [
+                  "such",
+                  "so",
+                  "well",
+                  "this"
+                ]
+              }
+            ],
+            "number": 270
+          },
+          {
+            "id": "b2plus-l36-p2",
+            "title": "Discourse Cohesion — As Such, In That Sense (Part 2)",
+            "titleNative": "Связность текста · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l36",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Как таковой, риск невелик.",
+                "en": "As such, the risk is small."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В этом смысле результат превзошёл ожидания.",
+                "en": "In that sense, the outcome exceeded expectations."
+              },
+              {
+                "type": "listening",
+                "ru": "Как таковое, решение требует одобрения.",
+                "en": "As such, the decision requires approval."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В этом смысле мы можем считать это победой.",
+                "en": "In that sense, we can call this a win."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Как таковая, эта модель уже устарела.",
+                "en": "As such, this model is already outdated."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "В связи с этим, политику нужно пересмотреть.",
+                    "en": "As such, the policy needs revising."
+                  },
+                  {
+                    "ru": "В этом смысле проект был успешным.",
+                    "en": "In that sense, the project was a success."
+                  },
+                  {
+                    "ru": "Как таковой, риск невелик.",
+                    "en": "As such, the risk is small."
+                  },
+                  {
+                    "ru": "В этом смысле мы можем считать это победой.",
+                    "en": "In that sense, we can call this a win."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В этом смысле мы можем считать это победой.",
+                "en": "In that sense, we can call this a win.",
+                "blankedEn": "In that ___, we can call this a win.",
+                "answer": "sense",
+                "options": [
+                  "sense",
+                  "way",
+                  "meaning",
+                  "manner"
+                ]
+              }
+            ],
+            "number": 271
+          },
+          {
+            "id": "b2plus-reading-23",
+            "title": "What Made the Difference",
+            "titleNative": "Что сыграло решающую роль",
+            "description": "Короткий рассказ о том, что помогло избежать провала.",
+            "readingPassage": {
+              "context": "Короткий рассказ о том, что помогло избежать провала.",
+              "paragraphs": [
+                {
+                  "en": "The launch almost went terribly wrong.",
+                  "ru": "Запуск чуть не закончился катастрофой."
+                },
+                {
+                  "en": "\"Had it not been for her quick thinking, we would have failed,\" the manager said later.",
+                  "ru": "«Если бы не её быстрое мышление, мы бы потерпели неудачу», — сказал позже менеджер."
+                },
+                {
+                  "en": "The system had crashed just minutes before the presentation.",
+                  "ru": "Система вышла из строя всего за несколько минут до презентации."
+                },
+                {
+                  "en": "\"But for her backup plan, we would have had nothing to show,\" he explained.",
+                  "ru": "«Если бы не её запасной план, нам было бы нечего показать», — объяснил он."
+                },
+                {
+                  "en": "The team member had prepared an offline version, just in case.",
+                  "ru": "Член команды заранее подготовил офлайн-версию — на всякий случай."
+                },
+                {
+                  "en": "\"This gave rise to a new company policy on backup planning,\" the manager added.",
+                  "ru": "«Это породило новую политику компании по резервным планам», — добавил менеджер."
+                },
+                {
+                  "en": "The whole team learned an important lesson that day.",
+                  "ru": "В тот день вся команда усвоила важный урок."
+                },
+                {
+                  "en": "\"I couldn't agree more that preparation matters,\" a colleague said.",
+                  "ru": "«Я полностью согласен, что подготовка имеет значение», — сказал коллега."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что произошло перед презентацией?",
+                "options": [
+                  "Опоздал докладчик",
+                  "Система вышла из строя",
+                  "Отменили встречу",
+                  "Забыли слайды"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что спасло ситуацию?",
+                "options": [
+                  "Быстрое мышление и запасной план",
+                  "Везение",
+                  "Помощь клиента",
+                  "Отмена презентации"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что породил этот случай?",
+                "options": [
+                  "Новую компанию",
+                  "Новую политику по резервным планам",
+                  "Увольнения",
+                  "Ничего"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 272
+          },
+          {
+            "id": "b2plus-l37-p1",
+            "title": "Advanced Causatives — Bring About, Give Rise To (Part 1)",
+            "titleNative": "Продвинутая каузативность · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l37",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Реформа вызвала значительные изменения.",
+                "en": "The reform brought about significant change."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это решение вызвало широкую обеспокоенность.",
+                "en": "This decision gave rise to widespread concern."
+              },
+              {
+                "type": "listening",
+                "ru": "Кризис породил новую волну инноваций.",
+                "en": "The crisis gave rise to a new wave of innovation."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Новая политика вызвала серьёзные споры.",
+                "en": "The new policy brought about serious debate."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Это открытие породило множество вопросов.",
+                "en": "This discovery gave rise to many questions."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Технология вызвала настоящую революцию в отрасли.",
+                "en": "The technology brought about a real revolution in the industry."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Реформа вызвала значительные изменения.",
+                "en": "The reform brought about significant change.",
+                "blankedEn": "The reform brought ___ significant change.",
+                "answer": "about",
+                "options": [
+                  "about",
+                  "on",
+                  "up",
+                  "out"
+                ]
+              }
+            ],
+            "number": 273
+          },
+          {
+            "id": "b2plus-l37-p2",
+            "title": "Advanced Causatives — Bring About, Give Rise To (Part 2)",
+            "titleNative": "Продвинутая каузативность · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l37",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Пандемия вызвала масштабные экономические изменения.",
+                "en": "The pandemic brought about massive economic changes."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта политика породила недоверие среди сотрудников.",
+                "en": "This policy gave rise to distrust among employees."
+              },
+              {
+                "type": "listening",
+                "ru": "Реформы принесли ощутимые улучшения.",
+                "en": "The reforms brought about tangible improvements."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Скандал вызвал общественное возмущение.",
+                "en": "The scandal gave rise to public outrage."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Изменения в законе вызвали немедленную реакцию.",
+                "en": "The change in law brought about an immediate reaction."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Реформа вызвала значительные изменения.",
+                    "en": "The reform brought about significant change."
+                  },
+                  {
+                    "ru": "Это решение вызвало широкую обеспокоенность.",
+                    "en": "This decision gave rise to widespread concern."
+                  },
+                  {
+                    "ru": "Кризис породил новую волну инноваций.",
+                    "en": "The crisis gave rise to a new wave of innovation."
+                  },
+                  {
+                    "ru": "Скандал вызвал общественное возмущение.",
+                    "en": "The scandal gave rise to public outrage."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Скандал вызвал общественное возмущение.",
+                "en": "The scandal gave rise to public outrage.",
+                "blankedEn": "The scandal gave rise ___ public outrage.",
+                "answer": "to",
+                "options": [
+                  "to",
+                  "for",
+                  "at",
+                  "with"
+                ]
+              }
+            ],
+            "number": 274
+          },
+          {
+            "id": "b2plus-l38-p1",
+            "title": "Precision in Quantification — A Fraction Of, The Vast Majority (Part 1)",
+            "titleNative": "Точная квантификация · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l38",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Лишь малая часть респондентов согласилась.",
+                "en": "Only a fraction of respondents agreed."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Подавляющее большинство поддержало план.",
+                "en": "The vast majority supported the plan."
+              },
+              {
+                "type": "listening",
+                "ru": "Горстка людей выразила несогласие.",
+                "en": "A handful of people expressed disagreement."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Лишь малая часть бюджета была потрачена.",
+                "en": "Only a fraction of the budget was spent."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Подавляющее большинство сотрудников довольны.",
+                "en": "The vast majority of employees are satisfied."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Горстка компаний доминирует на рынке.",
+                "en": "A handful of companies dominate the market."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Подавляющее большинство поддержало план.",
+                "en": "The vast majority supported the plan.",
+                "blankedEn": "The vast ___ supported the plan.",
+                "answer": "majority",
+                "options": [
+                  "majority",
+                  "minority",
+                  "majorities",
+                  "major"
+                ]
+              }
+            ],
+            "number": 275
+          },
+          {
+            "id": "b2plus-l38-p2",
+            "title": "Precision in Quantification — A Fraction Of, The Vast Majority (Part 2)",
+            "titleNative": "Точная квантификация · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l38",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Значительная часть населения не проголосовала.",
+                "en": "A significant proportion of the population didn't vote."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Лишь незначительная доля заявок была одобрена.",
+                "en": "Only a small fraction of applications were approved."
+              },
+              {
+                "type": "listening",
+                "ru": "Подавляющее большинство исследований подтверждает это.",
+                "en": "The vast majority of studies confirm this."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Горстка экспертов не согласна с этим выводом.",
+                "en": "A handful of experts disagree with this conclusion."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Значительная часть бюджета уходит на зарплаты.",
+                "en": "A significant proportion of the budget goes to salaries."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Лишь малая часть респондентов согласилась.",
+                    "en": "Only a fraction of respondents agreed."
+                  },
+                  {
+                    "ru": "Подавляющее большинство поддержало план.",
+                    "en": "The vast majority supported the plan."
+                  },
+                  {
+                    "ru": "Горстка людей выразила несогласие.",
+                    "en": "A handful of people expressed disagreement."
+                  },
+                  {
+                    "ru": "Значительная часть населения не проголосовала.",
+                    "en": "A significant proportion of the population didn't vote."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Значительная часть бюджета уходит на зарплаты.",
+                "en": "A significant proportion of the budget goes to salaries.",
+                "blankedEn": "A significant ___ of the budget goes to salaries.",
+                "answer": "proportion",
+                "options": [
+                  "proportion",
+                  "portion",
+                  "percent",
+                  "part"
+                ]
+              }
+            ],
+            "number": 276
+          },
+          {
+            "id": "b2plus-reading-24",
+            "title": "B2+ Journey Complete",
+            "titleNative": "Уровень B2+ пройден",
+            "description": "Заключительный рассказ уровня B2+.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня B2+, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Alma has reached a remarkable level of English fluency.",
+                  "ru": "Алма достигла впечатляющего уровня владения английским."
+                },
+                {
+                  "en": "She can hedge, concede points gracefully, and frame arguments from different perspectives.",
+                  "ru": "Она может хеджировать, изящно уступать в споре и представлять аргументы с разных точек зрения."
+                },
+                {
+                  "en": "\"Granted that this level was challenging, I've grown so much,\" she reflects.",
+                  "ru": "«Признавая, что этот уровень был сложным, я так сильно выросла», — размышляет она."
+                },
+                {
+                  "en": "\"Had it not been for consistent daily practice, I wouldn't be here,\" she admits.",
+                  "ru": "«Если бы не постоянная ежедневная практика, я бы не была здесь», — признаёт она."
+                },
+                {
+                  "en": "Her teacher smiles and says, \"I couldn't agree more.\"",
+                  "ru": "Учитель улыбается и говорит: «Полностью согласен»."
+                },
+                {
+                  "en": "\"From this perspective, the hardest levels bring the greatest growth,\" the teacher adds.",
+                  "ru": "«С этой точки зрения, самые сложные уровни приносят наибольший рост», — добавляет учитель."
+                },
+                {
+                  "en": "\"I'm ready for the C1 level now,\" Alma says with quiet confidence.",
+                  "ru": "«Теперь я готова к уровню C1», — говорит Алма с тихой уверенностью."
+                },
+                {
+                  "en": "Her journey toward true mastery continues.",
+                  "ru": "Её путь к настоящему мастерству продолжается."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что теперь умеет Алма?",
+                "options": [
+                  "Только базовые фразы",
+                  "Хеджировать и уступать изящно",
+                  "Только читать",
+                  "Ничего нового"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что, по её словам, помогло ей достичь этого уровня?",
+                "options": [
+                  "Талант",
+                  "Постоянная ежедневная практика",
+                  "Удача",
+                  "Ничего конкретного"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит Алма в конце?",
+                "options": [
+                  "Она бросает учёбу",
+                  "Она готова к C1",
+                  "Ей нужен перерыв",
+                  "Она разочарована"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 277
+          },
+          {
+            "id": "b2plus-l39-p1",
+            "title": "Framing an Argument — From This Perspective (Part 1)",
+            "titleNative": "Рамка аргумента · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l39",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "С этой точки зрения, решение обосновано.",
+                "en": "From this perspective, the decision makes sense."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В таком свете риск кажется оправданным.",
+                "en": "Seen in this light, the risk seems justified."
+              },
+              {
+                "type": "listening",
+                "ru": "С другой точки зрения, всё выглядит иначе.",
+                "en": "From another perspective, things look different."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "С этой точки зрения, план вполне разумен.",
+                "en": "From this perspective, the plan is quite reasonable."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "В таком свете ошибка выглядит менее серьёзной.",
+                "en": "Seen in this light, the mistake seems less serious."
+              },
+              {
+                "type": "type-answer",
+                "ru": "С исторической точки зрения, это важное событие.",
+                "en": "From a historical perspective, this is a significant event."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "С этой точки зрения, решение обосновано.",
+                "en": "From this perspective, the decision makes sense.",
+                "blankedEn": "From this ___, the decision makes sense.",
+                "answer": "perspective",
+                "options": [
+                  "perspective",
+                  "view",
+                  "side",
+                  "angle"
+                ]
+              }
+            ],
+            "number": 278
+          },
+          {
+            "id": "b2plus-l39-p2",
+            "title": "Framing an Argument — From This Perspective (Part 2)",
+            "titleNative": "Рамка аргумента · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l39",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "С практической точки зрения, это лучший вариант.",
+                "en": "From a practical perspective, this is the best option."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В таком свете затраты кажутся разумными.",
+                "en": "Seen in this light, the costs seem reasonable."
+              },
+              {
+                "type": "listening",
+                "ru": "С экономической точки зрения, это рискованно.",
+                "en": "From an economic perspective, this is risky."
+              },
+              {
+                "type": "type-answer",
+                "ru": "С этой точки зрения, всё меняется.",
+                "en": "From this perspective, everything changes."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "В таком свете старое решение выглядит правильным.",
+                "en": "Seen in this light, the old decision looks right."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "С этой точки зрения, решение обосновано.",
+                    "en": "From this perspective, the decision makes sense."
+                  },
+                  {
+                    "ru": "В таком свете риск кажется оправданным.",
+                    "en": "Seen in this light, the risk seems justified."
+                  },
+                  {
+                    "ru": "С другой точки зрения, всё выглядит иначе.",
+                    "en": "From another perspective, things look different."
+                  },
+                  {
+                    "ru": "С практической точки зрения, это лучший вариант.",
+                    "en": "From a practical perspective, this is the best option."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "С экономической точки зрения, это рискованно.",
+                "en": "From an economic perspective, this is risky.",
+                "blankedEn": "From an economic ___, this is risky.",
+                "answer": "perspective",
+                "options": [
+                  "perspective",
+                  "view",
+                  "way",
+                  "manner"
+                ]
+              }
+            ],
+            "number": 279
+          },
+          {
+            "id": "b2plus-l40-p1",
+            "title": "Advanced Idioms of Agreement & Disagreement (Part 1)",
+            "titleNative": "Идиомы согласия и несогласия · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l40",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я полностью согласен.",
+                "en": "I couldn't agree more."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Осмелюсь не согласиться.",
+                "en": "I beg to differ."
+              },
+              {
+                "type": "listening",
+                "ru": "Это справедливое замечание, но...",
+                "en": "That's a fair point, but..."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не могу не согласиться с этим.",
+                "en": "I couldn't agree more with that."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Позволю себе не согласиться с вашей оценкой.",
+                "en": "I beg to differ with your assessment."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Справедливое замечание, но есть нюансы.",
+                "en": "That's a fair point, but there are nuances."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Осмелюсь не согласиться.",
+                "en": "I beg to differ.",
+                "blankedEn": "I beg to ___.",
+                "answer": "differ",
+                "options": [
+                  "differ",
+                  "disagree",
+                  "argue",
+                  "object"
+                ]
+              }
+            ],
+            "number": 280
+          },
+          {
+            "id": "b2plus-l40-p2",
+            "title": "Advanced Idioms of Agreement & Disagreement (Part 2)",
+            "titleNative": "Идиомы согласия и несогласия · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l40",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Полностью с вами согласен по этому вопросу.",
+                "en": "I couldn't agree more on this issue."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Позвольте мне не согласиться с этим утверждением.",
+                "en": "I beg to differ on that statement."
+              },
+              {
+                "type": "listening",
+                "ru": "Справедливое замечание, но давайте рассмотрим и другую сторону.",
+                "en": "That's a fair point, but let's consider the other side too."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Не могу не согласиться с вашей логикой.",
+                "en": "I couldn't agree more with your logic."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "При всём уважении, я не согласен.",
+                "en": "With all due respect, I disagree."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я полностью согласен.",
+                    "en": "I couldn't agree more."
+                  },
+                  {
+                    "ru": "Осмелюсь не согласиться.",
+                    "en": "I beg to differ."
+                  },
+                  {
+                    "ru": "Это справедливое замечание, но...",
+                    "en": "That's a fair point, but..."
+                  },
+                  {
+                    "ru": "При всём уважении, я не согласен.",
+                    "en": "With all due respect, I disagree."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "При всём уважении, я не согласен.",
+                "en": "With all due respect, I disagree.",
+                "blankedEn": "With all due ___, I disagree.",
+                "answer": "respect",
+                "options": [
+                  "respect",
+                  "respects",
+                  "respecting",
+                  "respected"
+                ]
+              }
+            ],
+            "number": 281
+          },
+          {
+            "id": "b2plus-l41-p1",
+            "title": "B2+ Review — Nuanced Argumentation (Part 1)",
+            "titleNative": "Итоговое повторение B2+ · Часть 1",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l41",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Признавая, что расходы высоки, выгоды перевешивают их.",
+                "en": "Granted that costs are high, the benefits outweigh them."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы не её помощь, мы бы потерпели неудачу.",
+                "en": "Had it not been for her help, we would have failed."
+              },
+              {
+                "type": "listening",
+                "ru": "Подавляющее большинство поддержало план.",
+                "en": "The vast majority supported the plan."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "С этой точки зрения, решение обосновано.",
+                "en": "From this perspective, the decision makes sense."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Я полностью согласен.",
+                "en": "I couldn't agree more."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Реформа вызвала значительные изменения.",
+                "en": "The reform brought about significant change."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если бы не её помощь, мы бы потерпели неудачу.",
+                "en": "Had it not been for her help, we would have failed.",
+                "blankedEn": "___ it not been for her help, we would have failed.",
+                "answer": "Had",
+                "options": [
+                  "Had",
+                  "If",
+                  "Was",
+                  "Were"
+                ]
+              }
+            ],
+            "number": 282
+          },
+          {
+            "id": "b2plus-l41-p2",
+            "title": "B2+ Review — Nuanced Argumentation (Part 2)",
+            "titleNative": "Итоговое повторение B2+ · Часть 2",
+            "description": "Новая тема B2+",
+            "topicId": "b2plus-l41",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "В этом что-то есть.",
+                "en": "This isn't without merit."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В связи с этим, политику нужно пересмотреть.",
+                "en": "As such, the policy needs revising."
+              },
+              {
+                "type": "listening",
+                "ru": "Осмелюсь не согласиться.",
+                "en": "I beg to differ."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я многому научился на уровне B2+.",
+                "en": "I've learned a lot at the B2+ level."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Теперь я готов к уровню C1.",
+                "en": "I'm ready for the C1 level now."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Признавая, что расходы высоки.",
+                    "en": "Granted that costs are high."
+                  },
+                  {
+                    "ru": "Если бы не её помощь.",
+                    "en": "Had it not been for her help."
+                  },
+                  {
+                    "ru": "Подавляющее большинство поддержало план.",
+                    "en": "The vast majority supported the plan."
+                  },
+                  {
+                    "ru": "Теперь я готов к уровню C1.",
+                    "en": "I'm ready for the C1 level now."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я многому научился на уровне B2+.",
+                "en": "I've learned a lot at the B2+ level.",
+                "blankedEn": "I've ___ a lot at the B2+ level.",
+                "answer": "learned",
+                "options": [
+                  "learned",
+                  "learn",
+                  "learns",
+                  "learning"
+                ]
+              }
+            ],
+            "number": 283
           }
         ]
       },
@@ -77680,6 +79015,60 @@
         "pattern": "Review of B2 grammar and vocabulary",
         "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B2 — смешанные условные предложения, продвинутый страдательный залог, хеджирование, построение аргументов — чтобы закрепить материал перед переходом на уровень B2+.",
         "fact": "Уровень B2 по шкале CEFR часто называют уровнем «независимого пользователя, продвинутого этапа» — именно с этого уровня учащийся может свободно участвовать в дебатах и отстаивать позицию по абстрактным темам, не только описывать факты."
+      },
+      "b2plus-l33": {
+        "title": "Advanced Concession — Granted That, That Said",
+        "pattern": "Granted that costs are high, the benefits outweigh them. / That said, we should proceed carefully.",
+        "explanation": "«Granted that» уступает пункт оппонента в начале предложения («Granted that costs are high...»), после чего следует контраргумент. «That said» переходит от только что сказанного к оговорке или контрасту, обычно в начале нового предложения.",
+        "fact": "«Granted» в этом значении — сокращённая форма причастия («it being granted that...»), пример того, как формальный английский сжимает целую придаточную конструкцию уступки в одно вводное слово."
+      },
+      "b2plus-l34": {
+        "title": "Rhetorical Understatement — Not Entirely Unreasonable",
+        "pattern": "It's not entirely unreasonable to think... / This isn't without merit. / That's no small achievement.",
+        "explanation": "Риторическое преуменьшение через двойное отрицание («not entirely unreasonable», «not without merit») смягчает похвалу или согласие, придавая ему более сдержанный, взвешенный тон, чем прямое утверждение.",
+        "fact": "Двойное отрицание в английском («not un-...») не отменяет само себя полностью, как в математике — «not unreasonable» не означает то же самое, что «reasonable», а скорее «reasonable, но говорящий выражается осторожно» — этот эффект называют «литотой»."
+      },
+      "b2plus-l35": {
+        "title": "Layered Hypotheticals — Had It Not Been For",
+        "pattern": "Had it not been for her help, we would have failed. / But for the delay, everything would be finished.",
+        "explanation": "«Had it not been for» и «but for» — формальные инвертированные конструкции для гипотез о прошлом, где отсутствие одного фактора изменило бы весь исход: «Had it not been for her help, we would have failed» означает, что помощь реально предотвратила неудачу.",
+        "fact": "Эта инвертированная форма («Had it not been for») — прямой потомок древнеанглийской грамматики, где условие могло выражаться инверсией подлежащего и глагола без всякого союза «if» — сегодня она воспринимается как подчёркнуто формальная и литературная."
+      },
+      "b2plus-l36": {
+        "title": "Discourse Cohesion — As Such, In That Sense",
+        "pattern": "As such, the policy needs revising. / In that sense, the project was a success.",
+        "explanation": "«As such» и «in that sense» ссылаются назад на только что упомянутую идею, связывая её с новым утверждением: «As such, the policy needs revising» — «such» относится к характеристике, описанной ранее в тексте.",
+        "fact": "«As such» технически требует, чтобы «such» ссылалось на что-то конкретное, уже названное ранее — использование «as such» без чёткого referent (например, в начале разговора без контекста) считается стилистической ошибкой в формальном письме, хотя в разговорной речи это правило часто нарушается."
+      },
+      "b2plus-l37": {
+        "title": "Advanced Causatives — Bring About, Give Rise To",
+        "pattern": "The reform brought about significant change. / This decision gave rise to widespread concern.",
+        "explanation": "«Bring about» и «give rise to» — формальные фразовые глаголы для причинности, часто используемые в академическом и журналистском стиле вместо простого «cause»: «The reform brought about significant change».",
+        "fact": "«Give rise to» — метафора роста или подъёма, перенесённая на причинность: буквально «дать подняться» чему-то, как растению из семени, стало означать «породить, вызвать к существованию» в абстрактном смысле."
+      },
+      "b2plus-l38": {
+        "title": "Precision in Quantification — A Fraction Of, The Vast Majority",
+        "pattern": "Only a fraction of respondents agreed. / The vast majority supported the plan.",
+        "explanation": "Точные количественные формулировки («a fraction of», «the vast majority», «a handful of») дают более выразительную картину пропорции, чем простые числа, особенно в аналитическом или журналистском тексте.",
+        "fact": "«A handful of» буквально означает «то, что помещается в одну горсть» — метафора физического количества, перенесённая на абстрактное «небольшое число», сохраняющая ощущение чего-то осязаемого и ограниченного."
+      },
+      "b2plus-l39": {
+        "title": "Framing an Argument — From This Perspective",
+        "pattern": "From this perspective, the decision makes sense. / Seen in this light, the risk seems justified.",
+        "explanation": "Фразы «from this perspective» и «seen in this light» явно обозначают точку зрения, с которой рассматривается аргумент, сигнализируя, что вывод зависит от выбранной рамки, а не является абсолютной истиной.",
+        "fact": "«Seen in this light» использует метафору освещения — то, как что-то выглядит, буквально зависит от того, каким светом оно освещено; эта метафора настолько распространена в английском, что «light» регулярно используется для обозначения точки зрения или интерпретации."
+      },
+      "b2plus-l40": {
+        "title": "Advanced Idioms of Agreement & Disagreement",
+        "pattern": "I couldn't agree more. / I beg to differ. / That's a fair point, but...",
+        "explanation": "Продвинутые идиомы согласия и несогласия добавляют выразительности: «I couldn't agree more» (сильнее, чем просто «I agree»), «I beg to differ» — формально-вежливая формула несогласия, «That's a fair point, but...» признаёт аргумент перед возражением.",
+        "fact": "«I beg to differ» звучит формально и слегка старомодно именно из-за глагола «beg» («умолять, просить») — эта конструкция исторически была буквальной просьбой разрешения не согласиться, и сохранившаяся вежливая форма до сих пор ощущается как явно более церемонная, чем простое «I disagree»."
+      },
+      "b2plus-l41": {
+        "title": "B2+ Review — Nuanced Argumentation",
+        "pattern": "Review of B2+ grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B2+ — продвинутую уступку, инвертированные гипотезы, риторическое преуменьшение, точную квантификацию — чтобы закрепить материал перед переходом на уровень C1.",
+        "fact": "Уровень B2+ часто рассматривают как последний шаг перед по-настоящему академическим и профессиональным владением языком (C1) — именно здесь учащийся начинает свободно управлять тоном, регистром и нюансом аргумента, а не только грамматической правильностью."
       }
     },
     "vocabularySets": [
