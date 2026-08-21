@@ -54418,6 +54418,1463 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "b2-l35-p1",
+            "title": "Hedging in Academic Writing (Part 1)",
+            "titleNative": "Хеджирование в академическом письме · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l35",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Данные говорят о явной корреляции.",
+                "en": "The evidence suggests a clear correlation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно утверждать, что этот подход устарел.",
+                "en": "It could be argued that this approach is outdated."
+              },
+              {
+                "type": "listening",
+                "ru": "Это, кажется, указывает на новую тенденцию.",
+                "en": "This appears to indicate a new trend."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Результаты, по-видимому, подтверждают гипотезу.",
+                "en": "The results seem to confirm the hypothesis."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Можно предположить, что причина в другом.",
+                "en": "One could assume the cause lies elsewhere."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эти данные, вероятно, требуют дальнейшего изучения.",
+                "en": "This data likely requires further study."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Данные говорят о явной корреляции.",
+                "en": "The evidence suggests a clear correlation.",
+                "blankedEn": "The evidence ___ a clear correlation.",
+                "answer": "suggests",
+                "options": [
+                  "suggests",
+                  "proves",
+                  "shows",
+                  "confirms"
+                ]
+              }
+            ],
+            "number": 246
+          },
+          {
+            "id": "b2-l35-p2",
+            "title": "Hedging in Academic Writing (Part 2)",
+            "titleNative": "Хеджирование в академическом письме · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l35",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Некоторые исследователи оспаривают этот вывод.",
+                "en": "Some researchers dispute this conclusion."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это в некоторой степени объясняет расхождение.",
+                "en": "This partly explains the discrepancy."
+              },
+              {
+                "type": "listening",
+                "ru": "Дальнейшие исследования могут прояснить этот вопрос.",
+                "en": "Further research may clarify this question."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эти результаты нельзя считать окончательными.",
+                "en": "These results cannot be considered conclusive."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Данные указывают на возможную связь.",
+                "en": "The data points to a possible link."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Данные говорят о явной корреляции.",
+                    "en": "The evidence suggests a clear correlation."
+                  },
+                  {
+                    "ru": "Можно утверждать, что этот подход устарел.",
+                    "en": "It could be argued that this approach is outdated."
+                  },
+                  {
+                    "ru": "Это, кажется, указывает на новую тенденцию.",
+                    "en": "This appears to indicate a new trend."
+                  },
+                  {
+                    "ru": "Дальнейшие исследования могут прояснить этот вопрос.",
+                    "en": "Further research may clarify this question."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Эти результаты нельзя считать окончательными.",
+                "en": "These results cannot be considered conclusive.",
+                "blankedEn": "These results cannot be considered ___.",
+                "answer": "conclusive",
+                "options": [
+                  "conclusive",
+                  "concluding",
+                  "conclusion",
+                  "concluded"
+                ]
+              }
+            ],
+            "number": 247
+          },
+          {
+            "id": "b2-l36-p1",
+            "title": "Advanced Reported Questions (Part 1)",
+            "titleNative": "Продвинутая косвенная речь: вопросы · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l36",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Она спросила, были ли результаты окончательными.",
+                "en": "She asked whether the results were final."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он хотел знать, почему произошла задержка.",
+                "en": "He wanted to know why the delay had occurred."
+              },
+              {
+                "type": "listening",
+                "ru": "Они спросили, согласны ли мы с этим планом.",
+                "en": "They asked whether we agreed with the plan."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она хотела знать, когда начнётся встреча.",
+                "en": "She wanted to know when the meeting would start."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он спросил, была ли информация точной.",
+                "en": "He asked whether the information was accurate."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я поинтересовался, есть ли альтернатива.",
+                "en": "I asked whether there was an alternative."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Она спросила, были ли результаты окончательными.",
+                "en": "She asked whether the results were final.",
+                "blankedEn": "She asked ___ the results were final.",
+                "answer": "whether",
+                "options": [
+                  "whether",
+                  "that",
+                  "what",
+                  "which"
+                ]
+              }
+            ],
+            "number": 248
+          },
+          {
+            "id": "b2-l36-p2",
+            "title": "Advanced Reported Questions (Part 2)",
+            "titleNative": "Продвинутая косвенная речь: вопросы · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l36",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Он спросил, кто отвечал за проект.",
+                "en": "He asked who was responsible for the project."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Они хотели знать, что вызвало проблему.",
+                "en": "They wanted to know what had caused the problem."
+              },
+              {
+                "type": "listening",
+                "ru": "Она спросила, будет ли отчёт готов вовремя.",
+                "en": "She asked whether the report would be ready on time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я спросил, почему решение изменилось.",
+                "en": "I asked why the decision had changed."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Они поинтересовались, есть ли другие варианты.",
+                "en": "They wondered whether there were other options."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Она спросила, были ли результаты окончательными.",
+                    "en": "She asked whether the results were final."
+                  },
+                  {
+                    "ru": "Он хотел знать, почему произошла задержка.",
+                    "en": "He wanted to know why the delay had occurred."
+                  },
+                  {
+                    "ru": "Он спросил, кто отвечал за проект.",
+                    "en": "He asked who was responsible for the project."
+                  },
+                  {
+                    "ru": "Я спросил, почему решение изменилось.",
+                    "en": "I asked why the decision had changed."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Они хотели знать, что вызвало проблему.",
+                "en": "They wanted to know what had caused the problem.",
+                "blankedEn": "They wanted to know what ___ caused the problem.",
+                "answer": "had",
+                "options": [
+                  "had",
+                  "has",
+                  "have",
+                  "did"
+                ]
+              }
+            ],
+            "number": 249
+          },
+          {
+            "id": "b2-reading-24",
+            "title": "A Difficult Decision",
+            "titleNative": "Трудное решение",
+            "description": "Короткий рассказ об этической дилемме на работе.",
+            "readingPassage": {
+              "context": "Короткий рассказ об этической дилемме на работе.",
+              "paragraphs": [
+                {
+                  "en": "Aizhan discovered a serious flaw in her company's product.",
+                  "ru": "Айжан обнаружила серьёзный недостаток в продукте своей компании."
+                },
+                {
+                  "en": "\"There's a moral dilemma here,\" she told her colleague.",
+                  "ru": "«Здесь есть моральная дилемма», — сказала она коллеге."
+                },
+                {
+                  "en": "\"It raises ethical questions about our responsibility to customers,\" she explained.",
+                  "ru": "«Это поднимает этические вопросы о нашей ответственности перед клиентами», — объяснила она."
+                },
+                {
+                  "en": "Her colleague suggested staying quiet to avoid trouble.",
+                  "ru": "Коллега предложил промолчать, чтобы избежать проблем."
+                },
+                {
+                  "en": "\"Where should we draw the line?\" Aizhan asked, thinking out loud.",
+                  "ru": "«Где нам следует провести черту?» — спросила Айжан, размышляя вслух."
+                },
+                {
+                  "en": "She decided the evidence pointed clearly toward one conclusion.",
+                  "ru": "Она решила, что доказательства ясно указывали на один вывод."
+                },
+                {
+                  "en": "\"We can't rule out the possibility of harm,\" she said firmly.",
+                  "ru": "«Мы не можем исключить возможность вреда», — твёрдо сказала она."
+                },
+                {
+                  "en": "In the end, Aizhan reported the flaw to management.",
+                  "ru": "В итоге Айжан сообщила о недостатке руководству."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что обнаружила Айжан?",
+                "options": [
+                  "Ошибку в отчёте",
+                  "Недостаток в продукте",
+                  "Проблему с зарплатой",
+                  "Опоздание коллеги"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что предложил коллега?",
+                "options": [
+                  "Сообщить сразу",
+                  "Промолчать",
+                  "Уволиться",
+                  "Позвонить журналистам"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сделала Айжан в итоге?",
+                "options": [
+                  "Промолчала",
+                  "Сообщила руководству",
+                  "Уволилась",
+                  "Ничего не сделала"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 250
+          },
+          {
+            "id": "b2-l37-p1",
+            "title": "Nominalization for Formal Tone (Part 1)",
+            "titleNative": "Номинализация в формальном стиле · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l37",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Внедрение политики заняло два года.",
+                "en": "The implementation of the policy took two years."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сокращение расходов удивило акционеров.",
+                "en": "The reduction in costs surprised the shareholders."
+              },
+              {
+                "type": "listening",
+                "ru": "Рост эффективности был очевиден с самого начала.",
+                "en": "The increase in efficiency was clear from the start."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Развитие технологий изменило всю отрасль.",
+                "en": "The development of technology has transformed the whole industry."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Улучшение качества стало главным приоритетом.",
+                "en": "The improvement in quality became the main priority."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Расширение компании потребовало новых инвестиций.",
+                "en": "The expansion of the company required new investment."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Внедрение политики заняло два года.",
+                "en": "The implementation of the policy took two years.",
+                "blankedEn": "The ___ of the policy took two years.",
+                "answer": "implementation",
+                "options": [
+                  "implementation",
+                  "implement",
+                  "implementing",
+                  "implements"
+                ]
+              }
+            ],
+            "number": 251
+          },
+          {
+            "id": "b2-l37-p2",
+            "title": "Nominalization for Formal Tone (Part 2)",
+            "titleNative": "Номинализация в формальном стиле · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l37",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Достижение этой цели потребует времени.",
+                "en": "The achievement of this goal will require time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Введение новой системы прошло без проблем.",
+                "en": "The introduction of the new system went smoothly."
+              },
+              {
+                "type": "listening",
+                "ru": "Признание проблемы — первый шаг к её решению.",
+                "en": "The recognition of the problem is the first step to solving it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Оценка результатов покажет, что нужно улучшить.",
+                "en": "The evaluation of the results will show what needs improving."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Обсуждение вопроса продолжится завтра.",
+                "en": "The discussion of the issue will continue tomorrow."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Внедрение политики заняло два года.",
+                    "en": "The implementation of the policy took two years."
+                  },
+                  {
+                    "ru": "Сокращение расходов удивило акционеров.",
+                    "en": "The reduction in costs surprised the shareholders."
+                  },
+                  {
+                    "ru": "Рост эффективности был очевиден.",
+                    "en": "The increase in efficiency was clear."
+                  },
+                  {
+                    "ru": "Достижение этой цели потребует времени.",
+                    "en": "The achievement of this goal will require time."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Оценка результатов покажет, что нужно улучшить.",
+                "en": "The evaluation of the results will show what needs improving.",
+                "blankedEn": "The ___ of the results will show what needs improving.",
+                "answer": "evaluation",
+                "options": [
+                  "evaluation",
+                  "evaluate",
+                  "evaluating",
+                  "evaluator"
+                ]
+              }
+            ],
+            "number": 252
+          },
+          {
+            "id": "b2-l38-p1",
+            "title": "Contrastive Focus — Not X But Y (Part 1)",
+            "titleNative": "Контраст: not X but Y · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l38",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Меня беспокоит не цена, а сроки.",
+                "en": "It's not the cost that worries me, but the timeline."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это не только дорого, но и медленно.",
+                "en": "Not only is it expensive, but it's also slow."
+              },
+              {
+                "type": "listening",
+                "ru": "Проблема не в идее, а в исполнении.",
+                "en": "The problem isn't the idea, but the execution."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дело не в деньгах, а в принципе.",
+                "en": "It's not about the money, but about the principle."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Не только сложно, но и дорого.",
+                "en": "Not only is it difficult, but it's also costly."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Важен не результат, а то, как мы его достигли.",
+                "en": "What matters isn't the result, but how we achieved it."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это не только дорого, но и медленно.",
+                "en": "Not only is it expensive, but it's also slow.",
+                "blankedEn": "Not only ___ it expensive, but it's also slow.",
+                "answer": "is",
+                "options": [
+                  "is",
+                  "does",
+                  "was",
+                  "has"
+                ]
+              }
+            ],
+            "number": 253
+          },
+          {
+            "id": "b2-l38-p2",
+            "title": "Contrastive Focus — Not X But Y (Part 2)",
+            "titleNative": "Контраст: not X but Y · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l38",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Дело не в отсутствии усилий, а в плохом планировании.",
+                "en": "It's not a lack of effort, but poor planning."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Не только команда небольшая, но и бюджет ограничен.",
+                "en": "Not only is the team small, but the budget is limited too."
+              },
+              {
+                "type": "listening",
+                "ru": "Проблема не в технологии, а в том, как её используют.",
+                "en": "The problem isn't the technology, but how it's used."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Важно не то, что случилось, а то, как мы отреагировали.",
+                "en": "What matters isn't what happened, but how we responded."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Не только поздно, но и слишком дорого.",
+                "en": "Not only is it late, but it's also too expensive."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Меня беспокоит не цена, а сроки.",
+                    "en": "It's not the cost that worries me, but the timeline."
+                  },
+                  {
+                    "ru": "Это не только дорого, но и медленно.",
+                    "en": "Not only is it expensive, but it's also slow."
+                  },
+                  {
+                    "ru": "Проблема не в идее, а в исполнении.",
+                    "en": "The problem isn't the idea, but the execution."
+                  },
+                  {
+                    "ru": "Дело не в деньгах, а в принципе.",
+                    "en": "It's not about the money, but about the principle."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Не только команда небольшая, но и бюджет ограничен.",
+                "en": "Not only is the team small, but the budget is limited too.",
+                "blankedEn": "Not only ___ the team small, but the budget is limited too.",
+                "answer": "is",
+                "options": [
+                  "is",
+                  "does",
+                  "has",
+                  "was"
+                ]
+              }
+            ],
+            "number": 254
+          },
+          {
+            "id": "b2-reading-25",
+            "title": "Presenting the Case",
+            "titleNative": "Представление аргументов",
+            "description": "Короткий рассказ о построении убедительного аргумента.",
+            "readingPassage": {
+              "context": "Короткий рассказ о построении убедительного аргумента.",
+              "paragraphs": [
+                {
+                  "en": "Rustam had to convince the board to approve his proposal.",
+                  "ru": "Рустаму нужно было убедить правление одобрить его предложение."
+                },
+                {
+                  "en": "\"The first point to consider is the cost savings,\" he began.",
+                  "ru": "«Первое, что стоит рассмотреть — это экономия средств», — начал он."
+                },
+                {
+                  "en": "\"The evidence suggests this approach could reduce expenses by twenty percent,\" he continued.",
+                  "ru": "«Данные говорят, что этот подход может сократить расходы на двадцать процентов», — продолжил он."
+                },
+                {
+                  "en": "One board member raised a concern about the risks.",
+                  "ru": "Один из членов правления выразил обеспокоенность рисками."
+                },
+                {
+                  "en": "\"We can't rule out the possibility of initial difficulties,\" Rustam admitted honestly.",
+                  "ru": "«Мы не можем исключить возможность первоначальных трудностей», — честно признал Рустам."
+                },
+                {
+                  "en": "\"However, this leads us to conclude that the long-term benefits outweigh the risks,\" he added.",
+                  "ru": "«Однако это приводит нас к выводу, что долгосрочные выгоды перевешивают риски», — добавил он."
+                },
+                {
+                  "en": "The board discussed the proposal carefully.",
+                  "ru": "Правление внимательно обсудило предложение."
+                },
+                {
+                  "en": "In the end, they approved his plan.",
+                  "ru": "В итоге они одобрили его план."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём говорил Рустам сначала?",
+                "options": [
+                  "О рисках",
+                  "Об экономии средств",
+                  "О сроках",
+                  "О команде"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "На сколько процентов могли сократиться расходы?",
+                "options": [
+                  "Десять",
+                  "Двадцать",
+                  "Пятьдесят",
+                  "Пять"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Чем закончилось обсуждение?",
+                "options": [
+                  "Отказом",
+                  "Одобрением плана",
+                  "Переносом решения",
+                  "Ничем не закончилось"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 255
+          },
+          {
+            "id": "b2-l39-p1",
+            "title": "Discussing Ethics & Dilemmas (Part 1)",
+            "titleNative": "Этика и дилеммы · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l39",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Здесь есть моральная дилемма.",
+                "en": "There's a moral dilemma here."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это поднимает этические вопросы о конфиденциальности.",
+                "en": "It raises ethical questions about privacy."
+              },
+              {
+                "type": "listening",
+                "ru": "Где нам следует провести черту?",
+                "en": "Where should we draw the line?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это сложный этический вопрос.",
+                "en": "This is a complex ethical issue."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Нет простого ответа на эту дилемму.",
+                "en": "There's no easy answer to this dilemma."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы должны учитывать этические последствия.",
+                "en": "We need to consider the ethical implications."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Здесь есть моральная дилемма.",
+                "en": "There's a moral dilemma here.",
+                "blankedEn": "There's a moral ___ here.",
+                "answer": "dilemma",
+                "options": [
+                  "dilemma",
+                  "problem",
+                  "issue",
+                  "question"
+                ]
+              }
+            ],
+            "number": 256
+          },
+          {
+            "id": "b2-l39-p2",
+            "title": "Discussing Ethics & Dilemmas (Part 2)",
+            "titleNative": "Этика и дилеммы · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l39",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Разные культуры проводят эту черту по-разному.",
+                "en": "Different cultures draw this line differently."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Технологии часто опережают этические нормы.",
+                "en": "Technology often outpaces ethical standards."
+              },
+              {
+                "type": "listening",
+                "ru": "Мы должны найти баланс между выгодой и риском.",
+                "en": "We need to balance benefit and risk."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Эта дилемма не имеет однозначного решения.",
+                "en": "This dilemma has no clear-cut solution."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Каждое решение имеет свою этическую цену.",
+                "en": "Every decision has its own ethical cost."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Здесь есть моральная дилемма.",
+                    "en": "There's a moral dilemma here."
+                  },
+                  {
+                    "ru": "Это поднимает этические вопросы.",
+                    "en": "It raises ethical questions."
+                  },
+                  {
+                    "ru": "Где нам следует провести черту?",
+                    "en": "Where should we draw the line?"
+                  },
+                  {
+                    "ru": "Мы должны учитывать этические последствия.",
+                    "en": "We need to consider the ethical implications."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Эта дилемма не имеет однозначного решения.",
+                "en": "This dilemma has no clear-cut solution.",
+                "blankedEn": "This dilemma has no ___ solution.",
+                "answer": "clear-cut",
+                "options": [
+                  "clear-cut",
+                  "clear",
+                  "clearing",
+                  "cleared"
+                ]
+              }
+            ],
+            "number": 257
+          },
+          {
+            "id": "b2-l40-p1",
+            "title": "Advanced Modifiers — Utterly, Profoundly, Remarkably (Part 1)",
+            "titleNative": "Продвинутые усилители · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l40",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Результаты были совершенно неожиданными.",
+                "en": "The results were utterly unexpected."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это глубоко изменило отрасль.",
+                "en": "This has profoundly changed the industry."
+              },
+              {
+                "type": "listening",
+                "ru": "Прогресс был удивительно быстрым.",
+                "en": "The progress was remarkably fast."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это совершенно неприемлемо.",
+                "en": "This is utterly unacceptable."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Её работа глубоко впечатлила комитет.",
+                "en": "Her work profoundly impressed the committee."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Реакция была на удивление спокойной.",
+                "en": "The reaction was remarkably calm."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Результаты были совершенно неожиданными.",
+                "en": "The results were utterly unexpected.",
+                "blankedEn": "The results were ___ unexpected.",
+                "answer": "utterly",
+                "options": [
+                  "utterly",
+                  "utter",
+                  "uttered",
+                  "uttering"
+                ]
+              }
+            ],
+            "number": 258
+          },
+          {
+            "id": "b2-l40-p2",
+            "title": "Advanced Modifiers — Utterly, Profoundly, Remarkably (Part 2)",
+            "titleNative": "Продвинутые усилители · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l40",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Ситуация была крайне сложной.",
+                "en": "The situation was utterly complex."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это глубоко повлияло на его карьеру.",
+                "en": "This profoundly affected his career."
+              },
+              {
+                "type": "listening",
+                "ru": "Отель был на удивление тихим.",
+                "en": "The hotel was remarkably quiet."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Её решение было совершенно логичным.",
+                "en": "Her decision was utterly logical."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Проект оказался на удивление успешным.",
+                "en": "The project turned out to be remarkably successful."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Результаты были совершенно неожиданными.",
+                    "en": "The results were utterly unexpected."
+                  },
+                  {
+                    "ru": "Это глубоко изменило отрасль.",
+                    "en": "This has profoundly changed the industry."
+                  },
+                  {
+                    "ru": "Прогресс был удивительно быстрым.",
+                    "en": "The progress was remarkably fast."
+                  },
+                  {
+                    "ru": "Её решение было совершенно логичным.",
+                    "en": "Her decision was utterly logical."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Отель был на удивление тихим.",
+                "en": "The hotel was remarkably quiet.",
+                "blankedEn": "The hotel was ___ quiet.",
+                "answer": "remarkably",
+                "options": [
+                  "remarkably",
+                  "remarkable",
+                  "remark",
+                  "remarking"
+                ]
+              }
+            ],
+            "number": 259
+          },
+          {
+            "id": "b2-reading-26",
+            "title": "B2 Journey Complete",
+            "titleNative": "Уровень B2 пройден",
+            "description": "Заключительный рассказ уровня B2.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня B2, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Yerbol has reached a point where English feels almost natural.",
+                  "ru": "Ерболу достиг такого уровня, что английский кажется почти естественным."
+                },
+                {
+                  "en": "He can hedge academic claims, build formal arguments, and discuss ethics.",
+                  "ru": "Он может хеджировать академические утверждения, строить формальные аргументы и обсуждать этику."
+                },
+                {
+                  "en": "\"The evidence suggests I've made real progress,\" he jokes with his tutor.",
+                  "ru": "«Данные говорят о том, что я добился реального прогресса», — шутит он с преподавателем."
+                },
+                {
+                  "en": "\"I felt a mix of pride and disbelief when I finished my first essay in English,\" he admits.",
+                  "ru": "«Я почувствовал смесь гордости и недоверия, когда закончил своё первое эссе на английском», — признаётся он."
+                },
+                {
+                  "en": "His tutor nods and says, \"That's a very natural feeling at this stage.\"",
+                  "ru": "Преподаватель кивает и говорит: «Это очень естественное чувство на этом этапе»."
+                },
+                {
+                  "en": "\"There's still a risk I'll make mistakes with nuance,\" Yerbol says.",
+                  "ru": "«Всё ещё есть риск, что я буду ошибаться в нюансах», — говорит Ербол."
+                },
+                {
+                  "en": "\"But I'm ready for the B2+ level now,\" he adds with confidence.",
+                  "ru": "«Но теперь я готов к уровню B2+», — уверенно добавляет он."
+                },
+                {
+                  "en": "His journey toward true fluency continues to deepen.",
+                  "ru": "Его путь к настоящей беглости продолжает углубляться."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что теперь умеет Ербол?",
+                "options": [
+                  "Только базовые фразы",
+                  "Хеджировать и строить аргументы",
+                  "Только читать",
+                  "Ничего нового"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что он почувствовал после первого эссе?",
+                "options": [
+                  "Только разочарование",
+                  "Смесь гордости и недоверия",
+                  "Полное безразличие",
+                  "Только страх"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит Ербол в конце?",
+                "options": [
+                  "Он бросает учёбу",
+                  "Он готов к B2+",
+                  "Ему нужен перерыв",
+                  "Он разочарован"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 260
+          },
+          {
+            "id": "b2-l41-p1",
+            "title": "Making a Case — Building an Argument (Part 1)",
+            "titleNative": "Построение аргумента · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l41",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Первое, что стоит рассмотреть — это стоимость.",
+                "en": "The first point to consider is the cost."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это приводит нас к выводу, что план нужно пересмотреть.",
+                "en": "This leads us to conclude that the plan needs revising."
+              },
+              {
+                "type": "listening",
+                "ru": "Доказательства указывают на другую причину.",
+                "en": "The evidence points to a different cause."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Второй момент касается сроков.",
+                "en": "The second point concerns the timeline."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Из этого следует, что нужны изменения.",
+                "en": "It follows that changes are needed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это подводит нас к главному вопросу.",
+                "en": "This brings us to the main question."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это приводит нас к выводу, что план нужно пересмотреть.",
+                "en": "This leads us to conclude that the plan needs revising.",
+                "blankedEn": "This leads us to ___ that the plan needs revising.",
+                "answer": "conclude",
+                "options": [
+                  "conclude",
+                  "concluding",
+                  "concluded",
+                  "conclusion"
+                ]
+              }
+            ],
+            "number": 261
+          },
+          {
+            "id": "b2-l41-p2",
+            "title": "Making a Case — Building an Argument (Part 2)",
+            "titleNative": "Построение аргумента · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l41",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Стоит отметить, что данные ограничены.",
+                "en": "It's worth noting that the data is limited."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В свете этого нам нужно действовать быстро.",
+                "en": "In light of this, we need to act quickly."
+              },
+              {
+                "type": "listening",
+                "ru": "Это подкрепляет аргумент в пользу изменений.",
+                "en": "This strengthens the case for change."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Аргумент строится на трёх ключевых пунктах.",
+                "en": "The argument is built on three key points."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "В заключение, доказательства убедительны.",
+                "en": "In conclusion, the evidence is compelling."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Первое, что стоит рассмотреть.",
+                    "en": "The first point to consider."
+                  },
+                  {
+                    "ru": "Это приводит нас к выводу.",
+                    "en": "This leads us to conclude."
+                  },
+                  {
+                    "ru": "Доказательства указывают на другую причину.",
+                    "en": "The evidence points to a different cause."
+                  },
+                  {
+                    "ru": "В заключение, доказательства убедительны.",
+                    "en": "In conclusion, the evidence is compelling."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В заключение, доказательства убедительны.",
+                "en": "In conclusion, the evidence is compelling.",
+                "blankedEn": "In conclusion, the evidence is ___.",
+                "answer": "compelling",
+                "options": [
+                  "compelling",
+                  "compel",
+                  "compelled",
+                  "compels"
+                ]
+              }
+            ],
+            "number": 262
+          },
+          {
+            "id": "b2-l42-p1",
+            "title": "Talking About Risk & Uncertainty (Part 1)",
+            "titleNative": "Риск и неопределённость · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l42",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Есть риск, что план провалится.",
+                "en": "There's a risk that the plan will fail."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы не можем исключить возможность задержки.",
+                "en": "We can't rule out the possibility of a delay."
+              },
+              {
+                "type": "listening",
+                "ru": "Остаётся неясным, сработает ли это.",
+                "en": "It remains uncertain whether this will work."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Существует значительный риск ошибки.",
+                "en": "There's a significant risk of error."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Нельзя исключить возможность неудачи.",
+                "en": "We can't rule out the possibility of failure."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Результат остаётся неопределённым.",
+                "en": "The outcome remains uncertain."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы не можем исключить возможность задержки.",
+                "en": "We can't rule out the possibility of a delay.",
+                "blankedEn": "We can't ___ out the possibility of a delay.",
+                "answer": "rule",
+                "options": [
+                  "rule",
+                  "count",
+                  "leave",
+                  "take"
+                ]
+              }
+            ],
+            "number": 263
+          },
+          {
+            "id": "b2-l42-p2",
+            "title": "Talking About Risk & Uncertainty (Part 2)",
+            "titleNative": "Риск и неопределённость · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l42",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Риск невелик, но он существует.",
+                "en": "The risk is small, but it exists."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы должны взвесить потенциальные риски.",
+                "en": "We need to weigh the potential risks."
+              },
+              {
+                "type": "listening",
+                "ru": "Есть некоторая неопределённость по поводу сроков.",
+                "en": "There's some uncertainty about the timeline."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Всегда есть элемент риска в новых проектах.",
+                "en": "There's always an element of risk in new projects."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мы приняли на себя рассчитанный риск.",
+                "en": "We took a calculated risk."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Есть риск, что план провалится.",
+                    "en": "There's a risk that the plan will fail."
+                  },
+                  {
+                    "ru": "Мы не можем исключить возможность задержки.",
+                    "en": "We can't rule out the possibility of a delay."
+                  },
+                  {
+                    "ru": "Остаётся неясным, сработает ли это.",
+                    "en": "It remains uncertain whether this will work."
+                  },
+                  {
+                    "ru": "Мы приняли на себя рассчитанный риск.",
+                    "en": "We took a calculated risk."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы приняли на себя рассчитанный риск.",
+                "en": "We took a calculated risk.",
+                "blankedEn": "We took a ___ risk.",
+                "answer": "calculated",
+                "options": [
+                  "calculated",
+                  "calculating",
+                  "calculation",
+                  "calculate"
+                ]
+              }
+            ],
+            "number": 264
+          },
+          {
+            "id": "b2-l43-p1",
+            "title": "Describing Subtle Emotional States (Part 1)",
+            "titleNative": "Тонкие эмоциональные состояния · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l43",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я почувствовал смесь облегчения и тревоги.",
+                "en": "I felt a mix of relief and unease."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Было скрытое ощущение напряжения.",
+                "en": "There was an underlying sense of tension."
+              },
+              {
+                "type": "listening",
+                "ru": "Это оставило меня в странном противоречии.",
+                "en": "It left me feeling oddly conflicted."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я испытывал смешанные чувства по этому поводу.",
+                "en": "I had mixed feelings about it."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "За её улыбкой скрывалась печаль.",
+                "en": "There was sadness underlying her smile."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это вызвало у меня необъяснимое беспокойство.",
+                "en": "It gave me an inexplicable sense of unease."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Было скрытое ощущение напряжения.",
+                "en": "There was an underlying sense of tension.",
+                "blankedEn": "There was an ___ sense of tension.",
+                "answer": "underlying",
+                "options": [
+                  "underlying",
+                  "underneath",
+                  "under",
+                  "understated"
+                ]
+              }
+            ],
+            "number": 265
+          },
+          {
+            "id": "b2-l43-p2",
+            "title": "Describing Subtle Emotional States (Part 2)",
+            "titleNative": "Тонкие эмоциональные состояния · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l43",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я испытывал странное чувство ностальгии.",
+                "en": "I felt a strange sense of nostalgia."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "За её словами скрывалось разочарование.",
+                "en": "There was disappointment underlying her words."
+              },
+              {
+                "type": "listening",
+                "ru": "Это была тихая, но настоящая радость.",
+                "en": "It was a quiet but genuine joy."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не мог до конца понять свои чувства.",
+                "en": "I couldn't quite make sense of my feelings."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Атмосфера была наполнена неловким молчанием.",
+                "en": "The atmosphere was filled with awkward silence."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я почувствовал смесь облегчения и тревоги.",
+                    "en": "I felt a mix of relief and unease."
+                  },
+                  {
+                    "ru": "Было скрытое ощущение напряжения.",
+                    "en": "There was an underlying sense of tension."
+                  },
+                  {
+                    "ru": "Это оставило меня в странном противоречии.",
+                    "en": "It left me feeling oddly conflicted."
+                  },
+                  {
+                    "ru": "Я испытывал странное чувство ностальгии.",
+                    "en": "I felt a strange sense of nostalgia."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я не мог до конца понять свои чувства.",
+                "en": "I couldn't quite make sense of my feelings.",
+                "blankedEn": "I couldn't quite make ___ of my feelings.",
+                "answer": "sense",
+                "options": [
+                  "sense",
+                  "meaning",
+                  "point",
+                  "reason"
+                ]
+              }
+            ],
+            "number": 266
+          },
+          {
+            "id": "b2-l44-p1",
+            "title": "B2 Review — A Formal Debate (Part 1)",
+            "titleNative": "Итоговое повторение B2 · Часть 1",
+            "description": "Новая тема B2",
+            "topicId": "b2-l44",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Данные говорят о явной корреляции.",
+                "en": "The evidence suggests a clear correlation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Здесь есть моральная дилемма.",
+                "en": "There's a moral dilemma here."
+              },
+              {
+                "type": "listening",
+                "ru": "Меня беспокоит не цена, а сроки.",
+                "en": "It's not the cost that worries me, but the timeline."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Есть риск, что план провалится.",
+                "en": "There's a risk that the plan will fail."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Результаты были совершенно неожиданными.",
+                "en": "The results were utterly unexpected."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Первое, что стоит рассмотреть — это стоимость.",
+                "en": "The first point to consider is the cost."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Данные говорят о явной корреляции.",
+                "en": "The evidence suggests a clear correlation.",
+                "blankedEn": "The evidence ___ a clear correlation.",
+                "answer": "suggests",
+                "options": [
+                  "suggests",
+                  "proves",
+                  "shows",
+                  "makes"
+                ]
+              }
+            ],
+            "number": 267
+          },
+          {
+            "id": "b2-l44-p2",
+            "title": "B2 Review — A Formal Debate (Part 2)",
+            "titleNative": "Итоговое повторение B2 · Часть 2",
+            "description": "Новая тема B2",
+            "topicId": "b2-l44",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я почувствовал смесь облегчения и тревоги.",
+                "en": "I felt a mix of relief and unease."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Внедрение политики заняло два года.",
+                "en": "The implementation of the policy took two years."
+              },
+              {
+                "type": "listening",
+                "ru": "Она спросила, были ли результаты окончательными.",
+                "en": "She asked whether the results were final."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я многому научился на уровне B2.",
+                "en": "I've learned a lot at the B2 level."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Теперь я готов к уровню B2+.",
+                "en": "I'm ready for the B2+ level now."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Данные говорят о явной корреляции.",
+                    "en": "The evidence suggests a clear correlation."
+                  },
+                  {
+                    "ru": "Здесь есть моральная дилемма.",
+                    "en": "There's a moral dilemma here."
+                  },
+                  {
+                    "ru": "Есть риск, что план провалится.",
+                    "en": "There's a risk that the plan will fail."
+                  },
+                  {
+                    "ru": "Теперь я готов к уровню B2+.",
+                    "en": "I'm ready for the B2+ level now."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я многому научился на уровне B2.",
+                "en": "I've learned a lot at the B2 level.",
+                "blankedEn": "I've ___ a lot at the B2 level.",
+                "answer": "learned",
+                "options": [
+                  "learned",
+                  "learn",
+                  "learns",
+                  "learning"
+                ]
+              }
+            ],
+            "number": 268
           }
         ]
       },
@@ -76163,6 +77620,66 @@
         "pattern": "Review of B1+ grammar and vocabulary",
         "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B1+ — модальные глаголы дедукции, причастные обороты, эмфатические конструкции, дипломатичную речь — чтобы закрепить материал перед переходом на уровень B2.",
         "fact": "Уровень B1+ часто рассматривают как переходный этап, где учащийся начинает не просто передавать информацию, но и управлять тоном и нюансом своей речи — именно этот навык становится центральным на уровне B2."
+      },
+      "b2-l35": {
+        "title": "Hedging in Academic Writing",
+        "pattern": "The evidence suggests... / It could be argued that... / This appears to indicate...",
+        "explanation": "Академическое хеджирование смягчает утверждения, представляя их как обоснованную интерпретацию, а не абсолютный факт: «The evidence suggests» вместо «This proves», «it could be argued that» вводит точку зрения, не заявляя её как единственно верную.",
+        "fact": "Хеджирующие слова («suggests», «appears to», «may indicate») встречаются в опубликованных научных статьях значительно чаще, чем в обычной прозе — научное сообщество ценит осторожность формулировок почти так же высоко, как саму точность данных."
+      },
+      "b2-l36": {
+        "title": "Advanced Reported Questions",
+        "pattern": "She asked whether the results were final. / He wanted to know why the delay had occurred.",
+        "explanation": "Продвинутая косвенная речь для вопросов сохраняет обычный порядок слов утверждения (а не вопроса) и часто сдвигает время на шаг назад: «She asked whether the results were final» — без вопросительного знака и без инверсии подлежащего и глагола.",
+        "fact": "«Whether» в косвенных вопросах да/нет звучит чуть более формально, чем «if», и предпочтительнее в письменной, особенно академической речи — «She asked whether» встречается в официальных текстах значительно чаще, чем «she asked if»."
+      },
+      "b2-l37": {
+        "title": "Nominalization for Formal Tone",
+        "pattern": "the implementation of the policy / the reduction in costs / an increase in efficiency",
+        "explanation": "Номинализация превращает глагол или прилагательное в существительное (implement → implementation, reduce → reduction), позволяя формальному тексту компактно упаковать целое действие в один элемент предложения, которым затем можно оперировать.",
+        "fact": "Чрезмерная номинализация — частая жалоба редакторов на «бюрократический» стиль письма: «the implementation of the decision by the committee» звучит формальнее, но менее динамично, чем простое «the committee decided»."
+      },
+      "b2-l38": {
+        "title": "Contrastive Focus — Not X But Y",
+        "pattern": "It's not the cost that worries me, but the timeline. / Not only is it expensive, but it's also slow.",
+        "explanation": "Конструкция «not X but Y» ставит акцент на контрасте между двумя вещами, отвергая одну и подтверждая другую: «It's not the cost that worries me, but the timeline» — явно исключает одну причину в пользу другой.",
+        "fact": "«Not only... but also» часто требует инверсии, если стоит в начале предложения («Not only is it expensive...»), точно так же, как другие отрицательные конструкции в начале фразы — это одна из немногих грамматических связей между этими, казалось бы, разными темами."
+      },
+      "b2-l39": {
+        "title": "Discussing Ethics & Dilemmas",
+        "pattern": "There's a moral dilemma here. / It raises ethical questions about... / Where should we draw the line?",
+        "explanation": "Обсуждение этических вопросов использует абстрактную лексику (dilemma, ethical, moral) и риторические вопросы («Where should we draw the line?»), приглашающие к размышлению, а не требующие однозначного ответа.",
+        "fact": "«Draw the line» — метафора, восходящая к идее физической границы, проведённой на земле; в переносном смысле она означает установить предел допустимого поведения, за который нельзя заходить."
+      },
+      "b2-l40": {
+        "title": "Advanced Modifiers — Utterly, Profoundly, Remarkably",
+        "pattern": "The results were utterly unexpected. / This has profoundly changed the industry.",
+        "explanation": "Продвинутые усилительные наречия (utterly, profoundly, remarkably) заменяют более простые «very» и «really» в формальной или выразительной речи, придавая утверждению больше веса и точности.",
+        "fact": "«Utterly» происходит от того же корня, что и «utter» (полностью, совершенно) — исторически связанное с идеей «крайней степени», а не с глаголом «utter» (произносить), хотя оба слова выглядят одинаково в современном английском."
+      },
+      "b2-l41": {
+        "title": "Making a Case — Building an Argument",
+        "pattern": "The first point to consider is... / This leads us to conclude that... / The evidence points to...",
+        "explanation": "Построение аргумента структурируется явными переходами: «The first point to consider is...» вводит начало, «this leads us to conclude that...» подводит к выводу, «the evidence points to...» ссылается на конкретные данные.",
+        "fact": "«Points to» в значении «указывает на» — пространственная метафора, перенесённая на логику: буквально «указывать пальцем в сторону» стало означать «служить признаком, свидетельствовать в пользу чего-то»."
+      },
+      "b2-l42": {
+        "title": "Talking About Risk & Uncertainty",
+        "pattern": "There's a risk that... / We can't rule out the possibility of... / It remains uncertain whether...",
+        "explanation": "Обсуждение риска и неопределённости использует осторожные формулировки: «we can't rule out the possibility of...» (мы не можем исключить возможность) звучит менее категорично, чем прямое утверждение вероятности.",
+        "fact": "«Rule out» буквально означает «вычеркнуть линейкой» — историческая метафора из бухгалтерии или составления списков, где невозможные варианты действительно вычёркивались прямой линией, оставляя только оставшиеся, реальные возможности."
+      },
+      "b2-l43": {
+        "title": "Describing Subtle Emotional States",
+        "pattern": "I felt a mix of relief and unease. / There was an underlying sense of tension. / It left me feeling oddly conflicted.",
+        "explanation": "Описание тонких эмоциональных состояний сочетает несколько чувств одновременно («a mix of relief and unease») и использует слова вроде «underlying» (скрытый, лежащий в основе) и «conflicted» (испытывающий внутреннее противоречие) для нюансов, которые не передать одним простым прилагательным.",
+        "fact": "«Underlying» буквально означает «лежащий под», как геологический слой — в переносном смысле эта метафора прижилась для описания эмоций или причин, которые не видны на поверхности, но определяют то, что происходит сверху."
+      },
+      "b2-l44": {
+        "title": "B2 Review — A Formal Debate",
+        "pattern": "Review of B2 grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B2 — смешанные условные предложения, продвинутый страдательный залог, хеджирование, построение аргументов — чтобы закрепить материал перед переходом на уровень B2+.",
+        "fact": "Уровень B2 по шкале CEFR часто называют уровнем «независимого пользователя, продвинутого этапа» — именно с этого уровня учащийся может свободно участвовать в дебатах и отстаивать позицию по абстрактным темам, не только описывать факты."
       }
     },
     "vocabularySets": [
