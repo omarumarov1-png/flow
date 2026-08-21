@@ -11620,6 +11620,1298 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "a1-l61-p1",
+            "title": "On the Phone — Basic Calls (Part 1)",
+            "titleNative": "Телефонные звонки · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l61",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Здравствуйте, это Анна.",
+                "en": "Hello, this is Anna."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно попросить мистера Смита?",
+                "en": "Can I speak to Mr. Smith?"
+              },
+              {
+                "type": "listening",
+                "ru": "Извините, его сейчас нет на месте.",
+                "en": "I'm sorry, he's not available right now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вы можете попросить его перезвонить мне?",
+                "en": "Can you ask him to call me back?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Какой у вас номер телефона?",
+                "en": "What's your phone number?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я перезвоню позже.",
+                "en": "I'll call back later."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Можно попросить мистера Смита?",
+                "en": "Can I speak to Mr. Smith?",
+                "blankedEn": "Can I ___ to Mr. Smith?",
+                "answer": "speak",
+                "options": [
+                  "speak",
+                  "talk",
+                  "say",
+                  "tell"
+                ]
+              }
+            ],
+            "number": 161
+          },
+          {
+            "id": "a1-l61-p2",
+            "title": "On the Phone — Basic Calls (Part 2)",
+            "titleNative": "Телефонные звонки · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l61",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Подождите минутку, пожалуйста.",
+                "en": "Please hold for a moment."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Извините, я неправильно набрал номер.",
+                "en": "Sorry, I dialed the wrong number."
+              },
+              {
+                "type": "listening",
+                "ru": "Линия занята, попробуйте позже.",
+                "en": "The line is busy, try again later."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Спасибо за звонок.",
+                "en": "Thanks for calling."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "У меня плохая связь.",
+                "en": "I have a bad connection."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Это Анна.",
+                    "en": "This is Anna."
+                  },
+                  {
+                    "ru": "Можно попросить...?",
+                    "en": "Can I speak to...?"
+                  },
+                  {
+                    "ru": "Он сейчас недоступен.",
+                    "en": "He's not available right now."
+                  },
+                  {
+                    "ru": "Перезвоните мне, пожалуйста.",
+                    "en": "Please call me back."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Линия занята, попробуйте позже.",
+                "en": "The line is busy, try again later.",
+                "blankedEn": "The line is ___, try again later.",
+                "answer": "busy",
+                "options": [
+                  "busy",
+                  "free",
+                  "open",
+                  "closed"
+                ]
+              }
+            ],
+            "number": 162
+          },
+          {
+            "id": "a1-l62-p1",
+            "title": "At the Hotel — Checking In (Part 1)",
+            "titleNative": "В отеле · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l62",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "У меня забронирован номер.",
+                "en": "I have a reservation."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У вас есть свободные номера?",
+                "en": "Do you have any rooms available?"
+              },
+              {
+                "type": "listening",
+                "ru": "Двухместный номер на три ночи.",
+                "en": "A double room for three nights."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Во сколько нужно освободить номер?",
+                "en": "What time is check-out?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Выезд в одиннадцать утра.",
+                "en": "Check-out is at eleven in the morning."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Завтрак включён в стоимость?",
+                "en": "Is breakfast included?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "У меня забронирован номер.",
+                "en": "I have a reservation.",
+                "blankedEn": "I have a ___.",
+                "answer": "reservation",
+                "options": [
+                  "reservation",
+                  "reserve",
+                  "reserved",
+                  "book"
+                ]
+              }
+            ],
+            "number": 163
+          },
+          {
+            "id": "a1-l62-p2",
+            "title": "At the Hotel — Checking In (Part 2)",
+            "titleNative": "В отеле · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l62",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Какой у вас пароль от Wi-Fi?",
+                "en": "What's your Wi-Fi password?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мой номер на третьем этаже.",
+                "en": "My room is on the third floor."
+              },
+              {
+                "type": "listening",
+                "ru": "Можно попросить дополнительное полотенце?",
+                "en": "Can I get an extra towel?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Здесь есть тренажёрный зал?",
+                "en": "Is there a gym here?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Спасибо, номер прекрасный.",
+                "en": "Thank you, the room is lovely."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "У меня забронирован номер.",
+                    "en": "I have a reservation."
+                  },
+                  {
+                    "ru": "Во сколько заезд?",
+                    "en": "What time is check-in?"
+                  },
+                  {
+                    "ru": "Завтрак включён?",
+                    "en": "Is breakfast included?"
+                  },
+                  {
+                    "ru": "Спасибо за помощь.",
+                    "en": "Thank you for your help."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Можно попросить дополнительное полотенце?",
+                "en": "Can I get an extra towel?",
+                "blankedEn": "Can I get an ___ towel?",
+                "answer": "extra",
+                "options": [
+                  "extra",
+                  "more",
+                  "another",
+                  "second"
+                ]
+              }
+            ],
+            "number": 164
+          },
+          {
+            "id": "a1-reading-41",
+            "title": "A Phone Call to the Doctor",
+            "titleNative": "Звонок врачу",
+            "description": "Короткий рассказ о записи на приём к врачу.",
+            "readingPassage": {
+              "context": "Короткий рассказ о записи на приём к врачу.",
+              "paragraphs": [
+                {
+                  "en": "Maria wakes up with a headache.",
+                  "ru": "Мария просыпается с головной болью."
+                },
+                {
+                  "en": "She decides to call the doctor's office.",
+                  "ru": "Она решает позвонить в кабинет врача."
+                },
+                {
+                  "en": "\"Hello, I'd like to make an appointment,\" she says.",
+                  "ru": "«Здравствуйте, я бы хотела записаться на приём», — говорит она."
+                },
+                {
+                  "en": "The receptionist asks about her symptoms.",
+                  "ru": "Администратор спрашивает о симптомах."
+                },
+                {
+                  "en": "\"I have a headache and a bit of a fever,\" Maria says.",
+                  "ru": "«У меня болит голова и небольшая температура», — говорит Мария."
+                },
+                {
+                  "en": "The doctor can see her at three o'clock.",
+                  "ru": "Врач может принять её в три часа."
+                },
+                {
+                  "en": "Maria thanks the receptionist and hangs up.",
+                  "ru": "Мария благодарит администратора и кладёт трубку."
+                },
+                {
+                  "en": "She feels a little better already, just knowing she has an appointment.",
+                  "ru": "Ей уже немного легче — просто от того, что у неё есть запись."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Почему Мария звонит врачу?",
+                "options": [
+                  "У неё болит нога",
+                  "У неё болит голова",
+                  "У неё болит зуб",
+                  "У неё болит спина"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Во сколько у неё приём?",
+                "options": [
+                  "В два часа",
+                  "В час",
+                  "В три часа",
+                  "В четыре часа"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Как Мария себя чувствует в конце?",
+                "options": [
+                  "Хуже",
+                  "Так же",
+                  "Немного лучше",
+                  "Гораздо хуже"
+                ],
+                "answerIndex": 2
+              }
+            ],
+            "number": 165
+          },
+          {
+            "id": "a1-l63-p1",
+            "title": "At the Doctor's — Making an Appointment (Part 1)",
+            "titleNative": "У врача · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l63",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы хотел записаться на приём.",
+                "en": "I'd like to make an appointment."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У меня болит голова.",
+                "en": "I have a headache."
+              },
+              {
+                "type": "listening",
+                "ru": "Как давно у вас это?",
+                "en": "How long have you had this?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "С понедельника.",
+                "en": "Since Monday."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "У меня температура.",
+                "en": "I have a fever."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Вам нужно больше отдыхать.",
+                "en": "You need to rest more."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я бы хотел записаться на приём.",
+                "en": "I'd like to make an appointment.",
+                "blankedEn": "I'd like to make an ___.",
+                "answer": "appointment",
+                "options": [
+                  "appointment",
+                  "meeting",
+                  "date",
+                  "visit"
+                ]
+              }
+            ],
+            "number": 166
+          },
+          {
+            "id": "a1-l63-p2",
+            "title": "At the Doctor's — Making an Appointment (Part 2)",
+            "titleNative": "У врача · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l63",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "У меня болит горло.",
+                "en": "I have a sore throat."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Принимайте эти таблетки два раза в день.",
+                "en": "Take these pills twice a day."
+              },
+              {
+                "type": "listening",
+                "ru": "Ближайший приём во вторник.",
+                "en": "The next appointment is on Tuesday."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужен рецепт.",
+                "en": "I need a prescription."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это серьёзно?",
+                "en": "Is it serious?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "У меня болит голова.",
+                    "en": "I have a headache."
+                  },
+                  {
+                    "ru": "У меня температура.",
+                    "en": "I have a fever."
+                  },
+                  {
+                    "ru": "Мне нужен рецепт.",
+                    "en": "I need a prescription."
+                  },
+                  {
+                    "ru": "Вам нужно больше отдыхать.",
+                    "en": "You need to rest more."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Принимайте эти таблетки два раза в день.",
+                "en": "Take these pills twice a day.",
+                "blankedEn": "Take these pills ___ a day.",
+                "answer": "twice",
+                "options": [
+                  "twice",
+                  "two",
+                  "second",
+                  "double"
+                ]
+              }
+            ],
+            "number": 167
+          },
+          {
+            "id": "a1-l64-p1",
+            "title": "Giving Personal Information (Part 1)",
+            "titleNative": "Личные данные · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l64",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как ваше полное имя?",
+                "en": "What's your full name?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Не могли бы вы произнести по буквам?",
+                "en": "Could you spell that, please?"
+              },
+              {
+                "type": "listening",
+                "ru": "Моя дата рождения — пятого мая.",
+                "en": "My date of birth is the fifth of May."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Какой у вас адрес?",
+                "en": "What's your address?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Заполните эту форму, пожалуйста.",
+                "en": "Please fill out this form."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужен ваш номер телефона.",
+                "en": "I need your phone number."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Не могли бы вы произнести по буквам?",
+                "en": "Could you spell that, please?",
+                "blankedEn": "Could you ___ that, please?",
+                "answer": "spell",
+                "options": [
+                  "spell",
+                  "say",
+                  "write",
+                  "tell"
+                ]
+              }
+            ],
+            "number": 168
+          },
+          {
+            "id": "a1-l64-p2",
+            "title": "Giving Personal Information (Part 2)",
+            "titleNative": "Личные данные · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l64",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Ваша фамилия пишется через дефис?",
+                "en": "Is your last name hyphenated?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мой адрес электронной почты...",
+                "en": "My email address is..."
+              },
+              {
+                "type": "listening",
+                "ru": "Подпишите здесь, пожалуйста.",
+                "en": "Please sign here."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У вас есть удостоверение личности?",
+                "en": "Do you have any ID?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мой почтовый индекс...",
+                "en": "My postal code is..."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Как ваше полное имя?",
+                    "en": "What's your full name?"
+                  },
+                  {
+                    "ru": "Какой у вас адрес?",
+                    "en": "What's your address?"
+                  },
+                  {
+                    "ru": "Подпишите здесь.",
+                    "en": "Please sign here."
+                  },
+                  {
+                    "ru": "У вас есть удостоверение личности?",
+                    "en": "Do you have any ID?"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "У вас есть удостоверение личности?",
+                "en": "Do you have any ID?",
+                "blankedEn": "Do you have any ___?",
+                "answer": "ID",
+                "options": [
+                  "ID",
+                  "name",
+                  "form",
+                  "paper"
+                ]
+              }
+            ],
+            "number": 169
+          },
+          {
+            "id": "a1-reading-42",
+            "title": "Checking Into a Hotel",
+            "titleNative": "Заселение в отель",
+            "description": "Короткий рассказ о заселении в отель.",
+            "readingPassage": {
+              "context": "Короткий рассказ о заселении в отель.",
+              "paragraphs": [
+                {
+                  "en": "Tom arrives at the hotel after a long trip.",
+                  "ru": "Том приезжает в отель после долгой поездки."
+                },
+                {
+                  "en": "\"I have a reservation under the name Brown,\" he tells the receptionist.",
+                  "ru": "«У меня забронирован номер на фамилию Браун», — говорит он администратору."
+                },
+                {
+                  "en": "\"Yes, a single room for two nights,\" she says.",
+                  "ru": "«Да, одноместный номер на две ночи», — отвечает она."
+                },
+                {
+                  "en": "Tom asks, \"What time is check-out?\"",
+                  "ru": "Том спрашивает: «Во сколько нужно освободить номер?»"
+                },
+                {
+                  "en": "\"Check-out is at eleven,\" she replies.",
+                  "ru": "«Выезд в одиннадцать», — отвечает она."
+                },
+                {
+                  "en": "He also asks about breakfast.",
+                  "ru": "Он также спрашивает про завтрак."
+                },
+                {
+                  "en": "\"Breakfast is included, from seven to ten,\" she says.",
+                  "ru": "«Завтрак включён, с семи до десяти», — говорит она."
+                },
+                {
+                  "en": "Tom thanks her and goes up to his room.",
+                  "ru": "Том благодарит её и поднимается в свой номер."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "На сколько ночей у Тома номер?",
+                "options": [
+                  "Одну",
+                  "Две",
+                  "Три",
+                  "Четыре"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Во сколько выезд?",
+                "options": [
+                  "В десять",
+                  "В одиннадцать",
+                  "В двенадцать",
+                  "В девять"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Завтрак включён в стоимость?",
+                "options": [
+                  "Нет",
+                  "Да",
+                  "Только по выходным",
+                  "Не сказано"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 170
+          },
+          {
+            "id": "a1-l65-p1",
+            "title": "Asking Permission — May I / Can I (Part 1)",
+            "titleNative": "Просить разрешения · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l65",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Можно мне открыть окно?",
+                "en": "May I open the window?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно мне воспользоваться вашей ручкой?",
+                "en": "Can I use your pen?"
+              },
+              {
+                "type": "listening",
+                "ru": "Конечно, пожалуйста.",
+                "en": "Of course, go ahead."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ничего, если я приду немного позже?",
+                "en": "Would it be okay if I came a bit later?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Извините, но это невозможно.",
+                "en": "I'm afraid that's not possible."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можно мне задать вопрос?",
+                "en": "May I ask a question?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Можно мне открыть окно?",
+                "en": "May I open the window?",
+                "blankedEn": "___ I open the window?",
+                "answer": "May",
+                "options": [
+                  "May",
+                  "Do",
+                  "Am",
+                  "Will"
+                ]
+              }
+            ],
+            "number": 171
+          },
+          {
+            "id": "a1-l65-p2",
+            "title": "Asking Permission — May I / Can I (Part 2)",
+            "titleNative": "Просить разрешения · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l65",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Можно мне выйти на минуту?",
+                "en": "Can I step out for a minute?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вы не против, если я сяду здесь?",
+                "en": "Do you mind if I sit here?"
+              },
+              {
+                "type": "listening",
+                "ru": "Нет, конечно нет.",
+                "en": "No, not at all."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можно мне посмотреть меню?",
+                "en": "May I see the menu?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Можно мне ваш номер телефона?",
+                "en": "Can I have your phone number?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Можно мне открыть окно?",
+                    "en": "May I open the window?"
+                  },
+                  {
+                    "ru": "Вы не против, если я сяду здесь?",
+                    "en": "Do you mind if I sit here?"
+                  },
+                  {
+                    "ru": "Конечно, пожалуйста.",
+                    "en": "Of course, go ahead."
+                  },
+                  {
+                    "ru": "Извините, но это невозможно.",
+                    "en": "I'm afraid that's not possible."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Вы не против, если я сяду здесь?",
+                "en": "Do you mind if I sit here?",
+                "blankedEn": "Do you ___ if I sit here?",
+                "answer": "mind",
+                "options": [
+                  "mind",
+                  "care",
+                  "think",
+                  "want"
+                ]
+              }
+            ],
+            "number": 172
+          },
+          {
+            "id": "a1-l66-p1",
+            "title": "Apologizing & Thanking (Part 1)",
+            "titleNative": "Извинения и благодарности · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l66",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Извините за опоздание.",
+                "en": "I'm sorry for being late."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Большое спасибо за помощь.",
+                "en": "Thank you so much for your help."
+              },
+              {
+                "type": "listening",
+                "ru": "Ничего страшного.",
+                "en": "No problem at all."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Извините, что заставил вас ждать.",
+                "en": "Sorry to keep you waiting."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Не за что.",
+                "en": "Don't mention it."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Спасибо, что пригласили меня.",
+                "en": "Thank you for inviting me."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Большое спасибо за помощь.",
+                "en": "Thank you so much for your help.",
+                "blankedEn": "Thank you so much for your ___.",
+                "answer": "help",
+                "options": [
+                  "help",
+                  "helping",
+                  "helper",
+                  "helps"
+                ]
+              }
+            ],
+            "number": 173
+          },
+          {
+            "id": "a1-l66-p2",
+            "title": "Apologizing & Thanking (Part 2)",
+            "titleNative": "Извинения и благодарности · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l66",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Мне очень жаль, что так получилось.",
+                "en": "I'm really sorry about that."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это моя вина.",
+                "en": "It's my fault."
+              },
+              {
+                "type": "listening",
+                "ru": "Спасибо за подарок.",
+                "en": "Thank you for the gift."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Извините, что перебиваю.",
+                "en": "Sorry to interrupt."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Я ценю вашу доброту.",
+                "en": "I appreciate your kindness."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Извините за опоздание.",
+                    "en": "I'm sorry for being late."
+                  },
+                  {
+                    "ru": "Спасибо за помощь.",
+                    "en": "Thank you for your help."
+                  },
+                  {
+                    "ru": "Ничего страшного.",
+                    "en": "No problem at all."
+                  },
+                  {
+                    "ru": "Это моя вина.",
+                    "en": "It's my fault."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я ценю вашу доброту.",
+                "en": "I appreciate your kindness.",
+                "blankedEn": "I ___ your kindness.",
+                "answer": "appreciate",
+                "options": [
+                  "appreciate",
+                  "like",
+                  "love",
+                  "enjoy"
+                ]
+              }
+            ],
+            "number": 174
+          },
+          {
+            "id": "a1-reading-43",
+            "title": "My New Puppy",
+            "titleNative": "Мой новый щенок",
+            "description": "Короткий рассказ о новом питомце.",
+            "readingPassage": {
+              "context": "Короткий рассказ о новом питомце.",
+              "paragraphs": [
+                {
+                  "en": "Last week, my family got a new puppy.",
+                  "ru": "На прошлой неделе моя семья завела нового щенка."
+                },
+                {
+                  "en": "We call him Max.",
+                  "ru": "Мы зовём его Макс."
+                },
+                {
+                  "en": "Max is small and very playful.",
+                  "ru": "Макс маленький и очень игривый."
+                },
+                {
+                  "en": "Every morning, I take him for a walk.",
+                  "ru": "Каждое утро я вывожу его на прогулку."
+                },
+                {
+                  "en": "He loves to play in the park.",
+                  "ru": "Он обожает играть в парке."
+                },
+                {
+                  "en": "In the evening, Max sleeps next to my bed.",
+                  "ru": "Вечером Макс спит рядом с моей кроватью."
+                },
+                {
+                  "en": "My sister wanted a cat, but I'm happy we have a dog.",
+                  "ru": "Моя сестра хотела кошку, но я рад, что у нас собака."
+                },
+                {
+                  "en": "Max is already part of our family.",
+                  "ru": "Макс уже стал частью нашей семьи."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Как зовут щенка?",
+                "options": [
+                  "Рекс",
+                  "Макс",
+                  "Барон",
+                  "Тобик"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Где Макс любит играть?",
+                "options": [
+                  "Дома",
+                  "В парке",
+                  "В школе",
+                  "В магазине"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Кого хотела сестра?",
+                "options": [
+                  "Собаку",
+                  "Кошку",
+                  "Кролика",
+                  "Хомяка"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 175
+          },
+          {
+            "id": "a1-l67-p1",
+            "title": "Pets & Animals (Part 1)",
+            "titleNative": "Домашние животные · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l67",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "У меня есть собака.",
+                "en": "I have a dog."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мою собаку зовут Рекс.",
+                "en": "My dog is called Rex."
+              },
+              {
+                "type": "listening",
+                "ru": "У тебя есть домашние животные?",
+                "en": "Do you have any pets?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "У меня есть кошка и рыбки.",
+                "en": "I have a cat and some fish."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Моя кошка очень ласковая.",
+                "en": "My cat is very affectionate."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Собаку нужно гулять каждый день.",
+                "en": "You need to walk a dog every day."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мою собаку зовут Рекс.",
+                "en": "My dog is called Rex.",
+                "blankedEn": "My dog is ___ Rex.",
+                "answer": "called",
+                "options": [
+                  "called",
+                  "call",
+                  "name",
+                  "named"
+                ]
+              }
+            ],
+            "number": 176
+          },
+          {
+            "id": "a1-l67-p2",
+            "title": "Pets & Animals (Part 2)",
+            "titleNative": "Домашние животные · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l67",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "У моей сестры есть хомяк.",
+                "en": "My sister has a hamster."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кролики едят морковь.",
+                "en": "Rabbits eat carrots."
+              },
+              {
+                "type": "listening",
+                "ru": "Птицы любят петь по утрам.",
+                "en": "Birds like to sing in the morning."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я хочу завести питомца.",
+                "en": "I want to get a pet."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Кошки спят очень много.",
+                "en": "Cats sleep a lot."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "У меня есть собака.",
+                    "en": "I have a dog."
+                  },
+                  {
+                    "ru": "У тебя есть домашние животные?",
+                    "en": "Do you have any pets?"
+                  },
+                  {
+                    "ru": "Мою собаку зовут Рекс.",
+                    "en": "My dog is called Rex."
+                  },
+                  {
+                    "ru": "Я хочу завести питомца.",
+                    "en": "I want to get a pet."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Кролики едят морковь.",
+                "en": "Rabbits eat carrots.",
+                "blankedEn": "Rabbits eat ___.",
+                "answer": "carrots",
+                "options": [
+                  "carrots",
+                  "carrot",
+                  "carroty",
+                  "carroting"
+                ]
+              }
+            ],
+            "number": 177
+          },
+          {
+            "id": "a1-l68-p1",
+            "title": "Going To — Future Plans (Part 1)",
+            "titleNative": "Будущие планы · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l68",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я собираюсь навестить бабушку в эти выходные.",
+                "en": "I'm going to visit my grandmother this weekend."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Что ты собираешься делать сегодня вечером?",
+                "en": "What are you going to do tonight?"
+              },
+              {
+                "type": "listening",
+                "ru": "Мы собираемся путешествовать в следующем месяце.",
+                "en": "We're going to travel next month."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он собирается сменить работу.",
+                "en": "He's going to change jobs."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Они собираются переехать в новый дом.",
+                "en": "They're going to move to a new house."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не собираюсь опаздывать.",
+                "en": "I'm not going to be late."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы собираемся путешествовать в следующем месяце.",
+                "en": "We're going to travel next month.",
+                "blankedEn": "We're ___ to travel next month.",
+                "answer": "going",
+                "options": [
+                  "going",
+                  "go",
+                  "goes",
+                  "went"
+                ]
+              }
+            ],
+            "number": 178
+          },
+          {
+            "id": "a1-l68-p2",
+            "title": "Going To — Future Plans (Part 2)",
+            "titleNative": "Будущие планы · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l68",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Она собирается учить французский язык.",
+                "en": "She's going to learn French."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты собираешься смотреть этот фильм?",
+                "en": "Are you going to watch this movie?"
+              },
+              {
+                "type": "listening",
+                "ru": "Мы собираемся встретиться в семь часов.",
+                "en": "We're going to meet at seven o'clock."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Что вы собираетесь делать на выходных?",
+                "en": "What are you going to do this weekend?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Я не думаю, что пойдёт дождь.",
+                "en": "I don't think it's going to rain."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я собираюсь навестить бабушку.",
+                    "en": "I'm going to visit my grandmother."
+                  },
+                  {
+                    "ru": "Что ты собираешься делать?",
+                    "en": "What are you going to do?"
+                  },
+                  {
+                    "ru": "Мы собираемся путешествовать.",
+                    "en": "We're going to travel."
+                  },
+                  {
+                    "ru": "Она собирается учить французский.",
+                    "en": "She's going to learn French."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я не думаю, что пойдёт дождь.",
+                "en": "I don't think it's going to rain.",
+                "blankedEn": "I don't think it's going to ___.",
+                "answer": "rain",
+                "options": [
+                  "rain",
+                  "rains",
+                  "raining",
+                  "rained"
+                ]
+              }
+            ],
+            "number": 179
+          },
+          {
+            "id": "a1-reading-44",
+            "title": "Weekend Plans",
+            "titleNative": "Планы на выходные",
+            "description": "Короткий рассказ о планах на выходные.",
+            "readingPassage": {
+              "context": "Короткий рассказ о планах на выходные.",
+              "paragraphs": [
+                {
+                  "en": "This weekend, I'm going to visit my parents.",
+                  "ru": "В эти выходные я собираюсь навестить родителей."
+                },
+                {
+                  "en": "My brother is going to come too.",
+                  "ru": "Мой брат тоже собирается приехать."
+                },
+                {
+                  "en": "We're going to have dinner together on Saturday.",
+                  "ru": "В субботу мы собираемся вместе поужинать."
+                },
+                {
+                  "en": "On Sunday, we're going to go for a walk in the park.",
+                  "ru": "В воскресенье мы собираемся погулять в парке."
+                },
+                {
+                  "en": "My mother is going to cook her famous soup.",
+                  "ru": "Моя мама собирается приготовить свой знаменитый суп."
+                },
+                {
+                  "en": "I'm not going to bring my laptop this time.",
+                  "ru": "На этот раз я не собираюсь брать с собой ноутбук."
+                },
+                {
+                  "en": "I want to relax and spend time with my family.",
+                  "ru": "Я хочу отдохнуть и провести время с семьёй."
+                },
+                {
+                  "en": "It's going to be a nice, quiet weekend.",
+                  "ru": "Это будут приятные, спокойные выходные."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Куда собирается автор в выходные?",
+                "options": [
+                  "На работу",
+                  "К родителям",
+                  "В отпуск",
+                  "В магазин"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что мама собирается приготовить?",
+                "options": [
+                  "Суп",
+                  "Пирог",
+                  "Салат",
+                  "Рыбу"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "comprehension",
+                "question": "Что автор НЕ собирается брать с собой?",
+                "options": [
+                  "Телефон",
+                  "Ноутбук",
+                  "Книгу",
+                  "Куртку"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 180
           }
         ]
       },
@@ -67074,6 +68366,98 @@
             "ru": "Куда бы ты ни поехал, эта репутация будет следовать за тобой."
           }
         ]
+      },
+      "a1-l61": {
+        "title": "On the Phone — Basic Calls",
+        "pattern": "Hello, this is... / Can I speak to...? / Can you call me back?",
+        "explanation": "Разговор по телефону в английском языке следует довольно устойчивому шаблону: сначала представляются («This is Anna»), затем просят позвать нужного человека («Can I speak to...?»). В отличие от личной беседы, здесь особенно важны вежливые формулы, ведь собеседник не видит вашего лица и тона.",
+        "fact": "Фраза «This is Anna» (а не «I am Anna») — стандартный способ представиться по телефону в английском; сказать «I am Anna speaking» тоже возможно, но звучит немного более официально и старомодно.",
+        "dialogue": [
+          {
+            "sp": "Caller",
+            "en": "Hello, this is Anna. Can I speak to Mr. Smith, please?",
+            "ru": "Здравствуйте, это Анна. Можно попросить мистера Смита?"
+          },
+          {
+            "sp": "Receptionist",
+            "en": "I'm sorry, he's not available right now.",
+            "ru": "Извините, его сейчас нет на месте."
+          },
+          {
+            "sp": "Caller",
+            "en": "Can you ask him to call me back?",
+            "ru": "Вы можете попросить его перезвонить мне?"
+          },
+          {
+            "sp": "Receptionist",
+            "en": "Of course. What's your number?",
+            "ru": "Конечно. Какой у вас номер?"
+          }
+        ]
+      },
+      "a1-l62": {
+        "title": "At the Hotel — Checking In",
+        "pattern": "I have a reservation / Do you have any rooms available? / What time is check-out?",
+        "explanation": "Заселение в отель строится на нескольких ключевых фразах: сообщить о брони («I have a reservation»), спросить о наличии номеров, если брони нет («Do you have any rooms available?»), и уточнить практические детали — время выезда, завтрак, Wi-Fi.",
+        "fact": "«Check-in» и «check-out» — устойчивые составные слова, которые используются практически во всех англоязычных отелях по всему миру, даже там, где основной язык персонала не английский — это по-настоящему интернациональная гостиничная лексика.",
+        "dialogue": [
+          {
+            "sp": "Guest",
+            "en": "Hi, I have a reservation under the name Ivanov.",
+            "ru": "Здравствуйте, у меня забронирован номер на фамилию Иванов."
+          },
+          {
+            "sp": "Receptionist",
+            "en": "Yes, a double room for three nights.",
+            "ru": "Да, двухместный номер на три ночи."
+          },
+          {
+            "sp": "Guest",
+            "en": "What time is check-out?",
+            "ru": "Во сколько нужно освободить номер?"
+          },
+          {
+            "sp": "Receptionist",
+            "en": "Check-out is at eleven in the morning.",
+            "ru": "Выезд в одиннадцать утра."
+          }
+        ]
+      },
+      "a1-l63": {
+        "title": "At the Doctor's — Making an Appointment",
+        "pattern": "I'd like to make an appointment / I have a headache / How long have you had this?",
+        "explanation": "Запись к врачу и описание симптомов — важный практический навык. Для записи используется «I'd like to make an appointment», а для описания жалобы — «I have a...» плюс название симптома (headache, fever, cough). Врач часто спрашивает «How long have you had this?», используя Present Perfect для состояния, которое длится до сих пор.",
+        "fact": "Вопрос «How long have you had this?» — классический пример Present Perfect для ситуации, которая началась в прошлом и продолжается сейчас; врачи используют эту конструкцию почти автоматически, даже не задумываясь о грамматике."
+      },
+      "a1-l64": {
+        "title": "Giving Personal Information",
+        "pattern": "What's your full name? / Could you spell that, please? / My date of birth is...",
+        "explanation": "Заполнение форм и ответы на анкетные вопросы требуют особого набора фраз: полное имя, дата рождения, адрес, номер телефона. Фраза «Could you spell that, please?» особенно полезна для непривычных имён и фамилий — по буквам произносят имя, используя международный фонетический алфавит или просто называя буквы.",
+        "fact": "В англоязычных странах при произношении по буквам часто используют слова-подсказки («A as in Apple», «S as in Sam»), чтобы избежать путаницы между похожими по звучанию буквами вроде B и P или M и N по телефону."
+      },
+      "a1-l65": {
+        "title": "Asking Permission — May I / Can I",
+        "pattern": "May I...? / Can I...? / Would it be okay if...?",
+        "explanation": "«May I» и «Can I» оба используются для того, чтобы попросить разрешения, но «May I» звучит более формально и вежливо («May I open the window?»), а «Can I» — более непринуждённо, обычное в повседневной речи. Для совсем вежливых, официальных просьб используется «Would it be okay if...».",
+        "fact": "Многие учителя английского языка настаивают на «May I» вместо «Can I» в формальном контексте, ссылаясь на то, что «can» технически означает способность, а не разрешение — но в реальной повседневной речи носители языка почти всегда используют «Can I» без какой-либо путаницы."
+      },
+      "a1-l66": {
+        "title": "Apologizing & Thanking",
+        "pattern": "I'm sorry for... / Thank you so much for... / No problem at all.",
+        "explanation": "Извинения и благодарности в английском часто сопровождаются конкретной причиной: «I'm sorry for being late» (а не просто «I'm sorry»), «Thank you so much for your help». Ответ на благодарность — не только «You're welcome», но и «No problem» или «Don't mention it» в непринуждённой речи.",
+        "fact": "Англоговорящие извиняются и благодарят значительно чаще, чем во многих других культурах, даже за мелочи вроде того, что кто-то случайно чуть задел локтем — это не всегда искреннее сожаление, а скорее социальная смазка, помогающая взаимодействию проходить гладко."
+      },
+      "a1-l67": {
+        "title": "Pets & Animals",
+        "pattern": "I have a dog/cat. / My dog is called... / Do you have any pets?",
+        "explanation": "Разговор о домашних животных использует уже знакомую грамматику («I have a...», «My dog is...») с новой темой лексики: dog, cat, bird, fish, rabbit, hamster. Вопрос «What's your pet's name?» или «My dog is called Rex» — стандартный способ назвать питомца по имени.",
+        "fact": "В английском для питомцев часто используют местоимения «he» и «she», а не «it», особенно если хозяин относится к животному как к члену семьи — «it» звучит немного холодно и обезличенно по отношению к любимому питомцу."
+      },
+      "a1-l68": {
+        "title": "Going To — Future Plans",
+        "pattern": "I'm going to... / What are you going to do? / We're going to travel next month.",
+        "explanation": "«Going to» используется для планов, которые уже приняты заранее, в отличие от спонтанных решений с «will». «I'm going to visit my grandmother this weekend» означает, что план уже существует — это не решение, принятое прямо сейчас.",
+        "fact": "«Going to» в разговорной речи почти всегда сокращается до «gonna» («I'm gonna go»), хотя на письме, особенно в учебных и официальных текстах, сокращение почти никогда не используется."
       }
     },
     "vocabularySets": [
