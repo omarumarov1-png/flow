@@ -45893,6 +45893,1944 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "b1plus-l48-p1",
+            "title": "Emphatic Structures — What I Really Need Is... (Part 1)",
+            "titleNative": "Эмфатические конструкции · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l48",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "На самом деле мне нужно больше времени.",
+                "en": "What I really need is more time."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Важнее всего — это доверие.",
+                "en": "What matters most is trust."
+              },
+              {
+                "type": "listening",
+                "ru": "Всё, чего я хочу — это отдохнуть.",
+                "en": "All I want is to rest."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "На самом деле мне нужен покой.",
+                "en": "What I really need is some peace and quiet."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Важнее всего — сделать это правильно.",
+                "en": "What matters most is doing it right."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Всё, чего мы хотим — это честности.",
+                "en": "All we want is honesty."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "На самом деле мне нужно больше времени.",
+                "en": "What I really need is more time.",
+                "blankedEn": "What I really ___ is more time.",
+                "answer": "need",
+                "options": [
+                  "need",
+                  "want",
+                  "have",
+                  "like"
+                ]
+              }
+            ],
+            "number": 243
+          },
+          {
+            "id": "b1plus-l48-p2",
+            "title": "Emphatic Structures — What I Really Need Is... (Part 2)",
+            "titleNative": "Эмфатические конструкции · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l48",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Что нам действительно нужно, так это план.",
+                "en": "What we really need is a plan."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Всё, что имеет значение — это результат.",
+                "en": "All that matters is the result."
+              },
+              {
+                "type": "listening",
+                "ru": "На самом деле я ищу простоты.",
+                "en": "What I'm really looking for is simplicity."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Важнее всего — быть честным.",
+                "en": "What matters most is being honest."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Всё, что я прошу — немного терпения.",
+                "en": "All I'm asking for is a bit of patience."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "На самом деле мне нужно больше времени.",
+                    "en": "What I really need is more time."
+                  },
+                  {
+                    "ru": "Важнее всего — это доверие.",
+                    "en": "What matters most is trust."
+                  },
+                  {
+                    "ru": "Всё, чего я хочу — это отдохнуть.",
+                    "en": "All I want is to rest."
+                  },
+                  {
+                    "ru": "Что нам действительно нужно, так это план.",
+                    "en": "What we really need is a plan."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Всё, что имеет значение — это результат.",
+                "en": "All that matters is the result.",
+                "blankedEn": "All that ___ is the result.",
+                "answer": "matters",
+                "options": [
+                  "matters",
+                  "matter",
+                  "mattered",
+                  "mattering"
+                ]
+              }
+            ],
+            "number": 244
+          },
+          {
+            "id": "b1plus-l49-p1",
+            "title": "Softening Opinions — I'd Say / To Some Extent (Part 1)",
+            "titleNative": "Смягчение мнения · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l49",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы сказал, что это в основном верно.",
+                "en": "I'd say it's mostly true."
+              },
+              {
+                "type": "word-bank",
+                "ru": "В какой-то мере я согласен.",
+                "en": "To some extent, I agree."
+              },
+              {
+                "type": "listening",
+                "ru": "В каком-то смысле это логично.",
+                "en": "In a way, that makes sense."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы сказал, что это довольно сложно.",
+                "en": "I'd say it's quite complicated."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "В какой-то мере вы правы.",
+                "en": "To some extent, you're right."
+              },
+              {
+                "type": "type-answer",
+                "ru": "В каком-то смысле это интересный вопрос.",
+                "en": "In a way, it's an interesting question."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В какой-то мере я согласен.",
+                "en": "To some extent, I agree.",
+                "blankedEn": "To some ___, I agree.",
+                "answer": "extent",
+                "options": [
+                  "extent",
+                  "extend",
+                  "extension",
+                  "extensive"
+                ]
+              }
+            ],
+            "number": 245
+          },
+          {
+            "id": "b1plus-l49-p2",
+            "title": "Softening Opinions — I'd Say / To Some Extent (Part 2)",
+            "titleNative": "Смягчение мнения · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l49",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я бы сказал, что это разумное решение.",
+                "en": "I'd say it's a reasonable decision."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В какой-то мере это зависит от контекста.",
+                "en": "To some extent, it depends on the context."
+              },
+              {
+                "type": "listening",
+                "ru": "В каком-то смысле мы оба правы.",
+                "en": "In a way, we're both right."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я бы сказал, что нам нужно больше данных.",
+                "en": "I'd say we need more data."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это отчасти правда.",
+                "en": "That's partly true."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я бы сказал, что это в основном верно.",
+                    "en": "I'd say it's mostly true."
+                  },
+                  {
+                    "ru": "В какой-то мере я согласен.",
+                    "en": "To some extent, I agree."
+                  },
+                  {
+                    "ru": "В каком-то смысле это логично.",
+                    "en": "In a way, that makes sense."
+                  },
+                  {
+                    "ru": "Это отчасти правда.",
+                    "en": "That's partly true."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это отчасти правда.",
+                "en": "That's partly true.",
+                "blankedEn": "That's ___ true.",
+                "answer": "partly",
+                "options": [
+                  "partly",
+                  "part",
+                  "partial",
+                  "parting"
+                ]
+              }
+            ],
+            "number": 246
+          },
+          {
+            "id": "b1plus-reading-29",
+            "title": "A Career Goal",
+            "titleNative": "Карьерная цель",
+            "description": "Короткий рассказ о долгосрочной цели.",
+            "readingPassage": {
+              "context": "Короткий рассказ о долгосрочной цели.",
+              "paragraphs": [
+                {
+                  "en": "Zarina has always had a clear career goal.",
+                  "ru": "У Зарины всегда была чёткая карьерная цель."
+                },
+                {
+                  "en": "\"My goal is to become a senior architect,\" she often says.",
+                  "ru": "«Моя цель — стать старшим архитектором», — часто говорит она."
+                },
+                {
+                  "en": "\"In five years, I hope to lead my own projects,\" she explains.",
+                  "ru": "«Через пять лет я надеюсь руководить своими проектами», — объясняет она."
+                },
+                {
+                  "en": "She has been working toward this goal every single day.",
+                  "ru": "Она работает над этой целью каждый день."
+                },
+                {
+                  "en": "\"On the one hand, it's a lot of pressure,\" she admits.",
+                  "ru": "«С одной стороны, это большое давление», — признаёт она."
+                },
+                {
+                  "en": "\"On the other hand, it keeps me motivated,\" she adds with a smile.",
+                  "ru": "«С другой стороны, это меня мотивирует», — добавляет она с улыбкой."
+                },
+                {
+                  "en": "Her colleagues admire her determination.",
+                  "ru": "Её коллеги восхищаются её решительностью."
+                },
+                {
+                  "en": "\"I know it will take time, but I'm not giving up,\" Zarina says firmly.",
+                  "ru": "«Я знаю, что это займёт время, но я не сдамся», — твёрдо говорит Зарина."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какая цель у Зарины?",
+                "options": [
+                  "Стать врачом",
+                  "Стать старшим архитектором",
+                  "Открыть кафе",
+                  "Переехать за границу"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что она сказала про давление?",
+                "options": [
+                  "Оно её не беспокоит",
+                  "С одной стороны, это давление, но оно мотивирует",
+                  "Она бросает работу",
+                  "Ей всё равно"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорят коллеги?",
+                "options": [
+                  "Что она слишком амбициозна",
+                  "Что восхищаются её решительностью",
+                  "Что она должна отдохнуть",
+                  "Ничего не говорят"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 247
+          },
+          {
+            "id": "b1plus-l50-p1",
+            "title": "Describing Long-Term Goals (Part 1)",
+            "titleNative": "Долгосрочные цели · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l50",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Моя цель — свободно говорить по-английски.",
+                "en": "My goal is to speak English fluently."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Через пять лет я надеюсь открыть свой бизнес.",
+                "en": "In five years, I hope to start my own business."
+              },
+              {
+                "type": "listening",
+                "ru": "Я работаю над этой целью каждый день.",
+                "en": "I'm working toward this goal every day."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Моя цель — получить повышение в этом году.",
+                "en": "My goal is to get promoted this year."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Через десять лет я хочу жить за границей.",
+                "en": "In ten years, I want to live abroad."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я стремлюсь к финансовой независимости.",
+                "en": "I'm working toward financial independence."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я работаю над этой целью каждый день.",
+                "en": "I'm working toward this goal every day.",
+                "blankedEn": "I'm working ___ this goal every day.",
+                "answer": "toward",
+                "options": [
+                  "toward",
+                  "at",
+                  "for",
+                  "of"
+                ]
+              }
+            ],
+            "number": 248
+          },
+          {
+            "id": "b1plus-l50-p2",
+            "title": "Describing Long-Term Goals (Part 2)",
+            "titleNative": "Долгосрочные цели · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l50",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Моя долгосрочная цель — купить дом.",
+                "en": "My long-term goal is to buy a house."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я надеюсь достичь этого к тридцати годам.",
+                "en": "I hope to achieve this by the age of thirty."
+              },
+              {
+                "type": "listening",
+                "ru": "Это займёт много усилий и времени.",
+                "en": "It will take a lot of effort and time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я делаю маленькие шаги каждый месяц.",
+                "en": "I'm taking small steps every month."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Никогда не поздно ставить новые цели.",
+                "en": "It's never too late to set new goals."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Моя цель — свободно говорить по-английски.",
+                    "en": "My goal is to speak English fluently."
+                  },
+                  {
+                    "ru": "Через пять лет я надеюсь открыть свой бизнес.",
+                    "en": "In five years, I hope to start my own business."
+                  },
+                  {
+                    "ru": "Я работаю над этой целью каждый день.",
+                    "en": "I'm working toward this goal every day."
+                  },
+                  {
+                    "ru": "Никогда не поздно ставить новые цели.",
+                    "en": "It's never too late to set new goals."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я надеюсь достичь этого к тридцати годам.",
+                "en": "I hope to achieve this by the age of thirty.",
+                "blankedEn": "I hope to ___ this by the age of thirty.",
+                "answer": "achieve",
+                "options": [
+                  "achieve",
+                  "reach",
+                  "get",
+                  "make"
+                ]
+              }
+            ],
+            "number": 249
+          },
+          {
+            "id": "b1plus-l51-p1",
+            "title": "Discussing Pros & Cons (Part 1)",
+            "titleNative": "Плюсы и минусы · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l51",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "С одной стороны, это дешевле.",
+                "en": "On the one hand, it's cheaper."
+              },
+              {
+                "type": "word-bank",
+                "ru": "С другой стороны, качество ниже.",
+                "en": "On the other hand, the quality is lower."
+              },
+              {
+                "type": "listening",
+                "ru": "Главное преимущество — это скорость.",
+                "en": "A major advantage is the speed."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Один недостаток — это высокая цена.",
+                "en": "One drawback is the high price."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "У этого плана есть свои плюсы и минусы.",
+                "en": "This plan has its pros and cons."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Основной плюс в том, что это экономит время.",
+                "en": "The main advantage is that it saves time."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Один недостаток — это высокая цена.",
+                "en": "One drawback is the high price.",
+                "blankedEn": "One ___ is the high price.",
+                "answer": "drawback",
+                "options": [
+                  "drawback",
+                  "advantage",
+                  "benefit",
+                  "plus"
+                ]
+              }
+            ],
+            "number": 250
+          },
+          {
+            "id": "b1plus-l51-p2",
+            "title": "Discussing Pros & Cons (Part 2)",
+            "titleNative": "Плюсы и минусы · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l51",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Взвесив всё, я думаю, что это стоит того.",
+                "en": "Weighing everything, I think it's worth it."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "С одной стороны, у нас больше свободы.",
+                "en": "On the one hand, we have more freedom."
+              },
+              {
+                "type": "listening",
+                "ru": "С другой стороны, это более рискованно.",
+                "en": "On the other hand, it's riskier."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У каждого варианта есть свои преимущества.",
+                "en": "Each option has its own advantages."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Нужно взвесить все за и против.",
+                "en": "We need to weigh all the pros and cons."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "С одной стороны, это дешевле.",
+                    "en": "On the one hand, it's cheaper."
+                  },
+                  {
+                    "ru": "С другой стороны, качество ниже.",
+                    "en": "On the other hand, the quality is lower."
+                  },
+                  {
+                    "ru": "Главное преимущество — это скорость.",
+                    "en": "A major advantage is the speed."
+                  },
+                  {
+                    "ru": "Нужно взвесить все за и против.",
+                    "en": "We need to weigh all the pros and cons."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Нужно взвесить все за и против.",
+                "en": "We need to weigh all the pros and cons.",
+                "blankedEn": "We need to ___ all the pros and cons.",
+                "answer": "weigh",
+                "options": [
+                  "weigh",
+                  "way",
+                  "wait",
+                  "weight"
+                ]
+              }
+            ],
+            "number": 251
+          },
+          {
+            "id": "b1plus-reading-30",
+            "title": "Weighing a Big Decision",
+            "titleNative": "Взвешивая важное решение",
+            "description": "Короткий рассказ о принятии сложного решения.",
+            "readingPassage": {
+              "context": "Короткий рассказ о принятии сложного решения.",
+              "paragraphs": [
+                {
+                  "en": "Bekzat was offered a new job in another city.",
+                  "ru": "Бекзату предложили новую работу в другом городе."
+                },
+                {
+                  "en": "\"A major advantage is the higher salary,\" he told his wife.",
+                  "ru": "«Главное преимущество — более высокая зарплата», — сказал он жене."
+                },
+                {
+                  "en": "\"One drawback is that we'd have to leave our friends,\" she replied.",
+                  "ru": "«Один недостаток в том, что нам придётся оставить друзей», — ответила она."
+                },
+                {
+                  "en": "They discussed the pros and cons for hours.",
+                  "ru": "Они обсуждали плюсы и минусы несколько часов."
+                },
+                {
+                  "en": "\"On the one hand, it's a great opportunity,\" Bekzat said.",
+                  "ru": "«С одной стороны, это отличная возможность», — сказал Бекзат."
+                },
+                {
+                  "en": "\"On the other hand, it's a big change for the kids,\" his wife added.",
+                  "ru": "«С другой стороны, это большая перемена для детей», — добавила жена."
+                },
+                {
+                  "en": "Finally, they decided to take the risk together.",
+                  "ru": "Наконец, они решили рискнуть вместе."
+                },
+                {
+                  "en": "\"If only decisions like this were easier,\" Bekzat joked.",
+                  "ru": "«Если бы только такие решения давались легче», — пошутил Бекзат."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какое преимущество новой работы?",
+                "options": [
+                  "Ближе к дому",
+                  "Более высокая зарплата",
+                  "Меньше часов",
+                  "Лучший начальник"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какой недостаток?",
+                "options": [
+                  "Меньше зарплата",
+                  "Нужно оставить друзей",
+                  "Плохой офис",
+                  "Долгая дорога"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что они решили в итоге?",
+                "options": [
+                  "Отказаться",
+                  "Рискнуть вместе",
+                  "Подумать ещё год",
+                  "Спросить у друзей"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 252
+          },
+          {
+            "id": "b1plus-l52-p1",
+            "title": "Making Assumptions — I Assume / I Suppose (Part 1)",
+            "titleNative": "Предположения · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l52",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Полагаю, вы уже это видели.",
+                "en": "I assume you've already seen this."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Думаю, это нормально.",
+                "en": "I suppose that's fine."
+              },
+              {
+                "type": "listening",
+                "ru": "Полагаю, это займёт какое-то время.",
+                "en": "I imagine it'll take a while."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Полагаю, вы уже знаете эту новость.",
+                "en": "I assume you already know the news."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Думаю, он опоздает.",
+                "en": "I suppose he'll be late."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Представляю, это было непросто.",
+                "en": "I imagine that wasn't easy."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Полагаю, вы уже это видели.",
+                "en": "I assume you've already seen this.",
+                "blankedEn": "I ___ you've already seen this.",
+                "answer": "assume",
+                "options": [
+                  "assume",
+                  "think",
+                  "know",
+                  "believe"
+                ]
+              }
+            ],
+            "number": 253
+          },
+          {
+            "id": "b1plus-l52-p2",
+            "title": "Making Assumptions — I Assume / I Suppose (Part 2)",
+            "titleNative": "Предположения · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l52",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Полагаю, что план сработает.",
+                "en": "I assume the plan will work."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Думаю, у них есть свои причины.",
+                "en": "I suppose they have their reasons."
+              },
+              {
+                "type": "listening",
+                "ru": "Представляю, как это было сложно.",
+                "en": "I imagine how difficult that was."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Полагаю, мы можем начать без него.",
+                "en": "I assume we can start without him."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Думаю, это правильное решение.",
+                "en": "I suppose it's the right decision."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Полагаю, вы уже это видели.",
+                    "en": "I assume you've already seen this."
+                  },
+                  {
+                    "ru": "Думаю, это нормально.",
+                    "en": "I suppose that's fine."
+                  },
+                  {
+                    "ru": "Полагаю, это займёт какое-то время.",
+                    "en": "I imagine it'll take a while."
+                  },
+                  {
+                    "ru": "Думаю, это правильное решение.",
+                    "en": "I suppose it's the right decision."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Думаю, у них есть свои причины.",
+                "en": "I suppose they have their reasons.",
+                "blankedEn": "I ___ they have their reasons.",
+                "answer": "suppose",
+                "options": [
+                  "suppose",
+                  "supposed",
+                  "supposing",
+                  "supposes"
+                ]
+              }
+            ],
+            "number": 254
+          },
+          {
+            "id": "b1plus-l53-p1",
+            "title": "Talking About Regret — If Only (Part 1)",
+            "titleNative": "Сожаление: if only · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l53",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я только знал раньше.",
+                "en": "If only I had known earlier."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Если бы я только мог вернуться назад.",
+                "en": "If only I could go back."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы только всё было иначе.",
+                "en": "If only things were different."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы я только послушал твой совет.",
+                "en": "If only I had listened to your advice."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Если бы только у меня было больше времени.",
+                "en": "If only I had more time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы только мы могли начать сначала.",
+                "en": "If only we could start over."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если бы я только знал раньше.",
+                "en": "If only I had known earlier.",
+                "blankedEn": "If ___ I had known earlier.",
+                "answer": "only",
+                "options": [
+                  "only",
+                  "just",
+                  "even",
+                  "still"
+                ]
+              }
+            ],
+            "number": 255
+          },
+          {
+            "id": "b1plus-l53-p2",
+            "title": "Talking About Regret — If Only (Part 2)",
+            "titleNative": "Сожаление: if only · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l53",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Если бы только он был здесь сейчас.",
+                "en": "If only he were here now."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Если бы только я не сказал этого.",
+                "en": "If only I hadn't said that."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы только погода была лучше.",
+                "en": "If only the weather were better."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Если бы только я мог помочь.",
+                "en": "If only I could help."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Она вздохнула: «Если бы только...»",
+                "en": "She sighed, \"If only...\""
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Если бы я только знал раньше.",
+                    "en": "If only I had known earlier."
+                  },
+                  {
+                    "ru": "Если бы я только мог вернуться назад.",
+                    "en": "If only I could go back."
+                  },
+                  {
+                    "ru": "Если бы только всё было иначе.",
+                    "en": "If only things were different."
+                  },
+                  {
+                    "ru": "Если бы только я мог помочь.",
+                    "en": "If only I could help."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если бы только он был здесь сейчас.",
+                "en": "If only he were here now.",
+                "blankedEn": "If only he ___ here now.",
+                "answer": "were",
+                "options": [
+                  "were",
+                  "was",
+                  "is",
+                  "be"
+                ]
+              }
+            ],
+            "number": 256
+          },
+          {
+            "id": "b1plus-reading-31b",
+            "title": "No Regrets",
+            "titleNative": "Без сожалений",
+            "description": "Короткий рассказ о принятии прошлого.",
+            "readingPassage": {
+              "context": "Короткий рассказ о принятии прошлого.",
+              "paragraphs": [
+                {
+                  "en": "Gulnara used to think a lot about her past mistakes.",
+                  "ru": "Гульнара раньше много думала о своих прошлых ошибках."
+                },
+                {
+                  "en": "\"If only I had studied law instead,\" she used to say.",
+                  "ru": "«Если бы я только изучала право», — говорила она раньше."
+                },
+                {
+                  "en": "One day, her friend gave her some advice.",
+                  "ru": "Однажды её подруга дала ей совет."
+                },
+                {
+                  "en": "\"What matters most is what you do now, not what you regret,\" she said.",
+                  "ru": "«Важнее всего то, что ты делаешь сейчас, а не то, о чём сожалеешь», — сказала она."
+                },
+                {
+                  "en": "Gulnara thought about this for a long time.",
+                  "ru": "Гульнара долго думала об этом."
+                },
+                {
+                  "en": "\"You're right. I assume it's never too late to change direction,\" she replied.",
+                  "ru": "«Ты права. Полагаю, никогда не поздно сменить направление», — ответила она."
+                },
+                {
+                  "en": "She started taking evening classes the following month.",
+                  "ru": "В следующем месяце она начала посещать вечерние курсы."
+                },
+                {
+                  "en": "\"What a relief to finally move forward,\" she said with a smile.",
+                  "ru": "«Какое облегчение наконец-то двигаться вперёд», — сказала она с улыбкой."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём сожалела Гульнара?",
+                "options": [
+                  "Что не путешествовала",
+                  "Что не изучала право",
+                  "Что не вышла замуж",
+                  "Что не переехала"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что посоветовала подруга?",
+                "options": [
+                  "Забыть о прошлом",
+                  "Сосредоточиться на настоящем",
+                  "Вернуться в университет",
+                  "Ничего не делать"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сделала Гульнара в итоге?",
+                "options": [
+                  "Ничего не изменила",
+                  "Начала вечерние курсы",
+                  "Сменила страну",
+                  "Уволилась"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 257
+          },
+          {
+            "id": "b1plus-l54-p1",
+            "title": "Workplace Diplomacy — Softening Criticism (Part 1)",
+            "titleNative": "Дипломатичная критика · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l54",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Возможно, стоит рассмотреть другой вариант.",
+                "en": "It might be worth considering another option."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Может быть, мы посмотрим на это иначе?",
+                "en": "Perhaps we could look at this differently."
+              },
+              {
+                "type": "listening",
+                "ru": "Интересно, есть ли другой способ.",
+                "en": "I wonder if there's another way."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Возможно, стоит пересмотреть план.",
+                "en": "It might be worth reconsidering the plan."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Может быть, стоит спросить кого-то ещё?",
+                "en": "Perhaps we should ask someone else."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Интересно, сработает ли это лучше.",
+                "en": "I wonder if this would work better."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Возможно, стоит рассмотреть другой вариант.",
+                "en": "It might be worth considering another option.",
+                "blankedEn": "It might be worth ___ another option.",
+                "answer": "considering",
+                "options": [
+                  "considering",
+                  "consider",
+                  "considered",
+                  "considers"
+                ]
+              }
+            ],
+            "number": 258
+          },
+          {
+            "id": "b1plus-l54-p2",
+            "title": "Workplace Diplomacy — Softening Criticism (Part 2)",
+            "titleNative": "Дипломатичная критика · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l54",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Может быть, есть более простое решение.",
+                "en": "Perhaps there's a simpler solution."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Интересно, что об этом думают остальные.",
+                "en": "I wonder what the others think about this."
+              },
+              {
+                "type": "listening",
+                "ru": "Возможно, стоит уделить этому больше времени.",
+                "en": "It might be worth spending more time on this."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Может, попробуем другой подход?",
+                "en": "Perhaps we could try a different approach?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Интересно, заметил ли кто-то ещё эту проблему.",
+                "en": "I wonder if anyone else noticed this problem."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Возможно, стоит рассмотреть другой вариант.",
+                    "en": "It might be worth considering another option."
+                  },
+                  {
+                    "ru": "Может быть, мы посмотрим на это иначе?",
+                    "en": "Perhaps we could look at this differently."
+                  },
+                  {
+                    "ru": "Интересно, есть ли другой способ.",
+                    "en": "I wonder if there's another way."
+                  },
+                  {
+                    "ru": "Может быть, есть более простое решение.",
+                    "en": "Perhaps there's a simpler solution."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Может, попробуем другой подход?",
+                "en": "Perhaps we could try a different approach?",
+                "blankedEn": "Perhaps we could try a different ___?",
+                "answer": "approach",
+                "options": [
+                  "approach",
+                  "approaches",
+                  "approaching",
+                  "approached"
+                ]
+              }
+            ],
+            "number": 259
+          },
+          {
+            "id": "b1plus-l55-p1",
+            "title": "Describing Cause & Result — So...That (Part 1)",
+            "titleNative": "Причина и следствие: so...that · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l55",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Это было так сложно, что мы сдались.",
+                "en": "It was so difficult that we gave up."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Она говорила так быстро, что я не мог уследить.",
+                "en": "She spoke so quickly that I couldn't follow."
+              },
+              {
+                "type": "listening",
+                "ru": "Было так холодно, что мы остались дома.",
+                "en": "It was so cold that we stayed home."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он так устал, что заснул сразу.",
+                "en": "He was so tired that he fell asleep immediately."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Было так шумно, что я ничего не слышал.",
+                "en": "It was so noisy that I couldn't hear anything."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это было такое сложное задание, что все жаловались.",
+                "en": "It was such a difficult task that everyone complained."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это было так сложно, что мы сдались.",
+                "en": "It was so difficult that we gave up.",
+                "blankedEn": "It was so difficult ___ we gave up.",
+                "answer": "that",
+                "options": [
+                  "that",
+                  "so",
+                  "as",
+                  "then"
+                ]
+              }
+            ],
+            "number": 260
+          },
+          {
+            "id": "b1plus-l55-p2",
+            "title": "Describing Cause & Result — So...That (Part 2)",
+            "titleNative": "Причина и следствие: so...that · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l55",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Фильм был таким скучным, что я заснул.",
+                "en": "The movie was so boring that I fell asleep."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Она была так занята, что забыла позвонить.",
+                "en": "She was so busy that she forgot to call."
+              },
+              {
+                "type": "listening",
+                "ru": "Было так темно, что мы ничего не видели.",
+                "en": "It was so dark that we couldn't see anything."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Он говорил так тихо, что я не расслышал.",
+                "en": "He spoke so quietly that I didn't hear him."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это была такая хорошая новость, что все обрадовались.",
+                "en": "It was such good news that everyone was happy."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Это было так сложно, что мы сдались.",
+                    "en": "It was so difficult that we gave up."
+                  },
+                  {
+                    "ru": "Она говорила так быстро, что я не мог уследить.",
+                    "en": "She spoke so quickly that I couldn't follow."
+                  },
+                  {
+                    "ru": "Было так холодно, что мы остались дома.",
+                    "en": "It was so cold that we stayed home."
+                  },
+                  {
+                    "ru": "Фильм был таким скучным, что я заснул.",
+                    "en": "The movie was so boring that I fell asleep."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это была такая хорошая новость, что все обрадовались.",
+                "en": "It was such good news that everyone was happy.",
+                "blankedEn": "It was ___ good news that everyone was happy.",
+                "answer": "such",
+                "options": [
+                  "such",
+                  "so",
+                  "as",
+                  "very"
+                ]
+              }
+            ],
+            "number": 261
+          },
+          {
+            "id": "b1plus-reading-31c",
+            "title": "An Official Announcement",
+            "titleNative": "Официальное объявление",
+            "description": "Короткий рассказ об объявлении в компании.",
+            "readingPassage": {
+              "context": "Короткий рассказ об объявлении в компании.",
+              "paragraphs": [
+                {
+                  "en": "The whole office gathered for an important announcement.",
+                  "ru": "Весь офис собрался на важное объявление."
+                },
+                {
+                  "en": "\"We are pleased to announce a new partnership,\" the director began.",
+                  "ru": "«Мы рады сообщить о новом партнёрстве», — начал директор."
+                },
+                {
+                  "en": "\"This change is effective from next Monday,\" he continued.",
+                  "ru": "«Это изменение вступает в силу со следующего понедельника», — продолжил он."
+                },
+                {
+                  "en": "The employees looked at each other, both excited and nervous.",
+                  "ru": "Сотрудники переглянулись, взволнованные и немного встревоженные."
+                },
+                {
+                  "en": "\"Please be informed that some responsibilities will change,\" he added.",
+                  "ru": "«Пожалуйста, имейте в виду, что некоторые обязанности изменятся», — добавил он."
+                },
+                {
+                  "en": "\"On the one hand, this is a big opportunity for all of us,\" he said.",
+                  "ru": "«С одной стороны, это большая возможность для всех нас», — сказал он."
+                },
+                {
+                  "en": "\"On the other hand, it will take some adjustment,\" he admitted honestly.",
+                  "ru": "«С другой стороны, потребуется некоторое время на адаптацию», — честно признал он."
+                },
+                {
+                  "en": "After the meeting, the team felt ready for the new chapter.",
+                  "ru": "После собрания команда почувствовала себя готовой к новой главе."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "О чём объявил директор?",
+                "options": [
+                  "О сокращениях",
+                  "О новом партнёрстве",
+                  "О переезде офиса",
+                  "Об отпуске"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Когда изменение вступает в силу?",
+                "options": [
+                  "Сразу",
+                  "Со следующего понедельника",
+                  "Через год",
+                  "Никогда"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как себя почувствовала команда после собрания?",
+                "options": [
+                  "Растерянной",
+                  "Готовой к новой главе",
+                  "Разозлённой",
+                  "Равнодушной"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 262
+          },
+          {
+            "id": "b1plus-l56-p1",
+            "title": "Talking About Rules & Exceptions (Part 1)",
+            "titleNative": "Правила и исключения · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l56",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как правило, мы закрываемся в шесть.",
+                "en": "As a rule, we close at six."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Исключение — по выходным.",
+                "en": "The exception is on weekends."
+              },
+              {
+                "type": "listening",
+                "ru": "Если не указано иное, оплата производится наличными.",
+                "en": "Unless stated otherwise, payment is in cash."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как правило, встречи начинаются вовремя.",
+                "en": "As a rule, meetings start on time."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Есть несколько исключений из этого правила.",
+                "en": "There are a few exceptions to this rule."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это правило применяется ко всем, без исключений.",
+                "en": "This rule applies to everyone, without exception."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Как правило, мы закрываемся в шесть.",
+                "en": "As a rule, we close at six.",
+                "blankedEn": "As a ___, we close at six.",
+                "answer": "rule",
+                "options": [
+                  "rule",
+                  "rules",
+                  "ruling",
+                  "ruled"
+                ]
+              }
+            ],
+            "number": 263
+          },
+          {
+            "id": "b1plus-l56-p2",
+            "title": "Talking About Rules & Exceptions (Part 2)",
+            "titleNative": "Правила и исключения · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l56",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Как правило, доставка занимает три дня.",
+                "en": "As a rule, delivery takes three days."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Исключение составляют праздничные дни.",
+                "en": "The exception is public holidays."
+              },
+              {
+                "type": "listening",
+                "ru": "Если не указано иное, цены включают налог.",
+                "en": "Unless stated otherwise, prices include tax."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Каждое правило имеет своё исключение.",
+                "en": "Every rule has its exception."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это скорее исключение, чем правило.",
+                "en": "This is more of an exception than a rule."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Как правило, мы закрываемся в шесть.",
+                    "en": "As a rule, we close at six."
+                  },
+                  {
+                    "ru": "Исключение — по выходным.",
+                    "en": "The exception is on weekends."
+                  },
+                  {
+                    "ru": "Если не указано иное.",
+                    "en": "Unless stated otherwise."
+                  },
+                  {
+                    "ru": "Каждое правило имеет своё исключение.",
+                    "en": "Every rule has its exception."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Если не указано иное, цены включают налог.",
+                "en": "Unless stated otherwise, prices include tax.",
+                "blankedEn": "Unless stated ___, prices include tax.",
+                "answer": "otherwise",
+                "options": [
+                  "otherwise",
+                  "different",
+                  "else",
+                  "another"
+                ]
+              }
+            ],
+            "number": 264
+          },
+          {
+            "id": "b1plus-l57-p1",
+            "title": "Expressing Relief & Disappointment (Part 1)",
+            "titleNative": "Облегчение и разочарование · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l57",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Какое облегчение!",
+                "en": "What a relief!"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я действительно надеялся на большее.",
+                "en": "I was really hoping for more."
+              },
+              {
+                "type": "listening",
+                "ru": "Слава богу, это закончилось.",
+                "en": "Thank goodness that's over."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я немного разочарован результатом.",
+                "en": "I'm a bit disappointed with the result."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Какое облегчение слышать это!",
+                "en": "What a relief to hear that!"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я ожидал чего-то другого, если честно.",
+                "en": "I expected something different, to be honest."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Какое облегчение!",
+                "en": "What a relief!",
+                "blankedEn": "What a ___!",
+                "answer": "relief",
+                "options": [
+                  "relief",
+                  "relieved",
+                  "relieving",
+                  "relieves"
+                ]
+              }
+            ],
+            "number": 265
+          },
+          {
+            "id": "b1plus-l57-p2",
+            "title": "Expressing Relief & Disappointment (Part 2)",
+            "titleNative": "Облегчение и разочарование · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l57",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Слава богу, всё прошло хорошо.",
+                "en": "Thank goodness everything went well."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я был немного разочарован собеседованием.",
+                "en": "I was a bit disappointed with the interview."
+              },
+              {
+                "type": "listening",
+                "ru": "Я действительно надеялся на другой исход.",
+                "en": "I was really hoping for a different outcome."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Какое облегчение узнать хорошие новости.",
+                "en": "What a relief to hear good news."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Честно говоря, я ожидал большего.",
+                "en": "Honestly, I expected more."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Какое облегчение!",
+                    "en": "What a relief!"
+                  },
+                  {
+                    "ru": "Я действительно надеялся на большее.",
+                    "en": "I was really hoping for more."
+                  },
+                  {
+                    "ru": "Слава богу, это закончилось.",
+                    "en": "Thank goodness that's over."
+                  },
+                  {
+                    "ru": "Честно говоря, я ожидал большего.",
+                    "en": "Honestly, I expected more."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Честно говоря, я ожидал большего.",
+                "en": "Honestly, I expected more.",
+                "blankedEn": "___, I expected more.",
+                "answer": "Honestly",
+                "options": [
+                  "Honestly",
+                  "Really",
+                  "Truly",
+                  "Sincerely"
+                ]
+              }
+            ],
+            "number": 266
+          },
+          {
+            "id": "b1plus-reading-31",
+            "title": "A Diplomatic Manager",
+            "titleNative": "Дипломатичный руководитель",
+            "description": "Короткий рассказ о деликатной критике на работе.",
+            "readingPassage": {
+              "context": "Короткий рассказ о деликатной критике на работе.",
+              "paragraphs": [
+                {
+                  "en": "Saule noticed a mistake in her colleague's report.",
+                  "ru": "Сауле заметила ошибку в отчёте коллеги."
+                },
+                {
+                  "en": "Instead of criticizing directly, she chose her words carefully.",
+                  "ru": "Вместо прямой критики она тщательно подобрала слова."
+                },
+                {
+                  "en": "\"It might be worth considering another approach here,\" she said gently.",
+                  "ru": "«Возможно, здесь стоит рассмотреть другой подход», — мягко сказала она."
+                },
+                {
+                  "en": "\"Perhaps we could look at this section differently,\" she suggested.",
+                  "ru": "«Может быть, мы посмотрим на этот раздел иначе?» — предложила она."
+                },
+                {
+                  "en": "Her colleague appreciated the gentle feedback.",
+                  "ru": "Коллега оценил мягкую обратную связь."
+                },
+                {
+                  "en": "\"I wonder if there's a clearer way to present this data,\" Saule added.",
+                  "ru": "«Интересно, есть ли более понятный способ представить эти данные», — добавила Сауле."
+                },
+                {
+                  "en": "Together, they revised the report and made it much stronger.",
+                  "ru": "Вместе они пересмотрели отчёт и сделали его намного сильнее."
+                },
+                {
+                  "en": "\"Thank you for being so diplomatic about it,\" her colleague said.",
+                  "ru": "«Спасибо, что подошла к этому так дипломатично», — сказал коллега."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что заметила Сауле?",
+                "options": [
+                  "Опечатку",
+                  "Ошибку в отчёте",
+                  "Пропущенную встречу",
+                  "Забытый файл"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как она подошла к критике?",
+                "options": [
+                  "Прямо и резко",
+                  "Мягко и дипломатично",
+                  "Не сказала ничего",
+                  "Пожаловалась начальству"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что сказал коллега в конце?",
+                "options": [
+                  "Разозлился",
+                  "Поблагодарил за дипломатичность",
+                  "Проигнорировал",
+                  "Расстроился"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 267
+          },
+          {
+            "id": "b1plus-l58-p1",
+            "title": "Making Formal Announcements (Part 1)",
+            "titleNative": "Официальные объявления · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l58",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мы рады сообщить о запуске нового продукта.",
+                "en": "We are pleased to announce the launch of a new product."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Пожалуйста, обратите внимание, что офис будет закрыт.",
+                "en": "Please be informed that the office will be closed."
+              },
+              {
+                "type": "listening",
+                "ru": "Новое правило вступает в силу немедленно.",
+                "en": "The new rule is effective immediately."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы рады сообщить о нашем новом партнёрстве.",
+                "en": "We are pleased to announce our new partnership."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Пожалуйста, имейте в виду, что цены изменились.",
+                "en": "Please be informed that prices have changed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это изменение вступает в силу с понедельника.",
+                "en": "This change is effective from Monday."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Новое правило вступает в силу немедленно.",
+                "en": "The new rule is effective immediately.",
+                "blankedEn": "The new rule is ___ immediately.",
+                "answer": "effective",
+                "options": [
+                  "effective",
+                  "effect",
+                  "effectively",
+                  "effects"
+                ]
+              }
+            ],
+            "number": 268
+          },
+          {
+            "id": "b1plus-l58-p2",
+            "title": "Making Formal Announcements (Part 2)",
+            "titleNative": "Официальные объявления · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l58",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Мы с гордостью объявляем о нашем новом филиале.",
+                "en": "We are proud to announce our new branch."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Просим обратить внимание на изменения в расписании.",
+                "en": "Please note the changes to the schedule."
+              },
+              {
+                "type": "listening",
+                "ru": "Это решение вступает в силу с первого числа.",
+                "en": "This decision takes effect on the first of the month."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мы рады объявить победителя конкурса.",
+                "en": "We are pleased to announce the winner of the competition."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Все сотрудники должны быть проинформированы.",
+                "en": "All employees must be informed."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Мы рады сообщить о запуске.",
+                    "en": "We are pleased to announce the launch."
+                  },
+                  {
+                    "ru": "Пожалуйста, обратите внимание.",
+                    "en": "Please be informed."
+                  },
+                  {
+                    "ru": "Новое правило вступает в силу немедленно.",
+                    "en": "The new rule is effective immediately."
+                  },
+                  {
+                    "ru": "Все сотрудники должны быть проинформированы.",
+                    "en": "All employees must be informed."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это решение вступает в силу с первого числа.",
+                "en": "This decision takes effect on the first of the month.",
+                "blankedEn": "This decision takes ___ on the first of the month.",
+                "answer": "effect",
+                "options": [
+                  "effect",
+                  "effective",
+                  "affect",
+                  "effects"
+                ]
+              }
+            ],
+            "number": 269
+          },
+          {
+            "id": "b1plus-l59-p1",
+            "title": "B1+ Review — A Detailed Discussion (Part 1)",
+            "titleNative": "Итоговое повторение B1+ · Часть 1",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l59",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "На самом деле мне нужно больше времени.",
+                "en": "What I really need is more time."
+              },
+              {
+                "type": "word-bank",
+                "ru": "С одной стороны, это дешевле.",
+                "en": "On the one hand, it's cheaper."
+              },
+              {
+                "type": "listening",
+                "ru": "Если бы я только знал раньше.",
+                "en": "If only I had known earlier."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Возможно, стоит рассмотреть другой вариант.",
+                "en": "It might be worth considering another option."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Это было так сложно, что мы сдались.",
+                "en": "It was so difficult that we gave up."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Как правило, мы закрываемся в шесть.",
+                "en": "As a rule, we close at six."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "На самом деле мне нужно больше времени.",
+                "en": "What I really need is more time.",
+                "blankedEn": "What I really ___ is more time.",
+                "answer": "need",
+                "options": [
+                  "need",
+                  "want",
+                  "have",
+                  "wish"
+                ]
+              }
+            ],
+            "number": 270
+          },
+          {
+            "id": "b1plus-l59-p2",
+            "title": "B1+ Review — A Detailed Discussion (Part 2)",
+            "titleNative": "Итоговое повторение B1+ · Часть 2",
+            "description": "Новая тема B1+",
+            "topicId": "b1plus-l59",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Какое облегчение!",
+                "en": "What a relief!"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы рады сообщить о запуске нового продукта.",
+                "en": "We are pleased to announce the launch of a new product."
+              },
+              {
+                "type": "listening",
+                "ru": "Полагаю, вы уже это видели.",
+                "en": "I assume you've already seen this."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я многому научился на уровне B1+.",
+                "en": "I've learned a lot at the B1+ level."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Теперь я готов к уровню B2.",
+                "en": "I'm ready for the B2 level now."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "На самом деле мне нужно больше времени.",
+                    "en": "What I really need is more time."
+                  },
+                  {
+                    "ru": "С одной стороны, это дешевле.",
+                    "en": "On the one hand, it's cheaper."
+                  },
+                  {
+                    "ru": "Если бы я только знал раньше.",
+                    "en": "If only I had known earlier."
+                  },
+                  {
+                    "ru": "Теперь я готов к уровню B2.",
+                    "en": "I'm ready for the B2 level now."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я многому научился на уровне B1+.",
+                "en": "I've learned a lot at the B1+ level.",
+                "blankedEn": "I've ___ a lot at the B1+ level.",
+                "answer": "learned",
+                "options": [
+                  "learned",
+                  "learn",
+                  "learns",
+                  "learning"
+                ]
+              }
+            ],
+            "number": 271
+          },
+          {
+            "id": "b1plus-reading-32",
+            "title": "B1+ Journey Complete",
+            "titleNative": "Уровень B1+ пройден",
+            "description": "Заключительный рассказ уровня B1+.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня B1+, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Askar has come a long way in his English studies.",
+                  "ru": "Аскар прошёл долгий путь в изучении английского."
+                },
+                {
+                  "en": "He can now express nuanced opinions and soften criticism diplomatically.",
+                  "ru": "Теперь он может выражать нюансированные мнения и дипломатично смягчать критику."
+                },
+                {
+                  "en": "\"What I really need now is more practice speaking,\" he tells his teacher.",
+                  "ru": "«Сейчас мне действительно нужно больше практики в разговоре», — говорит он учителю."
+                },
+                {
+                  "en": "\"On the one hand, grammar feels easier now,\" he says.",
+                  "ru": "«С одной стороны, грамматика теперь кажется легче», — говорит он."
+                },
+                {
+                  "en": "\"On the other hand, I still make mistakes with complex sentences,\" he admits.",
+                  "ru": "«С другой стороны, я всё ещё делаю ошибки в сложных предложениях», — признаёт он."
+                },
+                {
+                  "en": "His teacher smiles and says, \"That's completely normal at this stage.\"",
+                  "ru": "Учитель улыбается и говорит: «Это совершенно нормально на этом этапе»."
+                },
+                {
+                  "en": "\"I'm ready for the B2 level now,\" Askar says confidently.",
+                  "ru": "«Теперь я готов к уровню B2», — уверенно говорит Аскар."
+                },
+                {
+                  "en": "His journey toward fluency continues to grow stronger.",
+                  "ru": "Его путь к беглости продолжает крепнуть."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что Аскар теперь умеет?",
+                "options": [
+                  "Только простые фразы",
+                  "Выражать нюансированные мнения",
+                  "Только читать",
+                  "Только слушать"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "В чём он всё ещё делает ошибки?",
+                "options": [
+                  "В простых предложениях",
+                  "В сложных предложениях",
+                  "В произношении",
+                  "В чтении"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит учитель?",
+                "options": [
+                  "Это плохо",
+                  "Это нормально на этом этапе",
+                  "Нужно начать заново",
+                  "Он не готов к B2"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 272
           }
         ]
       },
@@ -74153,6 +76091,78 @@
         "pattern": "Review of B1 grammar and vocabulary",
         "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B1 — Present Perfect, условные предложения, страдательный залог, косвенную речь, деловое общение — чтобы закрепить материал перед переходом на уровень B1+.",
         "fact": "Уровень B1 часто называют «пороговым» (threshold) в системе CEFR — именно на этом уровне учащийся способен самостоятельно путешествовать, работать и решать большинство повседневных задач на изучаемом языке без посторонней помощи."
+      },
+      "b1plus-l48": {
+        "title": "Emphatic Structures — What I Really Need Is...",
+        "pattern": "What I really need is... / What matters most is... / All I want is...",
+        "explanation": "Эмфатические конструкции с «what» ставят акцент на конкретную часть предложения: «What I really need is more time» звучит гораздо более выразительно, чем простое «I really need more time». Это своего рода мягкая расщеплённая конструкция (cleft sentence).",
+        "fact": "Такая структура называется «псевдорасщеплённой» (pseudo-cleft) — «what»-часть работает почти как подлежащее нового предложения, хотя грамматически она остаётся придаточным, что позволяет естественно перенести весь смысловой вес на то, что идёт после «is»."
+      },
+      "b1plus-l49": {
+        "title": "Softening Opinions — I'd Say / To Some Extent",
+        "pattern": "I'd say it's mostly true. / To some extent, I agree. / In a way, that makes sense.",
+        "explanation": "Смягчённые формулировки мнения снижают категоричность утверждения: «I'd say» вместо прямого «I think», «to some extent» и «in a way» добавляют оговорку, показывая, что мнение не абсолютно.",
+        "fact": "«I'd say» технически является условной формой («I would say»), хотя используется в самых обычных, повседневных контекстах — этот скрытый условный оттенок и придаёт фразе ощущение мягкости и осторожности по сравнению с прямым «I say»."
+      },
+      "b1plus-l50": {
+        "title": "Describing Long-Term Goals",
+        "pattern": "My goal is to... / In five years, I hope to... / I'm working toward...",
+        "explanation": "Описание долгосрочных целей сочетает инфинитивные конструкции («My goal is to become fluent») с временными рамками («In five years, I hope to...»). «Work toward» подчёркивает процесс, а не мгновенный результат.",
+        "fact": "«Toward» (без «s») — американский вариант, «towards» (с «s») — британский; оба варианта абсолютно взаимозаменяемы и означают одно и то же, это чисто орфографическое региональное различие, не влияющее на смысл."
+      },
+      "b1plus-l51": {
+        "title": "Discussing Pros & Cons",
+        "pattern": "On the one hand... on the other hand... / A major advantage is... / One drawback is...",
+        "explanation": "Обсуждение плюсов и минусов строится на парных связках «on the one hand... on the other hand...» для противопоставления, и отдельных фразах «a major advantage is» / «one drawback is» для перечисления конкретных пунктов.",
+        "fact": "«On the other hand» изначально было буквальной метафорой — представление спора как весов, где один аргумент лежит на одной ладони, а противоположный на другой; сегодня эта метафора настолько стёрлась, что носители языка редко вспоминают о её происхождении."
+      },
+      "b1plus-l52": {
+        "title": "Making Assumptions — I Assume / I Suppose",
+        "pattern": "I assume you've already seen this. / I suppose that's fine. / I imagine it'll take a while.",
+        "explanation": "«I assume», «I suppose» и «I imagine» вводят предположение, основанное на логике или опыте, а не на точном знании факта. «I assume you've already seen this» мягче, чем прямое утверждение, и оставляет место для исправления, если предположение неверно.",
+        "fact": "«Suppose» и «assume» очень близки по смыслу, но «suppose» чуть чаще подразумевает готовность принять что-то как рабочую гипотезу («Suppose we're wrong — what then?»), тогда как «assume» больше про то, что человек уже считает верным без доказательств."
+      },
+      "b1plus-l53": {
+        "title": "Talking About Regret — If Only",
+        "pattern": "If only I had known earlier. / If only I could go back. / If only things were different.",
+        "explanation": "«If only» выражает сожаление сильнее, чем обычное «I wish», часто с оттенком эмоциональной досады. За ним следует Past Perfect для сожаления о прошлом («If only I had known») или Past Simple для сожаления о настоящем («If only things were different»).",
+        "fact": "«If only» исторически развилось как усиленная форма условного «if», добавляющая «only» для эмоционального акцента — буквально «если бы только» подчёркивает, что для изменения ситуации нужно было бы только одно условие, которое, увы, не выполнено."
+      },
+      "b1plus-l54": {
+        "title": "Workplace Diplomacy — Softening Criticism",
+        "pattern": "It might be worth considering... / Perhaps we could look at this differently. / I wonder if there's another way.",
+        "explanation": "Дипломатичная критика на работе избегает прямых утверждений в пользу мягких, вопросительных или условных форм: «It might be worth considering...», «I wonder if...». Это позволяет высказать замечание, не звуча как приказ или упрёк.",
+        "fact": "«I wonder if» буквально задаёт вопрос самому себе, а не собеседнику напрямую — грамматически это утверждение, а не вопрос («I wonder if there's another way», без вопросительного знака), что делает критику ещё менее прямой и более похожей на размышление вслух."
+      },
+      "b1plus-l55": {
+        "title": "Describing Cause & Result — So...That",
+        "pattern": "It was so difficult that we gave up. / She spoke so quickly that I couldn't follow.",
+        "explanation": "Конструкция «so + adjective/adverb + that» связывает причину со следствием в одном предложении: «It was so difficult that we gave up» — степень трудности напрямую объясняет результат.",
+        "fact": "«Such...that» работает почти так же, но перед существительным вместо прилагательного: «It was such a difficult exam that we all gave up» — выбор между «so» и «such» зависит именно от того, есть ли рядом существительное."
+      },
+      "b1plus-l56": {
+        "title": "Talking About Rules & Exceptions",
+        "pattern": "As a rule, we close at six. / The exception is on weekends. / Unless stated otherwise...",
+        "explanation": "Описание правил и исключений использует «as a rule» (как правило) для общей нормы и «the exception is» / «unless stated otherwise» (если не указано иное) для исключений из этой нормы.",
+        "fact": "«Unless stated otherwise» — устойчивая формальная фраза, часто встречающаяся в юридических и официальных документах, где нужно чётко обозначить, что общее правило действует по умолчанию, если явно не оговорено обратное."
+      },
+      "b1plus-l57": {
+        "title": "Expressing Relief & Disappointment",
+        "pattern": "What a relief! / I was really hoping for more. / Thank goodness that's over.",
+        "explanation": "Эмоциональные реакции облегчения и разочарования используют восклицательные конструкции: «What a relief!» (какое облегчение!), «Thank goodness that's over» (слава богу, это закончилось). «I was really hoping for more» мягко выражает разочарование через прошедшее продолженное время.",
+        "fact": "«Thank goodness» — эвфемизм, возникший как более светский, нейтральный вариант религиозного «Thank God», позволяющий выразить облегчение, не обязательно вкладывая в фразу религиозный смысл."
+      },
+      "b1plus-l58": {
+        "title": "Making Formal Announcements",
+        "pattern": "We are pleased to announce... / Please be informed that... / Effective immediately...",
+        "explanation": "Официальные объявления используют устойчивые вводные формулы: «We are pleased to announce» для позитивных новостей, «Please be informed that» — нейтральный, безличный тон, «Effective immediately» указывает на момент вступления в силу.",
+        "fact": "«Effective immediately» — типичная бюрократическая калька с латинского юридического стиля, где точное указание момента вступления правила в силу считается критически важным, чтобы избежать разночтений о том, когда именно оно начало действовать."
+      },
+      "b1plus-l59": {
+        "title": "B1+ Review — A Detailed Discussion",
+        "pattern": "Review of B1+ grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B1+ — модальные глаголы дедукции, причастные обороты, эмфатические конструкции, дипломатичную речь — чтобы закрепить материал перед переходом на уровень B2.",
+        "fact": "Уровень B1+ часто рассматривают как переходный этап, где учащийся начинает не просто передавать информацию, но и управлять тоном и нюансом своей речи — именно этот навык становится центральным на уровне B2."
       }
     },
     "vocabularySets": [
