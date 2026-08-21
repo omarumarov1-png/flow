@@ -12912,6 +12912,1298 @@
               }
             ],
             "number": 180
+          },
+          {
+            "id": "a1-l69-p1",
+            "title": "Post Office & Bank — Basic Errands (Part 1)",
+            "titleNative": "Почта и банк · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l69",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы хотел отправить письмо.",
+                "en": "I'd like to send a letter."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Сколько стоит отправить эту посылку?",
+                "en": "How much does it cost to mail this parcel?"
+              },
+              {
+                "type": "listening",
+                "ru": "Я бы хотел открыть счёт.",
+                "en": "I'd like to open an account."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Где ближайший банкомат?",
+                "en": "Where's the nearest ATM?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мне нужны марки.",
+                "en": "I need some stamps."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Куда доставляется эта посылка?",
+                "en": "Where is this parcel going?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я бы хотел открыть счёт.",
+                "en": "I'd like to open an account.",
+                "blankedEn": "I'd like to open an ___.",
+                "answer": "account",
+                "options": [
+                  "account",
+                  "bank",
+                  "money",
+                  "card"
+                ]
+              }
+            ],
+            "number": 181
+          },
+          {
+            "id": "a1-l69-p2",
+            "title": "Post Office & Bank — Basic Errands (Part 2)",
+            "titleNative": "Почта и банк · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l69",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Мне нужно обменять деньги.",
+                "en": "I need to exchange some money."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Какой у вас обменный курс?",
+                "en": "What's your exchange rate?"
+              },
+              {
+                "type": "listening",
+                "ru": "Посылка придёт через три дня.",
+                "en": "The parcel will arrive in three days."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я потерял свою банковскую карту.",
+                "en": "I lost my bank card."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Можно оплатить картой?",
+                "en": "Can I pay by card?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я бы хотел отправить письмо.",
+                    "en": "I'd like to send a letter."
+                  },
+                  {
+                    "ru": "Мне нужны марки.",
+                    "en": "I need some stamps."
+                  },
+                  {
+                    "ru": "Я бы хотел открыть счёт.",
+                    "en": "I'd like to open an account."
+                  },
+                  {
+                    "ru": "Где ближайший банкомат?",
+                    "en": "Where's the nearest ATM?"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мне нужно обменять деньги.",
+                "en": "I need to exchange some money.",
+                "blankedEn": "I need to ___ some money.",
+                "answer": "exchange",
+                "options": [
+                  "exchange",
+                  "change",
+                  "trade",
+                  "swap"
+                ]
+              }
+            ],
+            "number": 182
+          },
+          {
+            "id": "a1-l70-p1",
+            "title": "Lost & Found — Describing Objects (Part 1)",
+            "titleNative": "Бюро находок · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l70",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я потерял свой кошелёк.",
+                "en": "I've lost my wallet."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Он чёрный и маленький.",
+                "en": "It's black and small."
+              },
+              {
+                "type": "listening",
+                "ru": "Вы не видели телефон?",
+                "en": "Have you seen a phone?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я оставил сумку в автобусе.",
+                "en": "I left my bag on the bus."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Он был в кармане куртки.",
+                "en": "It was in my jacket pocket."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я не могу найти свои ключи.",
+                "en": "I can't find my keys."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я потерял свой кошелёк.",
+                "en": "I've lost my wallet.",
+                "blankedEn": "I've ___ my wallet.",
+                "answer": "lost",
+                "options": [
+                  "lost",
+                  "lose",
+                  "losing",
+                  "loses"
+                ]
+              }
+            ],
+            "number": 183
+          },
+          {
+            "id": "a1-l70-p2",
+            "title": "Lost & Found — Describing Objects (Part 2)",
+            "titleNative": "Бюро находок · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l70",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Мой зонт синий и большой.",
+                "en": "My umbrella is blue and big."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кто-нибудь нашёл мои очки?",
+                "en": "Did anyone find my glasses?"
+              },
+              {
+                "type": "listening",
+                "ru": "Обратитесь в бюро находок.",
+                "en": "Go to the lost and found."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Опишите вашу сумку, пожалуйста.",
+                "en": "Please describe your bag."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Спасибо, что нашли мой телефон!",
+                "en": "Thank you for finding my phone!"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я потерял свой кошелёк.",
+                    "en": "I've lost my wallet."
+                  },
+                  {
+                    "ru": "Я не могу найти свои ключи.",
+                    "en": "I can't find my keys."
+                  },
+                  {
+                    "ru": "Обратитесь в бюро находок.",
+                    "en": "Go to the lost and found."
+                  },
+                  {
+                    "ru": "Опишите вашу сумку.",
+                    "en": "Describe your bag."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Обратитесь в бюро находок.",
+                "en": "Go to the lost and found.",
+                "blankedEn": "Go to the lost and ___.",
+                "answer": "found",
+                "options": [
+                  "found",
+                  "find",
+                  "finding",
+                  "finds"
+                ]
+              }
+            ],
+            "number": 184
+          },
+          {
+            "id": "a1-reading-45",
+            "title": "A Trip to the Bank",
+            "titleNative": "Поход в банк",
+            "description": "Короткий рассказ о походе в банк.",
+            "readingPassage": {
+              "context": "Короткий рассказ о походе в банк.",
+              "paragraphs": [
+                {
+                  "en": "Sam needs to open a bank account.",
+                  "ru": "Сэму нужно открыть банковский счёт."
+                },
+                {
+                  "en": "He goes to the bank after work.",
+                  "ru": "Он идёт в банк после работы."
+                },
+                {
+                  "en": "\"I'd like to open an account,\" he tells the clerk.",
+                  "ru": "«Я бы хотел открыть счёт», — говорит он сотруднику."
+                },
+                {
+                  "en": "The clerk asks for his ID and address.",
+                  "ru": "Сотрудник просит его удостоверение личности и адрес."
+                },
+                {
+                  "en": "Sam fills out a form with his personal information.",
+                  "ru": "Сэм заполняет форму со своими личными данными."
+                },
+                {
+                  "en": "\"How much does it cost to open an account?\" he asks.",
+                  "ru": "«Сколько стоит открыть счёт?» — спрашивает он."
+                },
+                {
+                  "en": "\"It's free,\" the clerk says with a smile.",
+                  "ru": "«Это бесплатно», — говорит сотрудник с улыбкой."
+                },
+                {
+                  "en": "Sam thanks her and leaves the bank feeling relieved.",
+                  "ru": "Сэм благодарит её и уходит из банка с облегчением."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что Сэм хочет сделать?",
+                "options": [
+                  "Взять кредит",
+                  "Открыть счёт",
+                  "Обменять деньги",
+                  "Снять деньги"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что просит сотрудник банка?",
+                "options": [
+                  "Только адрес",
+                  "Удостоверение и адрес",
+                  "Только удостоверение",
+                  "Номер телефона"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Сколько стоит открыть счёт?",
+                "options": [
+                  "Дорого",
+                  "Бесплатно",
+                  "Немного",
+                  "Не сказано"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 185
+          },
+          {
+            "id": "a1-l71-p1",
+            "title": "At the Gym — Basic Exercise (Part 1)",
+            "titleNative": "В спортзале · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l71",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я хожу в спортзал два раза в неделю.",
+                "en": "I go to the gym twice a week."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я делаю приседания.",
+                "en": "I'm doing squats."
+              },
+              {
+                "type": "listening",
+                "ru": "Можете показать, как пользоваться этим тренажёром?",
+                "en": "Can you show me how to use this machine?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нравится бегать по утрам.",
+                "en": "I like running in the morning."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Не забудь размяться перед тренировкой.",
+                "en": "Don't forget to stretch before exercising."
+              },
+              {
+                "type": "type-answer",
+                "ru": "У меня сегодня был отличный тренинг.",
+                "en": "I had a great workout today."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я делаю приседания.",
+                "en": "I'm doing squats.",
+                "blankedEn": "I'm ___ squats.",
+                "answer": "doing",
+                "options": [
+                  "doing",
+                  "do",
+                  "does",
+                  "did"
+                ]
+              }
+            ],
+            "number": 186
+          },
+          {
+            "id": "a1-l71-p2",
+            "title": "At the Gym — Basic Exercise (Part 2)",
+            "titleNative": "В спортзале · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l71",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Он поднимает тяжести каждый день.",
+                "en": "He lifts weights every day."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужно попить воды.",
+                "en": "I need to drink some water."
+              },
+              {
+                "type": "listening",
+                "ru": "Она занимается йогой по вечерам.",
+                "en": "She does yoga in the evenings."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Сколько раз в неделю ты тренируешься?",
+                "en": "How many times a week do you exercise?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "После тренировки я всегда устаю.",
+                "en": "I'm always tired after a workout."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я хожу в спортзал два раза в неделю.",
+                    "en": "I go to the gym twice a week."
+                  },
+                  {
+                    "ru": "Я делаю приседания.",
+                    "en": "I'm doing squats."
+                  },
+                  {
+                    "ru": "Он поднимает тяжести.",
+                    "en": "He lifts weights."
+                  },
+                  {
+                    "ru": "Она занимается йогой.",
+                    "en": "She does yoga."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он поднимает тяжести каждый день.",
+                "en": "He lifts weights every day.",
+                "blankedEn": "He ___ weights every day.",
+                "answer": "lifts",
+                "options": [
+                  "lifts",
+                  "lift",
+                  "lifting",
+                  "lifted"
+                ]
+              }
+            ],
+            "number": 187
+          },
+          {
+            "id": "a1-l72-p1",
+            "title": "In the Park — Nature Basics (Part 1)",
+            "titleNative": "В парке · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l72",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "В парке есть озеро.",
+                "en": "There's a lake in the park."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Мы видели уток.",
+                "en": "We saw some ducks."
+              },
+              {
+                "type": "listening",
+                "ru": "Давай сядем под этим деревом.",
+                "en": "Let's sit under this tree."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В парке много скамеек.",
+                "en": "There are a lot of benches in the park."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Дети играют возле пруда.",
+                "en": "The children are playing near the pond."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Здесь очень красивые цветы.",
+                "en": "The flowers here are very beautiful."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы видели уток.",
+                "en": "We saw some ducks.",
+                "blankedEn": "We ___ some ducks.",
+                "answer": "saw",
+                "options": [
+                  "saw",
+                  "see",
+                  "seen",
+                  "sees"
+                ]
+              }
+            ],
+            "number": 188
+          },
+          {
+            "id": "a1-l72-p2",
+            "title": "In the Park — Nature Basics (Part 2)",
+            "titleNative": "В парке · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l72",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Давай покормим птиц.",
+                "en": "Let's feed the birds."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В парке растёт много деревьев.",
+                "en": "There are many trees in the park."
+              },
+              {
+                "type": "listening",
+                "ru": "Мы гуляли по парку два часа.",
+                "en": "We walked around the park for two hours."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Здесь тихо и спокойно.",
+                "en": "It's quiet and peaceful here."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Смотри, белка на дереве!",
+                "en": "Look, there's a squirrel in the tree!"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "В парке есть озеро.",
+                    "en": "There's a lake in the park."
+                  },
+                  {
+                    "ru": "Мы видели уток.",
+                    "en": "We saw some ducks."
+                  },
+                  {
+                    "ru": "Давай сядем под этим деревом.",
+                    "en": "Let's sit under this tree."
+                  },
+                  {
+                    "ru": "Здесь тихо и спокойно.",
+                    "en": "It's quiet and peaceful here."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Мы гуляли по парку два часа.",
+                "en": "We walked around the park for two hours.",
+                "blankedEn": "We ___ around the park for two hours.",
+                "answer": "walked",
+                "options": [
+                  "walked",
+                  "walk",
+                  "walking",
+                  "walks"
+                ]
+              }
+            ],
+            "number": 189
+          },
+          {
+            "id": "a1-reading-46",
+            "title": "Lost Keys",
+            "titleNative": "Потерянные ключи",
+            "description": "Короткий рассказ о потерянных ключах.",
+            "readingPassage": {
+              "context": "Короткий рассказ о потерянных ключах.",
+              "paragraphs": [
+                {
+                  "en": "Lena can't find her keys.",
+                  "ru": "Лена не может найти свои ключи."
+                },
+                {
+                  "en": "\"I've lost my keys!\" she says to her roommate.",
+                  "ru": "«Я потеряла ключи!» — говорит она соседке по комнате."
+                },
+                {
+                  "en": "\"What do they look like?\" her roommate asks.",
+                  "ru": "«Как они выглядят?» — спрашивает соседка."
+                },
+                {
+                  "en": "\"They're small and silver, with a red keychain,\" Lena says.",
+                  "ru": "«Они маленькие и серебристые, с красным брелоком», — говорит Лена."
+                },
+                {
+                  "en": "They look everywhere — the kitchen, the bedroom, the bag.",
+                  "ru": "Они смотрят везде — на кухне, в спальне, в сумке."
+                },
+                {
+                  "en": "Finally, Lena finds them in her coat pocket.",
+                  "ru": "Наконец, Лена находит их в кармане пальто."
+                },
+                {
+                  "en": "\"I'm so relieved!\" she says, laughing.",
+                  "ru": "«Какое облегчение!» — говорит она, смеясь."
+                },
+                {
+                  "en": "Her roommate laughs too and says, \"Check your pockets first next time!\"",
+                  "ru": "Соседка тоже смеётся и говорит: «В следующий раз сначала проверяй карманы!»"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что потеряла Лена?",
+                "options": [
+                  "Телефон",
+                  "Ключи",
+                  "Кошелёк",
+                  "Очки"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какого цвета брелок?",
+                "options": [
+                  "Синий",
+                  "Красный",
+                  "Жёлтый",
+                  "Зелёный"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Где Лена нашла ключи?",
+                "options": [
+                  "В сумке",
+                  "На кухне",
+                  "В кармане пальто",
+                  "В спальне"
+                ],
+                "answerIndex": 2
+              }
+            ],
+            "number": 190
+          },
+          {
+            "id": "a1-l73-p1",
+            "title": "First, Then, After That — Sequencing (Part 1)",
+            "titleNative": "Последовательность действий · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l73",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Сначала я просыпаюсь.",
+                "en": "First, I wake up."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Потом я завтракаю.",
+                "en": "Then, I have breakfast."
+              },
+              {
+                "type": "listening",
+                "ru": "После этого я иду на работу.",
+                "en": "After that, I go to work."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Наконец, я иду домой.",
+                "en": "Finally, I go home."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Сначала мы приготовили ужин, потом поели.",
+                "en": "First we cooked dinner, then we ate."
+              },
+              {
+                "type": "type-answer",
+                "ru": "После этого мы посмотрели фильм.",
+                "en": "After that, we watched a movie."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Потом я завтракаю.",
+                "en": "Then, I have breakfast.",
+                "blankedEn": "___, I have breakfast.",
+                "answer": "Then",
+                "options": [
+                  "Then",
+                  "First",
+                  "After",
+                  "Finally"
+                ]
+              }
+            ],
+            "number": 191
+          },
+          {
+            "id": "a1-l73-p2",
+            "title": "First, Then, After That — Sequencing (Part 2)",
+            "titleNative": "Последовательность действий · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l73",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Сначала почитай инструкцию.",
+                "en": "First, read the instructions."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Потом нажми эту кнопку.",
+                "en": "Then, press this button."
+              },
+              {
+                "type": "listening",
+                "ru": "После этого подожди пять минут.",
+                "en": "After that, wait for five minutes."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Наконец, всё готово.",
+                "en": "Finally, everything is ready."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Что ты делаешь после работы?",
+                "en": "What do you do after work?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Сначала",
+                    "en": "First"
+                  },
+                  {
+                    "ru": "Потом",
+                    "en": "Then"
+                  },
+                  {
+                    "ru": "После этого",
+                    "en": "After that"
+                  },
+                  {
+                    "ru": "Наконец",
+                    "en": "Finally"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "После этого подожди пять минут.",
+                "en": "After that, wait for five minutes.",
+                "blankedEn": "After ___, wait for five minutes.",
+                "answer": "that",
+                "options": [
+                  "that",
+                  "this",
+                  "then",
+                  "it"
+                ]
+              }
+            ],
+            "number": 192
+          },
+          {
+            "id": "a1-l74-p1",
+            "title": "Agreeing & Disagreeing — Basic Opinions (Part 1)",
+            "titleNative": "Согласие и несогласие · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l74",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я согласен.",
+                "en": "I agree."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я так не думаю.",
+                "en": "I don't think so."
+              },
+              {
+                "type": "listening",
+                "ru": "Я не уверен насчёт этого.",
+                "en": "I'm not sure about that."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я тоже так думаю.",
+                "en": "I think so too."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Я не согласен с тобой.",
+                "en": "I disagree with you."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Возможно, ты прав.",
+                "en": "Maybe you're right."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я согласен.",
+                "en": "I agree.",
+                "blankedEn": "I ___.",
+                "answer": "agree",
+                "options": [
+                  "agree",
+                  "agreed",
+                  "agrees",
+                  "agreeing"
+                ]
+              }
+            ],
+            "number": 193
+          },
+          {
+            "id": "a1-l74-p2",
+            "title": "Agreeing & Disagreeing — Basic Opinions (Part 2)",
+            "titleNative": "Согласие и несогласие · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l74",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Полностью с тобой согласен.",
+                "en": "I completely agree with you."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это хорошая идея.",
+                "en": "That's a good idea."
+              },
+              {
+                "type": "listening",
+                "ru": "Я думаю иначе.",
+                "en": "I think differently."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ты уверен в этом?",
+                "en": "Are you sure about that?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Хорошая мысль!",
+                "en": "Good point!"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я согласен.",
+                    "en": "I agree."
+                  },
+                  {
+                    "ru": "Я не согласен.",
+                    "en": "I disagree."
+                  },
+                  {
+                    "ru": "Я не уверен насчёт этого.",
+                    "en": "I'm not sure about that."
+                  },
+                  {
+                    "ru": "Хорошая мысль!",
+                    "en": "Good point!"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Полностью с тобой согласен.",
+                "en": "I completely agree with you.",
+                "blankedEn": "I ___ agree with you.",
+                "answer": "completely",
+                "options": [
+                  "completely",
+                  "complete",
+                  "completes",
+                  "completed"
+                ]
+              }
+            ],
+            "number": 194
+          },
+          {
+            "id": "a1-reading-47",
+            "title": "A Sunday in the Park",
+            "titleNative": "Воскресенье в парке",
+            "description": "Короткий рассказ о прогулке в парке.",
+            "readingPassage": {
+              "context": "Короткий рассказ о прогулке в парке.",
+              "paragraphs": [
+                {
+                  "en": "On Sunday, my family went to the park.",
+                  "ru": "В воскресенье моя семья пошла в парк."
+                },
+                {
+                  "en": "First, we walked around the lake.",
+                  "ru": "Сначала мы обошли озеро."
+                },
+                {
+                  "en": "We saw some ducks swimming near the shore.",
+                  "ru": "Мы видели уток, плавающих у берега."
+                },
+                {
+                  "en": "Then, we sat under a big tree and had a picnic.",
+                  "ru": "Потом мы сели под большим деревом и устроили пикник."
+                },
+                {
+                  "en": "My little brother played with a ball near the pond.",
+                  "ru": "Мой младший брат играл с мячом возле пруда."
+                },
+                {
+                  "en": "After that, we walked to the playground.",
+                  "ru": "После этого мы пошли к детской площадке."
+                },
+                {
+                  "en": "Finally, we went home, tired but happy.",
+                  "ru": "Наконец, мы пошли домой, уставшие, но счастливые."
+                },
+                {
+                  "en": "It was a perfect Sunday.",
+                  "ru": "Это было идеальное воскресенье."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что семья делала сначала?",
+                "options": [
+                  "Обедала",
+                  "Обошла озеро",
+                  "Играла в мяч",
+                  "Спала"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Где играл младший брат?",
+                "options": [
+                  "У озера",
+                  "На площадке",
+                  "У пруда",
+                  "Под деревом"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Какими они пришли домой?",
+                "options": [
+                  "Голодными",
+                  "Уставшими, но счастливыми",
+                  "Злыми",
+                  "Скучающими"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 195
+          },
+          {
+            "id": "a1-l75-p1",
+            "title": "Emergencies — Calling for Help (Part 1)",
+            "titleNative": "Экстренные ситуации · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l75",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Помогите!",
+                "en": "Help!"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Вызовите скорую!",
+                "en": "Call an ambulance!"
+              },
+              {
+                "type": "listening",
+                "ru": "Произошла авария.",
+                "en": "There's been an accident."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вызовите полицию!",
+                "en": "Call the police!"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мне нужна помощь прямо сейчас.",
+                "en": "I need help right now."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Кто-то ранен.",
+                "en": "Someone is hurt."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Вызовите скорую!",
+                "en": "Call an ambulance!",
+                "blankedEn": "Call an ___!",
+                "answer": "ambulance",
+                "options": [
+                  "ambulance",
+                  "doctor",
+                  "police",
+                  "hospital"
+                ]
+              }
+            ],
+            "number": 196
+          },
+          {
+            "id": "a1-l75-p2",
+            "title": "Emergencies — Calling for Help (Part 2)",
+            "titleNative": "Экстренные ситуации · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l75",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Где ближайшая больница?",
+                "en": "Where's the nearest hospital?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Пожар! Всем выйти!",
+                "en": "Fire! Everyone get out!"
+              },
+              {
+                "type": "listening",
+                "ru": "Не паникуйте, всё под контролем.",
+                "en": "Don't panic, everything is under control."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Позвоните моей семье, пожалуйста.",
+                "en": "Please call my family."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "С вами всё в порядке?",
+                "en": "Are you okay?"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Помогите!",
+                    "en": "Help!"
+                  },
+                  {
+                    "ru": "Вызовите скорую!",
+                    "en": "Call an ambulance!"
+                  },
+                  {
+                    "ru": "Произошла авария.",
+                    "en": "There's been an accident."
+                  },
+                  {
+                    "ru": "С вами всё в порядке?",
+                    "en": "Are you okay?"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Не паникуйте, всё под контролем.",
+                "en": "Don't panic, everything is under control.",
+                "blankedEn": "Don't ___, everything is under control.",
+                "answer": "panic",
+                "options": [
+                  "panic",
+                  "worry",
+                  "stop",
+                  "cry"
+                ]
+              }
+            ],
+            "number": 197
+          },
+          {
+            "id": "a1-l76-p1",
+            "title": "A1 Complete — Final Review (Part 1)",
+            "titleNative": "Итоговое повторение A1 · Часть 1",
+            "description": "Новая тема A1",
+            "topicId": "a1-l76",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Здравствуйте, меня зовут Анна.",
+                "en": "Hello, my name is Anna."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я из Казахстана.",
+                "en": "I am from Kazakhstan."
+              },
+              {
+                "type": "listening",
+                "ru": "У меня есть собака и кошка.",
+                "en": "I have a dog and a cat."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Вчера я ходил в парк.",
+                "en": "Yesterday I went to the park."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Завтра я собираюсь навестить друзей.",
+                "en": "Tomorrow I'm going to visit my friends."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Извините за опоздание.",
+                "en": "I'm sorry for being late."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "У меня есть собака и кошка.",
+                "en": "I have a dog and a cat.",
+                "blankedEn": "I ___ a dog and a cat.",
+                "answer": "have",
+                "options": [
+                  "have",
+                  "has",
+                  "having",
+                  "had"
+                ]
+              }
+            ],
+            "number": 198
+          },
+          {
+            "id": "a1-l76-p2",
+            "title": "A1 Complete — Final Review (Part 2)",
+            "titleNative": "Итоговое повторение A1 · Часть 2",
+            "description": "Новая тема A1",
+            "topicId": "a1-l76",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Можно мне задать вопрос?",
+                "en": "May I ask a question?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я согласен с тобой.",
+                "en": "I agree with you."
+              },
+              {
+                "type": "listening",
+                "ru": "Сначала мы поели, потом пошли гулять.",
+                "en": "First we ate, then we went for a walk."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Спасибо за вашу помощь.",
+                "en": "Thank you for your help."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Было очень приятно с вами поговорить.",
+                "en": "It was very nice talking to you."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Здравствуйте, меня зовут Анна.",
+                    "en": "Hello, my name is Anna."
+                  },
+                  {
+                    "ru": "Я согласен с тобой.",
+                    "en": "I agree with you."
+                  },
+                  {
+                    "ru": "Спасибо за вашу помощь.",
+                    "en": "Thank you for your help."
+                  },
+                  {
+                    "ru": "Было очень приятно с вами поговорить.",
+                    "en": "It was very nice talking to you."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Было очень приятно с вами поговорить.",
+                "en": "It was very nice talking to you.",
+                "blankedEn": "It was very nice ___ to you.",
+                "answer": "talking",
+                "options": [
+                  "talking",
+                  "talk",
+                  "talked",
+                  "talks"
+                ]
+              }
+            ],
+            "number": 199
+          },
+          {
+            "id": "a1-reading-48",
+            "title": "A1 Journey Complete",
+            "titleNative": "Уровень A1 пройден",
+            "description": "Заключительный рассказ уровня A1.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня A1, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Six months ago, Aigerim started learning English.",
+                  "ru": "Шесть месяцев назад Айгерим начала учить английский."
+                },
+                {
+                  "en": "At first, she could only say \"Hello\" and \"My name is...\"",
+                  "ru": "Сначала она умела говорить только «Hello» и «My name is...»"
+                },
+                {
+                  "en": "Now she can talk about her family, her day, and her plans.",
+                  "ru": "Теперь она может рассказать о своей семье, своём дне и своих планах."
+                },
+                {
+                  "en": "She can order food, ask for directions, and make a phone call.",
+                  "ru": "Она может заказать еду, спросить дорогу и позвонить по телефону."
+                },
+                {
+                  "en": "\"I'm proud of how far I've come,\" she says.",
+                  "ru": "«Я горжусь тем, как далеко я продвинулась», — говорит она."
+                },
+                {
+                  "en": "Her teacher tells her, \"You're ready for the next level.\"",
+                  "ru": "Учитель говорит ей: «Ты готова к следующему уровню»."
+                },
+                {
+                  "en": "Aigerim smiles and says, \"I agree. Let's continue!\"",
+                  "ru": "Айгерим улыбается и говорит: «Согласна. Продолжим!»"
+                },
+                {
+                  "en": "Her English journey is just beginning.",
+                  "ru": "Её путешествие в английский только начинается."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Когда Айгерим начала учить английский?",
+                "options": [
+                  "Год назад",
+                  "Шесть месяцев назад",
+                  "Неделю назад",
+                  "Вчера"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что она НЕ умеет делать?",
+                "options": [
+                  "Заказать еду",
+                  "Спросить дорогу",
+                  "Написать роман",
+                  "Позвонить по телефону"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит учитель?",
+                "options": [
+                  "Нужно повторить A1",
+                  "Она готова к следующему уровню",
+                  "Нужно больше практики",
+                  "Экзамен провален"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 200
           }
         ]
       },
@@ -68458,6 +69750,54 @@
         "pattern": "I'm going to... / What are you going to do? / We're going to travel next month.",
         "explanation": "«Going to» используется для планов, которые уже приняты заранее, в отличие от спонтанных решений с «will». «I'm going to visit my grandmother this weekend» означает, что план уже существует — это не решение, принятое прямо сейчас.",
         "fact": "«Going to» в разговорной речи почти всегда сокращается до «gonna» («I'm gonna go»), хотя на письме, особенно в учебных и официальных текстах, сокращение почти никогда не используется."
+      },
+      "a1-l69": {
+        "title": "Post Office & Bank — Basic Errands",
+        "pattern": "I'd like to send a letter / I'd like to open an account / How much does it cost to mail this?",
+        "explanation": "На почте и в банке используется небольшой набор устойчивых фраз: «I'd like to send a letter/parcel» на почте, «I'd like to open an account» в банке. Вопрос о цене — «How much does it cost...?» — универсален для обоих мест.",
+        "fact": "В английском «mail» (американский вариант) и «post» (британский вариант) означают одно и то же — отправку писем; отсюда «post office» (британское по происхождению название), но «to mail a letter» (более американский оборот) — оба используются в современном международном английском."
+      },
+      "a1-l70": {
+        "title": "Lost & Found — Describing Objects",
+        "pattern": "I've lost my... / It's black and small. / Have you seen a...?",
+        "explanation": "Чтобы описать потерянную вещь, используют простые прилагательные размера и цвета («It's black and small») и глагол «lose» в Present Perfect («I've lost my wallet» — потерял и до сих пор не нашёл). Вопрос «Have you seen a...?» помогает спросить у окружающих.",
+        "fact": "«Lost and found» (американский английский) и «lost property» (британский английский) — два разных названия для одного и того же места в аэропортах и на вокзалах, куда сдают найденные вещи."
+      },
+      "a1-l71": {
+        "title": "At the Gym — Basic Exercise",
+        "pattern": "I go to the gym twice a week. / I'm doing squats. / Can you show me how to use this machine?",
+        "explanation": "Тема спортзала сочетает уже знакомую грамматику частотности («twice a week») с новой лексикой упражнений: squats, push-ups, running, stretching. Present Continuous описывает упражнение, которое выполняется прямо сейчас («I'm doing squats»).",
+        "fact": "Многие названия упражнений в английском заимствованы напрямую в другие языки без перевода («squats», «push-ups», «plank») — это одна из немногих областей повседневной лексики, где английские термины стали по-настоящему интернациональными в фитнес-культуре."
+      },
+      "a1-l72": {
+        "title": "In the Park — Nature Basics",
+        "pattern": "There's a lake in the park. / We saw some ducks. / Let's sit under this tree.",
+        "explanation": "Прогулка в парке даёт возможность попрактиковать «there is/are» с природными объектами (lake, tree, bench, pond) и простое прошедшее время для рассказа о том, что видели («We saw some ducks»).",
+        "fact": "«Duck» (утка) в английском не имеет отдельного слова для селезня в повседневной речи — «drake» существует, но большинство носителей языка просто говорят «duck» для птиц любого пола, в отличие от более строгого разграничения в некоторых других языках."
+      },
+      "a1-l73": {
+        "title": "First, Then, After That — Sequencing",
+        "pattern": "First, ... Then, ... After that, ... Finally, ...",
+        "explanation": "Слова последовательности организуют рассказ или инструкцию в правильном порядке: «First, I wake up. Then, I have breakfast. After that, I go to work.» Это ключевые слова для связного, а не рубленого рассказа о повседневных действиях.",
+        "fact": "«Finally» в конце последовательности не всегда означает «наконец-то, с облегчением» — в инструкциях и рассказах оно часто просто означает «в последнюю очередь», без всякого эмоционального оттенка, в отличие от восклицания «Finally!» само по себе."
+      },
+      "a1-l74": {
+        "title": "Agreeing & Disagreeing — Basic Opinions",
+        "pattern": "I agree. / I don't think so. / I'm not sure about that.",
+        "explanation": "Базовые фразы согласия и несогласия: «I agree» / «I think so too» для согласия, «I don't think so» / «I disagree» для несогласия. «I'm not sure about that» — мягкий, нейтральный способ не соглашаться, не будучи резким.",
+        "fact": "«I don't think so» звучит гораздо мягче и вежливее, чем прямое «No, that's wrong» — эта разница особенно важна в английском, где прямое отрицание чужого мнения без смягчения может показаться грубым, даже на самом базовом уровне общения."
+      },
+      "a1-l75": {
+        "title": "Emergencies — Calling for Help",
+        "pattern": "Help! / Call an ambulance! / There's been an accident.",
+        "explanation": "В экстренной ситуации важны короткие, чёткие фразы: «Help!», «Call an ambulance!», «Call the police!». «There's been an accident» — стандартная фраза, чтобы сообщить о происшествии, используя Present Perfect для только что случившегося события.",
+        "fact": "Номер экстренных служб в англоязычных странах не универсален — в США и Канаде это 911, в Великобритании 999, в Австралии 000 — в отличие от единого европейского номера 112, который работает во всём Евросоюзе."
+      },
+      "a1-l76": {
+        "title": "A1 Complete — Final Review",
+        "pattern": "Review of A1 grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня A1 — приветствия, глагол to be, простое настоящее и прошедшее время, вопросы, повседневные ситуации — чтобы закрепить весь пройденный материал перед переходом на уровень A2.",
+        "fact": "Уровень A1 по шкале CEFR соответствует примерно 500–600 часам активного изучения языка с нуля — именно поэтому качественное закрепление базовой грамматики и лексики на этом этапе так важно: почти вся дальнейшая грамматика строится поверх этого фундамента."
       }
     },
     "vocabularySets": [
