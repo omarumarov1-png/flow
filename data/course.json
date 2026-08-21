@@ -27023,6 +27023,1298 @@
               }
             ],
             "number": 226
+          },
+          {
+            "id": "a2-l69-p1",
+            "title": "At the Bank — Detailed Transactions (Part 1)",
+            "titleNative": "В банке · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l69",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы хотел снять немного денег.",
+                "en": "I'd like to withdraw some money."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Можно перевести деньги на этот счёт?",
+                "en": "Can I transfer money to this account?"
+              },
+              {
+                "type": "listening",
+                "ru": "Какой у меня текущий баланс?",
+                "en": "What's my current balance?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Я хочу внести деньги на счёт.",
+                "en": "I want to deposit money into my account."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Перевод займёт два рабочих дня.",
+                "en": "The transfer will take two business days."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужна выписка со счёта.",
+                "en": "I need a bank statement."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я бы хотел снять немного денег.",
+                "en": "I'd like to withdraw some money.",
+                "blankedEn": "I'd like to ___ some money.",
+                "answer": "withdraw",
+                "options": [
+                  "withdraw",
+                  "deposit",
+                  "transfer",
+                  "spend"
+                ]
+              }
+            ],
+            "number": 227
+          },
+          {
+            "id": "a2-l69-p2",
+            "title": "At the Bank — Detailed Transactions (Part 2)",
+            "titleNative": "В банке · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l69",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Моя карта заблокирована.",
+                "en": "My card is blocked."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Комиссия за перевод небольшая.",
+                "en": "The transfer fee is small."
+              },
+              {
+                "type": "listening",
+                "ru": "Мне нужно сменить пин-код.",
+                "en": "I need to change my PIN code."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Можно получить новую карту?",
+                "en": "Can I get a new card?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Проверьте свой баланс в приложении.",
+                "en": "Check your balance in the app."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я бы хотел снять немного денег.",
+                    "en": "I'd like to withdraw some money."
+                  },
+                  {
+                    "ru": "Можно перевести деньги?",
+                    "en": "Can I transfer money?"
+                  },
+                  {
+                    "ru": "Моя карта заблокирована.",
+                    "en": "My card is blocked."
+                  },
+                  {
+                    "ru": "Мне нужна выписка со счёта.",
+                    "en": "I need a bank statement."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Комиссия за перевод небольшая.",
+                "en": "The transfer fee is small.",
+                "blankedEn": "The transfer ___ is small.",
+                "answer": "fee",
+                "options": [
+                  "fee",
+                  "price",
+                  "cost",
+                  "rate"
+                ]
+              }
+            ],
+            "number": 228
+          },
+          {
+            "id": "a2-l70-p1",
+            "title": "Sports Events — Talking About Scores (Part 1)",
+            "titleNative": "Спортивные события · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l70",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Счёт 2-1.",
+                "en": "The score is 2-1."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Наша команда выиграла матч.",
+                "en": "Our team won the match."
+              },
+              {
+                "type": "listening",
+                "ru": "Кто выигрывает?",
+                "en": "Who's winning?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Игра закончилась вничью.",
+                "en": "The game ended in a draw."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мы проиграли последний матч.",
+                "en": "We lost the last match."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Матч начинается в семь часов.",
+                "en": "The match starts at seven."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Наша команда выиграла матч.",
+                "en": "Our team won the match.",
+                "blankedEn": "Our team ___ the match.",
+                "answer": "won",
+                "options": [
+                  "won",
+                  "win",
+                  "wins",
+                  "winning"
+                ]
+              }
+            ],
+            "number": 229
+          },
+          {
+            "id": "a2-l70-p2",
+            "title": "Sports Events — Talking About Scores (Part 2)",
+            "titleNative": "Спортивные события · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l70",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Он забил гол в последней минуте.",
+                "en": "He scored a goal in the last minute."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Болельщики очень громко кричали.",
+                "en": "The fans were shouting very loudly."
+              },
+              {
+                "type": "listening",
+                "ru": "Какая команда твоя любимая?",
+                "en": "Which team is your favorite?"
+              },
+              {
+                "type": "type-answer",
+                "ru": "Следующий матч в субботу.",
+                "en": "The next match is on Saturday."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это был отличный матч!",
+                "en": "That was a great match!"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Счёт 2-1.",
+                    "en": "The score is 2-1."
+                  },
+                  {
+                    "ru": "Наша команда выиграла матч.",
+                    "en": "Our team won the match."
+                  },
+                  {
+                    "ru": "Игра закончилась вничью.",
+                    "en": "The game ended in a draw."
+                  },
+                  {
+                    "ru": "Он забил гол.",
+                    "en": "He scored a goal."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Он забил гол в последней минуте.",
+                "en": "He scored a goal in the last minute.",
+                "blankedEn": "He ___ a goal in the last minute.",
+                "answer": "scored",
+                "options": [
+                  "scored",
+                  "score",
+                  "scores",
+                  "scoring"
+                ]
+              }
+            ],
+            "number": 230
+          },
+          {
+            "id": "a2-reading-44",
+            "title": "Weekend Football",
+            "titleNative": "Футбол на выходных",
+            "description": "Короткий рассказ о футбольном матче.",
+            "readingPassage": {
+              "context": "Короткий рассказ о футбольном матче.",
+              "paragraphs": [
+                {
+                  "en": "Last Saturday, Daulet went to watch a football match.",
+                  "ru": "В прошлую субботу Даулет пошёл смотреть футбольный матч."
+                },
+                {
+                  "en": "His favorite team was playing against their biggest rival.",
+                  "ru": "Его любимая команда играла против главного соперника."
+                },
+                {
+                  "en": "\"Who's winning?\" his friend asked when he arrived late.",
+                  "ru": "«Кто выигрывает?» — спросил его друг, когда пришёл с опозданием."
+                },
+                {
+                  "en": "\"The score is 1-1,\" Daulet said, watching closely.",
+                  "ru": "«Счёт 1-1», — сказал Даулет, внимательно наблюдая за игрой."
+                },
+                {
+                  "en": "In the last minute, his team scored a goal.",
+                  "ru": "На последней минуте его команда забила гол."
+                },
+                {
+                  "en": "The whole stadium was shouting with excitement.",
+                  "ru": "Весь стадион кричал от восторга."
+                },
+                {
+                  "en": "\"Our team won the match!\" Daulet said happily.",
+                  "ru": "«Наша команда выиграла матч!» — радостно сказал Даулет."
+                },
+                {
+                  "en": "It was one of the best games he had ever seen.",
+                  "ru": "Это был один из лучших матчей, которые он когда-либо видел."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Какой был счёт, когда пришёл друг?",
+                "options": [
+                  "0-0",
+                  "1-1",
+                  "2-0",
+                  "1-0"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Когда команда забила гол?",
+                "options": [
+                  "В начале игры",
+                  "В перерыве",
+                  "На последней минуте",
+                  "Не забила"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Кто выиграл матч?",
+                "options": [
+                  "Команда соперника",
+                  "Команда Даулета",
+                  "Ничья",
+                  "Не сказано"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 231
+          },
+          {
+            "id": "a2-l71-p1",
+            "title": "Cultural Differences — Basic Comparisons (Part 1)",
+            "titleNative": "Культурные различия · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l71",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "В моей стране мы обычно ужинаем поздно.",
+                "en": "In my country, we usually have dinner late."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Здесь всё по-другому.",
+                "en": "It's different here."
+              },
+              {
+                "type": "listening",
+                "ru": "Люди здесь, как правило, приходят вовремя.",
+                "en": "People here tend to arrive on time."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "В моей стране семья очень важна.",
+                "en": "In my country, family is very important."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Здесь люди меньше разговаривают с незнакомцами.",
+                "en": "People here talk less to strangers."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нравится узнавать о других культурах.",
+                "en": "I like learning about other cultures."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Люди здесь, как правило, приходят вовремя.",
+                "en": "People here tend to arrive on time.",
+                "blankedEn": "People here ___ to arrive on time.",
+                "answer": "tend",
+                "options": [
+                  "tend",
+                  "tends",
+                  "tending",
+                  "tended"
+                ]
+              }
+            ],
+            "number": 232
+          },
+          {
+            "id": "a2-l71-p2",
+            "title": "Cultural Differences — Basic Comparisons (Part 2)",
+            "titleNative": "Культурные различия · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l71",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "У нас другие праздничные традиции.",
+                "en": "We have different holiday traditions."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Еда здесь совсем другая.",
+                "en": "The food here is quite different."
+              },
+              {
+                "type": "listening",
+                "ru": "В моей стране принято снимать обувь дома.",
+                "en": "In my country, it's common to take off your shoes at home."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне интересно сравнивать традиции.",
+                "en": "I find it interesting to compare traditions."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Каждая культура особенная по-своему.",
+                "en": "Every culture is special in its own way."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "В моей стране мы обычно...",
+                    "en": "In my country, we usually..."
+                  },
+                  {
+                    "ru": "Здесь всё по-другому.",
+                    "en": "It's different here."
+                  },
+                  {
+                    "ru": "Люди здесь, как правило...",
+                    "en": "People here tend to..."
+                  },
+                  {
+                    "ru": "Мне нравится узнавать о других культурах.",
+                    "en": "I like learning about other cultures."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Каждая культура особенная по-своему.",
+                "en": "Every culture is special in its own way.",
+                "blankedEn": "Every culture is special in its own ___.",
+                "answer": "way",
+                "options": [
+                  "way",
+                  "path",
+                  "manner",
+                  "style"
+                ]
+              }
+            ],
+            "number": 233
+          },
+          {
+            "id": "a2-l72-p1",
+            "title": "Giving Feedback — Basic (Part 1)",
+            "titleNative": "Обратная связь · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l72",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Мне очень понравилось.",
+                "en": "I really liked it."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Одна вещь, которую можно улучшить...",
+                "en": "One thing you could improve is..."
+              },
+              {
+                "type": "listening",
+                "ru": "В целом, это было отлично.",
+                "en": "Overall, it was great."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне понравилась твоя презентация.",
+                "en": "I liked your presentation."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Возможно, стоит говорить немного медленнее.",
+                "en": "Maybe you could speak a bit slower."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Спасибо за отзыв.",
+                "en": "Thanks for the feedback."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "В целом, это было отлично.",
+                "en": "Overall, it was great.",
+                "blankedEn": "___, it was great.",
+                "answer": "Overall",
+                "options": [
+                  "Overall",
+                  "Totally",
+                  "Finally",
+                  "Really"
+                ]
+              }
+            ],
+            "number": 234
+          },
+          {
+            "id": "a2-l72-p2",
+            "title": "Giving Feedback — Basic (Part 2)",
+            "titleNative": "Обратная связь · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l72",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "У тебя отличные идеи.",
+                "en": "You have great ideas."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Можешь добавить больше примеров.",
+                "en": "You could add more examples."
+              },
+              {
+                "type": "listening",
+                "ru": "Мне нравится, как ты объясняешь.",
+                "en": "I like the way you explain things."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это было полезно, спасибо.",
+                "en": "That was helpful, thanks."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Продолжай в том же духе!",
+                "en": "Keep up the good work!"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Мне очень понравилось.",
+                    "en": "I really liked it."
+                  },
+                  {
+                    "ru": "Одна вещь, которую можно улучшить...",
+                    "en": "One thing you could improve is..."
+                  },
+                  {
+                    "ru": "В целом, это было отлично.",
+                    "en": "Overall, it was great."
+                  },
+                  {
+                    "ru": "Продолжай в том же духе!",
+                    "en": "Keep up the good work!"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Можешь добавить больше примеров.",
+                "en": "You could add more examples.",
+                "blankedEn": "You could add more ___.",
+                "answer": "examples",
+                "options": [
+                  "examples",
+                  "example",
+                  "examples's",
+                  "exampled"
+                ]
+              }
+            ],
+            "number": 235
+          },
+          {
+            "id": "a2-reading-45",
+            "title": "A Trip to the Airport",
+            "titleNative": "Поездка в аэропорт",
+            "description": "Короткий рассказ о поездке в аэропорт.",
+            "readingPassage": {
+              "context": "Короткий рассказ о поездке в аэропорт.",
+              "paragraphs": [
+                {
+                  "en": "Aliya arrived at the airport two hours before her flight.",
+                  "ru": "Алия приехала в аэропорт за два часа до вылета."
+                },
+                {
+                  "en": "\"I'd like to check in for my flight to Almaty,\" she told the agent.",
+                  "ru": "«Я бы хотела зарегистрироваться на рейс до Алматы», — сказала она сотруднику."
+                },
+                {
+                  "en": "The agent gave her a boarding pass and checked her suitcase.",
+                  "ru": "Сотрудник дал ей посадочный талон и принял её чемодан в багаж."
+                },
+                {
+                  "en": "At security, someone asked, \"Do you have any liquids in your bag?\"",
+                  "ru": "На досмотре кто-то спросил: «У вас есть жидкости в сумке?»"
+                },
+                {
+                  "en": "\"No, just my laptop and some snacks,\" Aliya answered.",
+                  "ru": "«Нет, только ноутбук и немного перекуса», — ответила Алия."
+                },
+                {
+                  "en": "She found her departure gate and waited for boarding.",
+                  "ru": "Она нашла свой выход на посадку и ждала начала посадки."
+                },
+                {
+                  "en": "\"Boarding starts in twenty minutes,\" the announcement said.",
+                  "ru": "«Посадка начинается через двадцать минут», — объявили по громкой связи."
+                },
+                {
+                  "en": "Aliya was excited to finally start her trip.",
+                  "ru": "Алия была рада наконец-то начать своё путешествие."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "За сколько часов Алия приехала в аэропорт?",
+                "options": [
+                  "За час",
+                  "За два часа",
+                  "За три часа",
+                  "За тридцать минут"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что спросили на досмотре?",
+                "options": [
+                  "Про паспорт",
+                  "Про жидкости в сумке",
+                  "Про билет",
+                  "Про деньги"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Через сколько началась посадка?",
+                "options": [
+                  "Через десять минут",
+                  "Через двадцать минут",
+                  "Через час",
+                  "Сразу"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 236
+          },
+          {
+            "id": "a2-l73-p1",
+            "title": "Making Small Talk — Extended (Part 1)",
+            "titleNative": "Светская беседа · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l73",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Ну, как продвигается работа?",
+                "en": "So, how's work going?"
+              },
+              {
+                "type": "word-bank",
+                "ru": "Есть планы на праздники?",
+                "en": "Any plans for the holidays?"
+              },
+              {
+                "type": "listening",
+                "ru": "Ты в последнее время был занят?",
+                "en": "Have you been busy lately?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Как прошли твои выходные?",
+                "en": "How was your weekend?"
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Мы, наверное, поедем к родителям.",
+                "en": "We'll probably go visit my parents."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Да, было довольно много работы.",
+                "en": "Yeah, it's been quite busy."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Ты в последнее время был занят?",
+                "en": "Have you been busy lately?",
+                "blankedEn": "Have you been busy ___?",
+                "answer": "lately",
+                "options": [
+                  "lately",
+                  "late",
+                  "latest",
+                  "later"
+                ]
+              }
+            ],
+            "number": 237
+          },
+          {
+            "id": "a2-l73-p2",
+            "title": "Making Small Talk — Extended (Part 2)",
+            "titleNative": "Светская беседа · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l73",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Как твоя семья поживает?",
+                "en": "How's your family doing?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Что нового?",
+                "en": "What's new with you?"
+              },
+              {
+                "type": "listening",
+                "ru": "Ничего особенного, всё как обычно.",
+                "en": "Nothing much, just the usual."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Ты уже видел новый фильм?",
+                "en": "Have you seen the new movie yet?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Давно не виделись!",
+                "en": "It's been a while!"
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Ну, как продвигается работа?",
+                    "en": "So, how's work going?"
+                  },
+                  {
+                    "ru": "Есть планы на праздники?",
+                    "en": "Any plans for the holidays?"
+                  },
+                  {
+                    "ru": "Что нового?",
+                    "en": "What's new with you?"
+                  },
+                  {
+                    "ru": "Давно не виделись!",
+                    "en": "It's been a while!"
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Ничего особенного, всё как обычно.",
+                "en": "Nothing much, just the usual.",
+                "blankedEn": "Nothing much, just the ___.",
+                "answer": "usual",
+                "options": [
+                  "usual",
+                  "usually",
+                  "usualness",
+                  "used"
+                ]
+              }
+            ],
+            "number": 238
+          },
+          {
+            "id": "a2-l74-p1",
+            "title": "At the Airport — Check-in & Security (Part 1)",
+            "titleNative": "В аэропорту · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l74",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Я бы хотел зарегистрироваться на рейс.",
+                "en": "I'd like to check in for my flight."
+              },
+              {
+                "type": "word-bank",
+                "ru": "У вас есть жидкости в сумке?",
+                "en": "Do you have any liquids in your bag?"
+              },
+              {
+                "type": "listening",
+                "ru": "Где мой выход на посадку?",
+                "en": "Where's my departure gate?"
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мой рейс задерживается.",
+                "en": "My flight is delayed."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Посадка начинается через двадцать минут.",
+                "en": "Boarding starts in twenty minutes."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Мне нужно сдать этот чемодан в багаж.",
+                "en": "I need to check this suitcase."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я бы хотел зарегистрироваться на рейс.",
+                "en": "I'd like to check in for my flight.",
+                "blankedEn": "I'd like to check ___ for my flight.",
+                "answer": "in",
+                "options": [
+                  "in",
+                  "on",
+                  "up",
+                  "out"
+                ]
+              }
+            ],
+            "number": 239
+          },
+          {
+            "id": "a2-l74-p2",
+            "title": "At the Airport — Check-in & Security (Part 2)",
+            "titleNative": "В аэропорту · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l74",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Покажите ваш посадочный талон, пожалуйста.",
+                "en": "Please show your boarding pass."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мне нужно пройти досмотр безопасности.",
+                "en": "I need to go through security."
+              },
+              {
+                "type": "listening",
+                "ru": "Снимите обувь и ремень, пожалуйста.",
+                "en": "Please remove your shoes and belt."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Сколько ручной клади разрешено?",
+                "en": "How much hand luggage is allowed?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Мой рейс отменили.",
+                "en": "My flight was cancelled."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Я бы хотел зарегистрироваться на рейс.",
+                    "en": "I'd like to check in for my flight."
+                  },
+                  {
+                    "ru": "Где мой выход на посадку?",
+                    "en": "Where's my departure gate?"
+                  },
+                  {
+                    "ru": "Мой рейс задерживается.",
+                    "en": "My flight is delayed."
+                  },
+                  {
+                    "ru": "Мой рейс отменили.",
+                    "en": "My flight was cancelled."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Снимите обувь и ремень, пожалуйста.",
+                "en": "Please remove your shoes and belt.",
+                "blankedEn": "Please ___ your shoes and belt.",
+                "answer": "remove",
+                "options": [
+                  "remove",
+                  "take",
+                  "put",
+                  "wear"
+                ]
+              }
+            ],
+            "number": 240
+          },
+          {
+            "id": "a2-reading-46",
+            "title": "Feedback on a Presentation",
+            "titleNative": "Отзыв о презентации",
+            "description": "Короткий рассказ о рабочей обратной связи.",
+            "readingPassage": {
+              "context": "Короткий рассказ о рабочей обратной связи.",
+              "paragraphs": [
+                {
+                  "en": "Nurlan gave a presentation at work yesterday.",
+                  "ru": "Вчера Нурлан выступил с презентацией на работе."
+                },
+                {
+                  "en": "Afterward, his manager gave him some feedback.",
+                  "ru": "После этого его руководитель дал ему обратную связь."
+                },
+                {
+                  "en": "\"I really liked your presentation,\" she said.",
+                  "ru": "«Мне очень понравилась твоя презентация», — сказала она."
+                },
+                {
+                  "en": "\"One thing you could improve is speaking a bit slower,\" she added.",
+                  "ru": "«Одна вещь, которую можно улучшить — говорить немного медленнее», — добавила она."
+                },
+                {
+                  "en": "Nurlan nodded and took notes.",
+                  "ru": "Нурлан кивнул и сделал заметки."
+                },
+                {
+                  "en": "\"Overall, it was great,\" she said with a smile.",
+                  "ru": "«В целом, это было отлично», — сказала она с улыбкой."
+                },
+                {
+                  "en": "\"Thanks for the feedback,\" Nurlan replied.",
+                  "ru": "«Спасибо за отзыв», — ответил Нурлан."
+                },
+                {
+                  "en": "He felt motivated to do even better next time.",
+                  "ru": "Он почувствовал мотивацию сделать ещё лучше в следующий раз."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что сделал Нурлан вчера?",
+                "options": [
+                  "Написал отчёт",
+                  "Дал презентацию",
+                  "Взял отпуск",
+                  "Уволился"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что можно улучшить?",
+                "options": [
+                  "Слайды",
+                  "Говорить медленнее",
+                  "Громкость",
+                  "Одежду"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как Нурлан себя почувствовал в конце?",
+                "options": [
+                  "Расстроенным",
+                  "Мотивированным",
+                  "Уставшим",
+                  "Равнодушным"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 241
+          },
+          {
+            "id": "a2-l75-p1",
+            "title": "Describing a Process — Simple Instructions (Part 1)",
+            "titleNative": "Описание процесса · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l75",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Сначала включаешь его.",
+                "en": "First, you turn it on."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Потом нажимаешь эту кнопку.",
+                "en": "Next, you press this button."
+              },
+              {
+                "type": "listening",
+                "ru": "Потом он запускается автоматически.",
+                "en": "Then it starts automatically."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Ты выбираешь нужную программу.",
+                "en": "You choose the program you need."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Наконец, ты нажимаешь «старт».",
+                "en": "Finally, you press \"start\"."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Это очень просто, если следовать шагам.",
+                "en": "It's very simple if you follow the steps."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Потом он запускается автоматически.",
+                "en": "Then it starts automatically.",
+                "blankedEn": "Then it starts ___.",
+                "answer": "automatically",
+                "options": [
+                  "automatically",
+                  "automatic",
+                  "automation",
+                  "automate"
+                ]
+              }
+            ],
+            "number": 242
+          },
+          {
+            "id": "a2-l75-p2",
+            "title": "Describing a Process — Simple Instructions (Part 2)",
+            "titleNative": "Описание процесса · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l75",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Прочитайте инструкцию перед использованием.",
+                "en": "Read the instructions before use."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Каждый шаг занимает всего минуту.",
+                "en": "Each step only takes a minute."
+              },
+              {
+                "type": "listening",
+                "ru": "Убедись, что всё подключено.",
+                "en": "Make sure everything is connected."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Процесс очень лёгкий и быстрый.",
+                "en": "The process is very easy and quick."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Не пропускай ни один шаг.",
+                "en": "Don't skip any step."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Сначала включаешь его.",
+                    "en": "First, you turn it on."
+                  },
+                  {
+                    "ru": "Потом нажимаешь эту кнопку.",
+                    "en": "Next, you press this button."
+                  },
+                  {
+                    "ru": "Потом он запускается автоматически.",
+                    "en": "Then it starts automatically."
+                  },
+                  {
+                    "ru": "Не пропускай ни один шаг.",
+                    "en": "Don't skip any step."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Каждый шаг занимает всего минуту.",
+                "en": "Each step only takes a minute.",
+                "blankedEn": "Each step only ___ a minute.",
+                "answer": "takes",
+                "options": [
+                  "takes",
+                  "take",
+                  "took",
+                  "taking"
+                ]
+              }
+            ],
+            "number": 243
+          },
+          {
+            "id": "a2-l76-p1",
+            "title": "A2 Complete — Final Review (Part 1)",
+            "titleNative": "Итоговое повторение A2 · Часть 1",
+            "description": "Новая тема A2",
+            "topicId": "a2-l76",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Вчера я ходил в кино.",
+                "en": "I went to the cinema yesterday."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Я собираюсь путешествовать в следующем году.",
+                "en": "I'm going to travel next year."
+              },
+              {
+                "type": "listening",
+                "ru": "Ты должен пристегнуть ремень безопасности.",
+                "en": "You must wear a seatbelt."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Этот город больше того.",
+                "en": "This city is bigger than that one."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "В моей стране мы обычно ужинаем поздно.",
+                "en": "In my country, we usually have dinner late."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Как продвигается работа?",
+                "en": "How's work going?"
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Этот город больше того.",
+                "en": "This city is bigger than that one.",
+                "blankedEn": "This city is ___ than that one.",
+                "answer": "bigger",
+                "options": [
+                  "bigger",
+                  "big",
+                  "biggest",
+                  "more big"
+                ]
+              }
+            ],
+            "number": 244
+          },
+          {
+            "id": "a2-l76-p2",
+            "title": "A2 Complete — Final Review (Part 2)",
+            "titleNative": "Итоговое повторение A2 · Часть 2",
+            "description": "Новая тема A2",
+            "topicId": "a2-l76",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Я бы хотел снять немного денег.",
+                "en": "I'd like to withdraw some money."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Наша команда выиграла матч.",
+                "en": "Our team won the match."
+              },
+              {
+                "type": "listening",
+                "ru": "В целом, это было отлично.",
+                "en": "Overall, it was great."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Где мой выход на посадку?",
+                "en": "Where's my departure gate?"
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Я многому научился на уровне A2.",
+                "en": "I learned a lot at the A2 level."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Вчера я ходил в кино.",
+                    "en": "I went to the cinema yesterday."
+                  },
+                  {
+                    "ru": "Я собираюсь путешествовать в следующем году.",
+                    "en": "I'm going to travel next year."
+                  },
+                  {
+                    "ru": "Ты должен пристегнуть ремень.",
+                    "en": "You must wear a seatbelt."
+                  },
+                  {
+                    "ru": "Я многому научился на уровне A2.",
+                    "en": "I learned a lot at the A2 level."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я многому научился на уровне A2.",
+                "en": "I learned a lot at the A2 level.",
+                "blankedEn": "I ___ a lot at the A2 level.",
+                "answer": "learned",
+                "options": [
+                  "learned",
+                  "learn",
+                  "learns",
+                  "learning"
+                ]
+              }
+            ],
+            "number": 245
+          },
+          {
+            "id": "a2-reading-47",
+            "title": "A2 Journey Complete",
+            "titleNative": "Уровень A2 пройден",
+            "description": "Заключительный рассказ уровня A2.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня A2, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Timur has been studying English for almost a year now.",
+                  "ru": "Тимур изучает английский язык уже почти год."
+                },
+                {
+                  "en": "He remembers when he could barely say \"Hello, how are you?\"",
+                  "ru": "Он помнит, как едва мог сказать «Hello, how are you?»"
+                },
+                {
+                  "en": "Now he can talk about the past, make plans, and give his opinion.",
+                  "ru": "Теперь он может говорить о прошлом, строить планы и высказывать своё мнение."
+                },
+                {
+                  "en": "He can also handle everyday situations — the bank, the airport, the pharmacy.",
+                  "ru": "Он также может справляться с повседневными ситуациями — в банке, в аэропорту, в аптеке."
+                },
+                {
+                  "en": "\"I'm proud of how much I've learned,\" he tells his friend.",
+                  "ru": "«Я горжусь тем, сколько я выучил», — говорит он другу."
+                },
+                {
+                  "en": "\"You're ready for B1 now,\" his friend says.",
+                  "ru": "«Теперь ты готов к уровню B1», — говорит его друг."
+                },
+                {
+                  "en": "Timur smiles and says, \"Let's keep going. This is just the beginning.\"",
+                  "ru": "Тимур улыбается и говорит: «Продолжим. Это только начало»."
+                },
+                {
+                  "en": "His English journey continues, one lesson at a time.",
+                  "ru": "Его путешествие в английский продолжается, урок за уроком."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Сколько времени Тимур учит английский?",
+                "options": [
+                  "Месяц",
+                  "Полгода",
+                  "Почти год",
+                  "Два года"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Что Тимур НЕ может делать?",
+                "options": [
+                  "Говорить о прошлом",
+                  "Строить планы",
+                  "Управлять самолётом",
+                  "Давать своё мнение"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит друг Тимура?",
+                "options": [
+                  "Нужно повторить A2",
+                  "Он готов к B1",
+                  "Стоит бросить учёбу",
+                  "Нужен перерыв"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 246
           }
         ]
       },
@@ -71138,6 +72430,54 @@
         "pattern": "We should recycle more. / Plastic is bad for the environment. / Let's save energy.",
         "explanation": "Базовая лексика об окружающей среде: recycle (перерабатывать), pollution (загрязнение), environment (окружающая среда), save energy (экономить энергию). «Should» здесь выражает совет или рекомендацию, а не строгую обязанность.",
         "fact": "Слово «recycle» состоит из приставки «re-» (снова) и «cycle» (цикл, круг) — то есть буквально означает «вернуть в круг» повторного использования, а не просто «выбросить» — эта внутренняя логика слова отражает саму идею замкнутого цикла переработки."
+      },
+      "a2-l69": {
+        "title": "At the Bank — Detailed Transactions",
+        "pattern": "I'd like to withdraw some money. / Can I transfer money to this account? / What's my current balance?",
+        "explanation": "Более детальная банковская лексика: withdraw (снять деньги), deposit (внести деньги), transfer (перевести), balance (баланс счёта). Эти глаголы часто используются с «some money» или конкретной суммой.",
+        "fact": "«Balance» в банковском смысле («баланс счёта») и «balance» в смысле физического равновесия — одно и то же слово, восходящее к идее весов с двумя чашами: счёт «уравновешен», когда приход и расход учтены правильно."
+      },
+      "a2-l70": {
+        "title": "Sports Events — Talking About Scores",
+        "pattern": "The score is 2-1. / Our team won the match. / Who's winning?",
+        "explanation": "Спортивная лексика для обсуждения счёта и результатов: score (счёт), win/lose/draw (выиграть/проиграть/сыграть вничью), match (матч). Past Simple используется для завершённых игр, Present Continuous — для тех, что идут прямо сейчас.",
+        "fact": "«Draw» (ничья) в британском английском и «tie» в американском означают одно и то же — равный счёт в конце игры, ещё один пример небольшого, но заметного словарного расхождения между двумя вариантами английского в спортивной лексике."
+      },
+      "a2-l71": {
+        "title": "Cultural Differences — Basic Comparisons",
+        "pattern": "In my country, we usually... / It's different here. / People tend to...",
+        "explanation": "Обсуждение культурных различий использует конструкции сравнения и обобщения: «In my country, we usually...», «It's different here», «People tend to...» (люди, как правило, склонны). «Tend to» — мягкий способ обобщить типичное поведение, не утверждая абсолютное правило.",
+        "fact": "«Tend to» происходит от того же корня, что и «attention» (внимание) — исторически «иметь тенденцию» означало «клониться, тянуться в определённую сторону», и это ощущение мягкого, не абсолютного направления сохранилось в современном употреблении."
+      },
+      "a2-l72": {
+        "title": "Giving Feedback — Basic",
+        "pattern": "I really liked... / One thing you could improve is... / Overall, it was great.",
+        "explanation": "Базовая обратная связь строится по структуре «сначала похвала, потом предложение»: «I really liked...» перед «One thing you could improve is...». «Overall» подводит общий итог в конце.",
+        "fact": "Эта структура «сначала позитив, потом конструктивное замечание» настолько распространена в англоязычной деловой культуре, что получила собственное неформальное название — «feedback sandwich» («сэндвич обратной связи»), где критика «зажата» между двумя положительными комментариями."
+      },
+      "a2-l73": {
+        "title": "Making Small Talk — Extended",
+        "pattern": "So, how's work going? / Any plans for the holidays? / Have you been busy lately?",
+        "explanation": "Расширенная светская беседа выходит за рамки простого «How are you?» — включает вопросы о работе, планах, занятости. Present Perfect Continuous («Have you been busy lately?») естественно вписывается в такие непринуждённые вопросы.",
+        "fact": "В английской светской беседе задавать вопросы о зарплате или личных финансах считается невежливым, в отличие от вопросов о работе в целом («How's work going?») — эта граница между приемлемым и неприемлемым small talk варьируется от культуры к культуре."
+      },
+      "a2-l74": {
+        "title": "At the Airport — Check-in & Security",
+        "pattern": "I'd like to check in for my flight. / Do you have any liquids in your bag? / Where's my departure gate?",
+        "explanation": "Аэропортовая лексика для регистрации и досмотра: check in (зарегистрироваться на рейс), boarding pass (посадочный талон), departure gate (выход на посадку), security check (досмотр безопасности).",
+        "fact": "Ограничение на жидкости в ручной клади (обычно 100 мл на контейнер) — относительно новое международное правило авиационной безопасности, введённое после 2006 года, и именно поэтому вопрос «Do you have any liquids?» стал стандартной фразой на досмотре по всему миру."
+      },
+      "a2-l75": {
+        "title": "Describing a Process — Simple Instructions",
+        "pattern": "First, you turn it on. Next, you press this button. Then it starts automatically.",
+        "explanation": "Описание процесса или инструкции сочетает уже знакомые слова последовательности (first, next, then) с Present Simple для описания повторяющегося, автоматического действия — не конкретного разового события, а общего правила работы чего-либо.",
+        "fact": "Использование Present Simple (а не Present Continuous) для инструкций — намеренный грамматический выбор: «First, you turn it on» описывает общее правило, которое верно каждый раз, а не то, что происходит именно сейчас, поэтому Present Continuous здесь звучало бы неестественно."
+      },
+      "a2-l76": {
+        "title": "A2 Complete — Final Review",
+        "pattern": "Review of A2 grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня A2 — прошедшее время, будущие формы, модальные глаголы, сравнения, повседневные ситуации — чтобы закрепить материал перед переходом на уровень B1.",
+        "fact": "Переход с A2 на B1 считается одним из самых заметных скачков в изучении языка: именно на уровне B1 учащиеся впервые могут вести полноценный разговор на абстрактные темы, а не только описывать конкретные факты и повседневные ситуации."
       }
     },
     "vocabularySets": [
