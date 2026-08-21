@@ -70244,6 +70244,1341 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "c1-l33-p1",
+            "title": "Academic Referencing Language — As X Notes, According To (Part 1)",
+            "titleNative": "Академические ссылки на источники · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l33",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как отмечает Смит, тенденция ускоряется.",
+                "en": "As Smith notes, the trend is accelerating."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Согласно недавним исследованиям, эффект значителен.",
+                "en": "According to recent studies, the effect is significant."
+              },
+              {
+                "type": "listening",
+                "ru": "Как утверждает автор, эта проблема недооценена.",
+                "en": "As the author argues, this problem is underestimated."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Согласно данным опроса, мнения разделились.",
+                "en": "According to the survey data, opinions are divided."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Как отмечают исследователи, результаты неоднозначны.",
+                "en": "As researchers note, the results are mixed."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Согласно отчёту, прогресс идёт медленнее, чем ожидалось.",
+                "en": "According to the report, progress is slower than expected."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Как отмечает Смит, тенденция ускоряется.",
+                "en": "As Smith notes, the trend is accelerating.",
+                "blankedEn": "As Smith ___, the trend is accelerating.",
+                "answer": "notes",
+                "options": [
+                  "notes",
+                  "note",
+                  "noted",
+                  "noting"
+                ]
+              }
+            ],
+            "number": 284
+          },
+          {
+            "id": "c1-l33-p2",
+            "title": "Academic Referencing Language — As X Notes, According To (Part 2)",
+            "titleNative": "Академические ссылки на источники · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l33",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Как справедливо замечает автор, вопрос сложнее, чем кажется.",
+                "en": "As the author rightly notes, the issue is more complex than it seems."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Согласно официальным данным, число случаев выросло.",
+                "en": "According to official figures, the number of cases has risen."
+              },
+              {
+                "type": "listening",
+                "ru": "Как утверждают критики, план имеет серьёзные недостатки.",
+                "en": "As critics argue, the plan has serious flaws."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Согласно этой теории, поведение предсказуемо.",
+                "en": "According to this theory, behavior is predictable."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Как показывают данные, спрос продолжает расти.",
+                "en": "As the data shows, demand continues to grow."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Как отмечает Смит, тенденция ускоряется.",
+                    "en": "As Smith notes, the trend is accelerating."
+                  },
+                  {
+                    "ru": "Согласно недавним исследованиям, эффект значителен.",
+                    "en": "According to recent studies, the effect is significant."
+                  },
+                  {
+                    "ru": "Как утверждает автор, эта проблема недооценена.",
+                    "en": "As the author argues, this problem is underestimated."
+                  },
+                  {
+                    "ru": "Как показывают данные, спрос продолжает расти.",
+                    "en": "As the data shows, demand continues to grow."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Согласно официальным данным, число случаев выросло.",
+                "en": "According to official figures, the number of cases has risen.",
+                "blankedEn": "According ___ official figures, the number of cases has risen.",
+                "answer": "to",
+                "options": [
+                  "to",
+                  "with",
+                  "by",
+                  "from"
+                ]
+              }
+            ],
+            "number": 285
+          },
+          {
+            "id": "c1-l34-p1",
+            "title": "Advanced Discourse Cohesion — That Notwithstanding, By Extension (Part 1)",
+            "titleNative": "Продвинутая связность текста · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l34",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Несмотря на это, результаты остаются верными.",
+                "en": "That notwithstanding, the results remain valid."
+              },
+              {
+                "type": "word-bank",
+                "ru": "По расширению, это применимо и к смежным случаям.",
+                "en": "By extension, this applies to related cases too."
+              },
+              {
+                "type": "listening",
+                "ru": "Несмотря на это, компания продолжила рост.",
+                "en": "That notwithstanding, the company continued to grow."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "По расширению, тот же принцип действует и здесь.",
+                "en": "By extension, the same principle applies here."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Несмотря на критику, план был реализован.",
+                "en": "That notwithstanding, the plan was implemented."
+              },
+              {
+                "type": "type-answer",
+                "ru": "По расширению, эти выводы касаются всей отрасли.",
+                "en": "By extension, these findings concern the whole industry."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Несмотря на это, результаты остаются верными.",
+                "en": "That notwithstanding, the results remain valid.",
+                "blankedEn": "That ___, the results remain valid.",
+                "answer": "notwithstanding",
+                "options": [
+                  "notwithstanding",
+                  "however",
+                  "although",
+                  "despite"
+                ]
+              }
+            ],
+            "number": 286
+          },
+          {
+            "id": "c1-l34-p2",
+            "title": "Advanced Discourse Cohesion — That Notwithstanding, By Extension (Part 2)",
+            "titleNative": "Продвинутая связность текста · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l34",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Несмотря на это, доверие клиентов сохранилось.",
+                "en": "That notwithstanding, customer trust remained intact."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "По расширению, эта логика применима к другим рынкам.",
+                "en": "By extension, this logic applies to other markets."
+              },
+              {
+                "type": "listening",
+                "ru": "Несмотря на препятствия, проект был завершён вовремя.",
+                "en": "That notwithstanding, the project was completed on time."
+              },
+              {
+                "type": "type-answer",
+                "ru": "По расширению, стоит рассмотреть и связанные вопросы.",
+                "en": "By extension, related questions are worth considering too."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Несмотря на сомнения, решение было принято.",
+                "en": "That notwithstanding, the decision was made."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Несмотря на это, результаты остаются верными.",
+                    "en": "That notwithstanding, the results remain valid."
+                  },
+                  {
+                    "ru": "По расширению, это применимо и к смежным случаям.",
+                    "en": "By extension, this applies to related cases too."
+                  },
+                  {
+                    "ru": "Несмотря на критику, план был реализован.",
+                    "en": "That notwithstanding, the plan was implemented."
+                  },
+                  {
+                    "ru": "Несмотря на сомнения, решение было принято.",
+                    "en": "That notwithstanding, the decision was made."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "По расширению, эта логика применима к другим рынкам.",
+                "en": "By extension, this logic applies to other markets.",
+                "blankedEn": "By ___, this logic applies to other markets.",
+                "answer": "extension",
+                "options": [
+                  "extension",
+                  "extend",
+                  "extending",
+                  "extensive"
+                ]
+              }
+            ],
+            "number": 287
+          },
+          {
+            "id": "c1-reading-22",
+            "title": "The Weight of Evidence",
+            "titleNative": "Вес доказательств",
+            "description": "Короткий рассказ об академической дискуссии.",
+            "readingPassage": {
+              "context": "Короткий рассказ об академической дискуссии.",
+              "paragraphs": [
+                {
+                  "en": "Dr. Amanova presented her research at the conference.",
+                  "ru": "Доктор Аманова представила своё исследование на конференции."
+                },
+                {
+                  "en": "\"As recent studies show, the effect is more significant than previously thought,\" she began.",
+                  "ru": "«Как показывают недавние исследования, эффект более значителен, чем считалось ранее», — начала она."
+                },
+                {
+                  "en": "A colleague raised a skeptical question from the audience.",
+                  "ru": "Коллега из зала задал скептический вопрос."
+                },
+                {
+                  "en": "\"Critics might argue that the sample size is too small,\" Dr. Amanova acknowledged.",
+                  "ru": "«Критики могут возразить, что размер выборки слишком мал», — признала доктор Аманова."
+                },
+                {
+                  "en": "\"However, this overlooks the fact that our methodology was rigorously peer-reviewed,\" she countered.",
+                  "ru": "«Однако это упускает тот факт, что наша методология прошла строгую рецензию», — возразила она."
+                },
+                {
+                  "en": "\"The theory is underpinned by extensive data collected over five years,\" she added.",
+                  "ru": "«Теория опирается на обширные данные, собранные за пять лет», — добавила она."
+                },
+                {
+                  "en": "The audience seemed convinced by her thorough response.",
+                  "ru": "Аудитория, казалось, была убеждена её обстоятельным ответом."
+                },
+                {
+                  "en": "By the end of the talk, even the skeptics were nodding.",
+                  "ru": "К концу выступления даже скептики кивали в знак согласия."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что показывают недавние исследования, по словам доктора Амановой?",
+                "options": [
+                  "Ничего нового",
+                  "Эффект более значителен, чем считалось",
+                  "Эффект отсутствует",
+                  "Данные неточны"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какое возражение прозвучало?",
+                "options": [
+                  "Про финансирование",
+                  "Про размер выборки",
+                  "Про сроки",
+                  "Про методологию в целом"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Как отреагировала аудитория в конце?",
+                "options": [
+                  "Осталась несогласной",
+                  "Была убеждена ответом",
+                  "Ушла с конференции",
+                  "Не отреагировала"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 288
+          },
+          {
+            "id": "c1-l35-p1",
+            "title": "Precision Verbs — Underscore, Underpin, Substantiate (Part 1)",
+            "titleNative": "Точные академические глаголы · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l35",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Это подчёркивает срочность вопроса.",
+                "en": "This underscores the urgency of the issue."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Теория опирается на обширные данные.",
+                "en": "The theory is underpinned by extensive data."
+              },
+              {
+                "type": "listening",
+                "ru": "Он не смог подтвердить своё утверждение.",
+                "en": "He failed to substantiate his claim."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это подчёркивает важность сотрудничества.",
+                "en": "This underscores the importance of cooperation."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Аргумент подкреплён серьёзными исследованиями.",
+                "en": "The argument is underpinned by serious research."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Она смогла подтвердить свои выводы доказательствами.",
+                "en": "She managed to substantiate her findings with evidence."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Теория опирается на обширные данные.",
+                "en": "The theory is underpinned by extensive data.",
+                "blankedEn": "The theory is ___ by extensive data.",
+                "answer": "underpinned",
+                "options": [
+                  "underpinned",
+                  "underpin",
+                  "underpins",
+                  "underpinning"
+                ]
+              }
+            ],
+            "number": 289
+          },
+          {
+            "id": "c1-l35-p2",
+            "title": "Precision Verbs — Underscore, Underpin, Substantiate (Part 2)",
+            "titleNative": "Точные академические глаголы · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l35",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Отчёт подчёркивает необходимость реформ.",
+                "en": "The report underscores the need for reform."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Эта политика подкреплена десятилетиями опыта.",
+                "en": "This policy is underpinned by decades of experience."
+              },
+              {
+                "type": "listening",
+                "ru": "Компания не смогла обосновать свои заявления.",
+                "en": "The company failed to substantiate its claims."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Результаты подчёркивают масштаб проблемы.",
+                "en": "The results underscore the scale of the problem."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Утверждение так и не было подтверждено фактами.",
+                "en": "The statement was never substantiated with facts."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Это подчёркивает срочность вопроса.",
+                    "en": "This underscores the urgency of the issue."
+                  },
+                  {
+                    "ru": "Теория опирается на обширные данные.",
+                    "en": "The theory is underpinned by extensive data."
+                  },
+                  {
+                    "ru": "Он не смог подтвердить своё утверждение.",
+                    "en": "He failed to substantiate his claim."
+                  },
+                  {
+                    "ru": "Отчёт подчёркивает необходимость реформ.",
+                    "en": "The report underscores the need for reform."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Утверждение так и не было подтверждено фактами.",
+                "en": "The statement was never substantiated with facts.",
+                "blankedEn": "The statement was never ___ with facts.",
+                "answer": "substantiated",
+                "options": [
+                  "substantiated",
+                  "substantiate",
+                  "substantiates",
+                  "substantiating"
+                ]
+              }
+            ],
+            "number": 290
+          },
+          {
+            "id": "c1-l36-p1",
+            "title": "Layered Argumentation — Counterarguments & Rebuttals (Part 1)",
+            "titleNative": "Контраргументы и опровержения · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l36",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Критики могут возразить, что план слишком рискован.",
+                "en": "Critics might argue that the plan is too risky."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Однако это упускает тот факт, что риски управляемы.",
+                "en": "However, this overlooks the fact that the risks are manageable."
+              },
+              {
+                "type": "listening",
+                "ru": "Более убедительное объяснение заключается в другом.",
+                "en": "A more compelling explanation is different."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Кто-то может возразить, что данных недостаточно.",
+                "en": "One might argue that the data is insufficient."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Однако это игнорирует более широкий контекст.",
+                "en": "However, this ignores the broader context."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Более убедительным аргументом было бы рассмотреть альтернативы.",
+                "en": "A more compelling argument would be to consider alternatives."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Однако это упускает тот факт, что риски управляемы.",
+                "en": "However, this overlooks the fact that the risks are manageable.",
+                "blankedEn": "However, this ___ the fact that the risks are manageable.",
+                "answer": "overlooks",
+                "options": [
+                  "overlooks",
+                  "looks",
+                  "overlooked",
+                  "overlooking"
+                ]
+              }
+            ],
+            "number": 291
+          },
+          {
+            "id": "c1-l36-p2",
+            "title": "Layered Argumentation — Counterarguments & Rebuttals (Part 2)",
+            "titleNative": "Контраргументы и опровержения · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l36",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Скептики могут возразить, что изменения слишком радикальны.",
+                "en": "Skeptics might argue that the changes are too radical."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Однако это упускает более широкую картину.",
+                "en": "However, this overlooks the bigger picture."
+              },
+              {
+                "type": "listening",
+                "ru": "Более убедительное объяснение учитывает исторический контекст.",
+                "en": "A more compelling explanation takes historical context into account."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Некоторые могут возразить, что это преждевременно.",
+                "en": "Some might argue that this is premature."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Однако это упускает главную причину проблемы.",
+                "en": "However, this overlooks the root cause of the problem."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Критики могут возразить, что план слишком рискован.",
+                    "en": "Critics might argue that the plan is too risky."
+                  },
+                  {
+                    "ru": "Однако это упускает тот факт, что риски управляемы.",
+                    "en": "However, this overlooks the fact that the risks are manageable."
+                  },
+                  {
+                    "ru": "Более убедительное объяснение заключается в другом.",
+                    "en": "A more compelling explanation is different."
+                  },
+                  {
+                    "ru": "Скептики могут возразить, что изменения слишком радикальны.",
+                    "en": "Skeptics might argue that the changes are too radical."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Некоторые могут возразить, что это преждевременно.",
+                "en": "Some might argue that this is premature.",
+                "blankedEn": "Some ___ argue that this is premature.",
+                "answer": "might",
+                "options": [
+                  "might",
+                  "will",
+                  "must",
+                  "shall"
+                ]
+              }
+            ],
+            "number": 292
+          },
+          {
+            "id": "c1-reading-23",
+            "title": "Reinventing the Company Culture",
+            "titleNative": "Переосмысление корпоративной культуры",
+            "description": "Короткий рассказ о трансформации компании.",
+            "readingPassage": {
+              "context": "Короткий рассказ о трансформации компании.",
+              "paragraphs": [
+                {
+                  "en": "The new CEO wanted to transform the company's culture.",
+                  "ru": "Новый генеральный директор хотел преобразовать культуру компании."
+                },
+                {
+                  "en": "\"Think of our organization as a garden that needs constant tending,\" she told the staff.",
+                  "ru": "«Представьте нашу организацию как сад, который нуждается в постоянном уходе», — сказала она сотрудникам."
+                },
+                {
+                  "en": "\"This underscores the need for everyone's active participation,\" she explained.",
+                  "ru": "«Это подчёркивает необходимость активного участия каждого», — объяснила она."
+                },
+                {
+                  "en": "Some employees were skeptical at first.",
+                  "ru": "Некоторые сотрудники сначала отнеслись скептически."
+                },
+                {
+                  "en": "\"Skeptics might argue that culture can't be changed from the top down,\" she acknowledged.",
+                  "ru": "«Скептики могут возразить, что культуру нельзя изменить сверху вниз», — признала она."
+                },
+                {
+                  "en": "\"However, this overlooks the power of consistent, small actions,\" she countered.",
+                  "ru": "«Однако это упускает силу постоянных, небольших действий», — возразила она."
+                },
+                {
+                  "en": "Over the following months, the change became noticeable.",
+                  "ru": "В последующие месяцы изменения стали заметны."
+                },
+                {
+                  "en": "\"It's not unlike navigating uncharted waters, but we're finding our way,\" she reflected.",
+                  "ru": "«Это чем-то похоже на плавание по неизведанным водам, но мы находим свой путь», — размышляла она."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "С чем директор сравнила организацию?",
+                "options": [
+                  "С кораблём",
+                  "С садом",
+                  "С оркестром",
+                  "С машиной"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Какое возражение прозвучало от скептиков?",
+                "options": [
+                  "Про бюджет",
+                  "Что культуру нельзя изменить сверху вниз",
+                  "Про сроки",
+                  "Про персонал"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что произошло через несколько месяцев?",
+                "options": [
+                  "Ничего не изменилось",
+                  "Изменения стали заметны",
+                  "Компания закрылась",
+                  "Директор уволился"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 293
+          },
+          {
+            "id": "c1-l37-p1",
+            "title": "Stylistic Variation — Formal vs Colloquial Register Shifts (Part 1)",
+            "titleNative": "Формальный и разговорный регистр · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l37",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Формально: использовать. Разговорно: пользоваться.",
+                "en": "Formal: utilize. Colloquial: use."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Формально: начать. Разговорно: начаться.",
+                "en": "Formal: commence. Colloquial: start."
+              },
+              {
+                "type": "listening",
+                "ru": "Формально: прекратить. Разговорно: закончить.",
+                "en": "Formal: terminate. Colloquial: end."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Мы решили использовать более формальный тон в письме.",
+                "en": "We decided to utilize a more formal tone in the letter."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Встреча начнётся ровно в девять.",
+                "en": "The meeting will commence at nine sharp."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Контракт будет расторгнут в конце месяца.",
+                "en": "The contract will be terminated at the end of the month."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Встреча начнётся ровно в девять.",
+                "en": "The meeting will commence at nine sharp.",
+                "blankedEn": "The meeting will ___ at nine sharp.",
+                "answer": "commence",
+                "options": [
+                  "commence",
+                  "start",
+                  "begin",
+                  "open"
+                ]
+              }
+            ],
+            "number": 294
+          },
+          {
+            "id": "c1-l37-p2",
+            "title": "Stylistic Variation — Formal vs Colloquial Register Shifts (Part 2)",
+            "titleNative": "Формальный и разговорный регистр · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l37",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Формально: приобрести. Разговорно: получить.",
+                "en": "Formal: acquire. Colloquial: get."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Компания приобрела нового поставщика в прошлом году.",
+                "en": "The company acquired a new supplier last year."
+              },
+              {
+                "type": "listening",
+                "ru": "Формально: содействовать. Разговорно: помогать.",
+                "en": "Formal: facilitate. Colloquial: help."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Новая система призвана облегчить процесс.",
+                "en": "The new system is designed to facilitate the process."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Выбор слова зависит от того, кто ваш собеседник.",
+                "en": "Word choice depends on who your audience is."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Формально: использовать.",
+                    "en": "Formal: utilize."
+                  },
+                  {
+                    "ru": "Формально: начать.",
+                    "en": "Formal: commence."
+                  },
+                  {
+                    "ru": "Формально: прекратить.",
+                    "en": "Formal: terminate."
+                  },
+                  {
+                    "ru": "Формально: приобрести.",
+                    "en": "Formal: acquire."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Новая система призвана облегчить процесс.",
+                "en": "The new system is designed to facilitate the process.",
+                "blankedEn": "The new system is designed to ___ the process.",
+                "answer": "facilitate",
+                "options": [
+                  "facilitate",
+                  "help",
+                  "ease",
+                  "assist"
+                ]
+              }
+            ],
+            "number": 295
+          },
+          {
+            "id": "c1-l38-p1",
+            "title": "Advanced Idiomatic Expressions in Professional Contexts (Part 1)",
+            "titleNative": "Продвинутые профессиональные идиомы · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l38",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Нужно читать между строк.",
+                "en": "You need to read between the lines."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Нам нужно мыслить нестандартно.",
+                "en": "We need to think outside the box."
+              },
+              {
+                "type": "listening",
+                "ru": "Это палка о двух концах.",
+                "en": "It's a double-edged sword."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Иногда нужно читать между строк, чтобы понять реальный смысл.",
+                "en": "Sometimes you need to read between the lines to understand the real meaning."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Эта технология — палка о двух концах.",
+                "en": "This technology is a double-edged sword."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Компания поощряет сотрудников мыслить нестандартно.",
+                "en": "The company encourages employees to think outside the box."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это палка о двух концах.",
+                "en": "It's a double-edged sword.",
+                "blankedEn": "It's a double-___ sword.",
+                "answer": "edged",
+                "options": [
+                  "edged",
+                  "edge",
+                  "edging",
+                  "edges"
+                ]
+              }
+            ],
+            "number": 296
+          },
+          {
+            "id": "c1-l38-p2",
+            "title": "Advanced Idiomatic Expressions in Professional Contexts (Part 2)",
+            "titleNative": "Продвинутые профессиональные идиомы · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l38",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Нам нужно смотреть на картину в целом.",
+                "en": "We need to see the big picture."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это последняя капля.",
+                "en": "This is the last straw."
+              },
+              {
+                "type": "listening",
+                "ru": "Мы попали в замкнутый круг.",
+                "en": "We're stuck in a vicious cycle."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Давайте не будем изобретать велосипед.",
+                "en": "Let's not reinvent the wheel."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это верхушка айсберга.",
+                "en": "This is just the tip of the iceberg."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Нужно читать между строк.",
+                    "en": "You need to read between the lines."
+                  },
+                  {
+                    "ru": "Нам нужно мыслить нестандартно.",
+                    "en": "We need to think outside the box."
+                  },
+                  {
+                    "ru": "Это палка о двух концах.",
+                    "en": "It's a double-edged sword."
+                  },
+                  {
+                    "ru": "Это верхушка айсберга.",
+                    "en": "This is just the tip of the iceberg."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это верхушка айсберга.",
+                "en": "This is just the tip of the iceberg.",
+                "blankedEn": "This is just the ___ of the iceberg.",
+                "answer": "tip",
+                "options": [
+                  "tip",
+                  "top",
+                  "edge",
+                  "peak"
+                ]
+              }
+            ],
+            "number": 297
+          },
+          {
+            "id": "c1-reading-24",
+            "title": "C1 Journey Complete",
+            "titleNative": "Уровень C1 пройден",
+            "description": "Заключительный рассказ уровня C1.",
+            "readingPassage": {
+              "context": "Заключительный рассказ уровня C1, вспоминающий пройденные темы.",
+              "paragraphs": [
+                {
+                  "en": "Diana has reached a truly advanced level of English.",
+                  "ru": "Диана достигла по-настоящему продвинутого уровня английского языка."
+                },
+                {
+                  "en": "She can construct nuanced academic arguments and navigate complex sentence structures with ease.",
+                  "ru": "Она может строить нюансированные академические аргументы и легко ориентироваться в сложных синтаксических конструкциях."
+                },
+                {
+                  "en": "\"As recent progress shows, consistency matters more than talent,\" she reflects.",
+                  "ru": "«Как показывает недавний прогресс, постоянство важнее таланта», — размышляет она."
+                },
+                {
+                  "en": "\"Critics might argue that fluency takes years, and they'd be right,\" she admits with a smile.",
+                  "ru": "«Критики могут возразить, что беглость требует лет, и они будут правы», — признаёт она с улыбкой."
+                },
+                {
+                  "en": "\"However, this overlooks how much progress happens along the way,\" she adds.",
+                  "ru": "«Однако это упускает, сколько прогресса происходит по пути», — добавляет она."
+                },
+                {
+                  "en": "Her journey from A1 to C1 wasn't a straight line, but a garden she tended patiently.",
+                  "ru": "Её путь от A1 до C1 не был прямой линией, а садом, который она терпеливо взращивала."
+                },
+                {
+                  "en": "\"I've come a long way in learning English,\" Diana says proudly.",
+                  "ru": "«Я прошла долгий путь в изучении английского языка», — гордо говорит Диана."
+                },
+                {
+                  "en": "Her journey toward true mastery of English continues, one nuanced conversation at a time.",
+                  "ru": "Её путь к настоящему мастерству английского продолжается, разговор за разговором, полным нюансов."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Что теперь умеет Диана?",
+                "options": [
+                  "Только базовые фразы",
+                  "Строить нюансированные аргументы",
+                  "Только читать",
+                  "Ничего нового"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "С чем Диана сравнивает свой путь изучения языка?",
+                "options": [
+                  "С гонкой",
+                  "С садом",
+                  "С экзаменом",
+                  "С игрой"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Что говорит Диана в конце?",
+                "options": [
+                  "Она закончила учиться",
+                  "Её путь продолжается",
+                  "Ей нужен перерыв",
+                  "Она разочарована"
+                ],
+                "answerIndex": 1
+              }
+            ],
+            "number": 298
+          },
+          {
+            "id": "c1-l39-p1",
+            "title": "Complex Sentence Architecture — Multiple Embedded Clauses (Part 1)",
+            "titleNative": "Сложная архитектура предложения · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l39",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Отчёт, составленный командой, которая работала месяцами, выявил неожиданные результаты.",
+                "en": "The report, which was compiled by a team that had worked for months, revealed findings that surprised everyone."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Женщина, которую я встретил на конференции, где обсуждали изменение климата, оказалась учёным.",
+                "en": "The woman I met at the conference, where climate change was discussed, turned out to be a scientist."
+              },
+              {
+                "type": "listening",
+                "ru": "Компания, которая была основана в тот год, когда началась война, до сих пор существует.",
+                "en": "The company, which was founded the year the war began, still exists today."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Дом, который построил мой дед, стоящий на холме, до сих пор в отличном состоянии.",
+                "en": "The house that my grandfather built, which stands on the hill, is still in great condition."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Книга, которую я читаю, написанная автором, которого я никогда не встречал, изменила моё мышление.",
+                "en": "The book I'm reading, written by an author I've never met, changed the way I think."
+              },
+              {
+                "type": "type-answer",
+                "ru": "План, разработанный командой, которая никогда раньше не работала вместе, оказался успешным.",
+                "en": "The plan, developed by a team that had never worked together before, turned out to be successful."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Отчёт, составленный командой, которая работала месяцами, выявил неожиданные результаты.",
+                "en": "The report, which was compiled by a team that had worked for months, revealed findings that surprised everyone.",
+                "blankedEn": "The report, which was compiled by a team that had worked for months, ___ findings that surprised everyone.",
+                "answer": "revealed",
+                "options": [
+                  "revealed",
+                  "reveals",
+                  "revealing",
+                  "reveal"
+                ]
+              }
+            ],
+            "number": 299
+          },
+          {
+            "id": "c1-l39-p2",
+            "title": "Complex Sentence Architecture — Multiple Embedded Clauses (Part 2)",
+            "titleNative": "Сложная архитектура предложения · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l39",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Учёный, чья работа была отвергнута, позже получил награду, которую никто не ожидал.",
+                "en": "The scientist whose work had been rejected later received an award that no one expected."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Проект, который мы начали в тот год, когда я присоединился к компании, наконец завершён.",
+                "en": "The project we started the year I joined the company is finally finished."
+              },
+              {
+                "type": "listening",
+                "ru": "Решение, принятое советом, который собрался в спешке, оказалось верным.",
+                "en": "The decision made by the board, which had gathered in a hurry, turned out to be correct."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Статья, которую я прочитал в журнале, который издаёт мой друг, была очень интересной.",
+                "en": "The article I read in the magazine my friend publishes was very interesting."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Здание, которое снесли, было построено архитектором, чьи работы я изучал.",
+                "en": "The building that was demolished had been designed by an architect whose work I had studied."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Отчёт, составленный командой.",
+                    "en": "The report, compiled by a team."
+                  },
+                  {
+                    "ru": "Женщина, которую я встретил на конференции.",
+                    "en": "The woman I met at the conference."
+                  },
+                  {
+                    "ru": "Компания, которая была основана.",
+                    "en": "The company, which was founded."
+                  },
+                  {
+                    "ru": "Учёный, чья работа была отвергнута.",
+                    "en": "The scientist whose work had been rejected."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Учёный, чья работа была отвергнута, позже получил награду.",
+                "en": "The scientist whose work had been rejected later received an award.",
+                "blankedEn": "The scientist ___ work had been rejected later received an award.",
+                "answer": "whose",
+                "options": [
+                  "whose",
+                  "who",
+                  "which",
+                  "that"
+                ]
+              }
+            ],
+            "number": 300
+          },
+          {
+            "id": "c1-l40-p1",
+            "title": "Rhetorical Strategies — Analogy & Extended Metaphor (Part 1)",
+            "titleNative": "Аналогии и развёрнутые метафоры · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l40",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Представьте экономику как сад, который нуждается в постоянном уходе.",
+                "en": "Think of the economy as a garden that needs constant tending."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Это чем-то похоже на плавание по неизведанным водам.",
+                "en": "It's not unlike navigating uncharted waters."
+              },
+              {
+                "type": "listening",
+                "ru": "Компания подобна кораблю, которому нужен опытный капитан.",
+                "en": "The company is like a ship that needs an experienced captain."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Представьте команду как оркестр, где каждый инструмент важен.",
+                "en": "Think of the team as an orchestra where every instrument matters."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Это похоже на строительство дома без прочного фундамента.",
+                "en": "It's like building a house without a solid foundation."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Идея подобна семени, которое нужно посадить и взрастить.",
+                "en": "The idea is like a seed that needs to be planted and nurtured."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Представьте экономику как сад, который нуждается в постоянном уходе.",
+                "en": "Think of the economy as a garden that needs constant tending.",
+                "blankedEn": "Think of the economy as a garden that needs constant ___.",
+                "answer": "tending",
+                "options": [
+                  "tending",
+                  "tend",
+                  "tended",
+                  "tends"
+                ]
+              }
+            ],
+            "number": 301
+          },
+          {
+            "id": "c1-l40-p2",
+            "title": "Rhetorical Strategies — Analogy & Extended Metaphor (Part 2)",
+            "titleNative": "Аналогии и развёрнутые метафоры · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l40",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Мозг подобен мышце, которую нужно тренировать.",
+                "en": "The brain is like a muscle that needs to be exercised."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это чем-то похоже на решение головоломки без нескольких деталей.",
+                "en": "It's not unlike solving a puzzle with several pieces missing."
+              },
+              {
+                "type": "listening",
+                "ru": "Представьте карьеру как путешествие, а не гонку.",
+                "en": "Think of a career as a journey, not a race."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Компания подобна экосистеме, где всё взаимосвязано.",
+                "en": "The company is like an ecosystem where everything is interconnected."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это похоже на попытку удержать песок в кулаке.",
+                "en": "It's like trying to hold sand in your fist."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Представьте экономику как сад.",
+                    "en": "Think of the economy as a garden."
+                  },
+                  {
+                    "ru": "Это чем-то похоже на плавание по неизведанным водам.",
+                    "en": "It's not unlike navigating uncharted waters."
+                  },
+                  {
+                    "ru": "Компания подобна кораблю.",
+                    "en": "The company is like a ship."
+                  },
+                  {
+                    "ru": "Мозг подобен мышце, которую нужно тренировать.",
+                    "en": "The brain is like a muscle that needs to be exercised."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Это похоже на попытку удержать песок в кулаке.",
+                "en": "It's like trying to hold sand in your fist.",
+                "blankedEn": "It's like trying to ___ sand in your fist.",
+                "answer": "hold",
+                "options": [
+                  "hold",
+                  "keep",
+                  "catch",
+                  "grab"
+                ]
+              }
+            ],
+            "number": 302
+          },
+          {
+            "id": "c1-l41-p1",
+            "title": "C1 Complete — Final Academic Review (Part 1)",
+            "titleNative": "Итоговое повторение C1 · Часть 1",
+            "description": "Новая тема C1",
+            "topicId": "c1-l41",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "ru": "Как отмечает Смит, тенденция ускоряется.",
+                "en": "As Smith notes, the trend is accelerating."
+              },
+              {
+                "type": "word-bank",
+                "ru": "Критики могут возразить, что план слишком рискован.",
+                "en": "Critics might argue that the plan is too risky."
+              },
+              {
+                "type": "listening",
+                "ru": "Теория опирается на обширные данные.",
+                "en": "The theory is underpinned by extensive data."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Это палка о двух концах.",
+                "en": "It's a double-edged sword."
+              },
+              {
+                "type": "listening-choice",
+                "ru": "Представьте экономику как сад, который нуждается в уходе.",
+                "en": "Think of the economy as a garden that needs tending."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Несмотря на это, результаты остаются верными.",
+                "en": "That notwithstanding, the results remain valid."
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Как отмечает Смит, тенденция ускоряется.",
+                "en": "As Smith notes, the trend is accelerating.",
+                "blankedEn": "As Smith ___, the trend is accelerating.",
+                "answer": "notes",
+                "options": [
+                  "notes",
+                  "say",
+                  "tell",
+                  "speaks"
+                ]
+              }
+            ],
+            "number": 303
+          },
+          {
+            "id": "c1-l41-p2",
+            "title": "C1 Complete — Final Academic Review (Part 2)",
+            "titleNative": "Итоговое повторение C1 · Часть 2",
+            "description": "Новая тема C1",
+            "topicId": "c1-l41",
+            "exercises": [
+              {
+                "type": "word-bank",
+                "ru": "Формально: использовать. Разговорно: пользоваться.",
+                "en": "Formal: utilize. Colloquial: use."
+              },
+              {
+                "type": "multiple-choice",
+                "ru": "Он не смог подтвердить своё утверждение.",
+                "en": "He failed to substantiate his claim."
+              },
+              {
+                "type": "listening",
+                "ru": "Более убедительное объяснение заключается в другом.",
+                "en": "A more compelling explanation is different."
+              },
+              {
+                "type": "type-answer",
+                "ru": "Я прошёл долгий путь в изучении английского языка.",
+                "en": "I've come a long way in learning English."
+              },
+              {
+                "type": "listening-tap",
+                "ru": "Это был впечатляющий путь от A1 до C1.",
+                "en": "It's been a remarkable journey from A1 to C1."
+              },
+              {
+                "type": "matching",
+                "pairs": [
+                  {
+                    "ru": "Как отмечает Смит, тенденция ускоряется.",
+                    "en": "As Smith notes, the trend is accelerating."
+                  },
+                  {
+                    "ru": "Критики могут возразить, что план слишком рискован.",
+                    "en": "Critics might argue that the plan is too risky."
+                  },
+                  {
+                    "ru": "Теория опирается на обширные данные.",
+                    "en": "The theory is underpinned by extensive data."
+                  },
+                  {
+                    "ru": "Это был впечатляющий путь от A1 до C1.",
+                    "en": "It's been a remarkable journey from A1 to C1."
+                  }
+                ]
+              },
+              {
+                "type": "fill-blank",
+                "ru": "Я прошёл долгий путь в изучении английского языка.",
+                "en": "I've come a long way in learning English.",
+                "blankedEn": "I've come a long ___ in learning English.",
+                "answer": "way",
+                "options": [
+                  "way",
+                  "path",
+                  "road",
+                  "journey"
+                ]
+              }
+            ],
+            "number": 304
           }
         ]
       }
@@ -79069,6 +80404,60 @@
         "pattern": "Review of B2+ grammar and vocabulary",
         "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня B2+ — продвинутую уступку, инвертированные гипотезы, риторическое преуменьшение, точную квантификацию — чтобы закрепить материал перед переходом на уровень C1.",
         "fact": "Уровень B2+ часто рассматривают как последний шаг перед по-настоящему академическим и профессиональным владением языком (C1) — именно здесь учащийся начинает свободно управлять тоном, регистром и нюансом аргумента, а не только грамматической правильностью."
+      },
+      "c1-l33": {
+        "title": "Academic Referencing Language — As X Notes, According To",
+        "pattern": "As Smith notes, the trend is accelerating. / According to recent studies, the effect is significant.",
+        "explanation": "Академическая лексика для ссылки на источники: «as X notes» вводит чужую мысль как поддержку собственного аргумента, «according to» указывает источник информации, не беря на себя полную ответственность за её точность.",
+        "fact": "«As X notes» грамматически подразумевает, что автор (X) сам это заметил и написал — в отличие от «as X says», которое может относиться к устному высказыванию; академические тексты почти всегда используют «notes», «argues» или «observes» вместо нейтрального «says»."
+      },
+      "c1-l34": {
+        "title": "Advanced Discourse Cohesion — That Notwithstanding, By Extension",
+        "pattern": "That notwithstanding, the results remain valid. / By extension, this applies to related cases too.",
+        "explanation": "«That notwithstanding» — формальный способ сказать «несмотря на это», ссылаясь на только что упомянутый факт. «By extension» расширяет вывод на смежные случаи, не повторяя весь аргумент заново.",
+        "fact": "«Notwithstanding» может стоять и до, и после существительного, к которому относится («notwithstanding this» или «this notwithstanding») — редкая грамматическая гибкость, унаследованная от его юридического происхождения, где порядок слов был менее строго фиксирован."
+      },
+      "c1-l35": {
+        "title": "Precision Verbs — Underscore, Underpin, Substantiate",
+        "pattern": "This underscores the urgency of the issue. / The theory is underpinned by extensive data. / He failed to substantiate his claim.",
+        "explanation": "Точные академические глаголы заменяют более общие слова: «underscore» (подчеркнуть важность) вместо «show», «underpin» (служить основой) вместо «support», «substantiate» (подтвердить доказательствами) вместо «prove».",
+        "fact": "«Underpin» буквально означает физическую строительную опору — колонну или фундамент, поддерживающий здание снизу; в переносном смысле это стало означать логическую или доказательную основу теории или аргумента."
+      },
+      "c1-l36": {
+        "title": "Layered Argumentation — Counterarguments & Rebuttals",
+        "pattern": "Critics might argue that... / However, this overlooks the fact that... / A more compelling explanation is...",
+        "explanation": "Многослойная аргументация сначала честно представляет контраргумент («Critics might argue that...»), затем опровергает его конкретным фактом («this overlooks the fact that...»), демонстрируя, что автор рассмотрел вопрос со всех сторон.",
+        "fact": "Явное представление и опровержение контраргумента — риторическая техника, восходящая к классической (греко-римской) традиции судебной и политической речи, где убедительность оратора напрямую зависела от способности предвидеть и разбить возражения оппонента."
+      },
+      "c1-l37": {
+        "title": "Stylistic Variation — Formal vs Colloquial Register Shifts",
+        "pattern": "formal: utilize / colloquial: use — formal: commence / colloquial: start",
+        "explanation": "Продвинутое владение регистром означает умение сознательно переключаться между формальными и разговорными синонимами в зависимости от аудитории и цели, а не просто знать оба варианта пассивно.",
+        "fact": "Многие «формальные» английские слова (utilize, commence, terminate) — латинского происхождения, тогда как их разговорные синонимы (use, start, end) — древнеанглийские по корню; этот языковой слой — прямое наследие нормандского завоевания, где французский/латинский язык долго ассоциировался с властью и образованием."
+      },
+      "c1-l38": {
+        "title": "Advanced Idiomatic Expressions in Professional Contexts",
+        "pattern": "read between the lines / think outside the box / a double-edged sword",
+        "explanation": "Продвинутые идиомы в профессиональном контексте позволяют компактно выразить сложную мысль: «read between the lines» (понять скрытый смысл), «a double-edged sword» (нечто с одновременно положительными и отрицательными последствиями).",
+        "fact": "«A double-edged sword» — метафора из реального оружия: обоюдоострый меч опасен и для противника, и для самого владельца, если он не умеет им пользоваться, что идеально передаёт идею решения с потенциальными выгодами и рисками одновременно."
+      },
+      "c1-l39": {
+        "title": "Complex Sentence Architecture — Multiple Embedded Clauses",
+        "pattern": "The report, which was compiled by a team that had worked for months, revealed findings that surprised everyone.",
+        "explanation": "Сложная архитектура предложения с несколькими вложенными придаточными требует удерживать в памяти основную структуру предложения, пока читатель проходит через уточняющие вставки — это чисто вопрос обработки текста, а не новой грамматики.",
+        "fact": "Психолингвисты называют эту трудность «центральным вложением» (center-embedding) — человеческий мозг довольно быстро достигает предела: предложения с более чем 2-3 вложенными придаточными становятся практически невозможными для понимания на слух даже у носителей языка."
+      },
+      "c1-l40": {
+        "title": "Rhetorical Strategies — Analogy & Extended Metaphor",
+        "pattern": "Think of the economy as a garden that needs constant tending. / It's not unlike navigating uncharted waters.",
+        "explanation": "Развёрнутая метафора и аналогия помогают объяснить абстрактную идею через знакомый образ, часто разворачиваясь на несколько предложений: «Think of the economy as a garden» задаёт рамку, которую затем можно развивать («weeds need pulling», «seeds need planting»).",
+        "fact": "Развёрнутые метафоры — мощный риторический приём именно потому, что они не просто украшают речь, а незаметно навязывают слушателю определённый способ мышления о теме — эту особенность языка активно изучают когнитивные лингвисты в контексте политической и экономической риторики."
+      },
+      "c1-l41": {
+        "title": "C1 Complete — Final Academic Review",
+        "pattern": "Review of C1 grammar and vocabulary",
+        "explanation": "Этот заключительный урок собирает вместе ключевые темы уровня C1 — академическое хеджирование, риторические приёмы, сложную архитектуру предложения, точную лексику — подводя итог продвинутого академического и профессионального английского.",
+        "fact": "Уровень C1 по шкале CEFR описывается как способность гибко и эффективно использовать язык для научных, академических и профессиональных целей — на этом уровне грамматика уже не главное препятствие, важнее становится точность, нюанс и умение управлять тоном текста."
       }
     },
     "vocabularySets": [
