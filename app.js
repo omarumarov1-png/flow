@@ -661,21 +661,21 @@
     const all = lesson.exercises.map((ex, i) => ({ ex, gid: `${lesson.id}:${i}` }));
     const allowed = all.filter(item => exerciseAllowed(item.ex));
     const queue = allowed.length ? allowed : all;
-    session = { mode: "lesson", lesson, queue, index: 0, total: queue.length, mistakes: 0 };
+    session = { mode: "lesson", lesson, queue, index: 0, total: queue.length, mistakes: 0, xpStart: progress.xp };
     renderExercise();
   }
   function startRevision() {
     const pool = shuffled(revisionPool()).slice(0, REVISION_SIZE);
     if (!pool.length) return;
     const queue = pool.map(p => ({ ex: exerciseByGid(p.gid), gid: p.gid }));
-    session = { mode: "practice", queue, index: 0, total: queue.length, mistakes: 0 };
+    session = { mode: "practice", queue, index: 0, total: queue.length, mistakes: 0, xpStart: progress.xp };
     renderExercise();
   }
   function startReview() {
     if (!progress.missedBank.length) return;
     const items = shuffled(progress.missedBank.slice());
     const queue = items.map((m, i) => ({ ex: m, gid: `review:${i}` }));
-    session = { mode: "mistakes", queue, index: 0, total: queue.length, mistakes: 0 };
+    session = { mode: "mistakes", queue, index: 0, total: queue.length, mistakes: 0, xpStart: progress.xp };
     renderExercise();
   }
   function exerciseByGid(gid) {
@@ -1420,7 +1420,7 @@
         </div>
         <div class="summary-stats">
           <div class="stat-block"><span class="num">${session.total}</span><span class="lbl">Предложений</span></div>
-          <div class="stat-block"><span class="num">+${session.mode === "lesson" ? session.total * 10 : 5}</span><span class="lbl">Опыта</span></div>
+          <div class="stat-block"><span class="num">+${Math.max(0, progress.xp - (session.xpStart ?? progress.xp))}</span><span class="lbl">Опыта</span></div>
         </div>
         <button class="continue-btn" id="continueHome">Продолжить</button>
       </div>
