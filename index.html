@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;1,600;1,700&family=Manrope:wght@400;500;600;700;800&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="style.css?v=14" />
+<link rel="stylesheet" href="style.css?v=15" />
 </head>
 <body>
 
@@ -87,6 +87,10 @@
           <svg class="icon-on" viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="var(--amber)"/><path d="M16.5 9a3.5 3.5 0 010 6M19 6.5a7 7 0 010 11" fill="none" stroke="var(--amber)" stroke-width="1.6" stroke-linecap="round"/></svg>
           <svg class="icon-muted" viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="var(--ink-soft)"/><path d="M16 9l5 6M21 9l-5 6" stroke="var(--ink-soft)" stroke-width="1.6" stroke-linecap="round"/></svg>
           <span class="menu-label">Звук</span>
+        </button>
+        <button class="icon-btn wordorder-toggle" id="wordOrderToggle" type="button" title="Упражнения на порядок слов: Вкл" aria-label="Упражнения на порядок слов: Вкл" aria-pressed="true">
+          <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><rect x="2.5" y="6" width="8" height="5" rx="1.4" fill="none" stroke="var(--amber)" stroke-width="1.6"/><rect x="13.5" y="6" width="8" height="5" rx="1.4" fill="none" stroke="var(--amber)" stroke-width="1.6"/><rect x="6" y="14" width="12" height="5" rx="1.4" fill="none" stroke="var(--amber)" stroke-width="1.6"/><path class="wo-slash" d="M3.5 21.5L20.5 2.5" stroke="var(--ink-soft)" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <span class="menu-label">Порядок слов: <span class="menu-state">Вкл</span></span>
         </button>
       </div>
     </div>
@@ -169,7 +173,7 @@
 
 <script src="firebase-config.js?v=1"></script>
 <script src="art.js?v=1"></script>
-<script src="app.js?v=29"></script>
+<script src="app.js?v=30"></script>
 <script src="auth.js?v=5"></script>
 </body>
 </html>

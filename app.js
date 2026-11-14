@@ -5,6 +5,12 @@
   const THEME_KEY = "flow-theme";
   const SOUND_KEY = "flow-sound";
   const PASSAGE_VOICE_KEY = "flow-passage-voice";
+  // "on" (default) / "off": whether tile-arranging exercises -- word-bank
+  // ("собери фразу") and listening-tap ("послушай и собери фразу") -- are
+  // included when a lesson/practice/vocab session is built. Purely a
+  // per-device preference, like theme and sound.
+  const WORD_ORDER_KEY = "flow-word-order";
+  const WORD_ORDER_TYPES = ["word-bank", "listening-tap"];
   const MAX_MISSED = 150;
   const REVISION_SIZE = 20;
   const ADVANCE_DELAY_CORRECT = 900;
@@ -69,6 +75,7 @@
   const practiceStatEl = document.getElementById("practiceStat");
   const themeToggleEl = document.getElementById("themeToggle");
   const soundToggleEl = document.getElementById("soundToggle");
+  const wordOrderToggleEl = document.getElementById("wordOrderToggle");
   const placementToggleEl = document.getElementById("placementToggle");
   const vocabToggleEl = document.getElementById("vocabToggleBtn");
   const mobileMenuEl = document.getElementById("mobileMenu");
@@ -96,6 +103,7 @@
   let returnScreen = "home";
   let advanceTimer = null;
   let soundMuted = false;
+  let wordOrderOn = true;
   let placementQuestions = [];
   let placementState = null; // { idx, answers: [] }
 
@@ -130,6 +138,51 @@
     localStorage.setItem(SOUND_KEY, soundMuted ? "muted" : "on");
     updateSoundToggleUI();
   }
+  // ---------- word-order exercises on/off ----------
+  function initWordOrder() {
+    try { wordOrderOn = localStorage.getItem(WORD_ORDER_KEY) !== "off"; } catch (e) { wordOrderOn = true; }
+    updateWordOrderToggleUI();
+  }
+  function updateWordOrderToggleUI() {
+    if (!wordOrderToggleEl) return;
+    const label = `Упражнения на порядок слов: ${wordOrderOn ? "Вкл" : "Выкл"}`;
+    wordOrderToggleEl.classList.toggle("off", !wordOrderOn);
+    wordOrderToggleEl.setAttribute("aria-pressed", String(wordOrderOn));
+    wordOrderToggleEl.title = label;
+    wordOrderToggleEl.setAttribute("aria-label", label);
+    const stateEl = wordOrderToggleEl.querySelector(".menu-state");
+    if (stateEl) stateEl.textContent = wordOrderOn ? "Вкл" : "Выкл";
+  }
+  function toggleWordOrder() {
+    wordOrderOn = !wordOrderOn;
+    try { localStorage.setItem(WORD_ORDER_KEY, wordOrderOn ? "on" : "off"); } catch (e) { /* private mode -- still applies for this visit */ }
+    updateWordOrderToggleUI();
+    refreshTopStats();
+    showToast(wordOrderOn
+      ? "Упражнения на порядок слов включены"
+      : "Упражнения на порядок слов выключены — уроки станут короче",
+      session ? "Изменение вступит в силу со следующего урока." : "");
+  }
+  function isWordOrderExercise(ex) {
+    return !!ex && WORD_ORDER_TYPES.includes(ex.type);
+  }
+  function exerciseAllowed(ex) {
+    return wordOrderOn || !isWordOrderExercise(ex);
+  }
+  let _toastTimer = null;
+  function showToast(text, sub) {
+    let el = document.getElementById("appToast");
+    if (!el) {
+      el = document.createElement("div");
+      el.id = "appToast"; el.className = "app-toast"; el.setAttribute("role", "status");
+      document.body.appendChild(el);
+    }
+    el.innerHTML = `<div>${text}</div>${sub ? `<div class="app-toast-sub">${sub}</div>` : ""}`;
+    el.classList.add("show");
+    clearTimeout(_toastTimer);
+    _toastTimer = setTimeout(() => el.classList.remove("show"), 2800);
+  }
+
   let _lastBeepError = null;
   function beep(freq, dur) {
     if (soundMuted) return;
@@ -444,7 +497,7 @@
     const completedLessons = flatLessons.filter(l => progress.completedLessons.includes(l.id));
     const pool = [];
     completedLessons.forEach(lesson => {
-      lesson.exercises.forEach((ex, i) => pool.push({ gid: `${lesson.id}:${i}`, lesson }));
+      lesson.exercises.forEach((ex, i) => { if (exerciseAllowed(ex)) pool.push({ gid: `${lesson.id}:${i}`, lesson }); });
     });
     return pool;
   }
@@ -601,7 +654,14 @@
 
   // ---------- session ----------
   function startLesson(lesson) {
-    session = { mode: "lesson", lesson, queue: lesson.exercises.map((ex, i) => ({ ex, gid: `${lesson.id}:${i}` })), index: 0, total: lesson.exercises.length, mistakes: 0 };
+    // gid keeps each exercise's ORIGINAL index, so filtering never shifts
+    // which exercise a gid points at. If the word-order toggle would leave
+    // a lesson with nothing at all, fall back to the full lesson -- it must
+    // stay completable (and never get marked done without any practice).
+    const all = lesson.exercises.map((ex, i) => ({ ex, gid: `${lesson.id}:${i}` }));
+    const allowed = all.filter(item => exerciseAllowed(item.ex));
+    const queue = allowed.length ? allowed : all;
+    session = { mode: "lesson", lesson, queue, index: 0, total: queue.length, mistakes: 0 };
     renderExercise();
   }
   function startRevision() {
@@ -1651,7 +1711,8 @@
   }
 
   function buildVocabExercises(words) {
-    const types = ["word-bank", "listening-choice", "multiple-choice", "type-answer", "listening", "listening-tap"];
+    const types = ["word-bank", "listening-choice", "multiple-choice", "type-answer", "listening", "listening-tap"]
+      .filter(t => wordOrderOn || !WORD_ORDER_TYPES.includes(t));
     const exercises = words.map((w, i) => ({ type: types[i % types.length], ru: w.ru, en: w.en }));
     if (words.length >= 4) {
       exercises.push({ type: "matching", pairs: words.slice(0, 4).map(w => ({ ru: w.ru, en: w.en })) });
@@ -1823,6 +1884,7 @@
   async function boot() {
     initTheme();
     initSound();
+    initWordOrder();
     await loadCourseData();
     await loadPlacementData();
     progress = loadProgress();
@@ -1839,6 +1901,7 @@
   function wireGlobalUi() {
     themeToggleEl.addEventListener("click", toggleTheme);
     soundToggleEl.addEventListener("click", toggleSound);
+    if (wordOrderToggleEl) wordOrderToggleEl.addEventListener("click", toggleWordOrder);
     const testSoundBtn = document.getElementById("testSoundBtn");
     if (testSoundBtn) {
       testSoundBtn.addEventListener("click", () => {

@@ -272,6 +272,21 @@ button.stat::after { content: ""; position: absolute; inset: -5px -2px; }   /* â
 .sound-toggle .icon-muted { display: none; }
 .sound-toggle.muted .icon-on { display: none; }
 .sound-toggle.muted .icon-muted { display: block; }
+.wordorder-toggle .wo-slash { display: none; }
+.wordorder-toggle.off .wo-slash { display: inline; }
+.wordorder-toggle.off rect { stroke: var(--ink-soft); opacity: 0.7; }
+
+.app-toast {
+  position: fixed; left: 50%; top: calc(16px + env(safe-area-inset-top)); z-index: 60;
+  transform: translate(-50%, -12px); opacity: 0; pointer-events: none;
+  width: max-content; max-width: calc(100vw - 32px);
+  background: var(--navy); color: #FFF8EC; border-radius: 14px; padding: 10px 16px;
+  font-family: var(--font-body); font-size: 0.9rem; font-weight: 700; text-align: center;
+  box-shadow: 0 14px 30px -12px var(--shadow-strong);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.app-toast.show { opacity: 1; transform: translate(-50%, 0); }
+.app-toast-sub { font-weight: 500; font-size: 0.8rem; opacity: 0.85; margin-top: 2px; }
 
 /* Mobile menu wrapper: invisible to layout on desktop, becomes a dropdown on narrow screens */
 .mobile-menu { display: contents; order: 3; }
@@ -984,11 +999,11 @@ button.stat::after { content: ""; position: absolute; inset: -5px -2px; }   /* â
     background: var(--surface); border: 1.5px solid var(--border-strong); border-radius: 16px;
     padding: 8px; box-shadow: 0 18px 40px -12px var(--shadow-strong); z-index: 30; min-width: 210px;
   }
-  .mobile-menu .account-toggle, .mobile-menu .placement-toggle, .mobile-menu .vocab-toggle, .mobile-menu .theme-toggle, .mobile-menu .sound-toggle {
+  .mobile-menu .account-toggle, .mobile-menu .placement-toggle, .mobile-menu .vocab-toggle, .mobile-menu .theme-toggle, .mobile-menu .sound-toggle, .mobile-menu .wordorder-toggle {
     width: 100%; height: auto; min-height: 46px; justify-content: flex-start; border-radius: 10px; padding: 10px 12px; gap: 10px;
     background: none; border: none; color: var(--ink);
   }
-  .mobile-menu .account-toggle:hover, .mobile-menu .placement-toggle:hover, .mobile-menu .vocab-toggle:hover, .mobile-menu .theme-toggle:hover, .mobile-menu .sound-toggle:hover { background: var(--amber-wash); }
+  .mobile-menu .account-toggle:hover, .mobile-menu .placement-toggle:hover, .mobile-menu .vocab-toggle:hover, .mobile-menu .theme-toggle:hover, .mobile-menu .sound-toggle:hover, .mobile-menu .wordorder-toggle:hover { background: var(--amber-wash); }
   .mobile-menu .account-toggle.hidden { display: none; }
   .mobile-menu .menu-label { display: inline; font-family: var(--font-body); font-size: 0.92rem; font-weight: 700; }
   .screen { padding-left: calc(16px + env(safe-area-inset-left)); padding-right: calc(16px + env(safe-area-inset-right)); }
@@ -1042,4 +1057,28 @@ button.stat::after { content: ""; position: absolute; inset: -5px -2px; }   /* â
   .confetti { display: none; }
   .summary-art .fa-rays { animation: none; }
   .audio-stage.playing .listen-play-btn, .audio-stage.playing .audio-icon { animation: none; }
+}
+
+/* ---------- wide screens: a larger (still centred) column ----------
+   Phones and small tablets keep the original 720px layout untouched;
+   from 1000px up the column widens and the rem-based type scales up a
+   notch so the extra room reads as "bigger", not "sparser". The fixed
+   feedback sheet shares the same max-width so it stays aligned. */
+@media (min-width: 1000px) {
+  html { font-size: 106.25%; }
+  .app, .feedback { max-width: 940px; }
+  .topbar { padding-left: 28px; padding-right: 28px; }
+  .screen { padding-left: 28px; padding-right: 28px; }
+  .feedback { padding-left: 28px; padding-right: 28px; }
+  .card { padding: 30px 30px; }
+  .option { min-height: 60px; padding: 14px 18px; }
+  .bank-tile { min-height: 48px; padding: 9px 16px; }
+}
+@media (min-width: 1200px) {
+  html { font-size: 112.5%; }
+  .app, .feedback { max-width: 1060px; }
+  .topbar, .screen, .feedback { padding-left: 36px; padding-right: 36px; }
+  .card { padding: 34px 36px; }
+  .option { min-height: 64px; }
+  .bank-tile { min-height: 50px; }
 }
