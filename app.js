@@ -30,6 +30,14 @@
   const ICON_CHEVRON_DOWN = `<svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true" style="vertical-align:-1px"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
   const ICON_MISTAKES = `<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M9 9l6 6M15 9l-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>`;
 
+  // Decorative illustrations live in art.js (window.FlowArt). This guarded
+  // wrapper keeps app.js working, just without pictures, if that file is
+  // missing or stale in a cache -- presentation only, never logic.
+  function art(name, ...args) {
+    const A = window.FlowArt;
+    return A && typeof A[name] === "function" ? A[name](...args) : "";
+  }
+
   // Russian has three plural forms depending on the last digit/last two
   // digits of the count (1 ошибка, 2-4 ошибки, 5+/11-14 ошибок) -- this
   // covers that instead of hardcoding a single plural form.
@@ -1339,9 +1347,17 @@
       : "Практика завершена";
 
     screenEl.innerHTML = `
-      <div class="summary">
+      <div class="summary${perfect ? " summary--perfect" : ""}">
+        <div class="summary-art">
+          ${art("celebrate")}
+          <div class="confetti" aria-hidden="true">${"<i></i>".repeat(14)}</div>
+        </div>
         <h2>${title}</h2>
         <p>${perfect ? "Без единой ошибки — отлично!" : "Практика — путь к беглости."}</p>
+        <div class="summary-duo" aria-hidden="true">
+          <span class="duo duo-uk"><b>UK</b>${perfect ? "Spot on!" : "Well done!"}</span>
+          <span class="duo duo-us"><b>US</b>${perfect ? "Nailed it!" : "Good job!"}</span>
+        </div>
         <div class="summary-stats">
           <div class="stat-block"><span class="num">${session.total}</span><span class="lbl">Предложений</span></div>
           <div class="stat-block"><span class="num">+${session.mode === "lesson" ? session.total * 10 : 5}</span><span class="lbl">Опыта</span></div>
@@ -1386,16 +1402,6 @@
       const data = await res.json();
       placementQuestions = data.questions || [];
     } catch (e) { placementQuestions = []; }
-  }
-
-  function waveformBars(pct, count = 14) {
-    const filled = Math.round((pct / 100) * count);
-    let html = "";
-    for (let i = 0; i < count; i++) {
-      const h = 8 + Math.round(Math.sin((i / count) * Math.PI) * 22);
-      html += `<div class="bar${i < filled ? " filled" : ""}" style="height:${h}px"></div>`;
-    }
-    return html;
   }
 
   // The level whose roadmap should show by default: the one containing the
@@ -1453,6 +1459,7 @@
       const isReading = !!currentLesson.readingPassage;
       heroHtml = `
         <div class="chapter-hero">
+          <span class="hero-stamp" aria-hidden="true"><span class="hero-stamp-inner">${art("badge", level.id, level.badge, 54)}</span></span>
           <div class="chapter-hero-eyebrow">Продолжить с этого места</div>
           <div class="chapter-hero-main">
             <div class="chapter-hero-num">${isReading ? ICON_BOOK : currentLesson.number}</div>
@@ -1467,6 +1474,7 @@
     } else if (levelComplete) {
       heroHtml = `
         <div class="chapter-hero chapter-hero--complete">
+          <span class="hero-stamp" aria-hidden="true"><span class="hero-stamp-inner">${art("badge", level.id, level.badge, 54)}</span></span>
           <div class="chapter-hero-eyebrow">Уровень пройден</div>
           <div class="chapter-hero-main">
             <div class="chapter-hero-num">${ICON_FLAG}</div>
@@ -1509,32 +1517,44 @@
     ` : "";
 
     screenEl.innerHTML = `
+      <div class="roadmap" data-level="${level.id}">
       <div class="level-progress-card">
-        <div class="waveform">${waveformBars(overallPct)}</div>
-        <div class="level-progress-info">
-          <div class="pct">${overallPct}%</div>
-          <div class="label">Общий прогресс</div>
-          <div class="count">${doneLessons} / ${totalLessons} уроков</div>
+        <div class="poster-art">${art("skyline")}</div>
+        <div class="poster-body">
+          <div class="progress-ring">${art("ring", overallPct)}<span class="pct">${overallPct}%</span></div>
+          <div class="level-progress-info">
+            <div class="label">Общий прогресс</div>
+            <div class="count">${doneLessons} / ${totalLessons} уроков</div>
+            <div class="route" aria-hidden="true">
+              <span class="route-end">London</span>
+              <span class="route-track"><span class="route-fill" style="width:${overallPct}%"></span><span class="route-dot" style="left:${overallPct}%"></span></span>
+              <span class="route-end">New York</span>
+            </div>
+          </div>
         </div>
       </div>
       ${mistakesReminderHtml}
       <div class="roadmap-header">
         <button class="roadmap-arrow" id="prevLevelBtn" ${prevLevel ? "" : "disabled"} aria-label="Предыдущий уровень">‹</button>
         <div class="roadmap-level-info">
-          <span class="level-badge">${level.badge}</span>
-          <h2>${level.label}</h2>
-          <span class="level-count">${levelLessons.length ? `${levelDone}/${levelLessons.length}` : "скоро"}</span>
+          <span class="roadmap-pin">${art("badge", level.id, level.badge, 60)}</span>
+          <span class="roadmap-level-text">
+            <span class="level-badge">${level.badge}</span>
+            <h2>${level.label}</h2>
+            <span class="level-count">${levelLessons.length ? `${levelDone}/${levelLessons.length}` : "скоро"}</span>
+          </span>
         </div>
         <button class="roadmap-arrow" id="nextLevelNavBtn" ${nextLevel ? "" : "disabled"} aria-label="Следующий уровень">›</button>
       </div>
       ${!levelLessons.length
-        ? `<div class="level-locked-note">Уроки уровня ${level.badge} уже готовятся и скоро появятся здесь.</div>`
+        ? `<div class="level-locked-note">${art("roadSign")}<span>Уроки уровня ${level.badge} уже готовятся и скоро появятся здесь.</span></div>`
         : `${heroHtml}
            <div class="chapter-index-wrap">
              <div class="chapter-index-label">Все уроки &middot; ${level.badge}</div>
              <div class="chapter-index">${indexRowsHtml}</div>
            </div>`
       }
+      </div>
     `;
 
     document.getElementById("prevLevelBtn").addEventListener("click", () => {
@@ -1595,7 +1615,7 @@
       if (!group || !group.length) return;
       groupsHtml += `
         <div class="vocab-level-group">
-          <div class="vocab-level-label"><span class="level-badge">${level.badge}</span><span>${level.label}</span></div>
+          <div class="vocab-level-label" data-level="${level.id}">${art("badge", level.id, level.badge, 34)}<span class="level-badge">${level.badge}</span><span>${level.label}</span></div>
           <div class="vocab-grid">
             ${group.map(set => {
               const done = progress.completedLessons.includes(set.id);
@@ -1649,6 +1669,7 @@
   function renderPlacementIntro() {
     screenEl.innerHTML = `
       <div class="placement-intro">
+        <div class="placement-journey" aria-hidden="true">${(course.levels || []).map(l => art("badge", l.id, l.badge, 40)).join("")}</div>
         <h2>Тест на определение уровня</h2>
         <p>28 предложений разной сложности — от простых до самых продвинутых. Тест покажет, с какого уровня вам стоит начать, чтобы не терять время на слишком лёгком материале.</p>
         <div class="placement-actions">
@@ -1736,6 +1757,7 @@
       <div class="placement-result">
         <h2>Результат теста</h2>
         <p>Ваш стартовый уровень:</p>
+        <div class="placement-result-pin" aria-hidden="true">${art("badge", placedLevel.id, placedLevel.badge, 96)}</div>
         <div class="level-pill">${placedLevel.badge} · ${placedLevel.label}</div>
         <p>Соответствующие уроки уже разблокированы ниже.</p>
         <div class="placement-actions">
@@ -1930,7 +1952,7 @@
   function renderHoard() {
     const list = document.getElementById("hoardList");
     if (!progress.wordHoard.length) {
-      list.innerHTML = `<div class="hoard-empty">Пока пусто — переведи несколько предложений правильно, и слова появятся здесь.</div>`;
+      list.innerHTML = `<div class="hoard-empty">${art("teacup")}Пока пусто — переведи несколько предложений правильно, и слова появятся здесь.</div>`;
       return;
     }
     list.innerHTML = progress.wordHoard.slice().sort().map(w => `<span class="hoard-word">${w}</span>`).join("");

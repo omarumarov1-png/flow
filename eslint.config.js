@@ -2,7 +2,7 @@ const globals = require("globals");
 
 module.exports = [
   {
-    files: ["app.js", "auth.js", "firebase-config.js"],
+    files: ["app.js", "art.js", "auth.js", "firebase-config.js"],
     languageOptions: {
       sourceType: "script",
       ecmaVersion: 2022,
